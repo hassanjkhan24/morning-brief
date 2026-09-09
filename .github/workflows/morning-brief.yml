@@ -1,0 +1,88 @@
+name: Build Overnight Brief
+
+on:
+  schedule:
+    # ----- All times below are UTC, currently assuming EDT (ET = UTC-4). -----
+    # When Toronto is on EST (winter), add 1 hour to every entry below.
+    #
+    # AI-SYNTHESIS checkpoints (7/day) -- these call Claude and refresh the
+    # "Overnight Brief" section. Times: 9pm, 1am, 5am, 7:30am, 8:45am, 9:00am,
+    # 9:15am ET -- deliberately clustered right before your 9-9:30 prep window.
+    - cron: '0 1 * * 1-5'    # 9:00 PM ET
+    - cron: '0 5 * * 1-5'    # 1:00 AM ET
+    - cron: '0 9 * * 1-5'    # 5:00 AM ET
+    - cron: '30 11 * * 1-5'  # 7:30 AM ET
+    - cron: '45 12 * * 1-5'  # 8:45 AM ET
+    - cron: '0 13 * * 1-5'   # 9:00 AM ET
+    - cron: '15 13 * * 1-5'  # 9:15 AM ET
+
+    # FETCH-ONLY checkpoints (~20/day) -- headlines + market snapshot refresh,
+    # no AI call (free). Keeps the dashboard maximally current between
+    # AI checkpoints without adding API cost.
+    - cron: '30 1 * * 1-5'   # 9:30 PM ET
+    - cron: '0 2 * * 1-5'    # 10:00 PM ET
+    - cron: '30 2 * * 1-5'   # 10:30 PM ET
+    - cron: '0 3 * * 1-5'    # 11:00 PM ET
+    - cron: '30 3 * * 1-5'   # 11:30 PM ET
+    - cron: '0 4 * * 1-5'    # 12:00 AM ET
+    - cron: '30 4 * * 1-5'   # 12:30 AM ET
+    - cron: '30 5 * * 1-5'   # 1:30 AM ET
+    - cron: '0 6 * * 1-5'    # 2:00 AM ET
+    - cron: '30 6 * * 1-5'   # 2:30 AM ET
+    - cron: '0 7 * * 1-5'    # 3:00 AM ET
+    - cron: '30 7 * * 1-5'   # 3:30 AM ET
+    - cron: '0 8 * * 1-5'    # 4:00 AM ET
+    - cron: '30 8 * * 1-5'   # 4:30 AM ET
+    - cron: '30 9 * * 1-5'   # 5:30 AM ET
+    - cron: '0 10 * * 1-5'   # 6:00 AM ET
+    - cron: '30 10 * * 1-5'  # 6:30 AM ET
+    - cron: '0 11 * * 1-5'   # 7:00 AM ET
+    - cron: '0 12 * * 1-5'   # 8:00 AM ET
+    - cron: '30 12 * * 1-5'  # 8:30 AM ET
+
+  workflow_dispatch: {}       # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Decide whether this run should call the AI
+        id: aiflag
+        run: |
+          case "${{ github.event.schedule }}" in
+            "0 1 * * 1-5"|"0 5 * * 1-5"|"0 9 * * 1-5"|"30 11 * * 1-5"|"45 12 * * 1-5"|"0 13 * * 1-5"|"15 13 * * 1-5")
+              echo "run_ai=true" >> "$GITHUB_OUTPUT" ;;
+            "")
+              # workflow_dispatch (manual run) -- always call the AI so testing is meaningful
+              echo "run_ai=true" >> "$GITHUB_OUTPUT" ;;
+            *)
+              echo "run_ai=false" >> "$GITHUB_OUTPUT" ;;
+          esac
+
+      - name: Build brief
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          RUN_AI: ${{ steps.aiflag.outputs.run_ai }}
+        run: python scripts/build_brief.py
+
+      - name: Commit and push updated brief + log
+        run: |
+          git config user.name "morning-brief-bot"
+          git config user.email "actions@github.com"
+          git add docs/index.html data/headline_log.json data/last_briefing.json
+          git diff --staged --quiet && echo "No changes" || git commit -m "Update brief $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
