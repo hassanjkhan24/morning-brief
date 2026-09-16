@@ -1,1 +1,387 @@
-<!-- placeholder, replaced automatically by the Action on first run -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pre-Market Brief</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0B0E14;
+    --surface: #12161F;
+    --line: #232A38;
+    --text: #E7ECF3;
+    --muted: #7C8798;
+    --amber: #FF9F1C;
+    --green: #00D26A;
+    --red: #FF4757;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans', sans-serif;
+    min-height: 100vh;
+  }
+  header {
+    padding: 28px 32px 20px;
+    border-bottom: 1px solid var(--line);
+  }
+  .eyebrow {
+    font-family: 'IBM Plex Mono', monospace;
+    color: var(--amber);
+    font-size: 12px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    margin: 0 0 6px;
+  }
+  h1 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    margin: 0 0 6px;
+    letter-spacing: -0.01em;
+  }
+  .title-row {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  .today-highlight {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--red);
+    background: rgba(255, 71, 87, 0.12);
+    border: 1px solid var(--red);
+    border-radius: 6px;
+    padding: 6px 14px;
+    margin-bottom: 6px;
+    letter-spacing: 0.01em;
+  }
+  .generated {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+    color: var(--muted);
+    margin: 0;
+  }
+  .calendar-banner {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+    padding: 12px 32px;
+    background: rgba(255, 71, 87, 0.08);
+    border-bottom: 1px solid var(--line);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+  }
+  .cal-label {
+    color: var(--red);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-weight: 500;
+  }
+  .cal-chip {
+    color: var(--text);
+    border: 1px solid rgba(255, 71, 87, 0.4);
+    border-radius: 6px;
+    padding: 4px 10px;
+  }
+  .cal-chip-today {
+    background: rgba(255, 71, 87, 0.18);
+    border-color: var(--red);
+    font-weight: 500;
+  }
+  .briefing {
+    padding: 26px 32px 30px;
+    background: linear-gradient(180deg, rgba(255,159,28,0.06), transparent 40%);
+    border-bottom: 1px solid var(--line);
+  }
+  .briefing-premarket {
+    background: linear-gradient(180deg, rgba(255,71,87,0.08), transparent 40%);
+  }
+  .briefing h3 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 15px;
+    color: var(--amber);
+    margin: 20px 0 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .briefing h3:first-of-type { margin-top: 0; }
+  .briefing p { font-size: 14.5px; line-height: 1.6; margin: 0 0 8px; color: var(--text); }
+  .briefing ul { margin: 0 0 8px; padding-left: 20px; }
+  .briefing li { font-size: 14.5px; line-height: 1.6; margin-bottom: 6px; }
+  main {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1px;
+    background: var(--line);
+  }
+  @media (max-width: 900px) {
+    main { grid-template-columns: 1fr; }
+  }
+  main section {
+    background: var(--bg);
+    padding: 24px 28px 40px;
+  }
+  .source-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 0 0 18px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .dot {
+    width: 7px; height: 7px; border-radius: 50%;
+    background: var(--amber);
+    display: inline-block;
+  }
+  .dot.amber { background: var(--amber); }
+  .dot-major { background: var(--red); }
+  .dot-medium { background: var(--amber); }
+  .dot-minor { background: var(--muted); }
+  .refreshed {
+    color: var(--muted);
+    text-transform: none;
+    letter-spacing: normal;
+    font-weight: 400;
+    margin-left: 6px;
+  }
+  .item {
+    display: flex;
+    gap: 14px;
+    text-decoration: none;
+    color: inherit;
+    padding: 14px 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .item:last-child { border-bottom: none; }
+  .item:hover .item-title { color: var(--amber); }
+  .item-time {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--muted);
+    min-width: 78px;
+    padding-top: 2px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  .item-source { opacity: 0.6; }
+  .item-title {
+    font-size: 14.5px;
+    font-weight: 500;
+    line-height: 1.4;
+    margin: 0 0 4px;
+    transition: color 0.15s ease;
+  }
+  .item-summary {
+    font-size: 13px;
+    color: var(--muted);
+    line-height: 1.5;
+    margin: 0;
+  }
+  .empty { color: var(--muted); font-family: 'IBM Plex Mono', monospace; font-size: 13px; }
+  footer {
+    padding: 20px 32px 32px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--muted);
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+  <header>
+    <p class="eyebrow">Pre-Market Brief</p>
+    <div class="title-row">
+      <h1>Today's Setup</h1>
+      <span class="today-highlight">&#9888; TODAY: FOMC rate decision (+ dot plot) 2:00 PM ET</span>
+    </div>
+    <p class="generated">Generated Wednesday, September 16 &middot; 2:50 PM ET</p>
+  </header>
+  
+    <div class="calendar-banner">
+      <span class="cal-label">Confirmed calendar</span>
+      <span class="cal-chip cal-chip-today">TODAY: FOMC rate decision (+ dot plot) &middot; 2:00 PM ET</span>
+    </div>
+  
+    <section class="briefing">
+      <p class="source-label"><span class="dot amber"></span>Overnight Brief</p>
+      <p class="empty">No AI briefing yet &mdash; add a free GEMINI_API_KEY repo secret to turn it on. Headlines below keep updating either way.</p>
+    </section>
+  <main>
+    
+    <section>
+      <p class="source-label"><span class="dot dot-major"></span>Most important</p>
+      
+        <a class="item" href="https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html" target="_blank" rel="noopener">
+          <div class="item-time">2:44 PM ET<span class="item-source">CNBC</span></div>
+          <div class="item-body">
+            <p class="item-title">Fed approves interest rate hike, signals one more to come this year</p>
+            <p class="item-summary">The Federal Reserve on Wednesday approved its first interest rate hike since 2023 and indicated another to come.&hellip;</p>
+          </div>
+        </a>
+
+        <a class="item" href="https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html" target="_blank" rel="noopener">
+          <div class="item-time">2:42 PM ET<span class="item-source">CNBC</span></div>
+          <div class="item-body">
+            <p class="item-title">10-year Treasury yield hovers at 4.98% as Fed hikes, Warsh highlights inflation risks</p>
+            <p class="item-summary">The 10-year Treasury note yield traded near the key 5% mark after a Federal Reserve rate increase and comments from Chairman Kevin Warsh highlighting persistent inflation risks.&hellip;</p>
+          </div>
+        </a>
+
+        <a class="item" href="https://www.marketwatch.com/story/the-smartest-money-moves-to-make-with-interest-rates-expected-to-go-higher-aefe375b?mod=mw_rss_topstories" target="_blank" rel="noopener">
+          <div class="item-time">2:38 PM ET<span class="item-source">MarketWatch</span></div>
+          <div class="item-body">
+            <p class="item-title">The smartest money moves to make now that interest rates are going higher</p>
+            <p class="item-summary">The Fed’s quarter-point interest-rate hike will ‘bite’ consumers. Here’s how to prep your money.&hellip;</p>
+          </div>
+        </a>
+
+        <a class="item" href="https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories" target="_blank" rel="noopener">
+          <div class="item-time">2:29 PM ET<span class="item-source">MarketWatch</span></div>
+          <div class="item-body">
+            <p class="item-title">Warsh’s Fed rolls out first interest-rate hike in 3 years — with one more increase expected</p>
+            <p class="item-summary">The Federal Reserve on Wednesday rolled out its decision on interest rates as the U.S. central bank tries to tame persistent inflation.&hellip;</p>
+          </div>
+        </a>
+
+        <a class="item" href="https://www.cnbc.com/2026/09/16/september-fed-statement-redline.html" target="_blank" rel="noopener">
+          <div class="item-time">2:18 PM ET<span class="item-source">CNBC</span></div>
+          <div class="item-body">
+            <p class="item-title">Here is what changed in the new Fed statement under Warsh</p>
+            <p class="item-summary">This is a comparison of Wednesday&#x27;s Federal Open Market Committee statement with the one issued after the Fed&#x27;s previous policymaking meeting in July.&hellip;</p>
+          </div>
+        </a>
+
+        <a class="item" href="https://www.cnbc.com/2026/09/16/oil-prices-treasury-yields-consumers-iran.html" target="_blank" rel="noopener">
+          <div class="item-time">1:32 PM ET<span class="item-source">CNBC</span></div>
+          <div class="item-body">
+            <p class="item-title">Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household</p>
+            <p class="item-summary">Rising oil prices and Treasury yields are lifting energy and borrowing costs for U.S. households, pushing consumers to draw more heavily on savings.&hellip;</p>
+          </div>
+        </a>
+
+        <a class="item" href="https://www.cnbc.com/2026/09/16/hyperscaler-debt-signals-warning-sign-apollo-cautions.html" target="_blank" rel="noopener">
+          <div class="item-time">12:51 PM ET<span class="item-source">CNBC</span></div>
+          <div class="item-body">
+            <p class="item-title">Hyperscaler debt signals warning sign, Apollo cautions</p>
+            <p class="item-summary">Credit default swaps for companies building data centers are getting pricier, and it&#x27;s not because banks are hedging more of their bets.&hellip;</p>
+          </div>
+        </a>
+
+        <a class="item" href="https://www.cnbc.com/2026/09/16/prediction-markets-say-democrats-are-slightly-favored-to-win-senate.html" target="_blank" rel="noopener">
+          <div class="item-time">12:26 PM ET<span class="item-source">CNBC</span></div>
+          <div class="item-body">
+            <p class="item-title">Senate is still a toss-up, but Democrats now have slight edge, prediction market traders think</p>
+            <p class="item-summary">Traders on both Kalshi and Polymarket see Democrats with one of their best chances to flip the U.S. Senate since the contracts on the election opened.&hellip;</p>
+          </div>
+        </a>
+    </section>
+
+    <section>
+      <p class="source-label"><span class="dot dot-medium"></span>Mediocre</p>
+      
+        <a class="item" href="https://www.marketwatch.com/story/15-stocks-that-have-grown-dividends-the-most-and-nearly-all-have-beaten-the-s-p-500-6d8923fc?mod=mw_rss_topstories" target="_blank" rel="noopener">
+          <div class="item-time">12:00 PM ET<span class="item-source">MarketWatch</span></div>
+          <div class="item-body">
+            <p class="item-title">15 stocks that have grown dividends the most — and nearly all have beaten the S&amp;P 500</p>
+            <p class="item-summary">There is a correlation between increasing dividends and strong investment performance — even if a stock has a low dividend yield when you buy.&hellip;</p>
+          </div>
+        </a>
+
+        <a class="item" href="https://www.cnbc.com/2026/09/16/open-ai-investors-new-funding-round.html" target="_blank" rel="noopener">
+          <div class="item-time">11:18 AM ET<span class="item-source">CNBC</span></div>
+          <div class="item-body">
+            <p class="item-title">OpenAI investors have approached the company about a new funding round</p>
+            <p class="item-summary">OpenAI is gearing up for what is widely expected to be a blockbuster IPO next year, after it confidentially filed its prospectus in June.&hellip;</p>
+          </div>
+        </a>
+    </section>
+
+    <section>
+      <p class="source-label"><span class="dot dot-minor"></span>Least important</p>
+      
+        <a class="item" href="https://www.cnbc.com/2026/09/16/leon-black-contempt-house-epstein-subpoenas-refusal.html" target="_blank" rel="noopener">
+          <div class="item-time">2:46 PM ET<span class="item-source">CNBC</span></div>
+          <div class="item-body">
+            <p class="item-title">House votes to hold Leon Black in contempt of Congress over Epstein subpoenas defiance</p>
+            <p class="item-summary">Billionaire Leon Black is suing the House Oversight and Government Reform Committee seeking to block subpoenas it issued him in its probe of Jeffrey Epstein.&hellip;</p>
+          </div>
+        </a>
+
+        <a class="item" href="https://www.cnbc.com/2026/09/16/american-airlines-ceo-first-class-seats.html" target="_blank" rel="noopener">
+          <div class="item-time">2:33 PM ET<span class="item-source">CNBC</span></div>
+          <div class="item-body">
+            <p class="item-title">American Airlines says 30% of seats drive half of revenue as premium cabin rush heats up</p>
+            <p class="item-summary">American says a minority of its seats now accounts for half of its revenue.&hellip;</p>
+          </div>
+        </a>
+
+        <a class="item" href="https://www.marketwatch.com/story/microns-stock-could-climb-70-higher-thanks-to-a-factor-thats-been-largely-absent-so-far-2489f2cc?mod=mw_rss_topstories" target="_blank" rel="noopener">
+          <div class="item-time">2:26 PM ET<span class="item-source">MarketWatch</span></div>
+          <div class="item-body">
+            <p class="item-title">Micron’s stock could climb 70% higher thanks to a factor that’s been largely absent so far</p>
+            <p class="item-summary">Shares of Micron trade at a stubbornly low valuation but a TD Cowen analyst thinks that could change.&hellip;</p>
+          </div>
+        </a>
+
+        <a class="item" href="https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories" target="_blank" rel="noopener">
+          <div class="item-time">2:20 PM ET<span class="item-source">MarketWatch</span></div>
+          <div class="item-body">
+            <p class="item-title">Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround</p>
+            <p class="item-summary">A report says Intel is in early talks with SK Hynix, which is considering some sort of partnership that would enable it to make memory chips in the U.S.&hellip;</p>
+          </div>
+        </a>
+
+        <a class="item" href="https://www.cnbc.com/2026/09/16/blumenthal-ai-regulation-safety-oversight.html" target="_blank" rel="noopener">
+          <div class="item-time">2:18 PM ET<span class="item-source">CNBC</span></div>
+          <div class="item-body">
+            <p class="item-title">Sen. Blumenthal urges AI oversight: &#x27;We&#x27;re on the verge of losing control&#x27;</p>
+            <p class="item-summary">The Trump administration argues that beating China in the race to AI dominance is an all-important goal.&hellip;</p>
+          </div>
+        </a>
+
+        <a class="item" href="https://www.cnbc.com/2026/09/16/continental-resources-to-develop-massive-oil-patch-in-venezuela-.html" target="_blank" rel="noopener">
+          <div class="item-time">2:14 PM ET<span class="item-source">CNBC</span></div>
+          <div class="item-body">
+            <p class="item-title">Continental Resources to develop massive oil patch in Venezuela</p>
+            <p class="item-summary">Continental said it undertook an &quot;independent evaluation of opportunities&quot; in Venezuela after President Donald Trump called for the industry to invest.&hellip;</p>
+          </div>
+        </a>
+
+        <a class="item" href="https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html" target="_blank" rel="noopener">
+          <div class="item-time">1:50 PM ET<span class="item-source">CNBC</span></div>
+          <div class="item-body">
+            <p class="item-title">&#x27;Science fiction&#x27;: Transport companies — the backbone of economy — are sounding alarm on fuel prices</p>
+            <p class="item-summary">Prices for diesel, the fuel type used to power trucks and trains, came in at an all-time high of $6.31 per gallon on Wednesday.&hellip;</p>
+          </div>
+        </a>
+
+        <a class="item" href="https://www.cnbc.com/2026/09/16/emil-michael-ai-regulation-trump.html" target="_blank" rel="noopener">
+          <div class="item-time">1:50 PM ET<span class="item-source">CNBC</span></div>
+          <div class="item-body">
+            <p class="item-title">Pentagon CTO says U.S. government shouldn&#x27;t take stakes in tech giants, questions adding AI rules</p>
+            <p class="item-summary">President Donald Trump has angrily pushed back on the calls from industry and lawmakers for an AI slowdown or greater regulation.&hellip;</p>
+          </div>
+        </a>
+    </section>
+  </main>
+  <footer>Auto-generated overnight through pre-market &middot; informational synthesis only, not investment advice &middot; verify before trading</footer>
+  <script>
+    // Keep this page live if it's left open -- reload every 15 minutes
+    // so headlines/briefing stay current without a manual refresh.
+    setTimeout(function() { window.location.reload(); }, 15 * 60 * 1000);
+  </script>
+</body>
+</html>
