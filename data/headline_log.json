@@ -1,5 +1,19 @@
 [
   {
+    "title": "UK inflation jumps to 3.1% as energy costs soar",
+    "link": "https://www.cnbc.com/2026/09/16/uk-august-inflation-energy-gasoline.html",
+    "summary": "The reading comes just hours before the Bank of England updates its monetary policy.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-16T06:40:44+00:00"
+  },
+  {
+    "title": "Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim",
+    "link": "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html",
+    "summary": "The Organization of Islamic Cooperation condemned the strike as a \"heinous\" attack. Mecca is Islam's holiest site and the focal point of the annual Hajj pilgrimage.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-16T06:38:40+00:00"
+  },
+  {
     "title": "Bond yields are spiking, oil is up \u2014 but investors aren\u2019t giving up on stocks",
     "link": "https://www.cnbc.com/2026/09/16/investors-bullish-stocks-oil-yields-ai.html",
     "summary": "Rising Treasury yields, geopolitical risk and fresh AI safety concerns are hitting markets, but many investors remain bullish on AI spending and earnings.",
@@ -35,6 +49,13 @@
     "pub_iso": "2026-09-16T03:50:41+00:00"
   },
   {
+    "title": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
+    "link": "https://www.cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html",
+    "summary": "Meta CEO Mark Zuckerberg's view of artificial intelligence safety is akin to the perspective of Nvidia's Jensen Huang rather than Anthropic chief Dario Amodei.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-16T01:56:47+00:00"
+  },
+  {
     "title": "Indonesia's new finance minister faces an uphill battle on fiscal credibility",
     "link": "https://www.cnbc.com/2026/09/16/indonesia-finance-minister-msci-prabowo-.html",
     "summary": "Nazara, sworn in hours after Purbaya's dismissal, spent seven years as deputy finance minister and led the ministry's fiscal policy agency from 2015 to 2019.",
@@ -54,6 +75,13 @@
     "summary": "The bipartisan legislation would create a regulatory framework states could adopt to prevent data center-related energy costs from being passed on to consumers.",
     "source": "CNBC",
     "pub_iso": "2026-09-16T00:14:21+00:00"
+  },
+  {
+    "title": "OpenAI CFO Sarah Friar tells CNBC she isn't worried about slowing AI development",
+    "link": "https://www.cnbc.com/2026/09/15/open-ai-sarah-friar-safety.html",
+    "summary": "Friar joined CNBC's Jim Cramer on \"Mad Money\" as the debate over technology's safety risks rages on.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-16T00:12:29+00:00"
   },
   {
     "title": "Inside South Korea\u2019s university programs offering a direct route to Samsung and SK Hynix",
@@ -222,12 +250,5 @@
     "summary": "U.S. Air Force Secretary Troy Meink said Monday that the U.S. has \"on-orbit space control weapons,\" as he outlined a broader push to modernize the Air Force.",
     "source": "CNBC",
     "pub_iso": "2026-09-15T13:13:00+00:00"
-  },
-  {
-    "title": "Santoli: The youthful phase of AI is over. What it means for investors",
-    "link": "https://www.cnbc.com/2026/09/15/santoli-the-youthful-phase-of-ai-is-over-what-it-means-for-investors.html",
-    "summary": "The AI narrative has flipped to a focus on the risk with the tech unpopular with the public and projections of order backlogs beyond a few quarters now suspect.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-15T12:33:08+00:00"
   }
 ]
