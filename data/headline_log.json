@@ -1,5 +1,19 @@
 [
   {
+    "title": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days",
+    "link": "https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html",
+    "summary": "The pipeline has allowed the Saudis to shift oil exports to the Red Sea while the U.S. and Iran battle for control over Hormuz.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-16T13:05:53+00:00"
+  },
+  {
+    "title": "Geron Eyes High End of 2026 RYTELO Revenue Guidance as Community Adoption Expands",
+    "link": "https://finance.yahoo.com/healthcare/articles/geron-eyes-high-end-2026-130243606.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-16T13:02:43+00:00"
+  },
+  {
     "title": "The data-center backlash is so fierce that Republican candidates are willing to cross Trump",
     "link": "https://www.marketwatch.com/story/the-data-center-backlash-is-so-fierce-that-republican-candidates-are-willing-to-cross-trump-9a6eaa03?mod=mw_rss_topstories",
     "summary": "President Trump has been a vocal supporter of data centers, but GOP candidates in tight midterm races are increasingly taking a different tack.",
@@ -14,11 +28,32 @@
     "pub_iso": "2026-09-16T12:53:00+00:00"
   },
   {
+    "title": "Seattle single-income mom homeschooling her kids discovers she owns $18M in one stock. What Dave Ramsey says to do next",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/seattle-single-income-mom-homeschooling-124500141.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-16T12:45:00+00:00"
+  },
+  {
+    "title": "Axon Stock Hit By $1 Billion Convertible Amid Cash Flow Squeeze",
+    "link": "https://www.investors.com/news/axon-stock-falls-convertible-bond-sp-500/?src=A00220&yptr=yahoo",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-16T12:43:30+00:00"
+  },
+  {
     "title": "Retail sales surged toward the end of summer. Economy still has plenty of momentum.",
     "link": "https://www.marketwatch.com/story/retail-sales-surged-toward-the-end-of-summer-economy-still-has-plenty-of-momentum-cdf667b2?mod=mw_rss_topstories",
     "summary": "Sales at U.S. retailers surged in August and posted the biggest increase in five months, offering another piece of evidence suggesting the economy sped up toward the end of summer.",
     "source": "MarketWatch",
     "pub_iso": "2026-09-16T12:42:00+00:00"
+  },
+  {
+    "title": "US retail sales rebound sharply in August",
+    "link": "https://finance.yahoo.com/economy/articles/us-retail-sales-rebound-sharply-123724094.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-16T12:37:24+00:00"
   },
   {
     "title": "World's top-performing sovereign wealth fund warns of looming pullback in U.S. stock market",
@@ -33,6 +68,20 @@
     "summary": "",
     "source": "Yahoo Finance",
     "pub_iso": "2026-09-16T12:32:39+00:00"
+  },
+  {
+    "title": "LyondellBasell (LYB) Retraces Amid Shifting Commodity Sentiment",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/lyondellbasell-lyb-retraces-amid-shifting-123131175.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-16T12:31:31+00:00"
+  },
+  {
+    "title": "Alphabet (GOOG) Surges 24% as Revenue Growth Soars \u2014 But\u00a0Is\u00a0$190 Billion in Capex Too Much?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-goog-surges-24-revenue-123012360.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-16T12:30:12+00:00"
   },
   {
     "title": "Tropical Smoothie Cafe is getting a makeover as it prepares for its 'next 3,000' locations",
@@ -733,19 +782,5 @@
     "summary": "Discussions have been ongoing since Google's Demis Hassabis released a proposal in July calling for a U.S.-led \"Standards Body,\" the spokesperson said.",
     "source": "CNBC",
     "pub_iso": "2026-09-15T19:13:30+00:00"
-  },
-  {
-    "title": "AWS says it can't restore service to Bahrain, UAE facilities 6 months after Iran strikes",
-    "link": "https://www.cnbc.com/2026/09/15/aws-cant-restore-service-to-bahrain-uae-6-months-after-iran-strikes.html",
-    "summary": "In March, two Amazon data centers in the UAE were struck by drones, while a site was also damaged by a nearby drone hit.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-15T19:04:46+00:00"
-  },
-  {
-    "title": "U.S. oil tops $105 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure",
-    "link": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
-    "summary": "Iran-backed Houthi militants in Yemen, meanwhile, carried out renewed strikes on Saudi Arabia this week.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-15T18:58:36+00:00"
   }
 ]
