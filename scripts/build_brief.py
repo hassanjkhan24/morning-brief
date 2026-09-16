@@ -328,19 +328,12 @@ def call_gemini(user_content, api_key):
     try:
         with urllib.request.urlopen(req, timeout=60) as resp:
             data = json.loads(resp.read().decode("utf-8"))
-        with open("data/_debug_gemini.txt", "w") as f:
-            f.write("SUCCESS\n" + json.dumps(data)[:500])
         parts = data["candidates"][0]["content"]["parts"]
         return "\n".join(p.get("text", "") for p in parts).strip() or None
     except urllib.error.HTTPError as exc:
-        err_body = exc.read().decode('utf-8', 'ignore')
-        with open("data/_debug_gemini.txt", "w") as f:
-            f.write(f"HTTPError {exc.code}\n{err_body[:800]}")
-        print(f"WARN: Gemini API error {exc.code}: {err_body}")
+        print(f"WARN: Gemini API error {exc.code}: {exc.read().decode('utf-8', 'ignore')}")
         return None
     except Exception as exc:
-        with open("data/_debug_gemini.txt", "w") as f:
-            f.write(f"Exception\n{exc}")
         print(f"WARN: Gemini API call failed: {exc}")
         return None
 
