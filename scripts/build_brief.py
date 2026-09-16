@@ -90,6 +90,20 @@ ECON_CALENDAR = [
     {"date": "2026-09-04", "event": "Jobs report / NFP (Aug 2026)", "time": "8:30 AM ET"},
     {"date": "2026-10-02", "event": "Jobs report / NFP (Sep 2026)", "time": "8:30 AM ET"},
     {"date": "2026-11-06", "event": "Jobs report / NFP (Oct 2026)", "time": "8:30 AM ET"},
+    # PPI (producer prices)
+    {"date": "2026-01-14", "event": "PPI (Nov 2025)", "time": "8:30 AM ET"},
+    {"date": "2026-01-30", "event": "PPI (Dec 2025)", "time": "8:30 AM ET"},
+    {"date": "2026-02-27", "event": "PPI (Jan 2026)", "time": "8:30 AM ET"},
+    {"date": "2026-03-18", "event": "PPI (Feb 2026)", "time": "8:30 AM ET"},
+    {"date": "2026-04-14", "event": "PPI (Mar 2026)", "time": "8:30 AM ET"},
+    {"date": "2026-05-13", "event": "PPI (Apr 2026)", "time": "8:30 AM ET"},
+    {"date": "2026-06-11", "event": "PPI (May 2026)", "time": "8:30 AM ET"},
+    {"date": "2026-07-15", "event": "PPI (Jun 2026)", "time": "8:30 AM ET"},
+    {"date": "2026-08-13", "event": "PPI (Jul 2026)", "time": "8:30 AM ET"},
+    {"date": "2026-09-10", "event": "PPI (Aug 2026)", "time": "8:30 AM ET"},
+    {"date": "2026-10-15", "event": "PPI (Sep 2026)", "time": "8:30 AM ET"},
+    {"date": "2026-11-13", "event": "PPI (Oct 2026)", "time": "8:30 AM ET"},
+    {"date": "2026-12-15", "event": "PPI (Nov 2026)", "time": "8:30 AM ET"},
 ]
 
 
@@ -252,6 +266,24 @@ that's directly relevant to a US equity/options scalper today.
 **Risk flags:** explicit bullets on anything that should make {TRADER_NAME} \
 trade smaller, wait, or be extra careful today or in the days leading up to a \
 known event this week. If there's nothing notable, say so.
+
+Additional instruction: the user message tells you the current time. If it is \
+8:30 AM ET or later, after your Overnight Brief above, add a line containing \
+EXACTLY "===PREMARKET===" and nothing else, then write a second, shorter \
+briefing titled "Pre-Market Brief" covering specifically what's new in \
+headlines timestamped 8:30 AM ET or later today (fold in the overnight \
+context briefly, but focus on what's changed since 8:30). Use this structure:
+
+**Bottom line:** one sentence on where things stand right at/near the open.
+
+**What's new since 8:30:** bullets on headlines/moves from 8:30 AM ET onward. \
+If nothing new has come in since 8:30, say so plainly.
+
+**Into the open:** one or two sentences of risk-management context for the \
+first minutes of trading specifically.
+
+If it is before 8:30 AM ET, do NOT include the marker or the Pre-Market Brief \
+-- output only the Overnight Brief.
 """
 
 
@@ -431,6 +463,14 @@ def classify_importance(entry):
     return "minor"
 
 
+def render_today_highlight(calendar_matches):
+    today_events = [ev for ev in calendar_matches if ev["days_until"] == 0]
+    if not today_events:
+        return ""
+    parts = " &middot; ".join(f"{html.escape(ev['event'])} {html.escape(ev['time'])}" for ev in today_events)
+    return f'<span class="today-highlight">&#9888; TODAY: {parts}</span>'
+
+
 def render_calendar_banner(calendar_matches):
     if not calendar_matches:
         return ""
@@ -486,24 +526,39 @@ def build():
             briefing_md = cached["text"]
             briefing_generated_dt = datetime.fromisoformat(cached["generated_at"]).astimezone(ET)
 
-    briefing_html = markdown_lite_to_html(briefing_md) if briefing_md else None
+    overnight_md, premarket_md = None, None
+    if briefing_md:
+        if "===PREMARKET===" in briefing_md:
+            overnight_md, premarket_md = briefing_md.split("===PREMARKET===", 1)
+        else:
+            overnight_md = briefing_md
+
+    overnight_html = markdown_lite_to_html(overnight_md.strip()) if overnight_md else None
+    premarket_html = markdown_lite_to_html(premarket_md.strip()) if premarket_md else None
+
 
     # 4. render
     now_et = datetime.now(ET)
     generated_str = now_et.strftime("%A, %B %-d &middot; %-I:%M %p ET")
 
-    if briefing_html:
+    if overnight_html:
         refreshed_str = briefing_generated_dt.strftime("%-I:%M %p ET")
         ai_section = f"""
     <section class="briefing">
       <p class="source-label"><span class="dot amber"></span>Overnight Brief <span class="refreshed">last refreshed {refreshed_str}</span></p>
-      {briefing_html}
+      {overnight_html}
+    </section>"""
+        if premarket_html:
+            ai_section += f"""
+    <section class="briefing briefing-premarket">
+      <p class="source-label"><span class="dot dot-major"></span>Pre-Market Brief <span class="refreshed">8:30-9:30 AM ET &middot; last refreshed {refreshed_str}</span></p>
+      {premarket_html}
     </section>"""
     else:
         ai_section = """
     <section class="briefing">
       <p class="source-label"><span class="dot amber"></span>Overnight Brief</p>
-      <p class="empty">AI synthesis is off &mdash; add a GEMINI_API_KEY (free) or ANTHROPIC_API_KEY repo secret to enable it. Raw headlines below still update on schedule.</p>
+      <p class="empty">No AI briefing yet &mdash; add a free GEMINI_API_KEY repo secret to turn it on. Headlines below keep updating either way.</p>
     </section>"""
 
     tiers = {"major": [], "medium": [], "minor": []}
@@ -511,9 +566,9 @@ def build():
         tiers[classify_importance(e)].append(e)
 
     tier_meta = [
-        ("major", "Most important", 20),
-        ("medium", "Mediocre", 15),
-        ("minor", "Least important", 15),
+        ("major", "Most important", 8),
+        ("medium", "Mediocre", 8),
+        ("minor", "Least important", 8),
     ]
     source_sections = "\n".join(f"""
     <section>
@@ -523,6 +578,7 @@ def build():
 
     html_out = TEMPLATE.format(
         generated=generated_str,
+        today_highlight=render_today_highlight(calendar_matches),
         calendar=render_calendar_banner(calendar_matches),
         briefing=ai_section,
         sources=source_sections,
@@ -535,7 +591,7 @@ def build():
     run_ai_flag = os.environ.get("RUN_AI", "true").lower() != "false"
     print(f"Wrote docs/index.html: {len(merged_log)} headlines in log, "
           f"this run RUN_AI={run_ai_flag}, "
-          f"briefing displayed: {'YES' if briefing_html else 'NO'}.")
+          f"briefing displayed: {'YES' if overnight_html else 'NO'}.")
 
 
 TEMPLATE = """<!DOCTYPE html>
@@ -584,6 +640,24 @@ TEMPLATE = """<!DOCTYPE html>
     margin: 0 0 6px;
     letter-spacing: -0.01em;
   }}
+  .title-row {{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+  }}
+  .today-highlight {{
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--red);
+    background: rgba(255, 71, 87, 0.12);
+    border: 1px solid var(--red);
+    border-radius: 6px;
+    padding: 6px 14px;
+    margin-bottom: 6px;
+    letter-spacing: 0.01em;
+  }}
   .generated {{
     font-family: 'IBM Plex Mono', monospace;
     font-size: 13px;
@@ -622,6 +696,9 @@ TEMPLATE = """<!DOCTYPE html>
     padding: 26px 32px 30px;
     background: linear-gradient(180deg, rgba(255,159,28,0.06), transparent 40%);
     border-bottom: 1px solid var(--line);
+  }}
+  .briefing-premarket {{
+    background: linear-gradient(180deg, rgba(255,71,87,0.08), transparent 40%);
   }}
   .briefing h3 {{
     font-family: 'Space Grotesk', sans-serif;
@@ -722,7 +799,10 @@ TEMPLATE = """<!DOCTYPE html>
 <body>
   <header>
     <p class="eyebrow">Pre-Market Brief</p>
-    <h1>Today's Setup</h1>
+    <div class="title-row">
+      <h1>Today's Setup</h1>
+      {today_highlight}
+    </div>
     <p class="generated">Generated {generated}</p>
   </header>
   {calendar}
