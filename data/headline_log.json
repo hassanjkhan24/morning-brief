@@ -1,1 +1,198 @@
-[]
+[
+  {
+    "title": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey",
+    "link": "https://www.cnbc.com/2026/09/16/boj-hike-rates-cnbc-survey.html",
+    "summary": "The BOJ is expected to hike rates by 25 basis points to a fresh three-decade high, a CNBC survey shows.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-16T00:22:11+00:00"
+  },
+  {
+    "title": "House to vote on bill to rein in AI data center utility costs",
+    "link": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
+    "summary": "The bipartisan legislation would create a regulatory framework states could adopt to prevent data center-related energy costs from being passed on to consumers.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-16T00:14:21+00:00"
+  },
+  {
+    "title": "Inside South Korea\u2019s university programs offering a direct route to Samsung and SK Hynix",
+    "link": "https://www.cnbc.com/2026/09/16/samsung-sk-hynix-ai-boom-students-university-programs.html",
+    "summary": "Companies are helping universities develop courses, provide financial support and create pathways through which qualifying students can join them.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-15T23:52:04+00:00"
+  },
+  {
+    "title": "Why de-dollarization discussions are more talk, less action",
+    "link": "https://www.cnbc.com/2026/09/16/de-dollarization-brics-china-russia-trump.html",
+    "summary": "BRICS leaders have asserted the need to use local currencies in intra-BRICS trade to cut dependency on dollar.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-15T23:28:01+00:00"
+  },
+  {
+    "title": "Medicare is using AI to approve claims. The result has been \u2018alarmingly high denial rates.\u2019",
+    "link": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
+    "summary": "A pilot program using artificial intelligence to approve care for Medicare beneficiaries has resulted in high levels of denials and delayed decisions and prompted warnings from a vendor about a lack o",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-15T23:09:00+00:00"
+  },
+  {
+    "title": "Iran war has cost on average $246 million per day in its first five months, CBO finds",
+    "link": "https://www.cnbc.com/2026/09/15/cbo-iran-war-cost-pentagon-weapons.html",
+    "summary": "CBO estimates the Iran war cost the Pentagon $38.1 billion through Aug. 1 and could cost another $2 billion to $3 billion each additional month.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-15T22:33:45+00:00"
+  },
+  {
+    "title": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce",
+    "link": "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html",
+    "summary": "Comments from the two tech leaders landed days after Anthropic's Dario Amodei published an essay urging the AI industry to slow the pace of model development.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-15T22:17:47+00:00"
+  },
+  {
+    "title": "\u2018My total balance should be $20 million\u2019: I invested $1.1 million in a crypto platform. Have I lost it all?",
+    "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+    "summary": "\u201cI invested on the recommendation of an executive vice president of a major New York investment bank.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-15T22:15:00+00:00"
+  },
+  {
+    "title": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source",
+    "link": "https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html",
+    "summary": "Jensen Huang appeared to side with Trump as the president pushed back on tech CEOs' warnings about the risks of rapid AI advancement.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-15T22:06:16+00:00"
+  },
+  {
+    "title": "\u2018There might be a silver lining\u2019: My friend\u2019s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+    "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+    "summary": "\u201cThey had been married for over 30 years when she passed.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-15T22:00:00+00:00"
+  },
+  {
+    "title": "Trump says Kennedy Center will stay closed without renovation unless his name is added back",
+    "link": "https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html",
+    "summary": "The ruling comes four months after the same judge ordered that the Kennedy Center could not be renamed to include President Trump's name.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-15T21:46:22+00:00"
+  },
+  {
+    "title": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity",
+    "link": "https://www.marketwatch.com/story/these-four-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity-e6bf58b4?mod=mw_rss_topstories",
+    "summary": "A BofA analyst expects the semiconductor market to reach $3.2 trillion by the end of the decade, shrugging off fears of an AI slowdown.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-15T21:40:00+00:00"
+  },
+  {
+    "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
+    "link": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
+    "summary": "Oil is increasingly calling the tune in global markets as rising energy prices make investors nervous.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-15T21:34:00+00:00"
+  },
+  {
+    "title": "Americans' incomes rose and poverty fell in 2025, Census Bureau says",
+    "link": "https://www.cnbc.com/2026/09/15/income-poverty-census-fed-interest-rates.html",
+    "summary": "The data comes as the Federal Reserve is considering interest-rate increases that could slow economic growth.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-15T21:31:56+00:00"
+  },
+  {
+    "title": "AI stocks are rebounding. One analyst says there\u2019s no spending slowdown in sight.",
+    "link": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
+    "summary": "Customers are signing multiyear deals for chips and more: \u201cThat\u2019s not what the front end of a downturn looks like.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-15T21:15:00+00:00"
+  },
+  {
+    "title": "Inflation killed the penny. Now it\u2019s coming for your dollar.",
+    "link": "https://www.marketwatch.com/story/inflation-killed-the-penny-now-its-coming-for-your-dollar-78336cd8?mod=mw_rss_topstories",
+    "summary": "Congress congratulated itself for solving the penny problem, but what about the source of the problem \u2014 inflation?",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-15T21:00:00+00:00"
+  },
+  {
+    "title": "Why a Federal Reserve rate hike could be a \u2018rare win\u2019 for your retirement money",
+    "link": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
+    "summary": "There may be better savings yields, but beware rising credit-card rates",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-15T20:47:00+00:00"
+  },
+  {
+    "title": "Top Senate Republican floats a diesel export ban as prices soar. It might not work.",
+    "link": "https://www.marketwatch.com/story/top-senate-republican-floats-a-diesel-export-ban-as-prices-soar-it-might-not-work-45966943?mod=mw_rss_topstories",
+    "summary": "With diesel prices hitting a record $6.27 a gallon, Washington is talking about a maneuver that could ultimately make matters worse.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-15T20:36:00+00:00"
+  },
+  {
+    "title": "Oracle\u2019s stock falls for the fifth day in a row \u2014 missing out on the AI bounce",
+    "link": "https://www.marketwatch.com/story/oracles-stock-falls-for-the-fifth-day-in-a-row-missing-out-on-the-ai-bounce-9150c9ed?mod=mw_rss_topstories",
+    "summary": "Chip stocks linked to OpenAI rebounded a bit on Tuesday, but Oracle shares extended their losses.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-15T20:31:00+00:00"
+  },
+  {
+    "title": "Senate cloture vote on Clarity Act fails, dealing regulatory blow to crypto industry",
+    "link": "https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html",
+    "summary": "The Senate on Tuesday voted to block the Clarity Act from advancing, dealing a blow to the crypto industry's push for a comprehensive market framework.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-15T20:16:31+00:00"
+  },
+  {
+    "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
+    "link": "https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html",
+    "summary": "Discussions have been ongoing since Google's Demis Hassabis released a proposal in July calling for a U.S.-led \"Standards Body,\" the spokesperson said.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-15T19:13:30+00:00"
+  },
+  {
+    "title": "U.S. oil tops $105 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure",
+    "link": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
+    "summary": "Iran-backed Houthi militants in Yemen, meanwhile, carried out renewed strikes on Saudi Arabia this week.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-15T18:58:36+00:00"
+  },
+  {
+    "title": "Saudi pipeline closure is a brief interruption that will last days, U.S. Energy secretary tells CNBC",
+    "link": "https://www.cnbc.com/2026/09/15/saud-arabia-east-west-pipeline-iran-war-chris-wright.html",
+    "summary": "The Saudis closed the East-West pipeline after it sustained damage in a drone attack launched from Iraq.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-15T18:29:56+00:00"
+  },
+  {
+    "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+    "link": "https://www.cnbc.com/2026/09/15/ai-destroy-humanity-extinction-risks.html",
+    "summary": "AI pioneers and \"godfathers\" have weighed in on Anthropic and OpenAI researcher concerns over existential safety risks around the technology.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-15T17:01:13+00:00"
+  },
+  {
+    "title": "How a Costco partner's bankruptcy could benefit its biggest rival",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-15T13:33:00+00:00"
+  },
+  {
+    "title": "U.S. confirms for first time it has weapons deployed in space",
+    "link": "https://www.cnbc.com/2026/09/15/weapons-in-space-us-air-force-meink.html",
+    "summary": "U.S. Air Force Secretary Troy Meink said Monday that the U.S. has \"on-orbit space control weapons,\" as he outlined a broader push to modernize the Air Force.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-15T13:13:00+00:00"
+  },
+  {
+    "title": "Santoli: The youthful phase of AI is over. What it means for investors",
+    "link": "https://www.cnbc.com/2026/09/15/santoli-the-youthful-phase-of-ai-is-over-what-it-means-for-investors.html",
+    "summary": "The AI narrative has flipped to a focus on the risk with the tech unpopular with the public and projections of order backlogs beyond a few quarters now suspect.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-15T12:33:08+00:00"
+  },
+  {
+    "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
+    "link": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
+    "summary": "China's investment slump deepened, retail sales growth slowed further in August while industrial output blew past estimates as Beijing warns of supply-demand imbalance.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-15T09:46:14+00:00"
+  }
+]
