@@ -255,16 +255,7 @@ known event this week. If there's nothing notable, say so.
 """
 
 
-def call_claude(log_entries, calendar_matches):
-    if os.environ.get("RUN_AI", "true").lower() == "false":
-        print("INFO: RUN_AI=false (fetch-only run); skipping AI synthesis, will reuse cached briefing.")
-        return None
-
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
-    if not api_key:
-        print("INFO: ANTHROPIC_API_KEY not set; skipping AI synthesis.")
-        return None
-
+def build_user_content(log_entries, calendar_matches):
     now_et = datetime.now(ET)
     calendar_lines = "\n".join(
         f"- {ev['when']}: {ev['event']} at {ev['time']}" for ev in calendar_matches
@@ -276,7 +267,7 @@ def call_claude(log_entries, calendar_matches):
         for e in log_entries[:60]
     ) or "(no headlines collected yet this cycle)"
 
-    user_content = f"""Current time: {now_et.strftime('%A, %B %-d, %-I:%M %p ET')}
+    return f"""Current time: {now_et.strftime('%A, %B %-d, %-I:%M %p ET')}
 
 CONFIRMED CALENDAR EVENTS -- next {WEEK_LOOKAHEAD_DAYS} days (official Fed/BLS \
 dates -- treat as ground truth, higher confidence than anything inferred from \
@@ -287,13 +278,40 @@ ACCUMULATED HEADLINES (last {LOG_WINDOW_HOURS}h, newest first):
 {headline_lines}
 """
 
+
+def call_gemini(user_content, api_key):
+    """Free path: Google's Gemini API (no card required, rate-limited)."""
+    model = "gemini-2.5-flash"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
+    body = json.dumps({
+        "systemInstruction": {"parts": [{"text": SYSTEM_PROMPT}]},
+        "contents": [{"role": "user", "parts": [{"text": user_content}]}],
+        "generationConfig": {"maxOutputTokens": 1200},
+    }).encode("utf-8")
+    req = urllib.request.Request(
+        url, data=body, headers={"Content-Type": "application/json"}, method="POST",
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=60) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+        parts = data["candidates"][0]["content"]["parts"]
+        return "\n".join(p.get("text", "") for p in parts).strip() or None
+    except urllib.error.HTTPError as exc:
+        print(f"WARN: Gemini API error {exc.code}: {exc.read().decode('utf-8', 'ignore')}")
+        return None
+    except Exception as exc:
+        print(f"WARN: Gemini API call failed: {exc}")
+        return None
+
+
+def call_claude(user_content, api_key):
+    """Paid path: Anthropic's Claude API, used if ANTHROPIC_API_KEY is set instead."""
     body = json.dumps({
         "model": "claude-sonnet-5",
         "max_tokens": 1000,
         "system": SYSTEM_PROMPT,
         "messages": [{"role": "user", "content": user_content}],
     }).encode("utf-8")
-
     req = urllib.request.Request(
         "https://api.anthropic.com/v1/messages",
         data=body,
@@ -315,6 +333,31 @@ ACCUMULATED HEADLINES (last {LOG_WINDOW_HOURS}h, newest first):
     except Exception as exc:
         print(f"WARN: Claude API call failed: {exc}")
         return None
+
+
+def call_ai(log_entries, calendar_matches):
+    if os.environ.get("RUN_AI", "true").lower() == "false":
+        print("INFO: RUN_AI=false (fetch-only run); skipping AI synthesis, will reuse cached briefing.")
+        return None
+
+    gemini_key = os.environ.get("GEMINI_API_KEY")
+    anthropic_key = os.environ.get("ANTHROPIC_API_KEY")
+    if not gemini_key and not anthropic_key:
+        print("INFO: no GEMINI_API_KEY or ANTHROPIC_API_KEY set; skipping AI synthesis.")
+        return None
+
+    user_content = build_user_content(log_entries, calendar_matches)
+
+    if gemini_key:
+        result = call_gemini(user_content, gemini_key)
+        if result:
+            return result
+        print("WARN: Gemini call failed; falling back to Claude if a key is set.")
+
+    if anthropic_key:
+        return call_claude(user_content, anthropic_key)
+
+    return None
 
 
 # ---------------------------------------------------------------------------
@@ -395,7 +438,7 @@ def build():
 
     # 2. calendar + AI synthesis (with cache fallback for fetch-only runs)
     calendar_matches = get_calendar_matches()
-    briefing_md = call_claude(merged_log, calendar_matches)
+    briefing_md = call_ai(merged_log, calendar_matches)
     briefing_generated_dt = None
 
     if briefing_md:
