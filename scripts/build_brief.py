@@ -313,7 +313,7 @@ ACCUMULATED HEADLINES (last {LOG_WINDOW_HOURS}h, newest first):
 
 def call_gemini(user_content, api_key):
     """Free path: Google's Gemini API (no card required, rate-limited)."""
-    model = "gemini-2.5-flash"
+    model = "gemini-3.6-flash"
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     body = json.dumps({
         "systemInstruction": {"parts": [{"text": SYSTEM_PROMPT}]},
