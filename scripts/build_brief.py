@@ -314,14 +314,16 @@ ACCUMULATED HEADLINES (last {LOG_WINDOW_HOURS}h, newest first):
 def call_gemini(user_content, api_key):
     """Free path: Google's Gemini API (no card required, rate-limited)."""
     model = "gemini-2.5-flash"
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     body = json.dumps({
         "systemInstruction": {"parts": [{"text": SYSTEM_PROMPT}]},
         "contents": [{"role": "user", "parts": [{"text": user_content}]}],
         "generationConfig": {"maxOutputTokens": 1200},
     }).encode("utf-8")
     req = urllib.request.Request(
-        url, data=body, headers={"Content-Type": "application/json"}, method="POST",
+        url, data=body,
+        headers={"Content-Type": "application/json", "x-goog-api-key": api_key},
+        method="POST",
     )
     try:
         with urllib.request.urlopen(req, timeout=60) as resp:
