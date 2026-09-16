@@ -395,6 +395,42 @@ def markdown_lite_to_html(text):
     return "\n".join(out)
 
 
+TOP_TECH_STOCKS = [
+    "apple", "microsoft", "nvidia", "alphabet", "google", "amazon", "meta",
+    "tsmc", "taiwan semiconductor", "broadcom", "tesla", "oracle",
+    "samsung", "tencent", "asml", "sap", "netflix", "amd", "salesforce",
+    "adobe", "qualcomm", "ibm",
+]
+TOP_SP_STOCKS = [
+    "berkshire hathaway", "jpmorgan", "jp morgan", "eli lilly", "visa",
+    "mastercard", "exxon", "walmart", "unitedhealth", "johnson & johnson",
+]
+MAJOR_WORLD_KEYWORDS = [
+    "federal reserve", "fomc", "fed chair", "rate decision", "rate cut",
+    "rate hike", "cpi", "inflation report", "jobs report", "nonfarm payroll",
+    "unemployment rate", "recession", "gdp", "central bank", "ecb",
+    "war", "invasion", "ceasefire", "sanctions", "tariff", "trade war",
+    "government shutdown", "debt ceiling", "election", "geopolitical",
+    "oil price", "opec",
+]
+MEDIUM_KEYWORDS = [
+    "s&p 500", "nasdaq", "dow jones", "treasury", "yield", "bond market",
+    "earnings", "ipo", "merger", "acquisition", "stock market", "wall street",
+    "dollar", "crude oil", "bitcoin", "crypto", "market volatility", "vix",
+    "premarket", "pre-market", "futures",
+]
+
+
+def classify_importance(entry):
+    text = f"{entry['title']} {entry.get('summary', '')}".lower()
+    if any(k in text for k in TOP_TECH_STOCKS) or any(k in text for k in TOP_SP_STOCKS) \
+            or any(k in text for k in MAJOR_WORLD_KEYWORDS):
+        return "major"
+    if any(k in text for k in MEDIUM_KEYWORDS):
+        return "medium"
+    return "minor"
+
+
 def render_calendar_banner(calendar_matches):
     if not calendar_matches:
         return ""
@@ -456,9 +492,6 @@ def build():
     now_et = datetime.now(ET)
     generated_str = now_et.strftime("%A, %B %-d &middot; %-I:%M %p ET")
 
-    tape_items = merged_log[:8]
-    tape_html = "&nbsp;&nbsp;&#9679;&nbsp;&nbsp;".join(html.escape(t["title"]) for t in tape_items) or "Awaiting headlines&hellip;"
-
     if briefing_html:
         refreshed_str = briefing_generated_dt.strftime("%-I:%M %p ET")
         ai_section = f"""
@@ -470,22 +503,26 @@ def build():
         ai_section = """
     <section class="briefing">
       <p class="source-label"><span class="dot amber"></span>Overnight Brief</p>
-      <p class="empty">AI synthesis is off &mdash; add an ANTHROPIC_API_KEY repo secret to enable it. Raw headlines below still update on schedule.</p>
+      <p class="empty">AI synthesis is off &mdash; add a GEMINI_API_KEY (free) or ANTHROPIC_API_KEY repo secret to enable it. Raw headlines below still update on schedule.</p>
     </section>"""
 
-    by_source = {}
+    tiers = {"major": [], "medium": [], "minor": []}
     for e in merged_log:
-        by_source.setdefault(e["source"], []).append(e)
+        tiers[classify_importance(e)].append(e)
 
+    tier_meta = [
+        ("major", "Most important", 20),
+        ("medium", "Mediocre", 15),
+        ("minor", "Least important", 15),
+    ]
     source_sections = "\n".join(f"""
     <section>
-      <p class="source-label"><span class="dot"></span>{html.escape(src)}</p>
-      {render_items(items[:12])}
-    </section>""" for src, items in by_source.items())
+      <p class="source-label"><span class="dot dot-{key}"></span>{label}</p>
+      {render_items(tiers[key][:cap])}
+    </section>""" for key, label, cap in tier_meta)
 
     html_out = TEMPLATE.format(
         generated=generated_str,
-        tape=tape_html,
         calendar=render_calendar_banner(calendar_matches),
         briefing=ai_section,
         sources=source_sections,
@@ -552,25 +589,6 @@ TEMPLATE = """<!DOCTYPE html>
     font-size: 13px;
     color: var(--muted);
     margin: 0;
-  }}
-  .tape-wrap {{
-    background: var(--surface);
-    border-bottom: 1px solid var(--line);
-    overflow: hidden;
-    white-space: nowrap;
-    padding: 10px 0;
-  }}
-  .tape {{
-    display: inline-block;
-    padding-left: 100%;
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 13px;
-    color: var(--green);
-    animation: scroll 45s linear infinite;
-  }}
-  @keyframes scroll {{
-    0% {{ transform: translateX(0); }}
-    100% {{ transform: translateX(-100%); }}
   }}
   .calendar-banner {{
     display: flex;
@@ -647,6 +665,9 @@ TEMPLATE = """<!DOCTYPE html>
     display: inline-block;
   }}
   .dot.amber {{ background: var(--amber); }}
+  .dot-major {{ background: var(--red); }}
+  .dot-medium {{ background: var(--amber); }}
+  .dot-minor {{ background: var(--muted); }}
   .refreshed {{
     color: var(--muted);
     text-transform: none;
@@ -704,9 +725,6 @@ TEMPLATE = """<!DOCTYPE html>
     <h1>Today's Setup</h1>
     <p class="generated">Generated {generated}</p>
   </header>
-  <div class="tape-wrap">
-    <div class="tape">{tape}</div>
-  </div>
   {calendar}
   {briefing}
   <main>
