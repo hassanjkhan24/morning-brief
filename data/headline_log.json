@@ -1,5 +1,47 @@
 [
   {
+    "title": "Retail sales surged toward the end of summer. The U.S. economy has plenty of momentum.",
+    "link": "https://www.marketwatch.com/story/retail-sales-surged-toward-the-end-of-summer-economy-still-has-plenty-of-momentum-cdf667b2?mod=mw_rss_topstories",
+    "summary": "Sales at U.S. retailers surged in August and posted the biggest increase in five months, offering another piece of evidence suggesting the economy sped up toward the end of summer.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-16T13:22:00+00:00"
+  },
+  {
+    "title": "J.B. Hunt stock plunges 10% after company warns third-quarter earnings will fall",
+    "link": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
+    "summary": "Shares of J.B. Hunt plunged more than 10% Wednesday after the company warned of an earnings drop between 5% and 10%.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-16T13:17:09+00:00"
+  },
+  {
+    "title": "OpenAI investors have approached the company about a new funding round",
+    "link": "https://www.cnbc.com/2026/09/16/open-ai-investors-new-funding-round.html",
+    "summary": "OpenAI is gearing up for what is widely expected to be a blockbuster IPO next year, after it confidentially filed its prospectus in June.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-16T13:16:31+00:00"
+  },
+  {
+    "title": "Your AI interviewer will see you now: How job seekers should navigate the 'jarring' new hiring technology",
+    "link": "https://www.cnbc.com/2026/09/16/your-ai-interviewer-will-see-you-now-what-job-seekers-should-know-about-new-hiring-tech.html",
+    "summary": "Employers are hoping that AI interviewers will streamline the hiring process. Some experts \u2014 and job seekers \u2014 aren't so sure.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-16T13:16:31+00:00"
+  },
+  {
+    "title": "Think Nvidia Is Overpriced? The Irony Keeps Me Buying Again and Again",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/think-nvidia-overpriced-irony-keeps-131532848.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-16T13:15:32+00:00"
+  },
+  {
+    "title": "Real REMAX Group (REAX) Stock Weakness Reflects Fears of AI-Driven Market Changes",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/real-remax-group-reax-stock-130724417.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-16T13:07:24+00:00"
+  },
+  {
     "title": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days",
     "link": "https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html",
     "summary": "The pipeline has allowed the Saudis to shift oil exports to the Red Sea while the U.S. and Iran battle for control over Hormuz.",
@@ -7,11 +49,39 @@
     "pub_iso": "2026-09-16T13:05:53+00:00"
   },
   {
+    "title": "Bloom Energy Corp. (BE) Short Position Weighs on Performance Amid Small-Cap AI Rally",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-corp-short-position-130509545.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-16T13:05:09+00:00"
+  },
+  {
+    "title": "Oscar Health's Big ACA Gamble Is Paying Off. Here's The Caveat.",
+    "link": "https://www.investors.com/news/oscar-health-stock-medical-costs-aca-investor-update/?src=A00220&yptr=yahoo",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-16T13:02:50+00:00"
+  },
+  {
     "title": "Geron Eyes High End of 2026 RYTELO Revenue Guidance as Community Adoption Expands",
     "link": "https://finance.yahoo.com/healthcare/articles/geron-eyes-high-end-2026-130243606.html",
     "summary": "",
     "source": "Yahoo Finance",
     "pub_iso": "2026-09-16T13:02:43+00:00"
+  },
+  {
+    "title": "Why a strategist who previously thought inflation was contained now sees potential for aggressive Fed rate hikes",
+    "link": "https://www.marketwatch.com/story/why-a-strategist-who-previously-thought-inflation-was-contained-now-sees-potential-for-aggressive-fed-rate-hikes-33ecaf04?mod=mw_rss_topstories",
+    "summary": "Albert Edwards of Soci\u00e9t\u00e9 G\u00e9n\u00e9rale says today\u2019s gasoline prices are more closely aligned with crude-oil prices of $150 a barrel than current levels. For diesel, it\u2019s even more dramatic.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-16T13:01:00+00:00"
+  },
+  {
+    "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+    "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+    "summary": "\u201cI racked up this debt to cover my living expenses for two years without an income stream.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-16T13:00:00+00:00"
   },
   {
     "title": "The data-center backlash is so fierce that Republican candidates are willing to cross Trump",
@@ -775,12 +845,5 @@
     "summary": "The Senate on Tuesday voted to block the Clarity Act from advancing, dealing a blow to the crypto industry's push for a comprehensive market framework.",
     "source": "CNBC",
     "pub_iso": "2026-09-15T20:16:31+00:00"
-  },
-  {
-    "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
-    "link": "https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html",
-    "summary": "Discussions have been ongoing since Google's Demis Hassabis released a proposal in July calling for a U.S.-led \"Standards Body,\" the spokesperson said.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-15T19:13:30+00:00"
   }
 ]
