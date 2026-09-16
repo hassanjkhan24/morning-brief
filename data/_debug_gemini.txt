@@ -1,8 +1,2 @@
-HTTPError 404
-{
-  "error": {
-    "code": 404,
-    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.",
-    "status": "NOT_FOUND"
-  }
-}
+SUCCESS
+{"candidates": [{"content": {"parts": [{"text": "**Bottom line:** The Federal Reserve hiked interest rates by 25 basis points to a target range of 3.75%\u20134.00% at 2:00 PM ET today, with Fed Chair Kevin", "thoughtSignature": "EoIgCv8fARFNMg80J+sKtvaChWbHpwuQgUssHt4pHR5dOn10xCguEs86aqW0EKA1BJekPR1lxvw1i+mg7oNwnjNSwIDBs7LFE07KlDGun4vwG56z6Hp8T20SuPoCrHmK8AnnLtO9oEpmx+4A4d2jpDs1/zbIk0WHrq6XnNQIx31lRfLZGdZNVlH6wVwUSvKyhslh9oS4rTtX0C+VG3Rs/DnUiDTp6ROxQWg3/0b3592+Wp3eUKPVJV/7YjMFD3GTfeGw+KNc8AHeHLo
