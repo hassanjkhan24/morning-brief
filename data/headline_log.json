@@ -1,10 +1,38 @@
 [
   {
+    "title": "Why the S&P 500 could still advance after a Fed hike, according to a Wall Street strategist",
+    "link": "https://www.marketwatch.com/story/why-the-s-p-500-could-still-advance-after-a-fed-hike-according-to-a-wall-street-strategist-d357b4f2?mod=mw_rss_topstories",
+    "summary": "The investment bank found that stocks in the energy and information technology sectors on average perform the best one year after an interest-rate hike by the Federal Reserve.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-17T09:16:00+00:00"
+  },
+  {
+    "title": "\u2018I\u2019m burned out\u2019: I\u2019m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+    "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+    "summary": "\u201cI spend a lot of time away from my family and spend money on gas, taking him out to eat.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-17T09:15:00+00:00"
+  },
+  {
+    "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
+    "link": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
+    "summary": "Rhodium Group's latest analysis of Chinese and U.S. AI companies also found that low revenue did not necessarily correspond with lower valuation.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-17T09:00:01+00:00"
+  },
+  {
     "title": "Trump gains a tariff weapon against China and India. Will he use it?",
     "link": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
     "summary": "U.S. House has paved the way for a legislation that will allow Trump to impose up to 100% tariffs on countries buying Russian oil, giving him leverage against India and China.",
     "source": "CNBC",
     "pub_iso": "2026-09-17T08:46:04+00:00"
+  },
+  {
+    "title": "Billionaire Kraft says Ed Sheeran sought $2 million aid donation from him amid fracas over Macklemore's Palestine comments",
+    "link": "https://www.cnbc.com/2026/09/17/kraft-ed-sheeran-macklemore-palestine.html",
+    "summary": "Robert Kraft said Ed Sheeran asked him to commit $2 million toward humanitarian aid amid the controversy over Macklemore\u2019s removal from Sheeran\u2019s U.S. tour",
+    "source": "CNBC",
+    "pub_iso": "2026-09-17T08:24:48+00:00"
   },
   {
     "title": "Trump says U.S. \u2018hopefully\u2019 nearing end of Iran war as Saudi Arabia-Houthis trade strikes",
@@ -119,11 +147,32 @@
     "pub_iso": "2026-09-16T23:45:02+00:00"
   },
   {
+    "title": "Snap tries to bring AR glasses to enterprise market, partnering with Nvidia, AWS and Salesforce",
+    "link": "https://www.cnbc.com/2026/09/16/snap-enterprise-ai-service.html",
+    "summary": "Snap is partnering with Nvidia, Amazon Web Services and Salesforce as part of an enterprise sales push centered on its $2,000 Specs AR glasses.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-16T23:40:05+00:00"
+  },
+  {
+    "title": "Salesforce issues revenue target of over $63 billion for fiscal 2030, beating estimates",
+    "link": "https://www.cnbc.com/2026/09/16/salesforce-issues-revenue-target-of-63-billion-for-fiscal-2030.html",
+    "summary": "Salesforce issued some updated longer-term financials at its annual Dreamforce conference.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-16T23:13:45+00:00"
+  },
+  {
     "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
     "link": "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html",
     "summary": "OpenAI has disclosed six new cases of model misbehavior and offered a framework for disclosing future instances, as the debate over AI model safety intensifies.",
     "source": "CNBC",
     "pub_iso": "2026-09-16T23:05:48+00:00"
+  },
+  {
+    "title": "Arm CEO says he's more confident its new AI chip can meet a loftier $2B revenue goal",
+    "link": "https://www.cnbc.com/2026/09/16/jim-cramer-arm-ceo-ai-revenue-goal.html",
+    "summary": "Arm Holdings CEO Rene Haas said Wednesday he is increasingly confident the chip designer can secure enough supply to meet $2 billion in customer demand.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-16T22:52:20+00:00"
   },
   {
     "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
@@ -411,12 +460,5 @@
     "summary": "There is a correlation between increasing dividends and strong investment performance \u2014 even if a stock has a low dividend yield when you buy.",
     "source": "MarketWatch",
     "pub_iso": "2026-09-16T16:00:00+00:00"
-  },
-  {
-    "title": "OpenAI investors have approached the company about a new funding round",
-    "link": "https://www.cnbc.com/2026/09/16/open-ai-investors-new-funding-round.html",
-    "summary": "OpenAI is gearing up for what is widely expected to be a blockbuster IPO next year, after it confidentially filed its prospectus in June.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-16T15:18:16+00:00"
   }
 ]
