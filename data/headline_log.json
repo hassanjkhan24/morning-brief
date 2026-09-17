@@ -1,5 +1,26 @@
 [
   {
+    "title": "How can I get my employees to stop oversharing at work?",
+    "link": "https://www.marketwatch.com/story/how-can-i-get-my-employees-to-stop-oversharing-at-work-540ba78c?mod=mw_rss_topstories",
+    "summary": "\u201cThey have complained before that I don\u2019t share enough details about my personal life with them.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-17T11:30:00+00:00"
+  },
+  {
+    "title": "Trump says U.S. \u2018hopefully\u2019 nearing end of Iran war as Saudi Arabia, Houthis trade strikes",
+    "link": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
+    "summary": "Trump says the U.S. may be nearing the end of its nearly seven-month war with Iran, as he signals Tehran is open to a deal.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-17T11:17:47+00:00"
+  },
+  {
+    "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+    "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+    "summary": "\u201cI racked up this debt to cover my living expenses for two years without an income stream.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-17T11:15:00+00:00"
+  },
+  {
     "title": "Carney says Canada will decide its own partnerships after Trump calls EU proposal \u2018laughable\u2019",
     "link": "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html",
     "summary": "U.S. President Donald Trump had described the prospect of Canada becoming the first associate member of the EU as \"laughable.\"",
@@ -19,6 +40,13 @@
     "summary": "U.S. semiconductor manufacturing faces a historic worker shortage as demand soars. Here\u2019s how chipmakers and U.S. universities aim to fix it.",
     "source": "CNBC",
     "pub_iso": "2026-09-17T11:00:01+00:00"
+  },
+  {
+    "title": "It\u2019s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
+    "link": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
+    "summary": "There\u2019s a winner-take-all fallacy in certain industries, says a hedge-fund manager.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-17T10:52:00+00:00"
   },
   {
     "title": "\u2018Stronger together\u2019: Carney welcomes EU invite for Canada to become first-ever associate member",
@@ -329,6 +357,13 @@
     "pub_iso": "2026-09-16T19:36:24+00:00"
   },
   {
+    "title": "Hyperscaler debt signals warning sign, Apollo cautions",
+    "link": "https://www.cnbc.com/2026/09/16/hyperscaler-debt-signals-warning-sign-apollo-cautions.html",
+    "summary": "Credit default swaps for companies building data centers are getting pricier, and it's not because banks are hedging more of their bets.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-16T19:29:18+00:00"
+  },
+  {
     "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
     "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
     "summary": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
@@ -446,26 +481,5 @@
     "summary": "President Donald Trump has angrily pushed back on the calls from industry and lawmakers for an AI slowdown or greater regulation.",
     "source": "CNBC",
     "pub_iso": "2026-09-16T17:50:00+00:00"
-  },
-  {
-    "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
-    "link": "https://www.cnbc.com/2026/09/16/oil-prices-treasury-yields-consumers-iran.html",
-    "summary": "Rising oil prices and Treasury yields are lifting energy and borrowing costs for U.S. households, pushing consumers to draw more heavily on savings.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-16T17:32:22+00:00"
-  },
-  {
-    "title": "The data-center backlash is so fierce that Republican candidates are willing to cross Trump",
-    "link": "https://www.marketwatch.com/story/the-data-center-backlash-is-so-fierce-that-republican-candidates-are-willing-to-cross-trump-9a6eaa03?mod=mw_rss_topstories",
-    "summary": "President Trump has been a vocal supporter of data centers, but GOP candidates in tight midterm races are increasingly taking a different tack.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-09-16T17:30:00+00:00"
-  },
-  {
-    "title": "Lagging sector looks poised for a rebound. Here's how Mike Khouw is trading it",
-    "link": "https://www.cnbc.com/2026/09/16/lagging-sector-looks-poised-for-a-rebound-heres-how-mike-khouw-is-trading-it.html",
-    "summary": "Quietly, the communications sector has started to claw back some of the year's underperformance.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-16T17:21:49+00:00"
   }
 ]
