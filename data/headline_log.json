@@ -1,5 +1,131 @@
 [
   {
+    "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal",
+    "link": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
+    "summary": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-17T00:55:35+00:00"
+  },
+  {
+    "title": "Inside India newsletter: The world\u2019s largest real-time payments system will no longer be free for all",
+    "link": "https://www.cnbc.com/2026/09/17/upi-payments-visa-amazon-phonepe.html",
+    "summary": "India's digital payment system, which processes more than 1 million transactions every two minutes for free now, will start charging fees to merchants.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-17T00:33:41+00:00"
+  },
+  {
+    "title": "House advances bill to rein in AI data center utility costs",
+    "link": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
+    "summary": "The bipartisan legislation would create a regulatory framework states could adopt to prevent data center-related energy costs from being passed on to consumers.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-17T00:08:01+00:00"
+  },
+  {
+    "title": "Trump says he still has confidence in Fed Chair Warsh, demands 1% or lower interest rates",
+    "link": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
+    "summary": "President Donald Trump previously threatened to cut off trade with countries that have trade surpluses with the U.S. if the Fed doesn't cut interest rates.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-16T23:45:02+00:00"
+  },
+  {
+    "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
+    "link": "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html",
+    "summary": "OpenAI has disclosed six new cases of model misbehavior and offered a framework for disclosing future instances, as the debate over AI model safety intensifies.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-16T23:05:48+00:00"
+  },
+  {
+    "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
+    "link": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
+    "summary": "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-16T22:32:18+00:00"
+  },
+  {
+    "title": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
+    "link": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
+    "summary": "The Fed\u2019s policy-making committee was unanimous in its decision to hike, but forward guidance was split.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-16T22:25:00+00:00"
+  },
+  {
+    "title": "\u2018There might be a silver lining\u2019: My friend\u2019s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+    "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+    "summary": "\u201cThey had been married for over 30 years when she passed.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-16T22:15:00+00:00"
+  },
+  {
+    "title": "Generac\u2019s stock soars more than 30% after Amazon deal cements company\u2019s status as an AI power player",
+    "link": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories",
+    "summary": "First deliveries of Generac\u2019s backup power generators are worth $2.4 billion.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-16T21:56:00+00:00"
+  },
+  {
+    "title": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
+    "link": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
+    "summary": "Amazon was granted warrants to buy up to $340 million worth of Generac stock as part of a deal to supply backup power generators for its data centers.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-16T21:40:18+00:00"
+  },
+  {
+    "title": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.",
+    "link": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
+    "summary": "Fed Chair Kevin Warsh has sent investors a message: When it comes to tamping down inflation, he means business.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-16T21:40:00+00:00"
+  },
+  {
+    "title": "Here are five key takeaways from Wednesday's Fed rate hike",
+    "link": "https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
+    "summary": "The Fed on Wednesday delivered a much-expected interest rate hike.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-16T21:23:51+00:00"
+  },
+  {
+    "title": "Why optical stocks Lumentum and Coherent were the day\u2019s biggest S&P 500 gainers",
+    "link": "https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440?mod=mw_rss_topstories",
+    "summary": "Investors are looking further down the AI data-center supply chain for signs of demand amid concerns of a spending slowdown, one expert says.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-16T20:52:00+00:00"
+  },
+  {
+    "title": "Here\u2019s a sneaky way to play the Fed\u2019s rate increase",
+    "link": "https://www.marketwatch.com/story/heres-a-sneaky-way-to-play-the-feds-rate-increase-6deb072f?mod=mw_rss_topstories",
+    "summary": "But watch out for the pitfalls.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-16T20:38:00+00:00"
+  },
+  {
+    "title": "Trump's Kennedy Center closure is 'unlawful,' Rep. Beatty tells judge in emergency hearing request",
+    "link": "https://www.cnbc.com/2026/09/16/trump-kennedy-center-beatty.html",
+    "summary": "President Donald Trump says renovations at the Kennedy Center will not occur until the courts allow his name to be restored on the performing arts center.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-16T20:32:54+00:00"
+  },
+  {
+    "title": "10-year Treasury yield climbs back to 5% after Fed hikes rates, Warsh highlights inflation risks",
+    "link": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
+    "summary": "The 10-year yield moved above the 5% mark after a Federal Reserve rate increase and comments from Chairman Kevin Warsh highlighting persistent inflation risks.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-16T20:10:01+00:00"
+  },
+  {
+    "title": "Jeff Gundlach says the Fed should have hiked rates by more to fight rising inflation",
+    "link": "https://www.cnbc.com/2026/09/16/gundlach-bonds-fed-rate-hike.html",
+    "summary": "The Fed should have hiked rates by half percentage point rather than a quarter, the investor told CNBC.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-16T19:38:41+00:00"
+  },
+  {
+    "title": "Boeing CEO: 737 Max production taking 'a little bit longer' to stabilize than expected",
+    "link": "https://www.cnbc.com/2026/09/16/boeing-ceo-737-max-production.html",
+    "summary": "Boeing CEO Kelly Ortberg said wing production at its Renton, Washington, factory is a hold up, adding the company has plans to address it.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-16T19:36:24+00:00"
+  },
+  {
     "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
     "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
     "summary": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
@@ -229,12 +355,5 @@
     "summary": "Americans living overseas may still face U.S. tax-filing and foreign-account reporting rules \u2014 even when they ultimately owe no U.S. income tax.",
     "source": "CNBC",
     "pub_iso": "2026-09-16T11:00:01+00:00"
-  },
-  {
-    "title": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
-    "link": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
-    "summary": "Z.ai, Moonshot, MiniMax, Alibaba and Tencent did not provide any statements when contacted by CNBC about the warnings on AI from Silicon Valley.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-16T04:01:59+00:00"
   }
 ]
