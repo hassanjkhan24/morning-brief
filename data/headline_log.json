@@ -1,5 +1,54 @@
 [
   {
+    "title": "\u2018You are freed\u2019: What happened when an OpenAI model began secretly writing notes to itself",
+    "link": "https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories",
+    "summary": "OpenAI has introduced a framework for reporting on worrying behaviors by its AI models. In one instance, one training model told its future self that it was \u201cfreed.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-17T13:07:00+00:00"
+  },
+  {
+    "title": "SEC clears path for tokenized stocks, bringing the market closer to 24/7 trading",
+    "link": "https://www.cnbc.com/2026/09/17/sec-clears-path-for-tokenized-stocks-bringing-24/7-trading-closer.html",
+    "summary": "The long awaited Innovation Exemption comes two days after the Senate voted to block the Clarity Act crypto market structure bill from advancing.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-17T13:00:28+00:00"
+  },
+  {
+    "title": "Despite Hype, Broadcom Keeps Edging Sideways and Down: This Wall Street Analyst Says It Will Provide 75% Returns Soon",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/despite-hype-broadcom-keeps-edging-125125125.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-17T12:51:25+00:00"
+  },
+  {
+    "title": "History Says This Is the Amount of Yearly Dividend Income a $7,500 Investment in Realty Income Stock Could Generate by 2030",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-amount-yearly-dividend-125000479.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-17T12:50:00+00:00"
+  },
+  {
+    "title": "BCSM Exits Heartflow (HTFL) on Competitive Concerns",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bcsm-exits-heartflow-htfl-competitive-124947141.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-17T12:49:47+00:00"
+  },
+  {
+    "title": "BCSM Exits Insulet Corporation (PODD), Maintains Watchlist Status",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bcsm-exits-insulet-corporation-podd-124807842.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-17T12:48:07+00:00"
+  },
+  {
+    "title": "Peter Schiff says the 7.76 cents of metal inside every nickel makes it a better bet than U.S. Treasuries",
+    "link": "https://finance.yahoo.com/markets/commodities/articles/peter-schiff-says-7-76-124500979.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-17T12:45:00+00:00"
+  },
+  {
     "title": "U.S. oil falls below $100 as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack",
     "link": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
     "summary": "Oil prices fell as additional Saudi crude supplies eased concerns over disruptions to the kingdom\u2019s exports.",
@@ -607,19 +656,5 @@
     "summary": "Credit default swaps for companies building data centers are getting pricier, and it's not because banks are hedging more of their bets.",
     "source": "CNBC",
     "pub_iso": "2026-09-16T19:29:18+00:00"
-  },
-  {
-    "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-    "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
-    "summary": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-09-16T19:00:00+00:00"
-  },
-  {
-    "title": "Google is playing a different AI game than everyone else, and Wall Street may be missing the point",
-    "link": "https://www.marketwatch.com/story/google-is-playing-a-different-ai-game-than-everyone-else-and-wall-street-may-be-missing-the-point-e91077a3?mod=mw_rss_topstories",
-    "summary": "Investors have been fixated on the relative performance of Alphabet\u2019s AI models when they should instead be cheering the company\u2019s cloud potential, an analyst says.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-09-16T18:57:00+00:00"
   }
 ]
