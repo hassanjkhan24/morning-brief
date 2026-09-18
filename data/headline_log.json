@@ -1,5 +1,12 @@
 [
   {
+    "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
+    "link": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
+    "summary": "The startup Moonshot said it signed on financial industry giants from investment bank CICC to venture capital firms",
+    "source": "CNBC",
+    "pub_iso": "2026-09-18T08:41:11+00:00"
+  },
+  {
     "title": "Oil prices fall for third day on Saudi Arabia supply hopes; U.S. crude briefly dips below $100",
     "link": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
     "summary": "Oil prices fell on Friday as additional Saudi crude supplies help ease disruption fears.",
@@ -194,12 +201,5 @@
     "summary": "Golden State Warrior superstar Stephen Curry announced in June he was signing a long-term partnership with Chinese brand Li-Ning.",
     "source": "CNBC",
     "pub_iso": "2026-09-17T17:27:15+00:00"
-  },
-  {
-    "title": "GM touts new V-8 engines in revived \u2018truck wars\u2019 with Ford, Ram amid lackluster EV sales",
-    "link": "https://www.cnbc.com/2026/09/17/chevy-silverado-gmc-sierra-v-8-engines.html",
-    "summary": "The large, gas-guzzling models continue to sell well in pickup trucks thanks to their ability to tow and haul heavy things.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-17T14:39:40+00:00"
   }
 ]
