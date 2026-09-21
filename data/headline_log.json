@@ -1,5 +1,19 @@
 [
   {
+    "title": "Novo stock falls as much as 7% despite $23 billion sales target for blockbuster obesity drugs",
+    "link": "https://www.cnbc.com/2026/09/21/novo-nordisk-stock-sales-target-obesity-drugs.html",
+    "summary": "",
+    "source": "CNBC",
+    "pub_iso": "2026-09-21T08:31:28+00:00"
+  },
+  {
+    "title": "Treasury yields ease as global borrowing costs tumble",
+    "link": "https://www.cnbc.com/2026/09/21/treasury-yields-government-bonds.html",
+    "summary": "Treasury yields were lower on Monday following last week's interest rate bonanza.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-21T08:21:18+00:00"
+  },
+  {
     "title": "CNBC Daily Open: May the 'AI Force' be with you",
     "link": "https://www.cnbc.com/2026/09/21/cnbc-daily-open-trump-china-ai-force.html",
     "summary": "President Trump announces the creation of an 'AI Force' as the technology looks set to be a key topic with Chinese President Xi Jinping this week.",
@@ -19,6 +33,13 @@
     "summary": "Trump threatened to destroy Iran's economy or eliminate its leadership if Tehran doesn't strike a deal, complicating efforts at diplomacy.",
     "source": "CNBC",
     "pub_iso": "2026-09-21T04:04:18+00:00"
+  },
+  {
+    "title": "\u2018My total balance should be $20 million\u2019: I invested $1.1 million in a crypto platform. Have I lost it all?",
+    "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+    "summary": "\u201cI invested on the recommendation of an executive vice president of a major New York investment bank.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-21T02:40:00+00:00"
   },
   {
     "title": "Oil falls as crude flows remain 'surprisingly strong'",
@@ -49,11 +70,25 @@
     "pub_iso": "2026-09-20T19:06:16+00:00"
   },
   {
+    "title": "T-Mobile and Verizon face a new broadband rival",
+    "link": "https://finance.yahoo.com/technology/articles/t-mobile-verizon-face-broadband-181700799.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-20T18:17:00+00:00"
+  },
+  {
     "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
     "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
     "summary": "\u201cI racked up this debt to cover my living expenses for two years without an income stream.\u201d",
     "source": "MarketWatch",
     "pub_iso": "2026-09-20T17:30:00+00:00"
+  },
+  {
+    "title": "Chevron CEO sends a strong message on oil price and the economy",
+    "link": "https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-20T16:47:00+00:00"
   },
   {
     "title": "\u2018My main goal is to help people\u2019: I\u2019m single, 74, with $10 million burning a hole in my pocket. What should I do?",
@@ -82,26 +117,5 @@
     "summary": "AI, from chatbots to humanoids and automated management systems, are being widely deployed by corporations with huge repercussions for worker pay and autonomy.",
     "source": "CNBC",
     "pub_iso": "2026-09-20T14:37:34+00:00"
-  },
-  {
-    "title": "U.S. urges Americans to reconsider Middle East travel as Iran tensions rise",
-    "link": "https://www.cnbc.com/2026/09/20/us-middle-east-travel-warning-iran-war-hormuz.html",
-    "summary": "The State Department urged Americans to reconsider Middle East travel as Houthi attacks intensify and Iran keeps the Strait of Hormuz closed.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-20T14:23:53+00:00"
-  },
-  {
-    "title": "Snoopy cups at Starbucks and McDonald\u2019s SpongeBob toys are commanding huge markups on eBay",
-    "link": "https://www.marketwatch.com/story/starbuckss-snoopy-cups-and-mcdonalds-spongebob-toys-are-commanding-huge-markups-on-ebay-ed3e514d?mod=mw_rss_topstories",
-    "summary": "Adults are scooping up promotional items out of nostalgia \u2014\u00a0and playing into a frenzy around collectibles .",
-    "source": "MarketWatch",
-    "pub_iso": "2026-09-20T14:08:00+00:00"
-  },
-  {
-    "title": "Key Christmas retailer files for Chapter 11 bankrutpcy",
-    "link": "https://finance.yahoo.com/small-business/articles/key-christmas-retailer-files-chapter-140700474.html",
-    "summary": "",
-    "source": "Yahoo Finance",
-    "pub_iso": "2026-09-20T14:07:00+00:00"
   }
 ]
