@@ -1,10 +1,73 @@
 [
   {
+    "title": "McDonald's is hosting an investor day as its U.S. business struggles. Here are 4 things to expect",
+    "link": "https://www.cnbc.com/2026/09/22/mcdonalds-mcd-hosts-investor-day.html",
+    "summary": "The presentation comes as McDonald's U.S. business disappointed in its most recent quarter.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-22T11:00:01+00:00"
+  },
+  {
+    "title": "Peloton is revamping its treadmills with new features in the next phase of its turnaround",
+    "link": "https://www.cnbc.com/2026/09/22/peloton-announces-new-tread-peloton-iq-features.html",
+    "summary": "With its new treadmills, Peloton aims to appeal to customers from casual workers to more serious athletes.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-22T11:00:01+00:00"
+  },
+  {
+    "title": "How this market-beating fund is constantly shifting to keep up with the AI trade",
+    "link": "https://www.marketwatch.com/story/how-this-market-beating-fund-is-constantly-shifting-to-keep-up-with-the-ai-trade-cf8536e0?mod=mw_rss_topstories",
+    "summary": "An exchange-traded fund that is rebalanced quarterly is doing a better job of keeping up with the artificial-intelligence trade than the broader index.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-22T10:59:00+00:00"
+  },
+  {
+    "title": "Home Depot CFO issues chilling alarm over \u2018frozen\u2019 US housing market \u2014 crucial metric plunges to historic low",
+    "link": "https://finance.yahoo.com/real-estate/articles/home-depot-cfo-issues-chilling-104500209.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-22T10:45:00+00:00"
+  },
+  {
+    "title": "BWX Technologies (BWXT) Wins $4 Million Y-12 Design Contract. Could Construction Follow?",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-bwxt-wins-4-104356882.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-22T10:43:56+00:00"
+  },
+  {
+    "title": "Gold price today, Tuesday, September 22, 2026: Gold prices holding as Chinese gold imports set record",
+    "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-september-22-2026-gold-prices-holding-as-chinese-gold-imports-set-record-104326063.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-22T10:43:26+00:00"
+  },
+  {
+    "title": "Morning Bid: As oil swoons, AI recharges",
+    "link": "https://finance.yahoo.com/news/morning-bid-oil-swoons-ai-103925671.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-22T10:39:25+00:00"
+  },
+  {
+    "title": "Airlines are cutting capacity again amid $1B surge in Q4 fuel costs \u2014 here's what that means for travelers",
+    "link": "https://finance.yahoo.com/economy/articles/airlines-cutting-capacity-again-amid-103000279.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-22T10:30:00+00:00"
+  },
+  {
     "title": "Iran reportedly says it can reopen Strait of Hormuz within 7 days if U.S. eases military pressure",
     "link": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
     "summary": "The reports raised hopes of renewed U.S.-Iran diplomacy, with U.S. stock futures mixed and oil prices lower.",
     "source": "CNBC",
     "pub_iso": "2026-09-22T10:28:17+00:00"
+  },
+  {
+    "title": "Roivant (ROIV): $9 Billion Sales Potential Faces a Commercialization Test",
+    "link": "https://finance.yahoo.com/healthcare/articles/roivant-roiv-9-billion-sales-102730498.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-22T10:27:30+00:00"
   },
   {
     "title": "FDA Approves Fayuvi. What Does It Mean for Ultragenyx (RARE)\u2019s 2027 Profitability Target?",
@@ -474,19 +537,5 @@
     "summary": "",
     "source": "Yahoo Finance",
     "pub_iso": "2026-09-21T18:17:21+00:00"
-  },
-  {
-    "title": "Historic lawsuit sparks flurry of option activity in this stock",
-    "link": "https://www.cnbc.com/2026/09/21/historic-lawsuit-sparks-flurry-of-option-activity-in-ny-times-stock.html",
-    "summary": "While President Donald Trump's war with the networks dominates the headlines, a far more consequential fight is unfolding in a Lower Manhattan courthouse.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-21T16:55:41+00:00"
-  },
-  {
-    "title": "Trump says DOJ will rein in AI 'if we have to'",
-    "link": "https://www.cnbc.com/2026/09/21/trump-ai-doj.html",
-    "summary": "President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-21T16:46:24+00:00"
   }
 ]
