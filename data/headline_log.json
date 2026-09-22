@@ -1,5 +1,12 @@
 [
   {
+    "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
+    "link": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
+    "summary": "JPMorgan CEO Jamie Dimon says AI spending across the hyperscaler ecosystem could reach $1 trillion next year as investment continues to surge.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-22T01:30:01+00:00"
+  },
+  {
     "title": "CNBC's The China Connection newsletter: Five things to watch for the Trump-Xi summit",
     "link": "https://www.cnbc.com/2026/09/22/cnbcs-the-china-connection-newsletter-watch-this-at-trump-xi-summit.html",
     "summary": "Many in China sound far more optimistic than those in the U.S. about the bilateral relationship, ahead of a highly anticipated summit this week.",
@@ -754,12 +761,5 @@
     "summary": "",
     "source": "Yahoo Finance",
     "pub_iso": "2026-09-21T08:02:14+00:00"
-  },
-  {
-    "title": "Nvidia's CEO Huang says there's a \u20180% chance\u2019 AI ends the world \u2014 4 AI giants are sued over an alleged pact to slow it",
-    "link": "https://finance.yahoo.com/technology/ai/articles/nvidias-ceo-huang-says-theres-073500742.html",
-    "summary": "",
-    "source": "Yahoo Finance",
-    "pub_iso": "2026-09-21T07:35:00+00:00"
   }
 ]
