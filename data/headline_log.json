@@ -1,5 +1,68 @@
 [
   {
+    "title": "Princeton\u2019s 15-year run as the nation\u2019s top-ranked university is over. MIT is now No. 1.",
+    "link": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
+    "summary": "A change in methodology in the U.S. News rankings helped boost schools where students have high earnings",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-22T12:43:00+00:00"
+  },
+  {
+    "title": "Kalshi asks CFTC to allow margin trading on its platform, letting users buy with borrowed funds",
+    "link": "https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html",
+    "summary": "It's the latest move by the company as it and other event contract exchanges seek to gain greater participation by institutional traders.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-22T12:28:51+00:00"
+  },
+  {
+    "title": "Oil falls to two-week low as Gulf supply outlook improves",
+    "link": "https://finance.yahoo.com/energy/articles/oil-rises-slightly-ahead-potential-003404571.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-22T12:28:03+00:00"
+  },
+  {
+    "title": "3M\u2019s CEO Says the Turnaround Is Ahead of Schedule, But PFAS Litigation Keeps Resurfacing",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/3m-ceo-says-turnaround-ahead-122451020.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-22T12:24:51+00:00"
+  },
+  {
+    "title": "Wall Street and AI ruined your \u2018diversified\u2019 portfolio",
+    "link": "https://www.marketwatch.com/story/wall-street-and-ai-ruined-your-diversified-portfolio-f1255373?mod=mw_rss_topstories",
+    "summary": "AI is everywhere, leaving investors exposed if the technology doesn\u2019t pan out as expected.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-22T12:24:00+00:00"
+  },
+  {
+    "title": "Multifamily REITs Are Finally Showing Signs of Recovery \u2014 Why Baron Increased UDR (UDR)",
+    "link": "https://finance.yahoo.com/real-estate/articles/multifamily-reits-finally-showing-signs-122342590.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-22T12:23:42+00:00"
+  },
+  {
+    "title": "Saudi Arabia Reportedly Restarts East-West Pipeline",
+    "link": "https://finance.yahoo.com/energy/articles/saudi-arabia-reportedly-restarts-east-122302773.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-22T12:23:02+00:00"
+  },
+  {
+    "title": "5 really bad reasons to file for Social Security at 70 \u2014 are you waiting way too long to get your checks?",
+    "link": "https://finance.yahoo.com/small-business/articles/5-really-bad-reasons-file-121500906.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-22T12:15:00+00:00"
+  },
+  {
+    "title": "Jim Cramer Praises OKTA for Tackling AI Security Threats",
+    "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-praises-okta-tackling-121305938.html",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-22T12:13:05+00:00"
+  },
+  {
     "title": "Netskope (NTSK): Eight Analysts Raised Targets on the AI Security Opportunity, But the Cash Burn Is Real",
     "link": "https://finance.yahoo.com/markets/stocks/articles/netskope-ntsk-eight-analysts-raised-120822344.html",
     "summary": "",
@@ -12,6 +75,13 @@
     "summary": "",
     "source": "Yahoo Finance",
     "pub_iso": "2026-09-22T12:02:56+00:00"
+  },
+  {
+    "title": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Oil Prices, Treasury Yields Extend Losses (Live Coverage)",
+    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&yptr=yahoo",
+    "summary": "",
+    "source": "Yahoo Finance",
+    "pub_iso": "2026-09-22T12:01:55+00:00"
   },
   {
     "title": "'We simply don't know': JPMorgan waves the white flag forecasting where oil prices will go due to Iran War",
@@ -677,12 +747,5 @@
     "summary": "They're the latest metrics on how much the new Medicare coverage is expanding access to GLP-1 medicines since it launched in July.",
     "source": "CNBC",
     "pub_iso": "2026-09-21T19:37:01+00:00"
-  },
-  {
-    "title": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
-    "link": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html",
-    "summary": "",
-    "source": "Yahoo Finance",
-    "pub_iso": "2026-09-21T18:17:21+00:00"
   }
 ]
