@@ -1,5 +1,12 @@
 [
   {
+    "title": "Taiwan benchmark Taiex rises to record intraday high as tech stocks advance",
+    "link": "https://www.cnbc.com/2026/09/22/taiwans-taiex-hits-record-intraday-high-as-tech-stocks-advance.html",
+    "summary": "Taiwan's benchmark Taiex rose to a record intraday high Tuesday, driven by gains in the tech sector, following an AI-driven rally on Wall Street.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-22T03:33:20+00:00"
+  },
+  {
     "title": "Here's who we know is going to the Trump-Xi dinner so far",
     "link": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
     "summary": "Very little is known about which Chinese business executives, if any, are expected to attend.",
@@ -201,6 +208,13 @@
     "summary": "",
     "source": "Yahoo Finance",
     "pub_iso": "2026-09-21T14:37:00+00:00"
+  },
+  {
+    "title": "Iranian President Pezeshkian to head to New York for UN meeting as Trump warns of no-deal consequences",
+    "link": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
+    "summary": "Trump threatened to destroy Iran's economy or eliminate its leadership if Tehran doesn't strike a deal, complicating efforts at diplomacy.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-21T14:20:48+00:00"
   },
   {
     "title": "Is Archer Aviation Stock a No-Brainer Buy While It's Trading Near $5?",
@@ -656,54 +670,5 @@
     "summary": "",
     "source": "Yahoo Finance",
     "pub_iso": "2026-09-21T09:41:21+00:00"
-  },
-  {
-    "title": "Russia\u2019s pro-Putin party set to win election as Ukraine exposes war\u2019s growing reach into Moscow",
-    "link": "https://www.cnbc.com/2026/09/21/russia-election-putin-moscow-attack-ukraine.html",
-    "summary": "Ukraine launched more than 1,000 drones at Russia on the State Duma election\u2019s final day, including hundreds targeting Moscow.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-21T09:36:23+00:00"
-  },
-  {
-    "title": "Sam Altman dropped out of Stanford to build an app almost nobody used \u2014 it still sold for $43.4 million",
-    "link": "https://finance.yahoo.com/technology/articles/sam-altman-dropped-stanford-build-093000834.html",
-    "summary": "",
-    "source": "Yahoo Finance",
-    "pub_iso": "2026-09-21T09:30:00+00:00"
-  },
-  {
-    "title": "U.S.-listed Greenland stocks surge after Trump announces security deal with Denmark",
-    "link": "https://www.cnbc.com/2026/09/21/greenland-trump-denmark-deal-stocks-mining.html",
-    "summary": "The rally followed a U.S.-Denmark-Greenland security pact aimed at expanding the military presence on the Arctic territory.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-21T09:23:04+00:00"
-  },
-  {
-    "title": "Novo Nordisk stock gets drilled on pipeline concerns\u2014 its CEO sees this as the main problem",
-    "link": "https://finance.yahoo.com/markets/stocks/article/novo-nordisk-stock-gets-drilled-on-pipeline-concerns-its-ceo-sees-this-as-the-main-problem-091933221.html",
-    "summary": "",
-    "source": "Yahoo Finance",
-    "pub_iso": "2026-09-21T09:19:33+00:00"
-  },
-  {
-    "title": "Novo shares slide as drugmaker lays out post-Wegovy growth strategy",
-    "link": "https://www.cnbc.com/2026/09/21/novo-nordisk-stock-sales-target-obesity-drugs.html",
-    "summary": "The Danish company seeks to convince investors it can compete in an increasingly crowded field it helped pioneer.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-21T09:16:44+00:00"
-  },
-  {
-    "title": "My husband and I are in our 50s and have no kids. We have $2 million. Do we need a will?",
-    "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-    "summary": "\u201cWe have no debt and own our primary home, a vacation home, as well as my mother\u2019s home in another state.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-09-21T09:15:00+00:00"
-  },
-  {
-    "title": "Kylie Jenner sells California mansion for $5 million below asking",
-    "link": "https://www.marketwatch.com/story/kylie-jenner-sells-california-mansion-for-5-million-below-asking-a6f2bb38?mod=mw_rss_topstories",
-    "summary": "Reality TV superstar and fashion mogul Kylie Jenner has finally found a buyer for her longtime California mansion, offloading the home for $15.3 million.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-09-21T09:05:00+00:00"
   }
 ]
