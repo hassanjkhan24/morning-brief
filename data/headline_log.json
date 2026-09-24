@@ -1,5 +1,12 @@
 [
   {
+    "title": "Chinese authorities reportedly in possession of F-35 components in Hong Kong",
+    "link": "https://www.cnbc.com/2026/09/24/chinaf-f35-components-hong-kong.html",
+    "summary": "Shipping giant UPS was sending a cockpit canopy and weapons bay door to the U.S. from Australia in late May when it was diverted to Hong Kong.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-24T01:16:34+00:00"
+  },
+  {
     "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push",
     "link": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
     "summary": "Meta CEO Mark Zuckerberg reveals $1,299 Meta VR Glasses and Muse Charm gadget for AI agents.",
@@ -19,6 +26,13 @@
     "summary": "The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said, noting the need for Beijing to fulfill more deliverables.",
     "source": "CNBC",
     "pub_iso": "2026-09-23T23:59:39+00:00"
+  },
+  {
+    "title": "\u2018It doesn\u2019t seem fair\u2019: I\u2019m retired and have plenty of money. Why can\u2019t I qualify for a retail credit card?",
+    "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+    "summary": "\u201cI draw from my IRA as needed for household repairs, trips and other larger expenses.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-23T23:15:00+00:00"
   },
   {
     "title": "Micron\u2019s stock has become a \u2018battleground\u2019 as the AI narrative shifts",
@@ -957,12 +971,5 @@
     "summary": "Recent weeks have seen AI safety fears reach new heights. That will be a key focus for the U.S. and Chinese premiers, analysts told CNBC.",
     "source": "CNBC",
     "pub_iso": "2026-09-23T07:48:58+00:00"
-  },
-  {
-    "title": "Fed's Collins warns inflation could be 'notably' higher after backing rate hike",
-    "link": "https://www.cnbc.com/2026/09/23/federal-reserve-inflation-interest-rates-ecb.html",
-    "summary": "There is \"an increased likelihood\" of inflation staying \"notably\" above the Federal Reserve's 2% target, Boston Federal Reserve President Susan Collins said.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-23T07:33:14+00:00"
   }
 ]
