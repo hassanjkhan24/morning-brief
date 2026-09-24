@@ -1,5 +1,12 @@
 [
   {
+    "title": "Oil falls on report Asia will import highest volume of crude since start of Iran war",
+    "link": "https://www.cnbc.com/2026/09/24/oil-iran-crude-kepler-trump-us-un-.html",
+    "summary": "Oil fell Thursday, as traders assess a report that Asia is on track to import its highest volume of crude oil since the start of the US-Iran war.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-24T02:12:15+00:00"
+  },
+  {
     "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push",
     "link": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
     "summary": "At Meta Connect, CEO Mark Zuckerberg revealed new VR Glasses and the Muse Charm gadget for AI agents.",
@@ -12,6 +19,13 @@
     "summary": "Very little is known about which Chinese business executives, if any, are expected to attend.",
     "source": "CNBC",
     "pub_iso": "2026-09-24T01:54:35+00:00"
+  },
+  {
+    "title": "Japan's 10-year bond yield hits 30-year high following sell-off in Treasurys",
+    "link": "https://www.cnbc.com/2026/09/24/japan-jgb-bond-yield-treasurys.html",
+    "summary": "Japanese 10-year government bond yield rose to a 30-year high on Thursday, following a surge in Treasury yields.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-24T01:38:45+00:00"
   },
   {
     "title": "Chinese authorities reportedly in possession of F-35 components in Hong Kong",
@@ -936,40 +950,5 @@
     "summary": "Oil prices were mixed Wednesday, amid hopes of a diplomatic solution to the conflict in the Middle East after Iran and the U.S. had talks.",
     "source": "CNBC",
     "pub_iso": "2026-09-23T08:36:50+00:00"
-  },
-  {
-    "title": "Soybeans, planes and rare earths: What they say about fragile U.S.-China trade truce",
-    "link": "https://www.cnbc.com/2026/09/23/trump-xi-summit-us-china-trade-rare-earth-soybean-plane.html",
-    "summary": "Uneven delivery on soybean, plane and rare earths commitments points to a fragile U.S.-China trade truce, with both sides upholding a careful d\u00e9tente.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-23T08:25:41+00:00"
-  },
-  {
-    "title": "This oil giant has lagged its leading rivals through two energy crises. Now one Wall Street giant says it\u2019s time to buy.",
-    "link": "https://www.marketwatch.com/story/this-oil-giant-has-lagged-its-leading-rivals-through-two-energy-crises-now-one-wall-street-giant-says-its-time-to-buy-987838c3?mod=mw_rss_topstories",
-    "summary": "Integrated oil giant BP has lagged its closest rivals over the last three to five years, but now one leading Wall Street firm says it\u2019s time to buy the beleaguered company.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-09-23T08:24:00+00:00"
-  },
-  {
-    "title": "This oil giant has lagged behind its leading rivals through two energy crises. Now one Wall Street giant says it\u2019s time to buy.",
-    "link": "https://www.marketwatch.com/story/this-oil-giant-has-lagged-its-leading-rivals-through-two-energy-crises-now-one-wall-street-giant-says-its-time-to-buy-987838c3?mod=mw_rss_topstories",
-    "summary": "Oil giant BP has lagged behind its closest rivals over the last three to five years, but now one leading Wall Street firm says it\u2019s time to buy the beleaguered company\u2019s stock.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-09-23T08:24:00+00:00"
-  },
-  {
-    "title": "Stock market today: Dow, S&P 500, Nasdaq futures muted as oil falls, markets eye looming Trump-Xi meeting",
-    "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
-    "summary": "",
-    "source": "Yahoo Finance",
-    "pub_iso": "2026-09-23T08:05:56+00:00"
-  },
-  {
-    "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as oil steadies, markets eye looming Trump-Xi meeting",
-    "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
-    "summary": "",
-    "source": "Yahoo Finance",
-    "pub_iso": "2026-09-23T08:05:56+00:00"
   }
 ]
