@@ -1,10 +1,31 @@
 [
   {
+    "title": "NIH funding cuts delayed a promising childhood brain cancer trial. Patients lost time they didn't have",
+    "link": "https://www.cnbc.com/2026/09/25/nih-cuts-delayed-a-cancer-trial-patients-lost-time-they-didnt-have.html",
+    "summary": "A delayed clinical trial underscores the stakes of federal research funding cuts for children with DIPG, a deadly brain tumor with few treatment options.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-25T12:18:12+00:00"
+  },
+  {
+    "title": "I\u2019m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
+    "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
+    "summary": "\u201cI am a retired senior citizen living check-to-check.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-25T12:15:00+00:00"
+  },
+  {
     "title": "How to keep profiting from AI while shielding your portfolio against the risk of a slowdown",
     "link": "https://www.marketwatch.com/story/how-to-keep-profiting-from-ai-while-shielding-your-portfolio-against-the-risk-of-a-slowdown-a5801291?mod=mw_rss_topstories",
     "summary": "Jamie Wilhelm and Sunit Gogia of Fort Washington Investment Advisors expect the AI wave to continue, but describe leading indicators of an eventual downturn.",
     "source": "MarketWatch",
     "pub_iso": "2026-09-25T12:05:00+00:00"
+  },
+  {
+    "title": "Microsoft packages business AI in single app as it tries to compete with Anthropic",
+    "link": "https://www.cnbc.com/2026/09/25/microsoft-copilot-ai-coding-anthropic.html",
+    "summary": "With Microsoft still searching for a winning AI strategy, the company its updating its Copilot app to combine more capabilities.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-25T12:00:02+00:00"
   },
   {
     "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
@@ -376,12 +397,5 @@
     "summary": "Oracle is reportedly looking to delay payment on Project Jupiter if the data center fails to come online in 2028",
     "source": "CNBC",
     "pub_iso": "2026-09-24T20:00:31+00:00"
-  },
-  {
-    "title": "Bond liquidation wrecks small caps. Here's how bad some traders see it getting",
-    "link": "https://www.cnbc.com/2026/09/24/bond-liquidation-wrecks-small-caps-heres-how-bad-some-traders-see-it-getting.html",
-    "summary": "While the S&P 500 powers through rising bond yields and higher crude oil prices, one section of the U.S. stock market is falling behind.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-24T18:22:51+00:00"
   }
 ]
