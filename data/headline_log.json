@@ -1,10 +1,31 @@
 [
   {
+    "title": "SpaceX launches its massive Starship rocket into orbit for the first time",
+    "link": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
+    "summary": "Elon Musk's SpaceX launched a historic test flight of its massive Starship rocket early Monday.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-28T13:23:01+00:00"
+  },
+  {
+    "title": "Five arrested over alleged bomb plot at UK air base used by U.S.; Iran denies link",
+    "link": "https://www.cnbc.com/2026/09/28/iran-war-trump-hormuz.html",
+    "summary": "U.K. counterterrorism police are understood to be investigating a potential link with Iran after an alleged bomb threat against an air base hosting U.S. forces.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-28T13:16:42+00:00"
+  },
+  {
     "title": "SpaceX launches Starship rocket in bid to reach orbit for first time",
     "link": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
     "summary": "Elon Musk's SpaceX launched a historic test flight of its massive Starship rocket early Monday.",
     "source": "CNBC",
     "pub_iso": "2026-09-28T13:09:06+00:00"
+  },
+  {
+    "title": "Nvidia share buyback plan gets $150 billion boost",
+    "link": "https://www.cnbc.com/2026/09/28/nvidia-share-buyback-plan-gets-150-billion-boost.html",
+    "summary": "Nvidia said the buyback boost marks the largest share repurchase authorization increase in history.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-28T13:08:00+00:00"
   },
   {
     "title": "Meta hires MongoDB CEO CJ Desai, sending shares of data services company down",
@@ -292,19 +313,5 @@
     "summary": "TV ads featuring Trump are expanding nationally, prompting bipartisan questions over whether they comply with restrictions on taxpayer-funded publicity.",
     "source": "CNBC",
     "pub_iso": "2026-09-27T21:38:59+00:00"
-  },
-  {
-    "title": "A \u2018death cross\u2019 is coming for the dollar. Why Trump will be happy.",
-    "link": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
-    "summary": "Don\u2019t look now, but there are some technical reasons to believe that U.S. Treasury Secretary Scott Bessent was right when he declared to the financial markets that \u201cI am the house now.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-09-27T19:21:00+00:00"
-  },
-  {
-    "title": "Anthropic CEO Amodei set to meet with Trump after missing state dinner",
-    "link": "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html",
-    "summary": "As top tech CEOs rubbed elbows at President Trump's glitzy dinner for Chinese President Xi on Thursday, Anthropic's CEO was noticeably absent.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-27T19:13:27+00:00"
   }
 ]
