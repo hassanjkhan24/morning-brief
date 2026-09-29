@@ -1,5 +1,19 @@
 [
   {
+    "title": "Australia raises benchmark rates to 15-year high as it fights sticky inflation",
+    "link": "https://www.cnbc.com/2026/09/29/australia-rates-inflation-monetary-policy.html",
+    "summary": "The hike of 25 basis points was in line with expectations by economists polled by Reuters.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-29T04:41:16+00:00"
+  },
+  {
+    "title": "U.S., Iran hold separate mediator talks as Mideast oil exports hit war-time high",
+    "link": "https://www.cnbc.com/2026/09/29/us-iran-war-trump-hormuz-.html",
+    "summary": "Iranian and U.S. officials reportedly met separately with mediators Monday to push for a ceasefire, as Middle Eastern crude exports rebounded to war-time high.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-29T04:02:47+00:00"
+  },
+  {
     "title": "Senate advances college sports bill aimed at regulating NIL deals",
     "link": "https://www.cnbc.com/2026/09/28/college-sports-bill-senate-nil.html",
     "summary": "The Senate voted Monday on the bill, which would create a national framework for name, image and likeness deals in college athletics.",
@@ -313,19 +327,5 @@
     "summary": "The note was brief, but the implications are big: The chief economist of private-equity giant Apollo Global Management thinks agentic AI could spark a bank run.",
     "source": "MarketWatch",
     "pub_iso": "2026-09-28T10:47:00+00:00"
-  },
-  {
-    "title": "The history of this market bad breadth signal points to ominous risks ahead",
-    "link": "https://www.marketwatch.com/story/the-history-of-this-market-bad-breadth-signal-points-to-ominous-risks-ahead-ad77e065?mod=mw_rss_topstories",
-    "summary": "Not since the dotcom bubble have stocks thrown up this concerning metric.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-09-28T10:45:00+00:00"
-  },
-  {
-    "title": "Oil prices jump over 4% as Trump rejects Iranian proposal to reopen Strait of Hormuz",
-    "link": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
-    "summary": "Oil prices jumped on Monday after U.S. President Donald Trump rejected an Iranian peace proposal aimed at ending the conflict.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-28T10:39:22+00:00"
   }
 ]
