@@ -1,5 +1,12 @@
 [
   {
+    "title": "The stock market usually booms in the November-to-April stretch. This indicator suggests otherwise.",
+    "link": "https://www.marketwatch.com/story/the-stock-market-usually-booms-in-the-november-to-april-stretch-this-indicator-suggests-otherwise-f30a744e?mod=mw_rss_topstories",
+    "summary": "Jim Paulsen thinks lagged indicators suggest the usual \u2018best buying season\u2019 for stocks may not be applicable this time and backtesting his model to 1970 shows meagre returns.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-29T07:05:00+00:00"
+  },
+  {
     "title": "Luckin Coffee weighs entry into Middle East markets, chairman tells CNBC",
     "link": "https://www.cnbc.com/2026/09/29/luckin-coffee-mubadala-middle-east-temasek-centurium-capital.html",
     "summary": "Luckin is weighing a push into Middle East markets while deepening its foothold in Southeast Asia, with backing from sovereign wealth funds in both regions.",
@@ -250,33 +257,5 @@
     "summary": "U.K. counterterrorism police are understood to be investigating a potential link with Iran after an alleged bomb threat against an air base hosting U.S. forces.",
     "source": "CNBC",
     "pub_iso": "2026-09-28T13:16:42+00:00"
-  },
-  {
-    "title": "SpaceX launches Starship rocket in bid to reach orbit for first time",
-    "link": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
-    "summary": "Elon Musk's SpaceX launched a historic test flight of its massive Starship rocket early Monday.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-28T13:09:06+00:00"
-  },
-  {
-    "title": "Nvidia share buyback plan gets $150 billion boost",
-    "link": "https://www.cnbc.com/2026/09/28/nvidia-share-buyback-plan-gets-150-billion-boost.html",
-    "summary": "Nvidia said the buyback boost marks the largest share repurchase authorization increase in history.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-28T13:08:00+00:00"
-  },
-  {
-    "title": "Meta hires MongoDB CEO CJ Desai, sending shares of data services company down",
-    "link": "https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html",
-    "summary": "",
-    "source": "CNBC",
-    "pub_iso": "2026-09-28T12:56:24+00:00"
-  },
-  {
-    "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
-    "link": "https://www.cnbc.com/2026/09/28/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-    "summary": "The relentless climb in bond yields continues, and Nvidia adds $150 billion to its buyback program.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-28T12:50:24+00:00"
   }
 ]
