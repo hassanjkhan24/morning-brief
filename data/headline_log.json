@@ -1,5 +1,12 @@
 [
   {
+    "title": "Treasury yields move lower as inflation concerns persist",
+    "link": "https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html",
+    "summary": "Treasury yields dipped early Tuesday amid persistent concerns over inflationary pressures.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-29T07:52:47+00:00"
+  },
+  {
     "title": "CNBC Daily Open: AI\u2019s creators sound the alarm \u2014 while others keep building the infrastructure",
     "link": "https://www.cnbc.com/2026/09/29/daily-open-ai-nvidia-anthropic-openai-samsung.html",
     "summary": "When the AI boom first took off, companies were competing to see what their AI models can do. Now, they reassure investors of what their models CAN'T do.",
@@ -250,5 +257,12 @@
     "summary": "Almost half of the stocks in the S&P 500 have a negative beta, evidence of a chasm between the entire index and its individual components.",
     "source": "CNBC",
     "pub_iso": "2026-09-28T17:53:31+00:00"
+  },
+  {
+    "title": "SpaceX launches its massive Starship rocket into orbit for the first time",
+    "link": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
+    "summary": "Elon Musk's SpaceX launched a historic test flight of its massive Starship rocket early Monday.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-28T16:01:50+00:00"
   }
 ]
