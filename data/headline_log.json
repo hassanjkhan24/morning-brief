@@ -1,5 +1,26 @@
 [
   {
+    "title": "Oil extends gains as Middle East supply concerns persist",
+    "link": "https://www.cnbc.com/2026/09/29/oil-prices-today-brent-wti-hormuz.html",
+    "summary": "Oil rose after Iranian officials were reportedly pessimistic over a deal before U.S. midterm elections.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-29T01:32:02+00:00"
+  },
+  {
+    "title": "Anthropic\u2019s potential $2 trillion IPO comes with the following fine print",
+    "link": "https://www.marketwatch.com/story/anthropics-potential-2-trillion-ipo-comes-with-the-following-fine-print-99d3cb90?mod=mw_rss_topstories",
+    "summary": "Anthropic\u2019s revenue grew over 10-fold in 2025, but the cost of training and serving its models is also climbing.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-29T01:31:00+00:00"
+  },
+  {
+    "title": "Luckin Coffee, flush with investor cash, weighs entry into Middle East markets",
+    "link": "https://www.cnbc.com/2026/09/29/luckin-coffee-mubadala-middle-east-temasek-centurium-capital.html",
+    "summary": "Luckin is weighing a push into Middle East markets while deepening its foothold in Southeast Asia, with backing from sovereign wealth funds in both regions.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-29T01:10:41+00:00"
+  },
+  {
     "title": "Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets",
     "link": "https://www.cnbc.com/2026/09/29/luckin-coffee-mubadala-middle-east-temasek-centurium-capital.html",
     "summary": "Luckin is weighing a push into Gulf markets while deepening its foothold in Southeast Asia, with backing from sovereign wealth funds in both regions.",
@@ -35,11 +56,25 @@
     "pub_iso": "2026-09-28T23:00:01+00:00"
   },
   {
+    "title": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?",
+    "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+    "summary": "\u201cAs a country, we have grown dangerously comfortable.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-28T23:00:00+00:00"
+  },
+  {
     "title": "LeBron James is already boosting ticket and merchandise demand for Philadelphia 76ers",
     "link": "https://www.cnbc.com/2026/09/28/lebron-james-boosts-ticket-jersey-demand-for-nba-philadelphia-76ers.html",
     "summary": "NBA star LeBron James is having a major financial impact on the Philadelphia 76ers and Philadelphia, boosting sponsorships, ticket sales and economic activity",
     "source": "CNBC",
     "pub_iso": "2026-09-28T22:49:39+00:00"
+  },
+  {
+    "title": "\u2018I want to make her proud\u2019: My mother, a divorc\u00e9e, died and I\u2019m her executor. Do I need to file for probate?",
+    "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+    "summary": "\u201cThe only debts were utility and credit-card bills, which we will pay off.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-28T22:45:00+00:00"
   },
   {
     "title": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
@@ -124,6 +159,13 @@
     "summary": "Environmental groups had called for Supreme Court Justice Samuel Alito to recuse himself from the case involving ExxonMobil and Suncor Energy.",
     "source": "CNBC",
     "pub_iso": "2026-09-28T20:13:00+00:00"
+  },
+  {
+    "title": "Meta's splashy new business AI hire offers yet another reason to bank on Zuckerberg",
+    "link": "https://www.cnbc.com/2026/09/28/metas-splashy-new-business-ai-hire-offers-yet-another-reason-to-bank-on-zuckerberg.html",
+    "summary": "By poaching MongoDB's CJ Desai, Mark Zuckerberg shows he's serious about building an enterprise AI business.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-28T20:01:16+00:00"
   },
   {
     "title": "Anthropic launches cheaper AI model, its second release since CEO's call for a slowdown",
@@ -355,19 +397,5 @@
     "summary": "Chinese president's state visit to Washington appears to have produced more personal diplomacy than breakthroughs.",
     "source": "CNBC",
     "pub_iso": "2026-09-28T07:39:36+00:00"
-  },
-  {
-    "title": "UK police 'investigate Iran link' to alleged bomb threat against base hosting U.S. Air Force",
-    "link": "https://www.cnbc.com/2026/09/28/iran-war-trump-hormuz.html",
-    "summary": "U.K. counter-terrorism police are understood to be investigating a potential link with Iran after an alleged bomb threat against an air base hosting U.S. forces",
-    "source": "CNBC",
-    "pub_iso": "2026-09-28T07:30:14+00:00"
-  },
-  {
-    "title": "Northern Star shares pop as Australia's largest gold miner rejects $27 billion takeover proposal",
-    "link": "https://www.cnbc.com/2026/09/28/northern-star-shares-gold-fields-takeover-bid.html",
-    "summary": "Northern Star shares jumped after the Australian gold miner rejected a takeover proposal from Gold Fields.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-28T07:12:06+00:00"
   }
 ]
