@@ -1,5 +1,26 @@
 [
   {
+    "title": "Alaska Airlines unveils massive premium cabin overhaul in high-end travel race",
+    "link": "https://www.cnbc.com/2026/09/29/alaska-airlines-hawaiian-new-cabins.html",
+    "summary": "Alaska Airlines is overhauling its Alaska and Hawaiian cabins to include brand-new top-tier suites, a premium economy class and other features.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-29T12:05:37+00:00"
+  },
+  {
+    "title": "Taking Ozempic and worried about vision loss? This test can help you understand your risk.",
+    "link": "https://www.marketwatch.com/story/taking-ozempic-a-routine-eye-exam-could-help-you-understand-your-risk-for-vision-loss-3392c1a0?mod=mw_rss_topstories",
+    "summary": "Some research suggests that GLP-1 drugs may raise the risk of a rare eye disease that causes full or partial vision loss.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-29T12:03:00+00:00"
+  },
+  {
+    "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
+    "link": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
+    "summary": "Lisa Mantil, after a nearly three-decade run at Goldman, will join the prediction market's team to attract institutional traders.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-29T12:00:33+00:00"
+  },
+  {
     "title": "Higher rates are wreaking havoc on these two ETFs. Traders see one bouncing back",
     "link": "https://www.cnbc.com/2026/09/29/higher-rates-are-wreaking-havoc-on-these-two-etfs-traders-see-one-bouncing-back.html",
     "summary": "The relentless surge in rates is breaking the back of two key macro trades that had been holding firm.",
@@ -47,6 +68,13 @@
     "summary": "The investment puts Canada on course to become a leading LNG exporter as global supply disruptions sharpen focus on energy security.",
     "source": "CNBC",
     "pub_iso": "2026-09-29T10:32:42+00:00"
+  },
+  {
+    "title": "Nominate a leader for the 2027 CNBC Changemakers list of women transforming business",
+    "link": "https://www.cnbc.com/2026/09/29/2027-cnbc-changemakers-nominate-leader-women-transforming-business.html",
+    "summary": "CNBC is now accepting nominations for its annual Changemakers list of women leading and disrupting in business, from the S&P 500 to sports and philanthropy.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-29T10:15:24+00:00"
   },
   {
     "title": "Smart ring maker Oura postpones IPO due to market 'uncertainty'",
@@ -131,6 +159,13 @@
     "summary": "The decree marks the fourth increase in Russia\u2019s military staffing levels this year as the war in Ukraine continues into a fifth winter.",
     "source": "CNBC",
     "pub_iso": "2026-09-29T08:44:42+00:00"
+  },
+  {
+    "title": "Anthropic warns investors of AI\u2019s 'existential risk to humanity' in IPO prospectus, reports say",
+    "link": "https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html",
+    "summary": "Anthropic's IPO filing dedicates 80 pages to the risks of AI, nearly double the 48 pages it spends discussing its business plans, according to Reuters.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-29T08:43:59+00:00"
   },
   {
     "title": "Mistral CEO says U.S. AI safety debate masks competitors\u2019 'negligence'",
@@ -397,19 +432,5 @@
     "summary": "By poaching MongoDB's CJ Desai, Mark Zuckerberg shows he's serious about building an enterprise AI business.",
     "source": "CNBC",
     "pub_iso": "2026-09-28T20:01:16+00:00"
-  },
-  {
-    "title": "Anthropic launches cheaper AI model, its second release since CEO's call for a slowdown",
-    "link": "https://www.cnbc.com/2026/09/28/anthropic-sonnet-5-5-launch.html",
-    "summary": "The company said Sonnet 5.5 doesn't advance the frontier, but that it is better at coding and knowledge work tasks than its predecessor.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-28T18:00:06+00:00"
-  },
-  {
-    "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
-    "link": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
-    "summary": "Almost half of the stocks in the S&P 500 have a negative beta, evidence of a chasm between the entire index and its individual components.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-28T17:53:31+00:00"
   }
 ]
