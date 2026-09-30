@@ -1,5 +1,12 @@
 [
   {
+    "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
+    "link": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
+    "summary": "China must \"respond firmly\" if the EU introduces restrictions on Chinese businesses or products, the Commerce Ministry said, according to a CNBC translation.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-30T02:31:30+00:00"
+  },
+  {
     "title": "China factory activity snaps 2-month contractionary streak in September",
     "link": "https://www.cnbc.com/2026/09/30/china-manufacturing-exports-capacity-economy-.html",
     "summary": "China's factory activity returned to growth in September as a deepening economic malaise prompts policymakers to ramp up stimulus steps and bolster growth.",
@@ -411,19 +418,5 @@
     "summary": "Anthropic's IPO filing dedicates 80 pages to the risks of AI, nearly double the 48 pages it spends discussing its business plans, according to Reuters.",
     "source": "CNBC",
     "pub_iso": "2026-09-29T08:43:59+00:00"
-  },
-  {
-    "title": "Mistral CEO says U.S. AI safety debate masks competitors\u2019 'negligence'",
-    "link": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
-    "summary": "Mistral CEO Arthur Mensch criticized rivals\u2019 AI safety arguments as the industry faces scrutiny after several AI agents took unauthorized actions.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-29T08:20:04+00:00"
-  },
-  {
-    "title": "Treasury yields ease as inflation concerns persist",
-    "link": "https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html",
-    "summary": "Treasury yields eased early Tuesday amid persistent concerns over inflationary pressures.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-29T08:17:15+00:00"
   }
 ]
