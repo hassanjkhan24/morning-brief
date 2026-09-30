@@ -1,5 +1,12 @@
 [
   {
+    "title": "China factory activity snaps 2-month contractionary streak in September",
+    "link": "https://www.cnbc.com/2026/09/30/china-manufacturing-exports-capacity-economy-.html",
+    "summary": "China's factory activity returned to growth in September as a deepening economic malaise prompts policymakers to ramp up stimulus steps and bolster growth.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-30T01:52:50+00:00"
+  },
+  {
     "title": "China factory activity expands for first time in three months in September",
     "link": "https://www.cnbc.com/2026/09/30/china-manufacturing-exports-capacity-economy-.html",
     "summary": "China's factory activity returned to growth in September as a deepening economic malaise prompts policymakers to ramp up stimulus steps and bolster growth.",
@@ -418,12 +425,5 @@
     "summary": "Treasury yields eased early Tuesday amid persistent concerns over inflationary pressures.",
     "source": "CNBC",
     "pub_iso": "2026-09-29T08:17:15+00:00"
-  },
-  {
-    "title": "Treasury yields move lower as inflation concerns persist",
-    "link": "https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html",
-    "summary": "Treasury yields dipped early Tuesday amid persistent concerns over inflationary pressures.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-29T07:52:47+00:00"
   }
 ]
