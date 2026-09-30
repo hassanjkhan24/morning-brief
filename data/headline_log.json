@@ -1,10 +1,24 @@
 [
   {
+    "title": "China factory activity expands for first time in three months in September",
+    "link": "https://www.cnbc.com/2026/09/30/china-manufacturing-exports-capacity-economy-.html",
+    "summary": "China's factory activity returned to growth in September as a deepening economic malaise prompts policymakers to ramp up stimulus steps and bolster growth.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-30T01:37:29+00:00"
+  },
+  {
     "title": "\u2018I have $400,000 in equity\u2019: I\u2019m 80. Should I sell my house because of dangerous stairs \u2014 or spend thousands renovating?",
     "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
     "summary": "\u201cGenerally, the advice I\u2019ve read says not to sell because I have a low-interest-rate mortgage.\u201d",
     "source": "MarketWatch",
     "pub_iso": "2026-09-30T01:00:00+00:00"
+  },
+  {
+    "title": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+    "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+    "summary": "\u201cWhen my paycheck lands, it takes a detour through bitcoin.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-30T00:30:00+00:00"
   },
   {
     "title": "Hedge funds hold a record share of the $30 trillion Treasury market. What could go wrong?",
@@ -19,6 +33,13 @@
     "summary": "\u201cI am a retired senior citizen living check-to-check.\u201d",
     "source": "MarketWatch",
     "pub_iso": "2026-09-29T23:30:00+00:00"
+  },
+  {
+    "title": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?",
+    "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+    "summary": "\u201cAs a country, we have grown dangerously comfortable.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-29T23:03:00+00:00"
   },
   {
     "title": "Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue",
@@ -68,6 +89,13 @@
     "summary": "A Jefferies analyst sees Target \u201cprioritizing the health of the franchise over short-term profit optimization.\u201d",
     "source": "MarketWatch",
     "pub_iso": "2026-09-29T21:33:00+00:00"
+  },
+  {
+    "title": "\u2018I want to make her proud\u2019: My mother, a divorc\u00e9e, died and I\u2019m her executor. Do I need to file for probate?",
+    "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+    "summary": "\u201cThe only debts were utility and credit-card bills, which we will pay off.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-29T21:30:00+00:00"
   },
   {
     "title": "Ford CEO says it's 'too late' for Europe to fend off Chinese automakers, but not for U.S.",
@@ -397,12 +425,5 @@
     "summary": "Treasury yields dipped early Tuesday amid persistent concerns over inflationary pressures.",
     "source": "CNBC",
     "pub_iso": "2026-09-29T07:52:47+00:00"
-  },
-  {
-    "title": "CNBC Daily Open: AI\u2019s creators sound the alarm \u2014 while others keep building the infrastructure",
-    "link": "https://www.cnbc.com/2026/09/29/daily-open-ai-nvidia-anthropic-openai-samsung.html",
-    "summary": "When the AI boom first took off, companies were competing to see what their AI models can do. Now, they reassure investors of what their models CAN'T do.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-29T07:27:18+00:00"
   }
 ]
