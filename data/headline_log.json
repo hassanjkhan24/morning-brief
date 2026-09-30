@@ -1,5 +1,26 @@
 [
   {
+    "title": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
+    "link": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
+    "summary": "Following Trump's lunch with AI leaders at the White House, the industry remains largely unchanged on AI safety.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-30T11:09:16+00:00"
+  },
+  {
+    "title": "Mortgage rates jump for the sixth straight week, hitting both refinance and homebuyer demand hard",
+    "link": "https://www.cnbc.com/2026/09/30/mortgage-rates-jump-to-near-3-year-high-causing-demand-to-drop-.html",
+    "summary": "Mortgage demand dropped for the 7th straight week, as rates surged well over 7% on the 30-year fixed.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-30T11:00:01+00:00"
+  },
+  {
+    "title": "Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.",
+    "link": "https://www.marketwatch.com/story/boeing-was-at-risk-of-losing-all-fighter-jet-production-altogether-now-the-stock-is-up-on-a-new-navy-contract-ffb625b2?mod=mw_rss_topstories",
+    "summary": "Shares in the aerospace company rose close to 3% in premarket trading on Wednesday after the U.S. Navy selected it to develop its next-generation fighter jet.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-30T10:38:00+00:00"
+  },
+  {
     "title": "Dan Ives prepares to debut fund offering access to private companies fueling AI boom",
     "link": "https://www.cnbc.com/2026/09/30/dan-ives-ai-private-companies-ivai.html",
     "summary": "Yorkville Ives priced a fund aiming to give investors access to the private companies helping develop artificial intelligence.",
@@ -15,6 +36,13 @@
   },
   {
     "title": "Tuesday was one of the most disturbing days for markets in recent memory, according to a Goldman Sachs pro",
+    "link": "https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
+    "summary": "Beneath the languished moves in the main stock-market indexes, there were some disturbing features.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-30T10:15:00+00:00"
+  },
+  {
+    "title": "Why Tuesday was one of the most disturbing days for markets in recent memory, according to a Goldman Sachs pro",
     "link": "https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
     "summary": "Beneath the languished moves in the main stock-market indexes, there were some disturbing features.",
     "source": "MarketWatch",
@@ -369,12 +397,5 @@
     "summary": "Disney warned about the most recent round of cuts in its August earnings report as one of the levers it was evaluating to reduce costs at the company.",
     "source": "CNBC",
     "pub_iso": "2026-09-29T18:21:27+00:00"
-  },
-  {
-    "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says",
-    "link": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html",
-    "summary": "Trump called the new website, America.gov, \"a restoration of America's founding promise.\"",
-    "source": "CNBC",
-    "pub_iso": "2026-09-29T16:55:13+00:00"
   }
 ]
