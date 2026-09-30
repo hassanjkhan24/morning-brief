@@ -1,5 +1,12 @@
 [
   {
+    "title": "Pressure on U.S. Treasurys eases after 30-year yield hits highest level since 2002",
+    "link": "https://www.cnbc.com/2026/09/30/treasury-yields-bonds-selloff.html",
+    "summary": "U.S. Treasury yields were lower on Wednesday after a fresh round of selloffs the previous day, as investors remained concerned about inflation.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-30T06:46:19+00:00"
+  },
+  {
     "title": "AI broke the job application. What replaces it?",
     "link": "https://www.cnbc.com/2026/09/30/ai-resume-cv-job-application-interview.html",
     "summary": "Candidates can use AI to create endless resumes and cover letters. It's forcing businesses to rethink how they hire.",
@@ -264,33 +271,5 @@
     "summary": "With increasing emphasis on the return on investment, The Princeton Review's new college ranking measures academics, affordability and career outcomes.",
     "source": "CNBC",
     "pub_iso": "2026-09-29T13:00:01+00:00"
-  },
-  {
-    "title": "House Speaker Johnson says he hopes AI guardrails are 'voluntary' amid Congress inaction",
-    "link": "https://www.cnbc.com/2026/09/29/ai-safety-regulation-mike-johnson-congress.html",
-    "summary": "House Speaker Mike Johnson is scheduled for lunch Tuesday with President Trump and AI industry executives.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-29T12:49:14+00:00"
-  },
-  {
-    "title": "Dolly Parton planned for her estate. The fight with her nephew shows why that matters.",
-    "link": "https://www.marketwatch.com/story/dolly-parton-planned-for-her-estate-the-fight-with-her-nephew-shows-why-that-matters-b7e57c26?mod=mw_rss_topstories",
-    "summary": "It\u2019s important to have guardrails around your legacy.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-09-29T12:42:00+00:00"
-  },
-  {
-    "title": "Jamie Dimon has a plan to revive the West: A 'big, beautiful' deal with Europe",
-    "link": "https://www.cnbc.com/2026/09/29/jamie-dimon-europe-trade.html",
-    "summary": "\"Many of the current disputes between Europe and the U.S. are minor compared with this agreement's size and benefits,\" the JPMorgan boss wrote this week.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-29T12:39:14+00:00"
-  },
-  {
-    "title": "IRS sends notices on Saver's Match to taxpayers who might qualify for new benefit, worth up to $2,000",
-    "link": "https://www.cnbc.com/2026/09/29/savers-match-irs-retirement-benefit.html",
-    "summary": "The new program, which will give eligible savers a federal match for contributions to their retirement accounts, starts in 2027 and replaces the saver's credit.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-29T12:15:01+00:00"
   }
 ]
