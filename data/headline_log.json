@@ -1,5 +1,166 @@
 [
   {
+    "title": "OpenAI flags Chinese-linked effort to extract AI model reasoning",
+    "link": "https://www.cnbc.com/2026/10/01/openai-chinas-moonshot-ai-kimi.html",
+    "summary": "OpenAI says it identified an attempt to extract protected reasoning from its AI models, linking part of the activity with China\u2019s Moonshot AI.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-01T01:06:02+00:00"
+  },
+  {
+    "title": "Inside India newsletter: Foreign insurers get the red-carpet treatment \u2014 and policy uncertainty",
+    "link": "https://www.cnbc.com/2026/10/01/india-insurance-prudential-aviva-axa.html",
+    "summary": "Foreign insurers brace for another set of policy changes in India's insurance market.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-01T00:23:44+00:00"
+  },
+  {
+    "title": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto",
+    "link": "https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html",
+    "summary": "California Governor Gavin Newsom has banned 'robo-bosses' from firing workers, the first U.S. state with such a law.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-30T23:50:01+00:00"
+  },
+  {
+    "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
+    "link": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
+    "summary": "Kashkari sat down with CNBC's Steve Liesman for an exclusive conversation Wednesday night.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-30T23:44:28+00:00"
+  },
+  {
+    "title": "David Ellison names Ynon Kreiz co-CEO of Paramount and Warner Bros. Discovery",
+    "link": "https://www.cnbc.com/2026/09/30/david-ellison-ynon-kreiz-co-ceo-paramount-wbd.html",
+    "summary": "Paramount CEO David Ellison announced outgoing Mattel chief Ynon Kreiz will serve as the co-CEO of the anticipated combination of Paramount and WBD.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-30T23:01:40+00:00"
+  },
+  {
+    "title": "Cramer says 'frozen' conditions are holding many stocks back. Here's what could change that",
+    "link": "https://www.cnbc.com/2026/09/30/jim-cramer-frozen-markets-stocks.html",
+    "summary": "CNBC's Jim Cramer said Wednesday that several key parts of the U.S. economy have effectively frozen.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-30T23:00:52+00:00"
+  },
+  {
+    "title": "Google shows it\u2019s not out of the AI race just yet",
+    "link": "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories",
+    "summary": "The company\u2019s Gemini 4 Argon announcement shows Google is back with the pack when it comes to cutting-edge AI models.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-30T22:51:00+00:00"
+  },
+  {
+    "title": "Trump 'thinking about' diesel export ban, but says it could have 'negative impact' on gasoline",
+    "link": "https://www.cnbc.com/2026/09/30/trump-diesel-export-ban-gas.html",
+    "summary": "Trump recently said he was \"very seriously\" considering a diesel export ban, despite warnings from the U.S. oil industry that doing so would raise prices.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-30T22:43:53+00:00"
+  },
+  {
+    "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
+    "link": "https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html",
+    "summary": "Gemini 4 Argon is Alphabet's most advanced model yet, with major coding, cybersecurity, and complex professional work improvements.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-30T22:27:09+00:00"
+  },
+  {
+    "title": "Treasury launches student loan support center as new data show 9.3 million borrowers in default",
+    "link": "https://www.cnbc.com/2026/09/30/student-loan-default-support-center.html",
+    "summary": "The Trump administration announced on Wednesday that it was launching a \"Default Loans Support Center\" for student loan borrowers who've fallen behind.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-30T22:15:29+00:00"
+  },
+  {
+    "title": "Trump administration starts sending $500 Obamacare refund checks \u2014 who stands to benefit",
+    "link": "https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html",
+    "summary": "The refunds come after millions of people lost premium subsidies for their health insurance and right before the midterm elections.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-30T22:11:08+00:00"
+  },
+  {
+    "title": "Meta stock enjoys best month since 2022 on AI momentum",
+    "link": "https://www.cnbc.com/2026/09/30/meta-stock-best-month-2013-ai.html",
+    "summary": "Meta stock had its best month in almost four years as investors cheer the social media giant's recent momentum in artificial intelligence.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-30T21:36:47+00:00"
+  },
+  {
+    "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
+    "link": "https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories",
+    "summary": "The S&P 500 has gained slightly in September, but three-quarters of its components have declined.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-30T21:22:00+00:00"
+  },
+  {
+    "title": "Trump touts economic wins in battleground states \u2014 like a $54 billion Alaskan pipeline \u2014 as the midterms draw closer",
+    "link": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
+    "summary": "President Donald Trump is spending time this week talking up big job-creating projects in battleground states.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-30T21:16:00+00:00"
+  },
+  {
+    "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
+    "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+    "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-30T21:09:42+00:00"
+  },
+  {
+    "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold",
+    "link": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
+    "summary": "Micron is up over 500% in the past year as the company benefits from soaring AI demand.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-30T20:59:05+00:00"
+  },
+  {
+    "title": "How the \u2018AI put\u2019 has become the only thing that matters for stocks",
+    "link": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
+    "summary": "While investors worry a spike in global bond yields will trigger a selloff in U.S. equities, strategists at BofA Global Research say the real threat lies elsewhere.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-30T20:59:00+00:00"
+  },
+  {
+    "title": "A brutal September for bonds points to an even darker October",
+    "link": "https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories",
+    "summary": "September has been a brutal month for the bond market. If history is any guide, October might be even worse.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-30T20:56:00+00:00"
+  },
+  {
+    "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
+    "link": "https://www.cnbc.com/2026/09/30/hawley-openai-sam-altman-rogue-ai.html",
+    "summary": "A Senate subcommittee on Wednesday is examining rogue AI, after a series of AI cyberattacks and increasing warnings about the risks of the technology.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-30T20:51:44+00:00"
+  },
+  {
+    "title": "Grindr expands beyond dating with $250 million telehealth acquisition of PurposeMed",
+    "link": "https://www.cnbc.com/2026/09/30/grindr-purposemed-freddie-telehealth-acquisition.html",
+    "summary": "Grindr is buying PrEP provider Freddie for $250 million, expanding into healthcare and seeking to make HIV prevention more accessible to its users.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-30T20:45:01+00:00"
+  },
+  {
+    "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
+    "link": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
+    "summary": "Yields in the global bond market have risen with startling speed over the past few months, and the more than $30 trillion market for U.S. government debt certainly hasn\u2019t been immune.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-30T20:32:00+00:00"
+  },
+  {
+    "title": "Paramount\u2019s mega debt sale reveals how higher bond yields are squeezing corporate America",
+    "link": "https://www.marketwatch.com/story/paramounts-mega-debt-sale-reveals-how-higher-bond-yields-are-squeezing-corporate-america-e9694ec3?mod=mw_rss_topstories",
+    "summary": "\u2018Over the near term, we expect supply to fall off, unless someone has to borrow,\u2019 says Invesco\u2019s Matt Brill",
+    "source": "MarketWatch",
+    "pub_iso": "2026-09-30T19:42:00+00:00"
+  },
+  {
+    "title": "Kalshi traders see high odds Anthropic's IPO is announced this year",
+    "link": "https://www.cnbc.com/2026/09/30/kalshi-traders-see-high-odds-anthropics-ipo-is-announced-this-year-.html",
+    "summary": "The higher odds come after the artificial intelligence company reportedly warned investors in its IPO prospectus that its models could be dangerous.",
+    "source": "CNBC",
+    "pub_iso": "2026-09-30T17:27:49+00:00"
+  },
+  {
     "title": "Americans get back to their spending ways. Economy might be speeding up again.",
     "link": "https://www.marketwatch.com/story/americans-get-back-to-their-spending-ways-economy-might-be-speeding-up-again-7884c424?mod=mw_rss_topstories",
     "summary": "Consumer spending snapped back in August after a brief lull, adding to mounting evidence of an acceleration in the U.S. economy despite a series of strains.",
@@ -334,208 +495,5 @@
     "summary": "Oil rose Wednesday after U.S. President Donald Trump denied offering sanctions relief to Iran.",
     "source": "CNBC",
     "pub_iso": "2026-09-30T07:12:51+00:00"
-  },
-  {
-    "title": "Pressure on U.S. Treasurys eases after 30-year yield hits highest level since 2002",
-    "link": "https://www.cnbc.com/2026/09/30/treasury-yields-bonds-selloff.html",
-    "summary": "U.S. Treasury yields were lower on Wednesday after a fresh round of selloffs the previous day, as investors remained concerned about inflation.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-30T06:46:19+00:00"
-  },
-  {
-    "title": "AI broke the job application. What replaces it?",
-    "link": "https://www.cnbc.com/2026/09/30/ai-resume-cv-job-application-interview.html",
-    "summary": "Candidates can use AI to create endless resumes and cover letters. It's forcing businesses to rethink how they hire.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-30T05:00:01+00:00"
-  },
-  {
-    "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
-    "link": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
-    "summary": "China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-30T02:50:35+00:00"
-  },
-  {
-    "title": "\u2018Don\u2019t go with a fund, go with a solution\u2019: CEO\u2019s tips from decades of global investing",
-    "link": "https://www.cnbc.com/2026/09/30/bluefive-ceo-offers-tips-from-decades-of-global-investing.html",
-    "summary": "BlueFive Capital CEO Hazem Ben-Gacem talks about his preferred investment areas and strategies.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-30T02:37:21+00:00"
-  },
-  {
-    "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
-    "link": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
-    "summary": "China must \"respond firmly\" if the EU introduces restrictions on Chinese businesses or products, the Commerce Ministry said, according to a CNBC translation.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-30T02:31:30+00:00"
-  },
-  {
-    "title": "China factory activity snaps 2-month contractionary streak in September",
-    "link": "https://www.cnbc.com/2026/09/30/china-manufacturing-exports-capacity-economy-.html",
-    "summary": "China's factory activity returned to growth in September as a deepening economic malaise prompts policymakers to ramp up stimulus steps and bolster growth.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-30T01:52:50+00:00"
-  },
-  {
-    "title": "China factory activity expands for first time in three months in September",
-    "link": "https://www.cnbc.com/2026/09/30/china-manufacturing-exports-capacity-economy-.html",
-    "summary": "China's factory activity returned to growth in September as a deepening economic malaise prompts policymakers to ramp up stimulus steps and bolster growth.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-30T01:37:29+00:00"
-  },
-  {
-    "title": "\u2018I have $400,000 in equity\u2019: I\u2019m 80. Should I sell my house because of dangerous stairs \u2014 or spend thousands renovating?",
-    "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-    "summary": "\u201cGenerally, the advice I\u2019ve read says not to sell because I have a low-interest-rate mortgage.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-09-30T01:00:00+00:00"
-  },
-  {
-    "title": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-    "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-    "summary": "\u201cWhen my paycheck lands, it takes a detour through bitcoin.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-09-30T00:30:00+00:00"
-  },
-  {
-    "title": "Hedge funds hold a record share of the $30 trillion Treasury market. What could go wrong?",
-    "link": "https://www.cnbc.com/2026/09/30/us-treasury-market-is-relying-more-on-hedge-funds.html",
-    "summary": "Hedge funds can boost Treasury market liquidity, but their growing role also risks creating financial instability.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-30T00:19:09+00:00"
-  },
-  {
-    "title": "I\u2019m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-    "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
-    "summary": "\u201cI am a retired senior citizen living check-to-check.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-09-29T23:30:00+00:00"
-  },
-  {
-    "title": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?",
-    "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-    "summary": "\u201cAs a country, we have grown dangerously comfortable.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-09-29T23:03:00+00:00"
-  },
-  {
-    "title": "Clients said to be sticking with Morgan Stanley even after leaked deal pipeline",
-    "link": "https://www.cnbc.com/2026/09/29/morgan-stanleys-deal-leak-mandates-.html",
-    "summary": "Morgan Stanley\u2019s deal leak may not necessarily translate into lost mandates.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-29T23:00:01+00:00"
-  },
-  {
-    "title": "Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue",
-    "link": "https://www.cnbc.com/2026/09/29/trump-ai-super-intelligence.html",
-    "summary": "Trump shrugged when asked if he is concerned that his support for AI and data centers could hurt Republicans in the upcoming midterm election.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-29T22:42:35+00:00"
-  },
-  {
-    "title": "Gina Raimondo thinks AI ultimately will create jobs. It's the initial mass layoffs wave that worries her",
-    "link": "https://www.cnbc.com/2026/09/29/ai-job-losses-layoffs.html",
-    "summary": "No one knows what AI will mean for jobs long-term, but the layoffs are likely to hit first without proper planning, says former US Commerce Sec. Gina Raimondo.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-29T22:40:20+00:00"
-  },
-  {
-    "title": "\u2018I\u2019d rather be on a beach in Bali\u2019: My husband resents my $8 million net worth. Should I pay for his retirement?",
-    "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-    "summary": "\u201cWe have an ironclad prenup.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-09-29T22:00:00+00:00"
-  },
-  {
-    "title": "Hollywood\u2019s big debt deal hits a wall of higher yields as Paramount finances Warner Bros. buyout",
-    "link": "https://www.marketwatch.com/story/hollywoods-big-debt-deal-hits-a-wall-of-higher-yields-as-paramount-finances-warner-bros-buyout-6ee6e3b8?mod=mw_rss_topstories",
-    "summary": "The Paramount financing will be a closely watched barometer of dealmaking appetite despite rising borrowing costs in 2026.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-09-29T21:56:00+00:00"
-  },
-  {
-    "title": "Could SpaceX be worth $12 trillion one day? Citi says Starship gets it a step closer.",
-    "link": "https://www.marketwatch.com/story/could-spacex-be-worth-12-trillion-one-day-citi-says-starship-gets-it-a-step-closer-6ce44961?mod=mw_rss_topstories",
-    "summary": "The recent Starship launch helps SpaceX with a number of priorities that could help its stock reach $900 over the long run, an analyst says.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-09-29T21:53:00+00:00"
-  },
-  {
-    "title": "The real prize in AMD\u2019s $8 billion World Labs acquisition isn\u2019t what you\u2019d think",
-    "link": "https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories",
-    "summary": "AMD is getting cutting-edge spatial-intelligence models, but more importantly, a leader who can help recruit top talent and bring real-world AI applications into focus.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-09-29T21:52:00+00:00"
-  },
-  {
-    "title": "Trump Accounts will auto-enroll children, potentially adding 60 million accounts: Treasury",
-    "link": "https://www.cnbc.com/2026/09/29/trump-accounts-auto-enroll.html",
-    "summary": "The Treasury Department announced that Trump Accounts will begin auto-enrolling eligible children. Here's what families need to know.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-29T21:43:50+00:00"
-  },
-  {
-    "title": "Target\u2019s price cuts are a sign of strength, some analysts say. Investors disagree.",
-    "link": "https://www.marketwatch.com/story/targets-price-cuts-are-a-sign-of-strength-some-analysts-say-investors-disagree-6a6f0717?mod=mw_rss_topstories",
-    "summary": "A Jefferies analyst sees Target \u201cprioritizing the health of the franchise over short-term profit optimization.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-09-29T21:33:00+00:00"
-  },
-  {
-    "title": "\u2018I want to make her proud\u2019: My mother, a divorc\u00e9e, died and I\u2019m her executor. Do I need to file for probate?",
-    "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-    "summary": "\u201cThe only debts were utility and credit-card bills, which we will pay off.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-09-29T21:30:00+00:00"
-  },
-  {
-    "title": "Ford CEO says it's 'too late' for Europe to fend off Chinese automakers, but not for U.S.",
-    "link": "https://www.cnbc.com/2026/09/29/ford-ceo-jim-farley-china-automakers.html",
-    "summary": "CEO Jim Farley's warning comes on the heels of a high-profile visit last week by Chinese President Xi Jinping with President Donald Trump",
-    "source": "CNBC",
-    "pub_iso": "2026-09-29T21:08:05+00:00"
-  },
-  {
-    "title": "IPO postponements are accelerating in third quarter, even beyond Oura",
-    "link": "https://www.cnbc.com/2026/09/29/ipo-postponements-are-accelerating-in-third-quarter-even-beyond-oura.html",
-    "summary": "It's been a strong year for IPOs. But now, more companies are deciding to stay on the sidelines.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-29T21:05:26+00:00"
-  },
-  {
-    "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
-    "link": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
-    "summary": "Data is expected to show ongoing price pressures and consumers who nevertheless continue to spend.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-29T20:51:43+00:00"
-  },
-  {
-    "title": "Goldman Sachs CEO succession planning faces one big problem",
-    "link": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
-    "summary": "The Goldman Sachs board has reportedly discussed replacing CEO David Solomon, 64, with president John Waldron, 57, as early as next year.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-29T20:50:10+00:00"
-  },
-  {
-    "title": "Prediction market traders think the U.S. added more jobs in September than economists estimate",
-    "link": "https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html",
-    "summary": "The higher-than-consensus expectations are a bet that the U.S. had another strong month of job growth.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-29T20:33:08+00:00"
-  },
-  {
-    "title": "Two Indian nationals charged with smuggling counterfeit Ozempic from China: DOJ",
-    "link": "https://www.cnbc.com/2026/09/29/ozempiz-counterfeit-china-smuggling-doj.html",
-    "summary": "The criminal indictment in Florida comes as the use of GLP-1 drugs such as Novo's Ozempic for weight loss has hit new highs among U.S. adults.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-29T20:18:32+00:00"
-  },
-  {
-    "title": "30-year Treasury bond yield scales to highest level since 2002",
-    "link": "https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html",
-    "summary": "U.S. Treasury yields largely rose Tuesday, adding to the gains that catapulted them to multi-year highs amid central bank monetary policy concerns.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-29T20:03:39+00:00"
   }
 ]
