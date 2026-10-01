@@ -1,5 +1,12 @@
 [
   {
+    "title": "Passengers and crew foil co-pilot's apparent attempt to crash FlyDubai flight to Israel",
+    "link": "https://www.cnbc.com/2026/10/01/dubai-israel-flight-pilot-crash-indian.html",
+    "summary": "One of the pilots on a FlyDubai flight headed for Israel stabbed the second pilot, according to Israeli Prime Minister Benjamin Netanyahu.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-01T01:09:18+00:00"
+  },
+  {
     "title": "OpenAI flags Chinese-linked effort to extract AI model reasoning",
     "link": "https://www.cnbc.com/2026/10/01/openai-chinas-moonshot-ai-kimi.html",
     "summary": "OpenAI says it identified an attempt to extract protected reasoning from its AI models, linking part of the activity with China\u2019s Moonshot AI.",
@@ -7,11 +14,25 @@
     "pub_iso": "2026-10-01T01:06:02+00:00"
   },
   {
+    "title": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+    "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+    "summary": "\u201cWhen my paycheck lands, it takes a detour through bitcoin.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-01T00:45:00+00:00"
+  },
+  {
     "title": "Inside India newsletter: Foreign insurers get the red-carpet treatment \u2014 and policy uncertainty",
     "link": "https://www.cnbc.com/2026/10/01/india-insurance-prudential-aviva-axa.html",
     "summary": "Foreign insurers brace for another set of policy changes in India's insurance market.",
     "source": "CNBC",
     "pub_iso": "2026-10-01T00:23:44+00:00"
+  },
+  {
+    "title": "\u2018I have $400,000 in equity\u2019: I\u2019m 80. Should I sell my house because of dangerous stairs \u2014 or spend thousands renovating?",
+    "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+    "summary": "\u201cGenerally, the advice I\u2019ve read says not to sell because I have a low-interest-rate mortgage.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-01T00:20:00+00:00"
   },
   {
     "title": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto",
@@ -488,12 +509,5 @@
     "summary": "U.S. President Donald Trump has denied reports that he had offered sanctions relief to Iran in exchange for concessions from Tehran on its nuclear program.",
     "source": "CNBC",
     "pub_iso": "2026-09-30T07:47:42+00:00"
-  },
-  {
-    "title": "Oil prices climb as Trump denies offering Iran sanctions relief; Qatar pushes for peace talks",
-    "link": "https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html",
-    "summary": "Oil rose Wednesday after U.S. President Donald Trump denied offering sanctions relief to Iran.",
-    "source": "CNBC",
-    "pub_iso": "2026-09-30T07:12:51+00:00"
   }
 ]
