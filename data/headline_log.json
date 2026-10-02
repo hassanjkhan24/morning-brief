@@ -1,5 +1,33 @@
 [
   {
+    "title": "Burger King is betting on local franchisees to fuel its U.S. comeback",
+    "link": "https://www.cnbc.com/2026/10/02/burger-king-refranchising-turnaround.html",
+    "summary": "Burger King is refranchising hundreds of its company-owned restaurants as part of its turnaround, while prioritizing local operators.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-02T11:00:01+00:00"
+  },
+  {
+    "title": "Google has been playing catch up with OpenAI and Anthropic. Does its new flagship model really compete at the frontier?",
+    "link": "https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html",
+    "summary": "Google has been trailing OpenAI and Anthropic for much of 2026, analysts say Gemini 4 puts it back in the frontier AI conversation.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-02T11:00:01+00:00"
+  },
+  {
+    "title": "TV dinner overload? The frozen-food aisle may be too crowded for its own good.",
+    "link": "https://www.marketwatch.com/story/tv-dinner-overload-the-frozen-food-aisle-may-be-too-crowded-for-its-own-good-55bfed39?mod=mw_rss_topstories",
+    "summary": "Industry giant Conagra Brands has so many frozen-food items that they\u2019re competing against each other, an analyst says.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-02T11:00:00+00:00"
+  },
+  {
+    "title": "Three reasons why this Wall Street market-making powerhouse says investors should reload on stocks now",
+    "link": "https://www.marketwatch.com/story/three-reasons-why-this-wall-street-market-making-powerhouse-says-investors-should-reload-on-stocks-now-8e19ecce?mod=mw_rss_topstories",
+    "summary": "September provided a reset for stocks, pointing to a good end to the year, says Scott Rubner",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-02T10:48:00+00:00"
+  },
+  {
     "title": "The secret signs the bond sell-off might be ending",
     "link": "https://www.cnbc.com/2026/10/02/the-secret-signs-the-bond-sell-off-might-be-ending.html",
     "summary": "A big options bet involving the utility sector could indicate a top in yields.",
@@ -66,6 +94,13 @@
     "title": "Another viral AI doomsday report claims \u2018it\u2019s over.\u2019 Why home prices could take a hit as screen-based jobs disappear.",
     "link": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
     "summary": "Egan-Jones has become the latest to issue a viral AI doomsday report, zeroing in on difficulties facing screen-based workers and the housing market.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-02T09:25:00+00:00"
+  },
+  {
+    "title": "Another viral AI-doomsday report claims \u2018it\u2019s over.\u2019 Why home prices could take a hit as screen-based jobs disappear.",
+    "link": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
+    "summary": "Egan-Jones has become the latest to issue a viral AI-doomsday report, zeroing in on difficulties facing screen-based workers and the housing market.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-02T09:25:00+00:00"
   },
@@ -343,6 +378,13 @@
     "pub_iso": "2026-10-01T20:15:30+00:00"
   },
   {
+    "title": "United Airlines gets aggressive in battle for top Delta, American flyers",
+    "link": "https://www.cnbc.com/2026/10/01/united-airlines-status-match-delta-american.html",
+    "summary": "United Airlines launched an aggressive status match program for Delta and American's top frequent flyer elites.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-01T20:06:06+00:00"
+  },
+  {
     "title": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
     "link": "https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html",
     "summary": "Google is promising major advances in coding and cybersecurity, but the company is quickly falling behind in personal agents.",
@@ -369,12 +411,5 @@
     "summary": "\"Operation Economic Outcast\" was touted by President Donald Trump as Iran's \"economic D-Day\" when Treasury Secretary Scott Bessent unveiled it in August.",
     "source": "CNBC",
     "pub_iso": "2026-10-01T18:37:16+00:00"
-  },
-  {
-    "title": "Trump Accounts have auto-enrolled more than 60 million children, Treasury says",
-    "link": "https://www.cnbc.com/2026/10/01/treasury-trump-accounts-auto-enroll-more-than-60-million-children.html",
-    "summary": "More than 60 million children have been automatically enrolled in Trump Accounts,\u00a0according to a Treasury Department announcement exclusively provided to CNBC.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-01T16:52:22+00:00"
   }
 ]
