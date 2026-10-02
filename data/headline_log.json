@@ -1,5 +1,12 @@
 [
   {
+    "title": "Washington\u2019s big crypto bill is stuck. The SEC is pushing ahead anyway",
+    "link": "https://www.cnbc.com/2026/10/02/sec-bitcoin-crypto-proposal.html",
+    "summary": "The SEC has proposed new rules that would make it easier for investment advisers and regulated funds to hold cryptocurrencies on behalf of clients.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-02T06:15:49+00:00"
+  },
+  {
     "title": "Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
     "link": "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
     "summary": "Bitget has frozen a tiny fraction of the $387.5 million stolen in last week\u2019s hack, and restored much of its protection fund.",
@@ -299,26 +306,5 @@
     "summary": "\u2018We\u2019re solving the crude dilemma, but we are not solving the product dilemma\u2019",
     "source": "MarketWatch",
     "pub_iso": "2026-10-01T12:53:00+00:00"
-  },
-  {
-    "title": "Google is sending its first AI data center to space",
-    "link": "https://www.marketwatch.com/story/google-is-sending-its-first-ai-data-center-to-space-22b7c44d?mod=mw_rss_topstories",
-    "summary": "Tech leaders have come to wonder if orbital data centers can help solve the industry\u2019s power crunch.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-01T12:42:00+00:00"
-  },
-  {
-    "title": "SEC proposes investor exam to expand private-market access \u2014 here's how it could work",
-    "link": "https://www.cnbc.com/2026/10/01/sec-accredited-investor-exam-private-markets.html",
-    "summary": "The SEC proposed expanding accredited investor eligibility beyond traditional income and net worth thresholds, including through a new exam.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-01T12:40:35+00:00"
-  },
-  {
-    "title": "Why Amazon got a call-up to the Goldman Sachs conviction list of top stocks",
-    "link": "https://www.marketwatch.com/story/why-amazon-got-a-call-up-to-the-goldman-sachs-conviction-list-of-top-stocks-9c937472?mod=mw_rss_topstories",
-    "summary": "What\u2019s in the conviction list: Amazon, Huntington, Occidental, Burlington, Johnson Control. What\u2019s out: Tyson, ConocoPhillips, Golar, Loar, Air Products & Chemicals",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-01T12:12:00+00:00"
   }
 ]
