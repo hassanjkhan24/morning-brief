@@ -1,5 +1,19 @@
 [
   {
+    "title": "\u2018I have $400,000 in equity\u2019: I\u2019m 80. Should I sell my house because of dangerous stairs \u2014 or spend thousands renovating?",
+    "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+    "summary": "\u201cGenerally, the advice I\u2019ve read says not to sell because I have a low-interest-rate mortgage.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-02T01:00:00+00:00"
+  },
+  {
+    "title": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+    "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+    "summary": "\u201cI have $152,000 in my IRA and Roth accounts.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-02T00:30:00+00:00"
+  },
+  {
     "title": "Here\u2019s who\u2019s joining the S&P 500 in the index\u2019s latest shakeup",
     "link": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
     "summary": "Twilio gets the nod, as current component Warner Bros Discovery is due to merger with Paramount.",
@@ -147,11 +161,25 @@
     "pub_iso": "2026-10-01T16:52:22+00:00"
   },
   {
+    "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
+    "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+    "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-01T14:24:36+00:00"
+  },
+  {
     "title": "Why Micron\u2019s big earnings report isn\u2019t lifting the stock",
     "link": "https://www.marketwatch.com/story/why-microns-big-earnings-report-isnt-lifting-the-stock-b965af83?mod=mw_rss_topstories",
     "summary": "Expectations are high, and Micron isn\u2019t topping estimates to the degree that it used to.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-01T13:24:00+00:00"
+  },
+  {
+    "title": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto",
+    "link": "https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html",
+    "summary": "California Governor Gavin Newsom has banned 'robo-bosses' from firing workers, the first U.S. state with such a law.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-01T13:21:11+00:00"
   },
   {
     "title": "Oil prices rise as Chinese refiners reportedly ban October fuel exports; Brent crude near $100",
@@ -334,12 +362,5 @@
     "summary": "Seven people were killed in the attack and emergency power cuts were imposed in Kyiv and three other regions.",
     "source": "CNBC",
     "pub_iso": "2026-10-01T08:21:31+00:00"
-  },
-  {
-    "title": "The U.S. just made it much easier for retail investors to access private markets",
-    "link": "https://www.cnbc.com/2026/10/01/private-credit-sec-retail-investors.html",
-    "summary": "The Securities and Exchange Commission has approved new plans to open private markets up to retail investors.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-01T07:23:01+00:00"
   }
 ]
