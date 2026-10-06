@@ -1,5 +1,12 @@
 [
   {
+    "title": "How quant funds beat the market by being 'early, contrarian and right'",
+    "link": "https://www.cnbc.com/2026/10/06/trend-following-hedge-funds-beat-stock-market.html",
+    "summary": "Quantitative hedge funds have captured big trends in bonds and oil to outperform the stock market this year.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-06T05:00:01+00:00"
+  },
+  {
     "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
     "link": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html",
     "summary": "The World Bank now expects the region to grow 4.5% this year, but flagged that trade growth outside AI-related goods has been \"weak or negative.\"",
@@ -40,6 +47,13 @@
     "summary": "Starbucks struck one of Asia's most closely watched deals last year. Now it is getting headaches over choices made by a partner that leans toward Beijing.",
     "source": "CNBC",
     "pub_iso": "2026-10-05T23:41:11+00:00"
+  },
+  {
+    "title": "\u2018People in the U.S. need to wake up\u2019: As a mortgage loan officer, I rejected wealthy couples due to overspending. We\u2019re all heading for trouble.",
+    "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+    "summary": "A reader writes: \u201cWe\u2019d better get real quick or we\u2019re going to have a financial crisis that makes the Great Recession of 2008 look like a picnic.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-05T23:30:00+00:00"
   },
   {
     "title": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
@@ -215,26 +229,5 @@
     "summary": "The vast majority of bachelor\u2019s and graduate degree programs pass new rules meant to hold colleges accountable",
     "source": "MarketWatch",
     "pub_iso": "2026-10-05T12:30:00+00:00"
-  },
-  {
-    "title": "Why airfares could rise even more, but airline profits won't",
-    "link": "https://www.cnbc.com/2026/10/05/airfare-prices-airline-profits.html",
-    "summary": "Airlines are trimming capacity as jet fuel prices keep climbing and travelers keep booking.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-05T12:06:44+00:00"
-  },
-  {
-    "title": "Russia plague: What we know about the suspected case reportedly linked to a lab worker\u2019s death",
-    "link": "https://www.cnbc.com/2026/10/05/russia-plague-suspected-case-irkutsk.html",
-    "summary": "According to local media reports, as many as 189 people have also been placed under medical observation in Irkutsk in Eastern Russia.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-05T12:00:47+00:00"
-  },
-  {
-    "title": "Nvidia's $6-trillion milestone looms. Here's when options traders see it happening",
-    "link": "https://www.cnbc.com/2026/10/05/nvidias-6-trillion-milestone-looms-heres-when-options-traders-see-it-happening.html",
-    "summary": "Nvidia will likely cross the $6 trillion threshold by the end of this month, according to options traders.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-05T11:57:23+00:00"
   }
 ]
