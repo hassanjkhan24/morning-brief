@@ -1,5 +1,12 @@
 [
   {
+    "title": "How one trend-following fund outperformed rivals by bringing humans back into the decision-making process",
+    "link": "https://www.marketwatch.com/story/how-one-trend-following-fund-outperformed-rivals-by-bringing-humans-back-into-the-decision-making-process-12285e18?mod=mw_rss_topstories",
+    "summary": "One trend-following fund has outperformed rivals this year by deciding to take profits.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-07T07:08:00+00:00"
+  },
+  {
     "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
     "link": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
     "summary": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose.",
@@ -105,6 +112,13 @@
     "pub_iso": "2026-10-06T20:37:00+00:00"
   },
   {
+    "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
+    "link": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
+    "summary": "Constellation\u2019s stock is rising sharply following a deal that equates to as much power as would be supplied by a new nuclear reactor.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-06T20:24:00+00:00"
+  },
+  {
     "title": "Marvell just impressed Wall Street with \u2018good numbers plus a better story\u2019",
     "link": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
     "summary": "Marvell\u2019s stock is popping after the company not only delivered with its financial forecasts but also demonstrated its diversified mix of customers and products.",
@@ -196,6 +210,13 @@
     "pub_iso": "2026-10-06T17:22:20+00:00"
   },
   {
+    "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
+    "link": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
+    "summary": "Nearly 20 commercial ships, mostly tankers, have come under attack over the past month while sailing through the Hormuz choke point.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-06T16:19:10+00:00"
+  },
+  {
     "title": "Russian lab worker's suspected plague death leaves experts puzzled",
     "link": "https://www.cnbc.com/2026/10/06/plague-russia-person-died-lab-infection-pneumonic.html",
     "summary": "Russian authorities say the situation is stable and there are no reports of secondary cases.",
@@ -208,47 +229,5 @@
     "summary": "Minutes from the September meeting may provide extra context, as the real fed-funds rate is now surprisingly low.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-06T13:27:00+00:00"
-  },
-  {
-    "title": "Paramount's hard-fought takeover of Warner Bros. Discovery closed Tuesday. Here's how we got here",
-    "link": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html",
-    "summary": "Paramount has faced competing bids and an antitrust hurdle since its earliest attempts to take over WBD. Here's a timeline of key events.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-06T13:08:32+00:00"
-  },
-  {
-    "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
-    "link": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
-    "summary": "That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-06T13:07:57+00:00"
-  },
-  {
-    "title": "This startup wants to reduce liquidation risk from margin calls on prediction markets",
-    "link": "https://www.cnbc.com/2026/10/06/this-firm-aims-to-reduce-liquidation-risk-from-margin-calls-on-prediction-markets.html",
-    "summary": "Edge Markets' new infrastructure aims to support institutional trading for markets that operate around the clock.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-06T13:01:20+00:00"
-  },
-  {
-    "title": "Anduril lands $2.9 billion Navy submarine shipyard contract days after CEO joins Pentagon weapons group",
-    "link": "https://www.cnbc.com/2026/10/06/anduril-navy-submarine-shipyard-contract.html",
-    "summary": "Defense tech leaders are gaining sway in Washington in President Donald Trump's military reindustrialization push",
-    "source": "CNBC",
-    "pub_iso": "2026-10-06T13:00:07+00:00"
-  },
-  {
-    "title": "Mistral unveils new AI model it says rivals best open systems from China",
-    "link": "https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html",
-    "summary": "Western developers are racing to compete with Chinese companies in open weight and open source AI.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-06T13:00:01+00:00"
-  },
-  {
-    "title": "DeepSeek considers doubling latest funding round to up to $15 billion, sources say",
-    "link": "https://www.cnbc.com/2026/10/06/deepseek-funding-round.html",
-    "summary": "China's DeepSeek weighs upsizing funding round to up to $14.9 billion, sources tell CNBC, and the final amount could still change in final talks.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-06T12:59:10+00:00"
   }
 ]
