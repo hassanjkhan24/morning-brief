@@ -1,5 +1,40 @@
 [
   {
+    "title": "Parental controls aren\u2019t just for kids anymore",
+    "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+    "summary": "Worse than taking away your parents\u2019 car keys? Taking away their cell phone. How to protect your aging parents.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-07T12:49:00+00:00"
+  },
+  {
+    "title": "10-year Treasury note yield hits highest level since 2002 as traders brace for key bond sale",
+    "link": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
+    "summary": "U.S. Treasury yields climbed Wednesday after retreating in the previous session, as oil prices moved higher.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-07T12:41:10+00:00"
+  },
+  {
+    "title": "Home heating oil prices are soaring \u2014 and users' winter bills could rise 21%, federal outlook shows",
+    "link": "https://www.cnbc.com/2026/10/07/home-heating-oil-costs-winter.html",
+    "summary": "A tight global diesel market is driving up heating oil prices, with households in the Northeast facing the biggest impact.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-07T12:35:01+00:00"
+  },
+  {
+    "title": "Oil edges higher as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
+    "link": "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
+    "summary": "Iran's move to step up attacks on tankers which are transiting through the Strait of Hormuz has also led to renewed worries over oil supplies among traders.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-07T12:23:28+00:00"
+  },
+  {
+    "title": "The SALT deduction limit is $40,400 for 2026. Here's how to maximize it",
+    "link": "https://www.cnbc.com/2026/10/07/salt-deduction-limit-2026.html",
+    "summary": "The SALT deduction limit is $40,400 for 2026. Experts cover how to maximize the tax break before year-end.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-07T12:15:01+00:00"
+  },
+  {
     "title": "ICE came to town and left behind weakened economies",
     "link": "https://www.cnbc.com/2026/10/07/ice-raids-local-economies.html",
     "summary": "Research links ICE enforcement surges to lasting declines in local spending, foot traffic and jobs. In Minneapolis, businesses are still recovering.",
@@ -85,6 +120,13 @@
   },
   {
     "title": "AMD\u2019s chief executive is planning to invest \u2018tens of billions\u2019 as Asian tour addresses supply-chain chokepoints",
+    "link": "https://www.marketwatch.com/story/amds-chief-executive-is-planning-to-invest-tens-of-billions-as-asian-tour-addresses-supply-chain-chokepoints-c6485919?mod=mw_rss_topstories",
+    "summary": "AMD\u2019s CEO has been meeting executives in Taiwan and South Korea.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-07T09:37:00+00:00"
+  },
+  {
+    "title": "AMD\u2019s chief executive is planning to invest \u2018tens of billions\u2019 as Asia tour addresses supply-chain chokepoints",
     "link": "https://www.marketwatch.com/story/amds-chief-executive-is-planning-to-invest-tens-of-billions-as-asian-tour-addresses-supply-chain-chokepoints-c6485919?mod=mw_rss_topstories",
     "summary": "AMD\u2019s CEO has been meeting executives in Taiwan and South Korea.",
     "source": "MarketWatch",
@@ -341,40 +383,5 @@
     "summary": "Highway drivers will be allowed to use a red-dyed farm fuel that\u2019s tax-exempt through the end of 2026.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-06T19:14:00+00:00"
-  },
-  {
-    "title": "Meta joins with group of companies to tame \u2018chaos\u2019 of doing business with AI bots",
-    "link": "https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html",
-    "summary": "Meta and OpenAI Chairman Bret Taylor\u2019s startup Sierra are building a set of tech standards to make it easier to do business with AI bots.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-06T18:48:36+00:00"
-  },
-  {
-    "title": "How event contract bundles are boosting volume on prediction markets",
-    "link": "https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html",
-    "summary": "Combo contracts are driving volume growth even as they make up a small, albeit consistent, share of transactions.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-06T18:46:16+00:00"
-  },
-  {
-    "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
-    "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
-    "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-06T18:41:32+00:00"
-  },
-  {
-    "title": "\u2018Trump accounts\u2019 could force MAGA children to own New York Times stock",
-    "link": "https://www.marketwatch.com/story/trump-accounts-could-force-maga-children-to-own-new-york-times-stock-46177c96?mod=mw_rss_topstories",
-    "summary": "This is going to bring a lot of problems that almost anyone could have predicted",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-06T18:39:00+00:00"
-  },
-  {
-    "title": "Kalshi launches transparency features on its election contracts ahead of midterms",
-    "link": "https://www.cnbc.com/2026/10/06/kalshi-launches-transparency-features-on-its-election-contracts-ahead-of-midterms-.html",
-    "summary": "The platform will now provide tags that indicate which election markets have low volumes.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-06T18:34:49+00:00"
   }
 ]
