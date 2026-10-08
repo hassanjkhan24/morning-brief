@@ -1,5 +1,12 @@
 [
   {
+    "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+    "link": "https://www.cnbc.com/investingclub/2026/10/08/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+    "summary": "We've got higher oil prices and interest rates to deal with this morning.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-08T13:04:30+00:00"
+  },
+  {
     "title": "Amazon overhauls aging devices lineup with higher priced Alexa tablet, dumping the budget Fire",
     "link": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html",
     "summary": "The company said the Alexa tablet's improved speed and performance, artificial intelligence features and upgraded design warrant a higher price tag.",
@@ -432,12 +439,5 @@
     "summary": "September\u2019s rate hike was viewed by many officials as needed just in case inflation remains sticky.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-07T19:35:00+00:00"
-  },
-  {
-    "title": "Microsoft and Nvidia are teaming up on a supercharged AI laptop",
-    "link": "https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8?mod=mw_rss_topstories",
-    "summary": "Powered by Nvidia\u2019s RTX Spark chip, the latest Windows laptop is designed to run AI models and workloads directly on the device.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-07T19:12:00+00:00"
   }
 ]
