@@ -1,5 +1,12 @@
 [
   {
+    "title": "Trump says he is not keen on a deal with Iran as U.S. reportedly prepares for 'massive bombing'",
+    "link": "https://www.cnbc.com/2026/10/08/us-iran-war-trump-hormuz.html",
+    "summary": "The U.S. president and his national security team have discussed possibly resuming large-scale U.S. military operations in the coming weeks, NBC News reported.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-08T03:29:29+00:00"
+  },
+  {
     "title": "Elon Musk blames Indian 'oligarchs' for stalling Starlink launch",
     "link": "https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html",
     "summary": "Space X founder Elon Musk accused oligarchs in India of keeping Starlink out of the country to protect their monopoly over consumers.",
@@ -145,6 +152,13 @@
     "summary": "Powered by Nvidia\u2019s RTX Spark chip, the latest Windows laptop is designed to run AI models and workloads directly on the device.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-07T19:12:00+00:00"
+  },
+  {
+    "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+    "link": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
+    "summary": "The Survey of Consumer Expectations indicated that the median outlook for inflation over the next 12 months rose to 3.9%.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-07T18:44:36+00:00"
   },
   {
     "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
@@ -348,68 +362,5 @@
     "summary": "France is facing a fresh political crisis, as its debt levels and borrowing costs continue to rise.",
     "source": "CNBC",
     "pub_iso": "2026-10-07T09:57:23+00:00"
-  },
-  {
-    "title": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
-    "link": "https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html",
-    "summary": "Iran has failed to take advantage of \"multiple opportunities\" to reach a deal on its nuclear program, Secretary of State Marco Rubio said Wednesday.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-07T09:40:42+00:00"
-  },
-  {
-    "title": "AMD\u2019s chief executive is planning to invest \u2018tens of billions\u2019 as Asian tour addresses supply-chain chokepoints",
-    "link": "https://www.marketwatch.com/story/amds-chief-executive-is-planning-to-invest-tens-of-billions-as-asian-tour-addresses-supply-chain-chokepoints-c6485919?mod=mw_rss_topstories",
-    "summary": "AMD\u2019s CEO has been meeting executives in Taiwan and South Korea.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-07T09:37:00+00:00"
-  },
-  {
-    "title": "AMD\u2019s chief executive is planning to invest \u2018tens of billions\u2019 as Asia tour addresses supply-chain chokepoints",
-    "link": "https://www.marketwatch.com/story/amds-chief-executive-is-planning-to-invest-tens-of-billions-as-asian-tour-addresses-supply-chain-chokepoints-c6485919?mod=mw_rss_topstories",
-    "summary": "AMD\u2019s CEO has been meeting executives in Taiwan and South Korea.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-07T09:37:00+00:00"
-  },
-  {
-    "title": "Longtime tech bull Dan Ives says these are his top tech plays going into 2027",
-    "link": "https://www.marketwatch.com/story/longtime-tech-bull-dan-ives-says-these-are-his-top-tech-plays-going-into-2027-3796cb9f?mod=mw_rss_topstories",
-    "summary": "Investors are \u201cunderestimating the scale and scope\u201d of the AI spending wave, said Dan Ives as he laid out five stocks to own.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-07T09:33:00+00:00"
-  },
-  {
-    "title": "Google ordered to halt work on two data centers in \u2018Texas of Europe\u2019",
-    "link": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
-    "summary": "Finland has emerged as a key location for data centers amid the AI boom.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-07T09:26:02+00:00"
-  },
-  {
-    "title": "Jaguar unveils $130,000 electric vehicle two years after controversial rebrand",
-    "link": "https://www.cnbc.com/2026/10/07/jaguar-electric-vehicle-autos-type-01.html",
-    "summary": "The launch comes as luxury rivals Ferrari and Bentley also push into EVs, seeking to test wealthy buyer's appetite for going electric.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-07T09:18:30+00:00"
-  },
-  {
-    "title": "\u2018He grew up wealthy\u2019: My husband inherited $3 million. He wants a vacation home. I want to save for retirement.",
-    "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-    "summary": "\u201cI keep thinking about giving each child $750,000 toward a house.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-07T09:15:00+00:00"
-  },
-  {
-    "title": "SpaceX reportedly is looking to raise as much money as the company generates in revenue to buy Nvidia chips",
-    "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
-    "summary": "Elon Musk\u2019s SpaceX is in talks with banks and investors to borrow $40 billion to fund a purchase of Nvidia chips, according to a Financial Times report.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-07T09:15:00+00:00"
-  },
-  {
-    "title": "Josh Brolin sells Atlanta-area mansion for $4 million after slashing price",
-    "link": "https://www.marketwatch.com/story/josh-brolin-sells-atlanta-area-mansion-for-4-million-after-slashing-price-52561a89?mod=mw_rss_topstories",
-    "summary": "Actor Josh Brolin has sold his lavish Sandy Springs, Ga., estate for $4 million\u2014a final sale price falling just under $1 million less than the original asking price of $4.999 million.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-07T09:05:00+00:00"
   }
 ]
