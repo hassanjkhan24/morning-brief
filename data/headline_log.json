@@ -1,5 +1,12 @@
 [
   {
+    "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+    "link": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+    "summary": "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-08T12:05:16+00:00"
+  },
+  {
     "title": "Tesla\u2019s big AI gamble puts its EV business under a microscope",
     "link": "https://www.marketwatch.com/story/teslas-big-ai-gamble-puts-its-ev-business-under-a-microscope-0ea9b387?mod=mw_rss_topstories",
     "summary": "Investors are left with unanswered questions as the company leans on car sales to help fund its expensive AI ventures.",
@@ -106,6 +113,13 @@
   },
   {
     "title": "Oil prices are jumping again. How the S&P 500 has performed on days crude has seen big gains may be surprising.",
+    "link": "https://www.marketwatch.com/story/oil-prices-are-jumping-again-how-the-s-p-500-has-performed-on-days-crude-has-seen-big-gains-may-be-surprising-283555c1?mod=mw_rss_topstories",
+    "summary": "The S&P 500 moves on days oil prices have gained 3% may come as a surprise.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-08T09:33:00+00:00"
+  },
+  {
+    "title": "Oil prices are jumping again. Here\u2019s how the S&P 500 has performed on days when crude has seen big gains may be surprising.",
     "link": "https://www.marketwatch.com/story/oil-prices-are-jumping-again-how-the-s-p-500-has-performed-on-days-crude-has-seen-big-gains-may-be-surprising-283555c1?mod=mw_rss_topstories",
     "summary": "The S&P 500 moves on days oil prices have gained 3% may come as a surprise.",
     "source": "MarketWatch",
@@ -336,6 +350,13 @@
     "pub_iso": "2026-10-07T20:26:13+00:00"
   },
   {
+    "title": "SpaceX\u2019s plans to buy more Nvidia GPUs is keeping Jim Cramer bullish on the chip stock",
+    "link": "https://www.cnbc.com/investingclub/2026/10/07/spacexs-plans-to-buy-more-nvidia-gpus-is-keeping-jim-cramer-bullish-on-the-chip-stock-.html",
+    "summary": "SpaceX shows that companies are making a return on their AI compute investments, according to Jim Cramer.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-07T20:24:48+00:00"
+  },
+  {
     "title": "FCC to vote on auctioning 25MHz of 'prime spectrum' in move that could benefit Amazon, SpaceX",
     "link": "https://www.cnbc.com/2026/10/07/fcc-spectrum-auction-spacex-amazon.html",
     "summary": "SpaceX and Amazon have moved to expand providing direct-to-device services with networks of satellites.",
@@ -390,12 +411,5 @@
     "summary": "A report says SpaceX is considering raising $40 billion to finance the purchase of advanced graphic processing units and related systems.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-07T18:22:00+00:00"
-  },
-  {
-    "title": "\u2018He grew up wealthy\u2019: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who\u2019s right?",
-    "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-    "summary": "\u201cI keep thinking about giving each child $750,000 toward a house.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-07T17:45:00+00:00"
   }
 ]
