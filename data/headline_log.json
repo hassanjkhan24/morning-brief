@@ -1,5 +1,12 @@
 [
   {
+    "title": "OpenAI defends decision to fire researchers: 'These decisions were not about raising safety concerns or speaking out'",
+    "link": "https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-concerns.html",
+    "summary": "OpenAI has defended its decision to fire three safety researchers for what the AI lab has described as a \"significant breach of trust\"",
+    "source": "CNBC",
+    "pub_iso": "2026-10-09T07:23:48+00:00"
+  },
+  {
     "title": "Ray Dalio warns the stock market's cushion against rising bond yields is shrinking",
     "link": "https://www.cnbc.com/2026/10/08/ray-dalio-stocks-bond-yields.html",
     "summary": "Ray Dalio says earnings have cushioned stocks from rising bond yields, but that buffer is shrinking as he warns free cash flow could weaken.",
@@ -201,12 +208,5 @@
     "summary": "The additional sanctions are part of the Trump administration's military and economic campaign against Iran.",
     "source": "CNBC",
     "pub_iso": "2026-10-08T17:13:32+00:00"
-  },
-  {
-    "title": "Trump bought up to $25 million in Meta and millions in SpaceX debt in August",
-    "link": "https://www.cnbc.com/2026/10/08/trump-august-trades-meta-spacex-financial-disclosure.html",
-    "summary": "Trump disclosed 517 August trades, including up to $5 million in debt from SpaceX, a major Pentagon contractor and NASA launch provider.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-08T13:18:47+00:00"
   }
 ]
