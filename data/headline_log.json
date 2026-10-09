@@ -1,5 +1,54 @@
 [
   {
+    "title": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
+    "link": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
+    "summary": "Blockchain.com is seeking CFTC designation and registration to offer U.S. event contracts and cryptocurrency derivatives.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-09T12:01:26+00:00"
+  },
+  {
+    "title": "Ferrari\u2019s chairman is bullish on AI. He\u2019s less certain how businesses will cash in",
+    "link": "https://www.cnbc.com/2026/10/09/john-elkann-ferrari-ai-technology.html",
+    "summary": "Ferrari chair John Elkann played down AI bubble fears, but acknowledged investment in the technology could outpace revenue generation.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-09T11:54:21+00:00"
+  },
+  {
+    "title": "Kalshi traders see high odds that more than 5,100 data centers will be planned or operating before 2027",
+    "link": "https://www.cnbc.com/2026/10/09/kalshi-traders-see-high-odds-of-5000-plus-data-centers-by-2027.html",
+    "summary": "Despite the growing backlash against data centers, Kalshi odds show the buildout will continue to expand.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-09T11:54:04+00:00"
+  },
+  {
+    "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as adviser",
+    "link": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
+    "summary": "Shelton's controversial economic ideas led the Senate to block her nomination to the Federal Reserve. Now she's be a counselor to the Treasury secretary.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-09T11:50:39+00:00"
+  },
+  {
+    "title": "For the final 10% of cystic fibrosis patients, the breakthrough still hasn't come",
+    "link": "https://www.cnbc.com/2026/10/09/for-the-final-10percent-of-cystic-fibrosis-the-breakthrough-hasnt-come.html",
+    "summary": "For the final 10% of cystic fibrosis patients who cannot benefit from breakthrough drugs, Emily's Entourage is funding research to find treatments.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-09T11:43:02+00:00"
+  },
+  {
+    "title": "Aging bull: Why this 4-year-old stock-market rally still packs a punch",
+    "link": "https://www.marketwatch.com/story/aging-bull-why-the-four-year-old-stock-market-rally-can-still-pack-a-punch-d1271631?mod=mw_rss_topstories",
+    "summary": "History shows bull markets that get past their fourth year rarely throw in the towel, according to Truist Advisory Services.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-09T11:41:00+00:00"
+  },
+  {
+    "title": "Nobel winner Krugman says France may have become 'too big to save'",
+    "link": "https://www.cnbc.com/2026/10/09/nobel-krugman-france-debt.html",
+    "summary": "Economist Paul Krugman sounded the alarm on a looming \"ugly crisis,\" while former ECB head Jean-Claude Trichet said French politicians must compromise.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-09T11:33:48+00:00"
+  },
+  {
     "title": "Aging bull: Why the four-year old stock-market rally can still pack a punch",
     "link": "https://www.marketwatch.com/story/aging-bull-why-the-four-year-old-stock-market-rally-can-still-pack-a-punch-d1271631?mod=mw_rss_topstories",
     "summary": "History shows bull markets that get past their fourth year rarely throw in the towel, according to Truist Advisory Services.",
@@ -57,6 +106,13 @@
   },
   {
     "title": "Is iPhone 18 demand cooling off? Here\u2019s how deep Apple reportedly is cutting component orders",
+    "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
+    "summary": "Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 15% in October, according to Nikkei Asia.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-09T10:04:00+00:00"
+  },
+  {
+    "title": "Is iPhone 18 demand cooling off? Here\u2019s how deep Apple reportedly is cutting component orders.",
     "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
     "summary": "Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 15% in October, according to Nikkei Asia.",
     "source": "MarketWatch",
@@ -306,19 +362,5 @@
     "summary": "Trump disclosed 517 August trades, including up to $5 million in debt from SpaceX, a major Pentagon contractor and NASA launch provider.",
     "source": "CNBC",
     "pub_iso": "2026-10-08T18:16:53+00:00"
-  },
-  {
-    "title": "Little relief expected for gas prices ahead of Election Day, according to prediction markets",
-    "link": "https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html",
-    "summary": "Gas prices are expected to remain above $4 per gallon on Nov. 3, according to traders on prediction market platform Kalshi.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-08T17:51:51+00:00"
-  },
-  {
-    "title": "Trump says U.S. will not attack Iran before midterm election",
-    "link": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
-    "summary": "Trump said talks with Tehran were \u201cproductive\u201d as the Iran war pushes oil and gas prices higher and support for the conflict falls.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-08T17:41:20+00:00"
   }
 ]
