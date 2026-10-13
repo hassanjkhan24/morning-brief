@@ -1,5 +1,33 @@
 [
   {
+    "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+    "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
+    "summary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-13T18:46:27+00:00"
+  },
+  {
+    "title": "Fake shopping sprees and \u2018happiness insurance\u2019: The latest fintech apps reveal our financial anxieties",
+    "link": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
+    "summary": "Fintech companies are catching on to how Americans are altering their financial habits, and they\u2019ve created new products to try to meet the moment.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-13T18:44:00+00:00"
+  },
+  {
+    "title": "Airport attacks put aviation in crosshairs of geopolitical conflicts",
+    "link": "https://www.cnbc.com/2026/10/13/riyadh-airport-attacks-aviation.html",
+    "summary": "Deadly attacks at Riyadh\u2019s main airport are disrupting airlines, closing airspace and raising new security questions for commercial aviation.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-13T18:33:42+00:00"
+  },
+  {
+    "title": "More Republicans come out against Trump's diesel deal with Putin",
+    "link": "https://www.cnbc.com/2026/10/13/trump-russia-diesel-republicans.html",
+    "summary": "Senators told Trump, the deal with Russian President Vladimir Putin \"will not achieve just ends, nor will it benefit Americans.\"",
+    "source": "CNBC",
+    "pub_iso": "2026-10-13T18:19:42+00:00"
+  },
+  {
     "title": "Gen Z renters are the only group more likely to feel successful by investing than buying a house",
     "link": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
     "summary": "\u201cInstead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.\u201d",
@@ -614,19 +642,5 @@
     "summary": "Singapore is a bastion of safety amid global turmoil, according to the CEO of DBS.",
     "source": "CNBC",
     "pub_iso": "2026-10-13T01:26:41+00:00"
-  },
-  {
-    "title": "Singapore PM Wong rejects weaker currency as shortcut to competitiveness",
-    "link": "https://www.cnbc.com/2026/10/13/singapore-pm-wong-rejects-weakening-currency-for-competitiveness.html",
-    "summary": "Singapore Prime Minister Lawrence Wong pushed back against the idea of weakening the city-state's currency to boost competitiveness.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-13T00:39:36+00:00"
-  },
-  {
-    "title": "GM CEO: We're making leaps and bounds toward 'eyes-off, hands-off' driving",
-    "link": "https://www.cnbc.com/2026/10/12/cramer-gm-eyes-off-driving-2028.html",
-    "summary": "General Motors CEO Mary Barra said that the automaker is still on track to introduce \"eyes-off, hands-off\" driving technology by 2028.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-13T00:24:23+00:00"
   }
 ]
