@@ -1,5 +1,19 @@
 [
   {
+    "title": "CNBC Daily Open: 'Boring' trumps disorder and volatility",
+    "link": "https://www.cnbc.com/2026/10/13/daily-open-imf-disorderly-markets-tech-stocks.html",
+    "summary": "Some warning lights are flashing on the global economy dashboard.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-13T07:24:31+00:00"
+  },
+  {
+    "title": "Tech stocks slide as Wall Street chip rout spreads. SK Hynix, SoftBank and ASML slump",
+    "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+    "summary": "Technology stocks tumbled Tuesday as a sell-off in U.S. semiconductor shares spilled into Asian and European markets.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-13T07:22:07+00:00"
+  },
+  {
     "title": "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as \u2018mother of democracy\u2019",
     "link": "https://www.cnbc.com/2026/10/13/cockroach-fraud-india-protest-modi.html",
     "summary": "Protests in India demanding the removal of the chief election commissioner for alleged voter fraud have intensified.",
@@ -14,6 +28,13 @@
     "pub_iso": "2026-10-13T06:46:15+00:00"
   },
   {
+    "title": "Cyber attack hits hundreds of French supermarkets, heating fridges to 122\u00b0F and sparking fires",
+    "link": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
+    "summary": "Hackers targeted hundreds of French supermarkets in a large-scale cyberattack, causing refrigerators to overheat, spoiling food, and sparking fires.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-13T06:44:00+00:00"
+  },
+  {
     "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
     "link": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
     "summary": "The incremental approval comes as the U.S. and Chinese presidents are due to meet for a third time this year next month.",
@@ -26,6 +47,13 @@
     "summary": "The IMF says risks in the government bond market have worsened and that yields could jump sharply and disorderly.",
     "source": "CNBC",
     "pub_iso": "2026-10-13T04:54:07+00:00"
+  },
+  {
+    "title": "IMF sees milder global slowdown as AI boom offsets war hit \u2014 warns resilience is nearing limits",
+    "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
+    "summary": "The IMF raised its 2026 global growth forecast to 3.1%, warning that resilience is tested by energy constraints and looming fiscal risks.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-13T04:10:49+00:00"
   },
   {
     "title": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
@@ -91,6 +119,13 @@
     "pub_iso": "2026-10-12T23:31:00+00:00"
   },
   {
+    "title": "\u2018The prospectus looks impressive\u2019: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+    "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+    "summary": "\u201cI\u2019m in my 60s, recently retired and living my best life.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-12T23:15:00+00:00"
+  },
+  {
     "title": "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan go global",
     "link": "https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html",
     "summary": "Plans to develop a gold trading hub in Hong Kong coincide with China's growing gold reserves.",
@@ -108,6 +143,13 @@
     "title": "Brazilian stocks are breaking out as investors look for opportunities beyond tech",
     "link": "https://www.marketwatch.com/story/brazilian-stocks-are-breaking-out-as-investors-look-for-opportunities-beyond-tech-7fbed032?mod=mw_rss_topstories",
     "summary": "Brazil\u2019s presidential election is powering optimism in the country\u2019s stock market \u2014 and capturing the attention of investors wary of having too much exposure to U.S. stocks.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-12T22:00:00+00:00"
+  },
+  {
+    "title": "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+    "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+    "summary": "\u201cThe house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.\u201d",
     "source": "MarketWatch",
     "pub_iso": "2026-10-12T22:00:00+00:00"
   },
@@ -168,6 +210,13 @@
     "pub_iso": "2026-10-12T18:18:39+00:00"
   },
   {
+    "title": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
+    "link": "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
+    "summary": "The FAA warned U.S. airlines about flight risks over Saudi Arabia as Riyadh airport attacks disrupt travel and Delta weighs an Oct. 23 launch.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-12T16:50:44+00:00"
+  },
+  {
     "title": "UnitedHealth shares are doing something unusual ahead of earnings",
     "link": "https://www.cnbc.com/2026/10/12/unitedhealth-shares-are-doing-something-unusual-ahead-of-earnings.html",
     "summary": "The only thing more expensive than health insurance is perhaps the costs of insuring shares of health insurers",
@@ -187,12 +236,5 @@
     "summary": "Traders think there's little chance core inflation, which excludes food and energy prices, will fall to 2.2% this year.",
     "source": "CNBC",
     "pub_iso": "2026-10-12T15:37:26+00:00"
-  },
-  {
-    "title": "Banks are set to report this week. Here's what the options market expects",
-    "link": "https://www.cnbc.com/2026/10/12/banks-are-set-to-report-this-week-heres-what-the-options-market-expects.html",
-    "summary": "Despite being flat on the year, the options market is pricing in some big financial sector moves as investor weigh the impact of higher rates.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T13:27:20+00:00"
   }
 ]
