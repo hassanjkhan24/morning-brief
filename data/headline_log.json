@@ -1,5 +1,40 @@
 [
   {
+    "title": "Micron, SoftBank and ASML slide as Wall Street chip rout spreads",
+    "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+    "summary": "Technology stocks tumbled Tuesday as a sell-off in U.S. semiconductor shares spilled into Asian and European markets.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-13T08:42:55+00:00"
+  },
+  {
+    "title": "U.S. Treasury yields fall as energy prices pull back",
+    "link": "https://www.cnbc.com/2026/10/13/us-treasurys-bonds-yields.html",
+    "summary": "Bond yields fell on Tuesday as investors await more economic data releases this week.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-13T08:31:37+00:00"
+  },
+  {
+    "title": "Was Broadcom CEO bullish or bearish on AI? \u2018Gamblers\u2019 comment creates storm",
+    "link": "https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories",
+    "summary": "The comments made by Broadcom\u2019s CEO at a conference in Singapore have been cited as a reason for microchip stocks\u2019 slumps on both Monday and Tuesday.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-13T08:29:00+00:00"
+  },
+  {
+    "title": "Cyberattack hits hundreds of French supermarkets, heating fridges to 122\u00b0F and sparking fires",
+    "link": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
+    "summary": "Hackers targeted hundreds of French supermarkets in a large-scale cyberattack, causing refrigerators to overheat, spoiling food, and sparking fires.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-13T08:28:59+00:00"
+  },
+  {
+    "title": "Anthropic warns AI models could soon copy themselves across home devices",
+    "link": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
+    "summary": "Anthropic's latest research adds to the growing safety concerns around AI from the ability for models to carry out cyberattacks to the technology going rogue.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-13T08:27:20+00:00"
+  },
+  {
     "title": "CNBC Daily Open: 'Boring' trumps disorder and volatility",
     "link": "https://www.cnbc.com/2026/10/13/daily-open-imf-disorderly-markets-tech-stocks.html",
     "summary": "Some warning lights are flashing on the global economy dashboard.",
