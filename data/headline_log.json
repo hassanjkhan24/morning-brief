@@ -1,317 +1,198 @@
 [
   {
+    "title": "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as \u2018mother of democracy\u2019",
+    "link": "https://www.cnbc.com/2026/10/13/cockroach-fraud-india-protest-modi.html",
+    "summary": "Protests in India demanding the removal of the chief election commissioner for alleged voter fraud have intensified.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-13T07:04:26+00:00"
+  },
+  {
+    "title": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
+    "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+    "summary": "Asian technology stocks tumbled Tuesday as a sell-off in U.S. semiconductor shares spilled into regional markets.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-13T06:46:15+00:00"
+  },
+  {
+    "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+    "link": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+    "summary": "The incremental approval comes as the U.S. and Chinese presidents are due to meet for a third time this year next month.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-13T06:20:55+00:00"
+  },
+  {
+    "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
+    "link": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+    "summary": "The IMF says risks in the government bond market have worsened and that yields could jump sharply and disorderly.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-13T04:54:07+00:00"
+  },
+  {
+    "title": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
+    "link": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
+    "summary": "Oil prices fell as investors assess potential supply disruptions against prospects of more Russian diesel entering global markets.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-13T03:49:23+00:00"
+  },
+  {
+    "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+    "link": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+    "summary": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-13T02:58:11+00:00"
+  },
+  {
+    "title": "How Red Bull's F1 team is using AI to make split-second decisions for Max Verstappen",
+    "link": "https://www.cnbc.com/2026/10/13/red-bull-f1-ai-max-verstappen.html",
+    "summary": "Red Bull Racing is increasingly using AI to help make real-time Formula 1 race decisions, but the team says human judgment remains essential.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-13T02:37:08+00:00"
+  },
+  {
+    "title": "Six Flags shares plunge after-hours following report of deadly roller coaster incident",
+    "link": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
+    "summary": "Six Flags shares plunged more than 10% in after-hours trading Monday following reports of a deadly roller coaster incident at its Georgia amusement park.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-13T02:29:14+00:00"
+  },
+  {
+    "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
+    "link": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
+    "summary": "IMF sees a split global economy, with countries less exposed to the oil shock and benefiting from AI demand pulling ahead",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-13T02:00:00+00:00"
+  },
+  {
+    "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
+    "link": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
+    "summary": "Singapore is a bastion of safety amid global turmoil, according to the CEO of DBS.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-13T01:26:41+00:00"
+  },
+  {
+    "title": "Singapore PM Wong rejects weaker currency as shortcut to competitiveness",
+    "link": "https://www.cnbc.com/2026/10/13/singapore-pm-wong-rejects-weakening-currency-for-competitiveness.html",
+    "summary": "Singapore Prime Minister Lawrence Wong pushed back against the idea of weakening the city-state's currency to boost competitiveness.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-13T00:39:36+00:00"
+  },
+  {
+    "title": "The SpaceX threat could loom over AT&T\u2019s stock for a prolonged stretch, analyst cautions",
+    "link": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
+    "summary": "Bernstein analyst Laurent Yoon no longer recommends any of the major telecommunications stocks as he warns of more volatility ahead.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-13T00:18:00+00:00"
+  },
+  {
+    "title": "\u2018The house is worth $925,000\u2019: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
+    "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+    "summary": "\u201cThe house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-12T23:31:00+00:00"
+  },
+  {
+    "title": "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan go global",
+    "link": "https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html",
+    "summary": "Plans to develop a gold trading hub in Hong Kong coincide with China's growing gold reserves.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-12T23:00:01+00:00"
+  },
+  {
+    "title": "Investors worry the bull market is getting old. But history shows it can continue to age gracefully.",
+    "link": "https://www.marketwatch.com/story/investors-worry-the-bull-market-is-getting-old-but-history-shows-it-can-continue-to-age-gracefully-0402e69c?mod=mw_rss_topstories",
+    "summary": "Contrary to a widespread current worry among some on Wall Street, bull markets do not die of old age,",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-12T22:27:00+00:00"
+  },
+  {
+    "title": "Brazilian stocks are breaking out as investors look for opportunities beyond tech",
+    "link": "https://www.marketwatch.com/story/brazilian-stocks-are-breaking-out-as-investors-look-for-opportunities-beyond-tech-7fbed032?mod=mw_rss_topstories",
+    "summary": "Brazil\u2019s presidential election is powering optimism in the country\u2019s stock market \u2014 and capturing the attention of investors wary of having too much exposure to U.S. stocks.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-12T22:00:00+00:00"
+  },
+  {
+    "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
+    "link": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
+    "summary": "The chip makers introduced hardware and software designs for future AI data centers, but the revenue potential is still far out, an analyst says.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-12T21:19:00+00:00"
+  },
+  {
+    "title": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
+    "link": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
+    "summary": "Musk\u2019s record midterm election spending comes as the Tesla and SpaceX CEO rebuilds his relationship with Trump and has business ties to the federal government.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-12T21:17:58+00:00"
+  },
+  {
+    "title": "Why Ciena, Lumentum and other optical stocks were among the market\u2019s biggest losers on Monday",
+    "link": "https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories",
+    "summary": "The sharp moves could partly be a reaction to recent cautious commentary on AI spending.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-12T20:46:00+00:00"
+  },
+  {
+    "title": "Microsoft hits a big milestone that solidifies its revival",
+    "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+    "summary": "Microsoft has reclaimed a $4 trillion market cap on Monday \u2014 and fresh records are in sight.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-12T20:40:00+00:00"
+  },
+  {
+    "title": "A massive trade just happened in surging shares of Snap",
+    "link": "https://www.cnbc.com/2026/10/12/a-massive-trade-just-happens-in-surging-shares-of-snap.html",
+    "summary": "Options traders bet on 30% rally in Snap",
+    "source": "CNBC",
+    "pub_iso": "2026-10-12T18:43:44+00:00"
+  },
+  {
+    "title": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'",
+    "link": "https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html",
+    "summary": "Ukraine President Volodymyr Zelenskyy said that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
+    "source": "CNBC",
+    "pub_iso": "2026-10-12T18:32:03+00:00"
+  },
+  {
+    "title": "Rep. Ilhan Omar blasts federal criminal raid on home: 'I will not be silenced'",
+    "link": "https://www.cnbc.com/2026/10/12/ilhan-omar-home-raided-dhs-immigration-investigation.html",
+    "summary": "The Minnesota Democrat, a Muslim who was born in Somalia, has been targeted for criticism in the past by President Donald Trump.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-12T18:29:28+00:00"
+  },
+  {
+    "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
+    "link": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
+    "summary": "The S&P 500 has climbed almost 120% since its closing low on Oct. 12, 2022.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-12T18:18:39+00:00"
+  },
+  {
+    "title": "UnitedHealth shares are doing something unusual ahead of earnings",
+    "link": "https://www.cnbc.com/2026/10/12/unitedhealth-shares-are-doing-something-unusual-ahead-of-earnings.html",
+    "summary": "The only thing more expensive than health insurance is perhaps the costs of insuring shares of health insurers",
+    "source": "CNBC",
+    "pub_iso": "2026-10-12T16:42:13+00:00"
+  },
+  {
+    "title": "Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks",
+    "link": "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html",
+    "summary": "Delta planned to begin the route on Oct. 23, in what would have marked the first nonstop commercial flight between the U.S. and Saudi Arabia.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-12T15:48:28+00:00"
+  },
+  {
+    "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
+    "link": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
+    "summary": "Traders think there's little chance core inflation, which excludes food and energy prices, will fall to 2.2% this year.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-12T15:37:26+00:00"
+  },
+  {
     "title": "Banks are set to report this week. Here's what the options market expects",
     "link": "https://www.cnbc.com/2026/10/12/banks-are-set-to-report-this-week-heres-what-the-options-market-expects.html",
     "summary": "Despite being flat on the year, the options market is pricing in some big financial sector moves as investor weigh the impact of higher rates.",
     "source": "CNBC",
     "pub_iso": "2026-10-12T13:27:20+00:00"
-  },
-  {
-    "title": "Rep. Ilhan Omar's home raided by DHS in fraud probe of immigration paperwork: Report",
-    "link": "https://www.cnbc.com/2026/10/12/ilhan-omar-home-raided-dhs-immigration-investigation.html",
-    "summary": "The Minnesota Democrat, a Muslim who was born in Somalia, has been targeted for criticism in the past by President Donald Trump.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T13:06:52+00:00"
-  },
-  {
-    "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
-    "link": "https://www.cnbc.com/investingclub/2026/10/12/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-    "summary": "Salesforce landed a double-upgrade, and stock futures are muted to start a busy week of earnings and inflation data.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T13:06:04+00:00"
-  },
-  {
-    "title": "Starbucks says it is not buying Chipotle after takeover speculation",
-    "link": "https://www.cnbc.com/2026/10/12/starbucks-denies-chipotle-takeover.html",
-    "summary": "\"Starbucks is not buying Chipotle,\" a Starbucks spokesperson told CNBC.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T13:01:37+00:00"
-  },
-  {
-    "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
-    "link": "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html",
-    "summary": "By increasingly counting on its own chips, Microsoft stands to expand margins and bolster its AI stack.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T13:00:01+00:00"
-  },
-  {
-    "title": "Zelenskyy accuses Russia of violating Trump\u2019s energy ceasefire as drone attacks continue",
-    "link": "https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-trump.html",
-    "summary": "If Russia doesn't agree to Trump's energy ceasefire, Ukraine will respond, Zelenskyy said Monday morning.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T12:36:21+00:00"
-  },
-  {
-    "title": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
-    "link": "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
-    "summary": "The FAA warned U.S. airlines about flight risks over Saudi Arabia as Riyadh airport attacks disrupt travel and Delta weighs an Oct. 23 launch.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T12:31:05+00:00"
-  },
-  {
-    "title": "Saudi Arabia says drones and missiles still targeting Kingdom as Iran-backed Houthis step up attacks",
-    "link": "https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html",
-    "summary": "The Saudi-led coalition responding to the attacks said Monday it was dealing with more drones and missiles heading toward the kingdom.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T12:15:55+00:00"
-  },
-  {
-    "title": "Health insurance open enrollment: Use this 'algorithm' to pick a plan, financial advisor says",
-    "link": "https://www.cnbc.com/2026/10/12/health-insurance-open-enrollment.html",
-    "summary": "There are several factors consumers must consider during open enrollment, such as choice, cost and savings options.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T12:15:01+00:00"
-  },
-  {
-    "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here\u2019s what the visa data shows",
-    "link": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
-    "summary": "The administration barred Microsoft and seven other firms from sponsoring green cards over claims they favor foreign workers. Here's what the visa data shows.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T11:32:33+00:00"
-  },
-  {
-    "title": "Mired in their worst losing streak in years, small caps could be the best way for investors to play crucial CPI data",
-    "link": "https://www.marketwatch.com/story/mired-in-their-worst-losing-streak-in-years-small-caps-could-be-the-best-way-for-investors-to-play-crucial-cpi-data-40e2f716?mod=mw_rss_topstories",
-    "summary": "Stuart Kaiser, of Citigroup, recommends buying iShares Russell 2000 exchange-traded fund call options before the consumer-price index for September is released on Wednesday.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-12T11:30:00+00:00"
-  },
-  {
-    "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
-    "link": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
-    "summary": "The big banks kick off earnings season on Tuesday, to provide a first read on the health of the economy in a rising-yield environment.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-12T11:07:00+00:00"
-  },
-  {
-    "title": "Fed officials want to hold off a rate hike this month. Will this week\u2019s inflation data let them?",
-    "link": "https://www.marketwatch.com/story/fed-officials-want-to-hold-off-a-rate-hike-this-month-will-this-weeks-inflation-data-let-them-a82754d1?mod=mw_rss_topstories",
-    "summary": "A troubling rise in prices might trigger an interest-rate move at the Fed\u2019s meeting in late October.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-12T11:00:00+00:00"
-  },
-  {
-    "title": "This five-star money manager shares three stock picks, including one betting on dying American malls",
-    "link": "https://www.marketwatch.com/story/this-five-star-money-manager-shares-three-stock-picks-including-one-betting-on-dying-american-malls-9253a787?mod=mw_rss_topstories",
-    "summary": "One highly rated fund manager shares some top picks, including two names many U.S. investors will be unfamiliar with.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-12T10:52:00+00:00"
-  },
-  {
-    "title": "Global travel warnings after Iran-backed Houthi\u00a0militants strike Riyadh airport",
-    "link": "https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html",
-    "summary": "The Saudi-led coalition responding to the attacks said Monday it was dealing with more drones and missiles heading toward the Kingdom.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T10:48:00+00:00"
-  },
-  {
-    "title": "Brent tops $105 as doubts grow over supply boost from Trump\u2019s \u2018energy ceasefire\u2019",
-    "link": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
-    "summary": "Ukrainian President Volodymyr Zelenskyy said that \"Ukraine supports the ceasefire, and it is important that Russia support it as well.\"",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T10:31:09+00:00"
-  },
-  {
-    "title": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
-    "link": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
-    "summary": "",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T10:18:18+00:00"
-  },
-  {
-    "title": "\u2018The prospectus looks impressive\u2019: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-    "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-    "summary": "\u201cI\u2019m in my 60s, recently retired and living my best life.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-12T10:15:00+00:00"
-  },
-  {
-    "title": "Brent tops $106 as doubts grow over supply boost from Trump\u2019s \u2018energy ceasefire\u2019",
-    "link": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
-    "summary": "Ukrainian President Volodymyr Zelenskyy said that \"Ukraine supports the ceasefire, and it is important that Russia support it as well.\"",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T10:11:42+00:00"
-  },
-  {
-    "title": "AI FOMO driving some family offices into tech investments, survey suggests",
-    "link": "https://www.cnbc.com/2026/10/12/ai-fomo-driving-some-family-offices-to-ai-investments-survey-suggests.html",
-    "summary": "Investment firms of ultra-wealthy families aren't immune to FOMO.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T10:03:14+00:00"
-  },
-  {
-    "title": "Oil turns higher amid skepticism Trump's 'energy ceasefire' between Russia and Ukraine will improve supply",
-    "link": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
-    "summary": "Ukrainian President Volodymyr Zelenskyy said that \"Ukraine supports the ceasefire, and it is important that Russia support it as well.\"",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T09:40:28+00:00"
-  },
-  {
-    "title": "Trump turns to Russian diesel ahead of midterms, but analysts see little price relief",
-    "link": "https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-diesel-prices.html",
-    "summary": "President Donald Trump's latest effort to ease a diesel supply crunch ahead of November's midterm elections is unlikely to make a dent on prices.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T09:31:22+00:00"
-  },
-  {
-    "title": "The bond market is doing the Fed\u2019s job, and that could be good news for stocks, says Morgan Stanley strategist",
-    "link": "https://www.marketwatch.com/story/the-bond-market-is-doing-the-feds-job-and-that-could-be-good-news-for-stocks-says-morgan-stanley-strategist-ec57b81a?mod=mw_rss_topstories",
-    "summary": "A stronger dollar, higher bond market yields and elevated gas prices are already tightening financial conditions in the U.S. to the point that Kevin Warsh may not even need to hike rates.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-12T09:23:00+00:00"
-  },
-  {
-    "title": "My sister moved in with our widowed mother, 78, and says she deserves the family home. Is she right?",
-    "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-    "summary": "\u201cThe house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-12T09:15:00+00:00"
-  },
-  {
-    "title": "Beckham, Yao Ming attend NBA China Games in a boost to Macao's live events",
-    "link": "https://www.cnbc.com/2026/10/12/beckham-yao-ming-nba-china-games-liev-events.html",
-    "summary": "The NBA China Games brought Chinese and U.S. basketball fans to Macao, which is spending big to broaden its reputation beyond a gambling mecca.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T09:14:31+00:00"
-  },
-  {
-    "title": "Here\u2019s why Goldman Sachs just flipped bullish on stocks for the rest of the year",
-    "link": "https://www.marketwatch.com/story/heres-why-goldman-sachs-just-flipped-bullish-on-stocks-for-the-rest-of-the-year-dfa3b0af?mod=mw_rss_topstories",
-    "summary": "Goldman Sachs is leaning more heavily into stocks for the remainder of the year. That\u2019s down to earnings and a market that has overall gotten cheaper.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-12T09:14:00+00:00"
-  },
-  {
-    "title": "Legal battle continues as Dolly Parton\u2019s estate claims nephew put up barbed wire to avoid summons",
-    "link": "https://www.marketwatch.com/story/legal-battle-continues-as-dolly-partons-estate-claims-nephew-put-up-barbed-wire-to-avoid-summons-e4ed0f9a?mod=mw_rss_topstories",
-    "summary": "Dolly Parton\u2019s estate has claimed that the late country music icon\u2019s nephew, Bryan Seaver, went to extraordinary lengths to evade being served with a summons.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-12T09:05:00+00:00"
-  },
-  {
-    "title": "Dr. Phil lists his lavish Beverly Hills estate for a whopping $67.5 million",
-    "link": "https://www.marketwatch.com/story/dr-phil-lists-his-lavish-beverly-hills-estate-for-a-whopping-67-5-million-5992b370?mod=mw_rss_topstories",
-    "summary": "TV host Dr. Phil McGraw and his wife, Robin McGraw, are hoping to score an impressive return on their investment, asking more than double what they originally paid in 2016.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-12T09:02:00+00:00"
-  },
-  {
-    "title": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI \u2018tsunami\u2019",
-    "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
-    "summary": "IMF Chief Kristalina Georgieva warned AI is hitting the global labor market like a \u201cslow-moving tsunami,\u201d with young workers entering the job market the most exposed.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T08:58:54+00:00"
-  },
-  {
-    "title": "Stellantis CEO urges incentives for carmakers who build in Europe as Chinese rivals gain ground",
-    "link": "https://www.cnbc.com/2026/10/12/stellantis-europe-cars-chinese-rivals-evs.html",
-    "summary": "Stellantis' CEO urged European regulators to create incentives for carmakers to manufacture vehicles in the region amid competition from Chinese rivals.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T08:41:50+00:00"
-  },
-  {
-    "title": "Zelenskyy says Ukraine is ready to agree to energy ceasefire, but warns Russia must do same",
-    "link": "https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-trump.html",
-    "summary": "If Russia doesn't agree to Trump's energy ceasefire, Ukraine will respond, Zelenskyy said in a live-streamed address Monday morning.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T08:37:21+00:00"
-  },
-  {
-    "title": "Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck",
-    "link": "https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html",
-    "summary": "The CEOs of Intel and Broadcom warned that access to capital could emerge as a major constraint on the artificial intelligence boom.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T08:27:52+00:00"
-  },
-  {
-    "title": "World Bank jobs council urges 'crisis-era' support measures as IMF warns of AI \u2018tsunami\u2019 hit",
-    "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
-    "summary": "IMF Chief Kristalina Georgieva warned AI is hitting the global labor market like a \u201cslow-moving tsunami,\u201d with young workers entering the job market the most exposed.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T08:11:46+00:00"
-  },
-  {
-    "title": "AI may change the price of your Big Mac and groceries \u2014 what this means for shoppers",
-    "link": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
-    "summary": "As retailers turn to AI tools to streamline operations, experts warn that collecting more detailed consumer data increases the risk of personalized pricing.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T06:02:18+00:00"
-  },
-  {
-    "title": "TikTok CEO sees major scientific breakthroughs from AI within three years",
-    "link": "https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html",
-    "summary": "Chew cautioned that AI's growing capabilities would require stronger safeguards, particularly as autonomous systems become more widely adopted.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T04:24:33+00:00"
-  },
-  {
-    "title": "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
-    "link": "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html",
-    "summary": "The ads featuring President Trump have been criticized as government propaganda and as aimed at influencing the outcome of the midterm election.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T02:28:54+00:00"
-  },
-  {
-    "title": "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
-    "link": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
-    "summary": "News of Iran reportedly offered to mediate between Yemen's Houthis and Saudi Arabia helped to bring oil prices lower.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T02:27:04+00:00"
-  },
-  {
-    "title": "Why China is importing a record amount of gold \u2014 and what it means for prices",
-    "link": "https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html",
-    "summary": "Beijing\u2019s push to diversify away from the dollar and Chinese households\u2019 search for a safe place to put their savings has fueled China\u2019s record gold buying.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T00:51:10+00:00"
-  },
-  {
-    "title": "Judge orders Trump admin to stop airing challenged government-funded ads immediately",
-    "link": "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html",
-    "summary": "The ads have been criticized as government propaganda and as aimed at influencing the outcome of the midterm election, which will determine control of Congress.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T00:29:50+00:00"
-  },
-  {
-    "title": "Plenty is working against this market. Here's why I'm staying invested anyway",
-    "link": "https://www.cnbc.com/investingclub/2026/10/11/plenty-is-working-against-this-market-why-im-staying-invested-anyway.html",
-    "summary": "The fact is, I don't have a strong case for owning stocks at the moment.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-12T00:23:07+00:00"
-  },
-  {
-    "title": "Trump Media advisor Katie Zacharia named White House press secretary",
-    "link": "https://www.cnbc.com/2026/10/11/trump-katie-zacharia-white-house-press-secretary.html",
-    "summary": "Trump named Katie Zacharia to take over as the next press secretary.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-11T22:16:40+00:00"
-  },
-  {
-    "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
-    "link": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
-    "summary": "U.S. military involvement in the fight against the Houthis would stretch resources in the Middle East already committed to fighting Iran, analysts said.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-11T21:30:45+00:00"
-  },
-  {
-    "title": "Justice Department investigates TV networks as White House press-access fight escalates",
-    "link": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
-    "summary": "The Justice Department said in a statement that it is examining whether the White House TV press pool violated the Sherman Act.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-11T20:18:38+00:00"
-  },
-  {
-    "title": "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-    "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-    "summary": "\u201cThe house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-11T20:15:00+00:00"
-  },
-  {
-    "title": "\u2018I feel like a loser\u2019: My stock portfolio is swinging wildly. Is it finally time to worry?",
-    "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-    "summary": "\u201cI presume these are sophisticated investors taking a profit.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-11T20:00:00+00:00"
   }
 ]
