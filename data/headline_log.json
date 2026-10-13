@@ -1,5 +1,26 @@
 [
   {
+    "title": "Six Flags shares decline following deadly roller coaster incident",
+    "link": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
+    "summary": "One person died and several others were injured in an incident involving the Goliath roller coaster at Six Flags Over Georgia, according to reports.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-13T14:49:32+00:00"
+  },
+  {
+    "title": "\u2018I am a pretty cautious person\u2019: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+    "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+    "summary": "\u201cI like my life, but I also like the idea of a big return after years of putting money into my 401(k).\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-13T14:45:00+00:00"
+  },
+  {
+    "title": "My wife says we can\u2019t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
+    "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+    "summary": "\u201cI worry about healthcare, long-term care, inflation, a long bear market and living to 95.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-13T14:31:00+00:00"
+  },
+  {
     "title": "White House has asked Ambassador Kimberly Guilfoyle to resign, new Trump press secretary says",
     "link": "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
     "summary": "The White House has asked U.S. Ambassador to Greece Kimberly Guilfoyle to resign, press secretary Katie Zacharia said Tuesday in her debut briefing.",
@@ -15,6 +36,13 @@
   },
   {
     "title": "Why one hedge-fund billionaire believes stocks are heading for a \u2018really challenging\u2019 2027",
+    "link": "https://www.marketwatch.com/story/why-one-hedge-fund-billionaire-believes-stocks-are-heading-for-a-really-challenging-2027-bb68f19e?mod=mw_rss_topstories",
+    "summary": "U.S. stocks could face a serious test in 2027 as a tsunami of new equity issuance threatens to upend the artificial-intelligence-driven bull market, according to hedge-fund billionaire Paul Tudor Jone",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-13T14:10:00+00:00"
+  },
+  {
+    "title": "Hedge-fund legend Paul Tudor Jones says the stock market faces a really challenging 2027. Here\u2019s why.",
     "link": "https://www.marketwatch.com/story/why-one-hedge-fund-billionaire-believes-stocks-are-heading-for-a-really-challenging-2027-bb68f19e?mod=mw_rss_topstories",
     "summary": "U.S. stocks could face a serious test in 2027 as a tsunami of new equity issuance threatens to upend the artificial-intelligence-driven bull market, according to hedge-fund billionaire Paul Tudor Jone",
     "source": "MarketWatch",
@@ -68,6 +96,13 @@
     "summary": "Shkreli was banned from the pharmaceutical industry after a trial found that he organized an illegal scheme to perpetuate a monopoly for the drug Daraprim.",
     "source": "CNBC",
     "pub_iso": "2026-10-13T13:39:37+00:00"
+  },
+  {
+    "title": "Thousands of homeowners face adjustable-rate mortgage resets \u2014 and much higher payments",
+    "link": "https://www.cnbc.com/2026/10/13/arm-mortgage-borrowers-rate-adjustment.html",
+    "summary": "Adjustable-rate mortgages with low introductory interest rates are facing their first adjustment at a time when rates are much higher, according to new data.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-13T13:35:01+00:00"
   },
   {
     "title": "This one move will save $20,000 on our wedding",
@@ -516,19 +551,5 @@
     "summary": "Small, consistent gains over time, compounded through regular contributions, can supercharge your wealth",
     "source": "CNBC",
     "pub_iso": "2026-10-12T21:02:09+00:00"
-  },
-  {
-    "title": "Why Ciena, Lumentum and other optical stocks were among the market\u2019s biggest losers on Monday",
-    "link": "https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories",
-    "summary": "The sharp moves could partly be a reaction to recent cautious commentary on AI spending.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-12T20:46:00+00:00"
-  },
-  {
-    "title": "Microsoft hits a big milestone that solidifies its revival",
-    "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
-    "summary": "Microsoft has reclaimed a $4 trillion market cap on Monday \u2014 and fresh records are in sight.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-12T20:40:00+00:00"
   }
 ]
