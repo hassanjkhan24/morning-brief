@@ -1,5 +1,75 @@
 [
   {
+    "title": "Netflix is laying off roughly 6% of its workforce",
+    "link": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
+    "summary": "",
+    "source": "CNBC",
+    "pub_iso": "2026-10-14T13:51:21+00:00"
+  },
+  {
+    "title": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth",
+    "link": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
+    "summary": "Fund-management giant BlackRock said Wednesday that assets under management are nearly $15.5 trillion after growth of 15%.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-14T13:46:00+00:00"
+  },
+  {
+    "title": "Consumer prices rose 3.7% annually in September as gas costs skyrocket",
+    "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
+    "summary": "The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones consensus forecast.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-14T13:45:40+00:00"
+  },
+  {
+    "title": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
+    "link": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
+    "summary": "The Social Security Administration has announced a 3.6% cost-of-living adjustment for 2027.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-14T13:45:13+00:00"
+  },
+  {
+    "title": "I lost my home in the Great Recession. I still rent in my 50s. Why is that judged as failure?",
+    "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+    "summary": "\u201dI earn $110,000 a year.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-14T13:45:00+00:00"
+  },
+  {
+    "title": "Fake shopping sprees and \u2018happiness insurance\u2019: The latest fintech apps reveal our financial anxieties",
+    "link": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
+    "summary": "Fintech companies are catching on to how Americans are altering their financial habits, and they\u2019ve created new products to try to meet the moment.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-14T13:31:00+00:00"
+  },
+  {
+    "title": "Gen Z renters are the only group more likely to feel successful by investing than buying a house",
+    "link": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
+    "summary": "\u201cInstead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-14T13:28:00+00:00"
+  },
+  {
+    "title": "Social Security\u2019s COLA will be 3.6% in 2027 as inflation persists",
+    "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+    "summary": "The increase is aimed at helping about 68 million beneficiaries keep pace with inflation.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-14T13:27:00+00:00"
+  },
+  {
+    "title": "Midterm voters haven\u2019t seen this many housing proposals on the ballot in 20 years",
+    "link": "https://www.marketwatch.com/story/midterm-voters-havent-seen-this-many-housing-proposals-on-the-ballot-in-20-years-8cdf1405?mod=mw_rss_topstories",
+    "summary": "Ballot measures aim to fix the housing crisis in various ways, from making it easier to build new homes, to cutting property taxes.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-14T13:23:00+00:00"
+  },
+  {
+    "title": "This one move will save $20,000 on our wedding",
+    "link": "https://www.marketwatch.com/story/this-one-move-will-save-20-000-on-our-wedding-d22e4d24?mod=mw_rss_topstories",
+    "summary": "Plus: Where we\u2019re cutting back to free up space in our wedding budget for the things we really want on our big day",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-14T13:17:00+00:00"
+  },
+  {
     "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
     "link": "https://www.cnbc.com/investingclub/2026/10/14/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
     "summary": "The Septembr CPI report came in hot, and Morgan Stanley's equities trading blew past expectations.",
@@ -460,12 +530,5 @@
     "summary": "\u201cThe house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.\u201d",
     "source": "MarketWatch",
     "pub_iso": "2026-10-13T20:16:00+00:00"
-  },
-  {
-    "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
-    "link": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
-    "summary": "New York Fed President John Williams sees one more rate hike in 2026 but no additional increase in 2027 as inflation pressures ease.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-13T19:46:12+00:00"
   }
 ]
