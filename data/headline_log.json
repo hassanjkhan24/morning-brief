@@ -1,5 +1,19 @@
 [
   {
+    "title": "Bank of America shares drop 5% after third-quarter revenue miss and regulatory penalty",
+    "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+    "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-14T12:36:54+00:00"
+  },
+  {
+    "title": "Consumer prices rose 0.6% in September, putting annual inflation rate at 3.7%",
+    "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
+    "summary": "The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones consensus forecast.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-14T12:34:44+00:00"
+  },
+  {
     "title": "Bank of America shares drop more than 4% after third-quarter revenue miss and regulatory penalty",
     "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
     "summary": "The U.S. Treasury Department announced a $1.2 billion penalty against Bank of America on Tuesday.",
@@ -42,6 +56,13 @@
     "pub_iso": "2026-10-14T12:01:31+00:00"
   },
   {
+    "title": "How to read your body\u2019s warning signs years before you get sick",
+    "link": "https://www.marketwatch.com/story/how-to-read-your-bodys-warning-signs-years-before-you-get-sick-3fb8c82d?mod=mw_rss_topstories",
+    "summary": "Most of us don\u2019t just want to live longer lives. We want to live longer and healthier lives.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-14T12:00:00+00:00"
+  },
+  {
     "title": "Morgan Stanley tops estimates as equities trading revenue exceeds expectations by $909 million",
     "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
     "summary": "Morgan Stanley is expected to benefit from robust investment banking and equities trading revenue.",
@@ -66,6 +87,13 @@
     "title": "Here\u2019s how much the AI boom is contributing to inflation, according to Goldman Sachs calculations",
     "link": "https://www.marketwatch.com/story/heres-how-much-the-ai-boom-is-contributing-to-inflation-according-to-goldman-sachs-calculations-5ec717ff?mod=mw_rss_topstories",
     "summary": "Goldman Sachs economists have calculated how much the AI boom has contributed to inflation.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-14T11:18:00+00:00"
+  },
+  {
+    "title": "Here\u2019s how much the AI boom is really contributing to inflation, according to Goldman Sachs calculations",
+    "link": "https://www.marketwatch.com/story/heres-how-much-the-ai-boom-is-contributing-to-inflation-according-to-goldman-sachs-calculations-5ec717ff?mod=mw_rss_topstories",
+    "summary": "Goldman believes the core inflation rate will revert toward the Fed\u2019s 2% target in 2027.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-14T11:18:00+00:00"
   },
@@ -411,19 +439,5 @@
     "summary": "Fintech companies are catching on to how Americans are altering their financial habits, and they\u2019ve created new products to try to meet the moment.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-13T18:44:00+00:00"
-  },
-  {
-    "title": "Airport attacks put aviation in crosshairs of geopolitical conflicts",
-    "link": "https://www.cnbc.com/2026/10/13/riyadh-airport-attacks-aviation.html",
-    "summary": "Deadly attacks at Riyadh\u2019s main airport are disrupting airlines, closing airspace and raising new security questions for commercial aviation.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-13T18:33:42+00:00"
-  },
-  {
-    "title": "More Republicans come out against Trump's diesel deal with Putin",
-    "link": "https://www.cnbc.com/2026/10/13/trump-russia-diesel-republicans.html",
-    "summary": "Senators told Trump, the deal with Russian President Vladimir Putin \"will not achieve just ends, nor will it benefit Americans.\"",
-    "source": "CNBC",
-    "pub_iso": "2026-10-13T18:19:42+00:00"
   }
 ]
