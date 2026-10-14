@@ -1,5 +1,26 @@
 [
   {
+    "title": "Here's the inflation breakdown for September 2026 \u2014 in one chart",
+    "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-breakdown-september-2026.html",
+    "summary": "The consumer price index rose by 3.7% in September, on the back of higher gasoline and energy prices largely due to the Iran war.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-14T14:56:25+00:00"
+  },
+  {
+    "title": "Netflix to lay off roughly 1,000 employees, or 6% of workforce",
+    "link": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
+    "summary": "Netflix will lay off roughly 6% of its workforce, according to a memo obtained by CNBC.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-14T14:52:29+00:00"
+  },
+  {
+    "title": "Bending Spoons skyrockets 35% as Berkshire Hathaway makes $330 million investment",
+    "link": "https://www.cnbc.com/2026/10/14/berkshire-hathaway-investment-bending-spoons.html",
+    "summary": "Berkshire's latest investment follows the $600 million it invested in the company's IPO this July.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-14T14:39:21+00:00"
+  },
+  {
     "title": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
     "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
     "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
@@ -495,40 +516,5 @@
     "summary": "Anticipation is building for Anthropic\u2019s investor day, as Wall Street grows less patient with heavy AI spending.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-13T21:02:00+00:00"
-  },
-  {
-    "title": "Don't let inflation bite \u2014 how to hedge with TIPS, commodities and infrastructure funds",
-    "link": "https://www.cnbc.com/2026/10/13/inflation-hedge-tips-commodities-infrastructure.html",
-    "summary": "TIPS are looking attractive but they aren't the only way to get inflation protection.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-13T20:52:22+00:00"
-  },
-  {
-    "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-    "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-    "summary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-13T20:48:37+00:00"
-  },
-  {
-    "title": "Bank of America fined $1.2 billion over money-laundering violations",
-    "link": "https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html",
-    "summary": "The action by the Treasury Department was announced less than a day before Bank of America reports quarterly earnings.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-13T20:45:01+00:00"
-  },
-  {
-    "title": "The SpaceX threat could loom over AT&T\u2019s stock for a prolonged stretch, analyst cautions",
-    "link": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
-    "summary": "Bernstein analyst Laurent Yoon no longer recommends any of the major telecommunications stocks as he warns of more volatility ahead.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-13T20:42:00+00:00"
-  },
-  {
-    "title": "Six Flags\u2019 stock slumps near 17-year low after fatal incident",
-    "link": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
-    "summary": "A fatal accident on a Six Flags Entertainment roller coaster sent shares of the amusement-park operator tumbling.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-13T20:41:00+00:00"
   }
 ]
