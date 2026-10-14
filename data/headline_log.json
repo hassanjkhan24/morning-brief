@@ -1,5 +1,33 @@
 [
   {
+    "title": "Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure",
+    "link": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
+    "summary": "A ballistic missile has struck energy infrastructure supposedly covered by the \"energy ceasefire\" announced by Trump on Sunday, Zelenskyy said.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-14T09:18:18+00:00"
+  },
+  {
+    "title": "\u2018I earn $110,000 a year\u2019: I lost my home in the Great Recession. I\u2019m renting in my 50s. Why is that judged as failure?",
+    "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+    "summary": "\u201cI lost my job and eventually my home \u2014 and it\u2019s still hard.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-14T09:15:00+00:00"
+  },
+  {
+    "title": "\u2018Sopranos\u2019 star Steven Van Zandt is selling his Greenwich Village penthouse for $19 million",
+    "link": "https://www.marketwatch.com/story/sopranos-star-steven-van-zandt-is-selling-his-greenwich-village-penthouse-for-19-million-ad250720?mod=mw_rss_topstories",
+    "summary": "Musician and actor Steven Van Zandt is ready to part with his Greenwich Village penthouse, hiking the price up by $4 million after initially listing it in June of this year.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-14T09:03:00+00:00"
+  },
+  {
+    "title": "Oil prices choppy after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
+    "link": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+    "summary": "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-14T08:53:37+00:00"
+  },
+  {
     "title": "Scott Bessent's growth plans aren't enough to tame surging deficit and debt pile, IMF chief says",
     "link": "https://www.cnbc.com/2026/10/14/bond-yields-debt-deficit-treasury.html",
     "summary": "IMF chief Kristalina Georgieva said Bessent\u2019s reliance on growth won\u2019t cut the U.S. deficit and $40 trillion debt fast enough, calling for fiscal consolidation.",
@@ -131,6 +159,13 @@
     "summary": "CNBC\u2019s Jim Cramer said investors should hold off on buying newly public AI infrastructure company Accelevation Holdings.",
     "source": "CNBC",
     "pub_iso": "2026-10-13T22:47:07+00:00"
+  },
+  {
+    "title": "Judge says Musk engaged in intimidation of ex-FEMA CFO Mary Comans, clears her name",
+    "link": "https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html",
+    "summary": "Ex-FEMA CFO Mary Comans' name was cleared by a federal judge after Elon Musk and other government officials falsely accused her of criminal actions in 2025.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-13T21:15:32+00:00"
   },
   {
     "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
@@ -355,33 +390,5 @@
     "summary": "President Donald Trump's diesel deal with Russia comes as he is under pressure to reduce fuel prices with the U.S. midterm elections less than a month way.",
     "source": "CNBC",
     "pub_iso": "2026-10-13T15:50:09+00:00"
-  },
-  {
-    "title": "Raising taxes on investments, estates and benefits could keep Social Security from running out of money. Here\u2019s who could pay the most.",
-    "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
-    "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-13T15:22:00+00:00"
-  },
-  {
-    "title": "\u2018Pharma Bro\u2019 Martin Shkreli is in trouble with regulators again, this time for influencing biopharma stocks",
-    "link": "https://www.marketwatch.com/story/pharma-bro-martin-shkreli-is-in-trouble-with-regulators-again-this-time-for-influencing-biopharma-stocks-7356c3bb?mod=mw_rss_topstories",
-    "summary": "The controversial investor has been weighing in on biopharma stocks even though he\u2019s banned from doing so.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-13T15:17:00+00:00"
-  },
-  {
-    "title": "AI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs and litigation",
-    "link": "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html",
-    "summary": "The company said the platform became \"costly to develop and grow,\" in Monday filings to the Delaware District bankruptcy court.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-13T15:16:30+00:00"
-  },
-  {
-    "title": "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-    "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-    "summary": "\u201cThe house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-13T15:15:00+00:00"
   }
 ]
