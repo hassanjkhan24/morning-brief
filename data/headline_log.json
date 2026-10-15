@@ -1,5 +1,26 @@
 [
   {
+    "title": "Trump says Nidal Hasan execution won't be live-streamed",
+    "link": "https://www.cnbc.com/2026/10/15/trump-nidal-hasan-execution-livestream.html",
+    "summary": "Hasan murdered 13 people and injured more than 32 others in the mass shooting at Fort Hood in Texas.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-15T14:44:37+00:00"
+  },
+  {
+    "title": "Southwest is overhauling its frequent flyer program. Here's what's changing",
+    "link": "https://www.cnbc.com/2026/10/15/southwest-rapid-rewards-tiers-a-list.html",
+    "summary": "Southwest Airlines is overhauling its loyalty program and replacing A-List and A-List Preferred with three new tiers.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-15T14:25:01+00:00"
+  },
+  {
+    "title": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off",
+    "link": "https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html",
+    "summary": "AWS, Anthropic, OpenAI and Google are racing to build forward deployed engineering teams as companies seek returns on their AI investments.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-15T14:10:14+00:00"
+  },
+  {
     "title": "Treasury yields slide as investors flee to safety of bonds amid tech rout",
     "link": "https://www.cnbc.com/2026/10/15/us-treasury-yields-investors-economic-data-.html",
     "summary": "Investors rotated into bonds amid a broader flight to safety.",
@@ -397,26 +418,5 @@
     "summary": "OpenAI is facing mounting scrutiny over its safety and security practices, including around how the company is working to protect children.",
     "source": "CNBC",
     "pub_iso": "2026-10-14T21:09:20+00:00"
-  },
-  {
-    "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-    "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-    "summary": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-14T20:22:09+00:00"
-  },
-  {
-    "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-    "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-    "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-14T20:20:46+00:00"
-  },
-  {
-    "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
-    "link": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
-    "summary": "Barclays downgraded Dell, HPE, and NetApp on concerns that enterprise AI adoption is lagging.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-14T20:19:25+00:00"
   }
 ]
