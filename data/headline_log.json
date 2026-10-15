@@ -1,5 +1,26 @@
 [
   {
+    "title": "TSMC chip capacity is \u2018fierce\u2019 battleground for AI customers, amid record quarter",
+    "link": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
+    "summary": "TSMC had a record quarter, but it can't make chips for everyone as Nvidia, Apple, Broadcom and AMD fight for capacity.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-15T15:04:22+00:00"
+  },
+  {
+    "title": "USPS postmarks can lag mailing dates. What taxpayers and voters should know",
+    "link": "https://www.cnbc.com/2026/10/15/usps-postmark-rules-taxpayers-voters.html",
+    "summary": "USPS postmark dates may differ from mailing dates, affecting Oct. 15 tax filings and mail ballots with state-specific deadlines.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-15T14:55:48+00:00"
+  },
+  {
+    "title": "Trump says Nidal Hasan execution won't be livestreamed",
+    "link": "https://www.cnbc.com/2026/10/15/trump-nidal-hasan-execution-livestream.html",
+    "summary": "Hasan murdered 13 people and injured more than 32 others in the mass shooting at Fort Hood in Texas.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-15T14:55:46+00:00"
+  },
+  {
     "title": "Trump says Nidal Hasan execution won't be live-streamed",
     "link": "https://www.cnbc.com/2026/10/15/trump-nidal-hasan-execution-livestream.html",
     "summary": "Hasan murdered 13 people and injured more than 32 others in the mass shooting at Fort Hood in Texas.",
@@ -411,12 +432,5 @@
     "summary": "\"Like countless Americans, Mr. Alfozan came to this country years ago as a young person with a dream,\" his criminal defense lawyer said Wednesday.",
     "source": "CNBC",
     "pub_iso": "2026-10-14T21:18:13+00:00"
-  },
-  {
-    "title": "OpenAI sued by 8 states over ChatGPT safety concerns",
-    "link": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
-    "summary": "OpenAI is facing mounting scrutiny over its safety and security practices, including around how the company is working to protect children.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-14T21:09:20+00:00"
   }
 ]
