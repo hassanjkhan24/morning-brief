@@ -161,6 +161,13 @@
     "pub_iso": "2026-10-14T21:09:20+00:00"
   },
   {
+    "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+    "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+    "summary": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-14T20:22:09+00:00"
+  },
+  {
     "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
     "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
     "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
@@ -222,6 +229,13 @@
     "summary": "Struggling with elevated prices? You don\u2019t have to look much further than your local gas station.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-14T16:50:00+00:00"
+  },
+  {
+    "title": "Trump's diesel dilemma \u2014 by the numbers",
+    "link": "https://www.cnbc.com/2026/10/14/trumps-diesel-dilemma-by-the-numbers.html",
+    "summary": "Conflicts in Ukraine and Iran have created major ripple effects across global energy markets causing major price swings.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-14T16:45:26+00:00"
   },
   {
     "title": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma",
@@ -369,40 +383,5 @@
     "summary": "",
     "source": "CNBC",
     "pub_iso": "2026-10-14T13:51:21+00:00"
-  },
-  {
-    "title": "10-year Treasury yield jumps as September core inflation comes in hotter than expected",
-    "link": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
-    "summary": "Treasury yields moved higher after the latest inflation reading.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-14T13:48:01+00:00"
-  },
-  {
-    "title": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth",
-    "link": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
-    "summary": "Fund-management giant BlackRock said Wednesday that assets under management are nearly $15.5 trillion after growth of 15%.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-14T13:46:00+00:00"
-  },
-  {
-    "title": "Consumer prices rose 3.7% annually in September as gas costs skyrocket",
-    "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
-    "summary": "The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones consensus forecast.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-14T13:45:40+00:00"
-  },
-  {
-    "title": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
-    "link": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
-    "summary": "The Social Security Administration has announced a 3.6% cost-of-living adjustment for 2027.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-14T13:45:13+00:00"
-  },
-  {
-    "title": "I lost my home in the Great Recession. I still rent in my 50s. Why is that judged as failure?",
-    "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-    "summary": "\u201dI earn $110,000 a year.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-14T13:45:00+00:00"
   }
 ]
