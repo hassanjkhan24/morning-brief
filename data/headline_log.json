@@ -1,10 +1,24 @@
 [
   {
+    "title": "The pull of Nashville: A dozen celebrities who have moved to Tennessee, and why",
+    "link": "https://www.marketwatch.com/story/the-pull-of-nashville-a-dozen-celebrities-who-have-moved-to-tennessee-and-why-68446959?mod=mw_rss_topstories",
+    "summary": "Nashville has long been home to many big names in R&B and country music, but over the last few years, celebrities from a variety of industries have flocked to the Music City.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-16T09:05:00+00:00"
+  },
+  {
     "title": "Zelenskyy praises 'real leaders' in Europe, as his strained relationship with Trump overshadows EU summit",
     "link": "https://www.cnbc.com/2026/10/16/zelenskyy-trump-eu-summit-russia-ukraine.html",
     "summary": "Zelenskyy's strained relationship with Trump is clouding the EU summit focused on securing further support for Ukraine.",
     "source": "CNBC",
     "pub_iso": "2026-10-16T08:13:42+00:00"
+  },
+  {
+    "title": "SpaceX policy manager set to testify as part of NYC Council AI safety investigation",
+    "link": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
+    "summary": "SpaceX is sending its head of global government affairs for AI, Gabriela Castillo Madrid, to testify before the New York City Council.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-16T08:00:01+00:00"
   },
   {
     "title": "Trump says he won't use nuclear weapons or send ground troops to Iran",
@@ -159,6 +173,13 @@
     "summary": "Wall Street\u2019s views on CoreWeave are starkly divisive as investors pay more attention to the financial details of big artificial-intelligence companies.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-15T21:03:00+00:00"
+  },
+  {
+    "title": "Porsche reveals Mission S concept car that previews new design identity",
+    "link": "https://www.cnbc.com/2026/10/15/porsche-mission-s-concept-car.html",
+    "summary": "Porsche revealed a concept car called Mission S as part of a turnaround plan that includes efforts to boost profits through higher-end products and lower sales.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-15T20:30:01+00:00"
   },
   {
     "title": "Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets",
@@ -348,33 +369,5 @@
     "summary": "The continued selloff in the AI trade is forcing investors to ditch highflying tech for relative safety of government bonds, even as hot inflation threatens to make that trade complicated.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-15T15:21:00+00:00"
-  },
-  {
-    "title": "TSMC chip capacity is \u2018fierce\u2019 battleground for AI customers, amid record quarter",
-    "link": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
-    "summary": "TSMC had a record quarter, but it can't make chips for everyone as Nvidia, Apple, Broadcom and AMD fight for capacity.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-15T15:04:22+00:00"
-  },
-  {
-    "title": "USPS postmarks can lag mailing dates. What taxpayers and voters should know",
-    "link": "https://www.cnbc.com/2026/10/15/usps-postmark-rules-taxpayers-voters.html",
-    "summary": "USPS postmark dates may differ from mailing dates, affecting Oct. 15 tax filings and mail ballots with state-specific deadlines.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-15T14:55:48+00:00"
-  },
-  {
-    "title": "Trump says Nidal Hasan execution won't be livestreamed",
-    "link": "https://www.cnbc.com/2026/10/15/trump-nidal-hasan-execution-livestream.html",
-    "summary": "Hasan murdered 13 people and injured more than 32 others in the mass shooting at Fort Hood in Texas.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-15T14:55:46+00:00"
-  },
-  {
-    "title": "Trump says Nidal Hasan execution won't be live-streamed",
-    "link": "https://www.cnbc.com/2026/10/15/trump-nidal-hasan-execution-livestream.html",
-    "summary": "Hasan murdered 13 people and injured more than 32 others in the mass shooting at Fort Hood in Texas.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-15T14:44:37+00:00"
   }
 ]
