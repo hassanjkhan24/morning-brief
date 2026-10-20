@@ -1,5 +1,26 @@
 [
   {
+    "title": "Oil prices fall as traders hope for diplomatic progress in Middle East",
+    "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+    "summary": "Developments in the Middle East remain in focus, with attacks on commercial ships transiting the Strait of Hormuz escalating in recent weeks.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-20T15:32:49+00:00"
+  },
+  {
+    "title": "Salesforce\u2019s stock falls as investors chafe at the cost of latest AI purchase",
+    "link": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
+    "summary": "An analyst calls it \u201ca bit odd\u201d that Salesforce plans to buy Braze at such a high premium to its recent stock price.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-20T15:27:00+00:00"
+  },
+  {
+    "title": "Elon Musk promised a SpaceX share to every kid in America \u2014 don\u2019t hold your breath",
+    "link": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
+    "summary": "Trick or treat? Musk has a long record of saying things have little relation to reality.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-20T15:17:00+00:00"
+  },
+  {
     "title": "France to deploy military as it braces for fresh unrest this weekend",
     "link": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
     "summary": "France will deploy Sentinelle troops for Saturday's protests, Interior Minister Laurent Nu\u00f1ez said.",
@@ -453,19 +474,5 @@
     "summary": "Credit markets are sending unusually mixed messages to investors right now, and it\u2019s making some people nervous.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-19T21:36:00+00:00"
-  },
-  {
-    "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life \u2014 but here\u2019s I\u2019m still hopeful",
-    "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-    "summary": "\u201cIll-timed circumstances can change our financial future in unexpected ways.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-19T21:30:00+00:00"
-  },
-  {
-    "title": "\u2018I\u2019m naturally skeptical\u2019: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-    "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-    "summary": "\u201cThey insist that the details will be provided after they have carried out a soft credit check.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-19T21:15:00+00:00"
   }
 ]
