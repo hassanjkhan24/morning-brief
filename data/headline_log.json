@@ -1,5 +1,61 @@
 [
   {
+    "title": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 50%",
+    "link": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
+    "summary": "The company's latest acquisition is expected to close in fiscal 2028, and will see Braze shareholders receive $47.50 in cash per share.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-20T13:41:30+00:00"
+  },
+  {
+    "title": "SpaceX reports after the bell. Here's what options traders expect",
+    "link": "https://www.cnbc.com/2026/10/20/spacex-reports-after-the-bell-heres-what-options-traders-expect-.html",
+    "summary": "It's been a busy three months for SpaceX. Traders think that means more gains for the stock after it reports earnings after the bell today.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-20T13:40:28+00:00"
+  },
+  {
+    "title": "Meet the college students trying to reverse an obscure ban on trading onion futures",
+    "link": "https://www.marketwatch.com/story/meet-the-college-students-trying-to-reverse-an-obscure-ban-on-trading-onion-futures-16b8dc5d?mod=mw_rss_topstories",
+    "summary": "In the U.S., investors can legally trade futures contracts tied to all sorts of commodities, from pork bellies to oil to the computing power needed to power artificial-intelligence models.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-20T13:24:00+00:00"
+  },
+  {
+    "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
+    "link": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
+    "summary": "\u201cComputer science isn\u2019t the ticket to the American dream like people thought it was.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-20T13:18:00+00:00"
+  },
+  {
+    "title": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?",
+    "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+    "summary": "\u201cI worry about healthcare, long-term care, inflation, a long bear market and living to 95.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-20T13:15:00+00:00"
+  },
+  {
+    "title": "U.S. crude oil tops $105, Brent crude at five-month highs amid Mideast tensions",
+    "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+    "summary": "Oil extended its rally on Tuesday as investors continued to monitor developments in the Middle East.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-20T13:11:31+00:00"
+  },
+  {
+    "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+    "link": "https://www.cnbc.com/investingclub/2026/10/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+    "summary": "Nasdaq futures are under pressure this morning, and General Motors is selling off on earnings.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-20T13:05:15+00:00"
+  },
+  {
+    "title": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
+    "link": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
+    "summary": "Former OpenAI executive Bob McGrew is launching Arda at a $1.5 billion.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-20T13:03:31+00:00"
+  },
+  {
     "title": "Meta is back on offense \u2014 and its next move could signal higher AI spending across Big Tech",
     "link": "https://www.marketwatch.com/story/meta-is-back-on-offense-and-its-next-move-could-signal-higher-ai-spending-across-big-tech-09682ff7?mod=mw_rss_topstories",
     "summary": "Meta could be the first major tech company this earnings season to foreshadow higher-than-expected AI costs for next year.",
@@ -376,19 +432,5 @@
     "summary": "Apple sent invitations for an event next week, calling it \"Pro and tell.\"",
     "source": "CNBC",
     "pub_iso": "2026-10-19T19:46:07+00:00"
-  },
-  {
-    "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-    "link": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
-    "summary": "Iran-backed Houthi militants have launched repeated volleys of missiles and drones at Saudi Arabia since a deadly airport attack earlier this month.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-19T19:37:51+00:00"
-  },
-  {
-    "title": "Crushed tech stocks bounce \u2014 plus, new doctor survey keeps us positive on Lilly",
-    "link": "https://www.cnbc.com/investingclub/2026/10/19/crushed-tech-stocks-bounce-new-doctor-survey-keeps-us-positive-on-lilly.html",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-19T19:13:00+00:00"
   }
 ]
