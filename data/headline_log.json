@@ -1,5 +1,12 @@
 [
   {
+    "title": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
+    "link": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
+    "summary": "U.S. Department of Homeland Security has banned DeepSeek-related technology from federal civilian agency IT systems.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-20T06:25:26+00:00"
+  },
+  {
     "title": "Copper is outshining gold this year. Investors say the rally can survive an AI correction",
     "link": "https://www.cnbc.com/2026/10/20/copper-prices-ai-spending-demand.html",
     "summary": "Copper is up 15.8% in 2026 as investors point to AI, grid and national security demand, tight supply and tariff-driven U.S. stockpiles.",
@@ -285,33 +292,5 @@
     "summary": "Covered call ETFs have been widely adopted by baby boomers to meet monthly income needs, but unlike most ETFs, the tax implications can be significant.",
     "source": "CNBC",
     "pub_iso": "2026-10-19T12:58:03+00:00"
-  },
-  {
-    "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
-    "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
-    "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-19T12:34:01+00:00"
-  },
-  {
-    "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
-    "link": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
-    "summary": "The Claude maker said that establishing the fund as an LLC will provide greater flexibility in how the money is used.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-19T12:33:07+00:00"
-  },
-  {
-    "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
-    "link": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
-    "summary": "\u201cComputer science isn\u2019t the ticket to the American dream like people thought it was.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-19T12:30:00+00:00"
-  },
-  {
-    "title": "\u2018I\u2019m naturally skeptical\u2019: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-    "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-    "summary": "\u201cThey insist that the details will be provided after they have carried out a soft credit check.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-19T12:30:00+00:00"
   }
 ]
