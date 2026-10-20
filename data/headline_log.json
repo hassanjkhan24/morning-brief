@@ -1,5 +1,19 @@
 [
   {
+    "title": "What\u2019s making Europe so angry? The frustration behind the protests",
+    "link": "https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html",
+    "summary": "Protests broke out in France and several European countries as people railed against living costs, poor schooling conditions, and a housing crisis.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-20T07:19:16+00:00"
+  },
+  {
+    "title": "CNBC Daily Open: Tech rebounds in the U.S., but Asia isn\u2019t buying it yet",
+    "link": "https://www.cnbc.com/2026/10/20/daily-open-tech-stocks-rebound.html",
+    "summary": "The Nasdaq Composite gained more than 1% after last week\u2019s sell-off, led by advances in Tesla, Nvidia and Alphabet.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-20T07:14:27+00:00"
+  },
+  {
     "title": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
     "link": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
     "summary": "U.S. Department of Homeland Security has banned DeepSeek-related technology from federal civilian agency IT systems.",
@@ -91,6 +105,13 @@
     "pub_iso": "2026-10-19T21:30:00+00:00"
   },
   {
+    "title": "\u2018I\u2019m naturally skeptical\u2019: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+    "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+    "summary": "\u201cThey insist that the details will be provided after they have carried out a soft credit check.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-19T21:15:00+00:00"
+  },
+  {
     "title": "SpaceX earnings will be all about AI \u2014 for better or for worse",
     "link": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
     "summary": "SpaceX has been renting out access to computing power, which is a big source of revenue growth but also one that comes at a high cost.",
@@ -110,6 +131,13 @@
     "summary": "The six months subsequent to midterm elections have seen strong gains, historically",
     "source": "MarketWatch",
     "pub_iso": "2026-10-19T21:00:00+00:00"
+  },
+  {
+    "title": "Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real",
+    "link": "https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html",
+    "summary": "Investors are hopeful that last week's pullback was a clearing event for equities, but lingering concerns remain.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-19T20:57:14+00:00"
   },
   {
     "title": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
@@ -243,54 +271,5 @@
     "summary": "Four in 10 home builders are cutting prices to boost demand, even as they face rising construction costs.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-19T14:00:00+00:00"
-  },
-  {
-    "title": "NYSE becomes latest exchange to extend options hours as appetite for around-the-clock trading grows",
-    "link": "https://www.cnbc.com/2026/10/19/nyse-extends-options-trading-hours.html",
-    "summary": "The New York Stock Exchange becomes second major exchange to announce extended-hours options trading for heavily traded ETFs and single stocks, following CBOE.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-19T13:46:50+00:00"
-  },
-  {
-    "title": "Google says it can build data centers the right way. Some experts and residents are skeptical",
-    "link": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
-    "summary": "Google says its Minnesota AI data center will add clean energy to the grid and protect ratepayers. Experts question whether grid upgrades are needed.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-19T13:36:41+00:00"
-  },
-  {
-    "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
-    "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
-    "summary": "Individual investors and second-home buyers accounted for 1 in 5 home purchases in September \u2014 the highest share in a little over a year.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-19T13:33:00+00:00"
-  },
-  {
-    "title": "Micron and other chip stocks spring back to life after bruising selloff",
-    "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
-    "summary": "It\u2019s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-19T13:22:00+00:00"
-  },
-  {
-    "title": "OpenAI bugging suspect communicated with Saudi royal on WhatsApp days before arrest, feds say",
-    "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-    "summary": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-19T13:21:27+00:00"
-  },
-  {
-    "title": "France and the U.S. share the same debt trap. Why the U.S. has an escape valve.",
-    "link": "https://www.marketwatch.com/story/france-and-the-u-s-share-the-same-debt-trap-only-one-has-a-global-lifeline-3ae61b42?mod=mw_rss_topstories",
-    "summary": "France and the U.S. have similar debt dynamics.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-19T13:19:00+00:00"
-  },
-  {
-    "title": "Boomers are buying into the promise of monthly income from options ETFs, but there's a tax catch",
-    "link": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
-    "summary": "Covered call ETFs have been widely adopted by baby boomers to meet monthly income needs, but unlike most ETFs, the tax implications can be significant.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-19T12:58:03+00:00"
   }
 ]
