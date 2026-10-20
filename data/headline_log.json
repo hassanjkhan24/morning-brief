@@ -1,5 +1,47 @@
 [
   {
+    "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
+    "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+    "summary": "GM narrowed its 2026 earnings guidance and raised its adjusted automotive free cash flow outlook after beating Wall Street\u2019s third-quarter estimates.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-20T10:41:27+00:00"
+  },
+  {
+    "title": "HSBC CEO warns the AI boom won\u2019t make every data center a good bet",
+    "link": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
+    "summary": "Data center campuses house the servers that power AI and cloud computing.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-20T10:39:17+00:00"
+  },
+  {
+    "title": "Zelenskyy to meet with U.S. envoy as tensions with Trump mount",
+    "link": "https://www.cnbc.com/2026/10/20/zelenskyy-witkoff-trump-ukraine-russia.html",
+    "summary": "Ukraine's President Volodymyr Zelenskyy is set to meet with U.S. special envoys on Tuesday after President Donald Trump aimed fresh criticism at the wartime leader.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-20T10:30:49+00:00"
+  },
+  {
+    "title": "Why smaller stocks face worse prospects than the S&P 500 in the coming years",
+    "link": "https://www.marketwatch.com/story/why-smaller-stocks-face-worse-prospects-than-the-s-p-500-in-the-coming-years-f9f703ae?mod=mw_rss_topstories",
+    "summary": "The Value Line Median Appreciation Potential has a good record forecasting smaller stocks\u2019 returns. And the next four years look bearish.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-20T10:30:00+00:00"
+  },
+  {
+    "title": "Strategist Tom Lee says he\u2019s buying the AI stock dip, and Cisco holds the key",
+    "link": "https://www.marketwatch.com/story/strategist-tom-lee-says-hes-buying-the-ai-stock-dip-and-cisco-holds-the-key-33233a9d?mod=mw_rss_topstories",
+    "summary": "Strategist Tom Lee says investors should not shrink from the pullback in stocks surrounding AI investment fears. He points to Cisco\u2019s history as one reason to buy.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-20T10:15:00+00:00"
+  },
+  {
+    "title": "Walmart launches joint membership with Sam's Club as it leans into delivery, gas discounts",
+    "link": "https://www.cnbc.com/2026/10/20/walmart-sams-club-plus-membership.html",
+    "summary": "Walmart is now offering a joint membership with Sam's Club for $120 per year as the retailer further leans into convenience.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-20T10:00:01+00:00"
+  },
+  {
     "title": "My unmarried partner of 17 years left me his $1.1 million home. His three children are livid. Should I share my inheritance?",
     "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
     "summary": "\u201cI never paid rent, although I put about $45,000 toward a new kitchen and a roof.\u201d",
@@ -161,6 +203,13 @@
     "pub_iso": "2026-10-19T21:15:00+00:00"
   },
   {
+    "title": "Stock investors are ready to move on from the AI rout. Credit investors are not",
+    "link": "https://www.cnbc.com/2026/10/19/coreweave-oracle-ai-credit-stress.html",
+    "summary": "Investors were still demanding high yields and more insurance on CoreWeave and Oracle bonds.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-19T21:12:12+00:00"
+  },
+  {
     "title": "Micron and other chip stocks spring back to life after bruising selloff",
     "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
     "summary": "It\u2019s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
@@ -257,33 +306,5 @@
     "summary": "Preorders of Apple's iPhone Duo are proving Jim Cramer right, as early indications show strong demand.",
     "source": "CNBC",
     "pub_iso": "2026-10-19T17:25:20+00:00"
-  },
-  {
-    "title": "Anthropic is AI trade's last big hope for a major IPO this year",
-    "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
-    "summary": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-19T16:42:14+00:00"
-  },
-  {
-    "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
-    "link": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
-    "summary": "Intel\u2019s manufacturing and chip design have improved, according to a J.P. Morgan analyst.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-19T16:42:00+00:00"
-  },
-  {
-    "title": "SpaceX\u2019s stock made billions for college endowments. But their luck is about to run out.",
-    "link": "https://www.marketwatch.com/story/spacex-stock-made-billions-for-college-endowments-but-their-luck-is-about-to-run-out-1711c34d?mod=mw_rss_topstories",
-    "summary": "Outsized positions have made many higher-education endowments less diversified and more at risk when shares slide",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-19T16:35:00+00:00"
-  },
-  {
-    "title": "Cornell sexual assault case has some prospective students rethinking plans, consultants say",
-    "link": "https://www.cnbc.com/2026/10/19/cornell-sexual-assault-case-concerns-applicants.html",
-    "summary": "Some prospective Cornell University students are rethinking applications amid the Jane Doe sexual assault lawsuit, college admissions consultants say.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-19T16:17:37+00:00"
   }
 ]
