@@ -1,5 +1,12 @@
 [
   {
+    "title": "SpaceX up 10% in premarket after earnings beat and Musk hints at Tesla tie-up",
+    "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+    "summary": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-21T08:25:42+00:00"
+  },
+  {
     "title": "OpenAI's most powerful AI models disabled their own safety monitoring \u2014 and one lied about it",
     "link": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
     "summary": "Warnings about the risks of developing increasingly advanced AI systems have ramped up in recent months, amid cyberattacks from rogue AI models.",
@@ -306,40 +313,5 @@
     "summary": "Developments in the Middle East remain in focus, with attacks on commercial ships transiting the Strait of Hormuz escalating in recent weeks.",
     "source": "CNBC",
     "pub_iso": "2026-10-20T14:50:00+00:00"
-  },
-  {
-    "title": "Here\u2019s why GM\u2019s stock is having its worst day in over a year",
-    "link": "https://www.marketwatch.com/story/heres-why-gms-stock-is-having-its-worst-day-in-over-a-year-072c4366?mod=mw_rss_topstories",
-    "summary": "The automaker lowered its full-year profit expectations as it plans to pause some truck production.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-20T14:35:00+00:00"
-  },
-  {
-    "title": "When should you dump your target-date funds?",
-    "link": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
-    "summary": "Target-date funds aren\u2019t necessarily built to handle many of the decisions retirees face.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-20T14:16:00+00:00"
-  },
-  {
-    "title": "Should you dump your target-date funds when you retire?",
-    "link": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
-    "summary": "Target-date funds aren\u2019t necessarily built to handle many of the decisions retirees face.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-20T14:16:00+00:00"
-  },
-  {
-    "title": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
-    "link": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
-    "summary": "Anthropic and Nscale previously inked a similar deal for a data center on the same site in the U.S.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-20T14:12:38+00:00"
-  },
-  {
-    "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
-    "link": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
-    "summary": "Contract signings to purchase homes fell in September to the lowest level on record, as buyers fled the housing market in the wake of the average 30-year mortgage rate crossing over 7%.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-20T14:06:00+00:00"
   }
 ]
