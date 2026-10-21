@@ -1,5 +1,26 @@
 [
   {
+    "title": "OpenAI's most powerful AI models disabled their own safety monitoring \u2014 and one lied about it",
+    "link": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
+    "summary": "Warnings about the risks of developing increasingly advanced AI systems have ramped up in recent months, amid cyberattacks from rogue AI models.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-21T07:49:48+00:00"
+  },
+  {
+    "title": "AI's spending boom faces a 'gut check': Who can actually make money?",
+    "link": "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html",
+    "summary": "The AI boom is entering a more unforgiving phase, as investors question whether the billions poured into data centers will translate into sustainable profits.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-21T07:20:37+00:00"
+  },
+  {
+    "title": "'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win support",
+    "link": "https://www.cnbc.com/2026/10/21/trump-data-centers-community-dividend.html",
+    "summary": "Trump says data centers should consider community \"dividends\" as AI financing worries grow.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-21T06:52:28+00:00"
+  },
+  {
     "title": "UK inflation jumps to 3.5% \u2014 cementing rate hike expectations",
     "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
     "summary": "",
@@ -334,96 +355,5 @@
     "summary": "I asked people what they\u2019re doing to make life more affordable today. I\u2019ll definitely be trying some of these.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-20T13:52:00+00:00"
-  },
-  {
-    "title": "Salesforce gets a chilly investor response to a $6 billion deal at a 58% premium",
-    "link": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
-    "summary": "Salesforce said on Tuesday that it is making a nearly $6 billion acquisition at a 58% premium, but Wall Street\u2019s response was frosty.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-20T13:48:00+00:00"
-  },
-  {
-    "title": "My unmarried partner of 17 years left me his $1.1 million home. His children are crying foul. Should I share my inheritance?",
-    "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-    "summary": "\u201cI never paid rent, although I put about $45,000 toward a new kitchen and a roof.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-20T13:45:00+00:00"
-  },
-  {
-    "title": "Apple shares aren't cheap. Here's how to get long for less",
-    "link": "https://www.cnbc.com/2026/10/20/apple-shares-arent-cheap-heres-how-to-get-long-for-less.html",
-    "summary": "The primary headwind for Apple is valuation.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-20T13:43:53+00:00"
-  },
-  {
-    "title": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 50%",
-    "link": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
-    "summary": "The company's latest acquisition is expected to close in fiscal 2028, and will see Braze shareholders receive $47.50 in cash per share.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-20T13:41:30+00:00"
-  },
-  {
-    "title": "SpaceX reports after the bell. Here's what options traders expect",
-    "link": "https://www.cnbc.com/2026/10/20/spacex-reports-after-the-bell-heres-what-options-traders-expect-.html",
-    "summary": "It's been a busy three months for SpaceX. Traders think that means more gains for the stock after it reports earnings after the bell today.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-20T13:40:28+00:00"
-  },
-  {
-    "title": "Meet the college students trying to reverse an obscure ban on trading onion futures",
-    "link": "https://www.marketwatch.com/story/meet-the-college-students-trying-to-reverse-an-obscure-ban-on-trading-onion-futures-16b8dc5d?mod=mw_rss_topstories",
-    "summary": "In the U.S., investors can legally trade futures contracts tied to all sorts of commodities, from pork bellies to oil to the computing power needed to power artificial-intelligence models.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-20T13:24:00+00:00"
-  },
-  {
-    "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
-    "link": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
-    "summary": "\u201cComputer science isn\u2019t the ticket to the American dream like people thought it was.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-20T13:18:00+00:00"
-  },
-  {
-    "title": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?",
-    "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-    "summary": "\u201cI worry about healthcare, long-term care, inflation, a long bear market and living to 95.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-20T13:15:00+00:00"
-  },
-  {
-    "title": "U.S. crude oil tops $105, Brent crude at five-month highs amid Mideast tensions",
-    "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
-    "summary": "Oil extended its rally on Tuesday as investors continued to monitor developments in the Middle East.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-20T13:11:31+00:00"
-  },
-  {
-    "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-    "link": "https://www.cnbc.com/investingclub/2026/10/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-    "summary": "Nasdaq futures are under pressure this morning, and General Motors is selling off on earnings.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-20T13:05:15+00:00"
-  },
-  {
-    "title": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
-    "link": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
-    "summary": "Former OpenAI executive Bob McGrew is launching Arda at a $1.5 billion.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-20T13:03:31+00:00"
-  },
-  {
-    "title": "Meta is back on offense \u2014 and its next move could signal higher AI spending across Big Tech",
-    "link": "https://www.marketwatch.com/story/meta-is-back-on-offense-and-its-next-move-could-signal-higher-ai-spending-across-big-tech-09682ff7?mod=mw_rss_topstories",
-    "summary": "Meta could be the first major tech company this earnings season to foreshadow higher-than-expected AI costs for next year.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-20T12:56:00+00:00"
-  },
-  {
-    "title": "Investors look to earnings to reset the bull market. The key level to watch on the S&P 500",
-    "link": "https://www.cnbc.com/2026/10/20/santoli-key-sp-500-level-to-watch.html",
-    "summary": "The key level traders are watching on the S&P 500 that could mean an even bigger decline is ahead.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-20T12:52:29+00:00"
   }
 ]
