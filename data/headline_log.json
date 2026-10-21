@@ -1,5 +1,19 @@
 [
   {
+    "title": "UK inflation jumps to 3.5% \u2014 cementing rate hike expectations",
+    "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+    "summary": "",
+    "source": "CNBC",
+    "pub_iso": "2026-10-21T06:09:26+00:00"
+  },
+  {
+    "title": "Oil prices climb as traders assess Middle East developments",
+    "link": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
+    "summary": "Iran's Revolutionary Guards said Tuesday that naval mines had prevented three tankers attempting to pass through the Strait of Hormuz.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-21T05:27:19+00:00"
+  },
+  {
     "title": "U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant",
     "link": "https://www.cnbc.com/2026/10/21/rubio-reliance-venezuela-oil-diesel.html",
     "summary": "Rubio said the \"extraordinary\" refining capacity of Reliance could help India diversify its energy supplies, hinting at greater offtake of Venezuelan crude.",
@@ -75,6 +89,13 @@
     "summary": "SpaceX just gave Wall Street a big reason to believe in the AI boom as demand for its computing power is off the charts.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-20T23:10:00+00:00"
+  },
+  {
+    "title": "Elon Musk ordered Starlink slowdown for Ukraine: Report",
+    "link": "https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html",
+    "summary": "Musk and President Donald Trump have both recently criticized Ukrainian President Volodymyr Zelenskyy, who has also flagged disruptions in U.S. intel sharing.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-20T23:06:56+00:00"
   },
   {
     "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?",
@@ -432,47 +453,5 @@
     "summary": "The U.K.'s Royal Air Force will deploy jets to assist with defensive operations, but will not engage in offensive strikes.",
     "source": "CNBC",
     "pub_iso": "2026-10-20T12:23:29+00:00"
-  },
-  {
-    "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-    "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-    "summary": "\u201cThe house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-20T12:15:00+00:00"
-  },
-  {
-    "title": "What happens to Wall Street if CoreWeave defaults? JPMorgan checked the math.",
-    "link": "https://www.marketwatch.com/story/what-happens-to-wall-street-if-coreweave-defaults-jpmorgan-checked-the-math-cd16938c?mod=mw_rss_topstories",
-    "summary": "Call it a sign of the times: A JPMorgan analyst is looking into the exposure banks will have if CoreWeave defaults on its debts.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-20T12:10:00+00:00"
-  },
-  {
-    "title": "Draymond Green says he's 'not Steph Curry,' wants to play another year even if he leaves Golden State Warriors",
-    "link": "https://www.cnbc.com/2026/10/20/draymond-green-says-hell-play-in-2027-with-or-without-the-warriors.html",
-    "summary": "NBA star Draymond Green said he would love to retire as a member of the Warriors but plans to keep playing next season even if that means joining another team.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-20T12:00:02+00:00"
-  },
-  {
-    "title": "U.S. oil surges to top $110, Brent crude at five-month high amid Mideast tensions",
-    "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
-    "summary": "Oil extended its rally on Tuesday as investors continued to monitor developments in the Middle East.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-20T11:49:45+00:00"
-  },
-  {
-    "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life \u2014 but here\u2019s why I\u2019m still hopeful",
-    "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-    "summary": "\u201cIll-timed circumstances can change our financial future in unexpected ways.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-20T11:41:00+00:00"
-  },
-  {
-    "title": "AI rally fades away from Wall Street as a tiny IPO makes big waves",
-    "link": "https://www.cnbc.com/2026/10/20/ai-rally-fades-elice-ipo-dives.html",
-    "summary": "Here are the key things investors need to know to start the trading day.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-20T11:34:03+00:00"
   }
 ]
