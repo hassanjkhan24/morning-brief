@@ -1,5 +1,26 @@
 [
   {
+    "title": "\u2018AI is on trial\u2019: Bond yields sink below 5% as investors look for safety",
+    "link": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories",
+    "summary": "Investors are flooding back into Treasurys for safety to hedge the risks of more AI fallout in stocks and credit markets.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-22T16:35:00+00:00"
+  },
+  {
+    "title": "Judge orders Trump to sit for deposition in BBC defamation lawsuit by Dec. 11: Reports",
+    "link": "https://www.cnbc.com/2026/10/22/trump-deposition-bbc-defamation-lawsuit.html",
+    "summary": "Trump's lawyers had requested that his deposition be conducted between Jan. 11 and Jan. 22.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-22T16:34:53+00:00"
+  },
+  {
+    "title": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
+    "link": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
+    "summary": "OpenAI CEO Sam Altman pledged to grant independent evaluators \"employee-like access\" to the company to help address mounting safety concerns.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-22T16:04:43+00:00"
+  },
+  {
     "title": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
     "link": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
     "summary": "Taco Bell is sticking with longtime beverage supplier PepsiCo, even though sister chain KFC defected to Coca-Cola.",
@@ -509,12 +530,5 @@
     "summary": "CoreWeave shares are down 29% in October, and the spreads in its credit default swaps are widening.",
     "source": "CNBC",
     "pub_iso": "2026-10-21T22:50:35+00:00"
-  },
-  {
-    "title": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
-    "link": "https://www.cnbc.com/2026/10/21/ibm-q3-earnings-report-2026.html",
-    "summary": "CEO Arvind Krishna indicated that IBM is helping clients in artificial intelligence.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-21T22:03:37+00:00"
   }
 ]
