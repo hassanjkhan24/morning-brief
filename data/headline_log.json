@@ -1,5 +1,12 @@
 [
   {
+    "title": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
+    "link": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html",
+    "summary": "The fund has a current value of around $2.3 trillion.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-22T08:46:21+00:00"
+  },
+  {
     "title": "Barclays to slash 5,000 jobs in AI efficiency push",
     "link": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html",
     "summary": "U.K. banks Barclays said Thursday it plans to cut 5,000 staff, citing efficiency savings from AI.",
@@ -334,26 +341,5 @@
     "summary": "I asked people what they\u2019re doing to make life more affordable today. I\u2019ll definitely be trying some of these.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-21T14:49:00+00:00"
-  },
-  {
-    "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
-    "link": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
-    "summary": "\u201cComputer science isn\u2019t the ticket to the American dream like people thought it was.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-21T14:46:00+00:00"
-  },
-  {
-    "title": "The political ad wars are still being fought over the airwaves even as digital gains share",
-    "link": "https://www.cnbc.com/2026/10/21/why-broadcast-tv-still-dominates-political-ad-spending.html",
-    "summary": "Broadcast TV is set to capture nearly half of political advertising spending ahead of the midterm election as local stations benefit from record spending.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-21T14:40:02+00:00"
-  },
-  {
-    "title": "Time for a Micron mindset shift? Here\u2019s how to navigate the new AI landscape.",
-    "link": "https://www.marketwatch.com/story/time-for-a-micron-mindset-shift-heres-how-to-navigate-the-new-ai-landscape-09395ac8?mod=mw_rss_topstories",
-    "summary": "An analyst says Micron investors have gotten used to rapid growth but now have to reorient themselves around the idea that AI is more like a marathon.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-21T14:33:00+00:00"
   }
 ]
