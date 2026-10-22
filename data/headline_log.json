@@ -1,5 +1,12 @@
 [
   {
+    "title": "Why governments pulled websites offline over the decades-old PHP programming language",
+    "link": "https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html",
+    "summary": "Servers that use the popular PHP programming language were exposed to a critical security bug. Millions of websites have their data at risk.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-22T12:35:08+00:00"
+  },
+  {
     "title": "France protests: Macron condemns 'stupid' comments from Trump, others as bond market pressure builds",
     "link": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
     "summary": "France is facing a mounting economic crisis that pushed its 10-year government bond yield to a new 24-year high on Thursday.",
@@ -397,12 +404,5 @@
     "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
     "source": "CNBC",
     "pub_iso": "2026-10-21T19:47:38+00:00"
-  },
-  {
-    "title": "Netflix has dipped its toe into theatrical. Is it ready to jump in?",
-    "link": "https://www.cnbc.com/2026/10/21/netflix-theatrical-strategy.html",
-    "summary": "Co-CEO Ted Sarandos has said the streamer needs new avenues for growth and to improve execution around its content strategy.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-21T18:32:12+00:00"
   }
 ]
