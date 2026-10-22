@@ -1,5 +1,19 @@
 [
   {
+    "title": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce",
+    "link": "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html",
+    "summary": "Nvidia CEO Jensen Huang told CNBC Thursday that demand for neocloud firms is \"off the charts,\" but scarce capital is holding back growth.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-22T10:19:05+00:00"
+  },
+  {
+    "title": "Meta\u2019s stock falls in early trading amid broader sector selloff, despite well-received results",
+    "link": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
+    "summary": "Meta\u2019s core advertising business delivered a strong quarter, but investors are now eyeing promising new businesses around the Muse personal assistant.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-22T09:55:00+00:00"
+  },
+  {
     "title": "A top strategist has a warning for retail investors chasing the AI rally",
     "link": "https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories",
     "summary": "Maxx Kettner, HSBC\u2019s chief multiasset strategist, says the investors need to understand the goal posts are constantly moving with AI investing.",
@@ -196,6 +210,13 @@
     "pub_iso": "2026-10-21T21:44:00+00:00"
   },
   {
+    "title": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots",
+    "link": "https://www.cnbc.com/2026/10/21/anthropic-preview-of-claude-duet-personal-ai-agent-take-on-muse-dots.html",
+    "summary": "Claude Duet follows the launch of competing products from Meta and OpenAI, which have shown traction with users.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-21T21:42:54+00:00"
+  },
+  {
     "title": "AIPAC retreats from candidate endorsements and direct giving as political backlash grows",
     "link": "https://www.cnbc.com/2026/10/21/aipac-candidate-endorsements-pac-contributions-israel-election.html",
     "summary": "Pro-Israel group AIPAC will keep operating its United Democracy Project super PAC while mobilizing individual donors to give directly.",
@@ -320,33 +341,5 @@
     "summary": "Private insurance costs way more for the same results \u2014 or worse.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-21T16:34:00+00:00"
-  },
-  {
-    "title": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
-    "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-    "summary": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-21T16:08:50+00:00"
-  },
-  {
-    "title": "Tesla earnings loom after Musk calls SpaceX merger a 'good idea'",
-    "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
-    "summary": "A day after Elon Musk's SpaceX reported third-quarter results, Tesla is scheduled to update investors.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-21T16:01:25+00:00"
-  },
-  {
-    "title": "Polymarket traders see a 10% chance the AI bubble bursts before New Year\u2019s Day",
-    "link": "https://www.marketwatch.com/story/polymarket-traders-see-a-10-chance-the-ai-bubble-bursts-before-new-years-day-ad33258b?mod=mw_rss_topstories",
-    "summary": "For investors worried that the runaway artificial-intelligence trade might be about to hit the skids, prediction markets are already starting to reflect that anxiety.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-21T15:59:00+00:00"
-  },
-  {
-    "title": "Musk's SpaceX stock gift is 'tip of the iceberg' for Trump Accounts, Altimeter's Gerstner says",
-    "link": "https://www.cnbc.com/2026/10/21/musk-spacex-stock-trump-account.html",
-    "summary": "Elon Musk\u2019s planned SpaceX share gift through Trump Accounts could be the start of a broader philanthropic push, says Altimeter Capital CEO Brad Gerstner.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-21T15:58:45+00:00"
   }
 ]
