@@ -1,10 +1,31 @@
 [
   {
+    "title": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
+    "link": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
+    "summary": "Taco Bell is sticking with longtime beverage supplier PepsiCo, even though sister chain KFC defected to Coca-Cola.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-22T15:52:00+00:00"
+  },
+  {
+    "title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
+    "link": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
+    "summary": "\"We're going to have an amazing 2027,\" he said.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-22T15:48:37+00:00"
+  },
+  {
     "title": "Meta stock sinks 6% as AI spend pushes free cash flow negative",
     "link": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
     "summary": "Prices for the social media giant's 5-year credit default swaps are reaching all-time highs as investors signal growing credit concerns.",
     "source": "CNBC",
     "pub_iso": "2026-10-22T15:45:57+00:00"
+  },
+  {
+    "title": "Brent crude tops $111 after Trump hints at action on Iran, U.S. orders staff to leave Saudi Arabia",
+    "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+    "summary": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-22T15:36:13+00:00"
   },
   {
     "title": "FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by end of year",
@@ -495,12 +516,5 @@
     "summary": "CEO Arvind Krishna indicated that IBM is helping clients in artificial intelligence.",
     "source": "CNBC",
     "pub_iso": "2026-10-21T22:03:37+00:00"
-  },
-  {
-    "title": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
-    "link": "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html",
-    "summary": "Asked if Elon Musk ordered the slowdown, Trump said, \"I don't know who did it, but I was not involved.\"",
-    "source": "CNBC",
-    "pub_iso": "2026-10-21T21:48:02+00:00"
   }
 ]
