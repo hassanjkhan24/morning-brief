@@ -1,6 +1,48 @@
 [
   {
+    "title": "Meta stock sinks 6% as AI spend pushes free cash flow negative",
+    "link": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
+    "summary": "Prices for the social media giant's 5-year credit default swaps are reaching all-time highs as investors signal growing credit concerns.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-22T15:45:57+00:00"
+  },
+  {
+    "title": "FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by end of year",
+    "link": "https://www.cnbc.com/2026/10/22/fifa-launches-tender-of-us-world-cup-media-rights-for-2030.html",
+    "summary": "FIFA is formally auctioning its U.S. media rights and wants bids by Nov. 19.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-22T15:34:44+00:00"
+  },
+  {
+    "title": "Two big reasons Micron and other chip stocks are falling on Thursday",
+    "link": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
+    "summary": "Investors are spooked by Tesla\u2019s cut to its near-term spending target and Lam Research\u2019s weaker-than-expected forecast,",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-22T15:33:00+00:00"
+  },
+  {
+    "title": "Cruise lines chase luxury travelers with suites for up to $25,000 a night",
+    "link": "https://www.cnbc.com/2026/10/22/luxury-cruise-suites-regent-seven-seas.html",
+    "summary": "CNBC got a tour of the Regent Suite, a top-of-the-line offering on Regent's Seven Seas Splendor that goes for $15,000 a night.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-22T15:16:48+00:00"
+  },
+  {
+    "title": "Under-the-radar stocks to play the next leg of the energy trade with oil prices jumping again",
+    "link": "https://www.cnbc.com/2026/10/22/under-the-radar-stocks-to-play-the-next-leg-of-the-energy-trade-with-oil-prices-jumping-again.html",
+    "summary": "Iran is going to grow more desperate as oil money dries up, which makes the country even more dangerous.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-22T15:16:05+00:00"
+  },
+  {
     "title": "Investors\u2019 recent money moves show a preference for quality over momentum within the S&P 500",
+    "link": "https://www.marketwatch.com/story/investors-recent-money-moves-show-a-preference-for-quality-over-momentum-within-the-s-p-500-ed6b5149?mod=mw_rss_topstories",
+    "summary": "Investors have been steadily pouring money into the Invesco S&P 500 Quality ETF this year.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-22T15:10:00+00:00"
+  },
+  {
+    "title": "Investors\u2019 recent money moves show a preference for lowering risks over boosting rewards",
     "link": "https://www.marketwatch.com/story/investors-recent-money-moves-show-a-preference-for-quality-over-momentum-within-the-s-p-500-ed6b5149?mod=mw_rss_topstories",
     "summary": "Investors have been steadily pouring money into the Invesco S&P 500 Quality ETF this year.",
     "source": "MarketWatch",
@@ -117,6 +159,13 @@
     "summary": "Servers that use the popular PHP programming language were exposed to a critical security bug. Millions of websites have their data at risk.",
     "source": "CNBC",
     "pub_iso": "2026-10-22T12:35:08+00:00"
+  },
+  {
+    "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
+    "link": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
+    "summary": "Oil flows out of the Persian Gulf in October nearly returned to levels seen before the start of the Iran war, but traders remain wary about a fragile recovery.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-22T12:35:00+00:00"
   },
   {
     "title": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
@@ -453,33 +502,5 @@
     "summary": "Asked if Elon Musk ordered the slowdown, Trump said, \"I don't know who did it, but I was not involved.\"",
     "source": "CNBC",
     "pub_iso": "2026-10-21T21:48:02+00:00"
-  },
-  {
-    "title": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
-    "link": "https://www.marketwatch.com/story/why-investors-should-be-skeptical-of-a-potential-tesla-spacex-merger-9e119d32?mod=mw_rss_topstories",
-    "summary": "Wall Street is all abuzz over a possible merger between Tesla and SpaceX. But there is a high probability that such a merger would be a bad idea.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-21T21:44:00+00:00"
-  },
-  {
-    "title": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots",
-    "link": "https://www.cnbc.com/2026/10/21/anthropic-preview-of-claude-duet-personal-ai-agent-take-on-muse-dots.html",
-    "summary": "Claude Duet follows the launch of competing products from Meta and OpenAI, which have shown traction with users.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-21T21:42:54+00:00"
-  },
-  {
-    "title": "AIPAC retreats from candidate endorsements and direct giving as political backlash grows",
-    "link": "https://www.cnbc.com/2026/10/21/aipac-candidate-endorsements-pac-contributions-israel-election.html",
-    "summary": "Pro-Israel group AIPAC will keep operating its United Democracy Project super PAC while mobilizing individual donors to give directly.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-21T21:42:04+00:00"
-  },
-  {
-    "title": "Trump says data centers should generate their own electricity \u2014 but experts say only states can mandate that",
-    "link": "https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories",
-    "summary": "The president\u2019s statement comes as a voter backlash against the facilities intensifies ahead of the midterm elections.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-21T21:31:00+00:00"
   }
 ]
