@@ -1,5 +1,89 @@
 [
   {
+    "title": "France protests: Macron condemns 'stupid' comments from Trump, others as bond market pressure builds",
+    "link": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
+    "summary": "France is facing a mounting economic crisis that pushed its 10-year government bond yield to a new 24-year high on Thursday.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-22T12:11:29+00:00"
+  },
+  {
+    "title": "California's Proposition 40: What voters need to know about the billionaire wealth tax",
+    "link": "https://www.cnbc.com/2026/10/22/california-proposition-40-billionaire-tax-wealth.html",
+    "summary": "California's billionaire wealth tax, Proposition 40, looks like a close call based on recent polls. Here is what to know before Election Day on Nov. 3.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-22T12:05:42+00:00"
+  },
+  {
+    "title": "IBM\u2019s stock falls as investors struggle to shake off July earnings miss",
+    "link": "https://www.marketwatch.com/story/ibms-stock-falls-as-investors-struggle-to-shake-off-july-earnings-miss-0969b9e3?mod=mw_rss_topstories",
+    "summary": "Shares in International Business Machines declined 5% in Thursday\u2019s premarket trading as investors digested the company\u2019s third-quarter results.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-22T12:04:00+00:00"
+  },
+  {
+    "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+    "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+    "summary": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-22T12:03:40+00:00"
+  },
+  {
+    "title": "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products",
+    "link": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html",
+    "summary": "Procter & Gamble topped Wall Street's estimates for its quarterly earnings and revenue.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-22T12:01:13+00:00"
+  },
+  {
+    "title": "American Express brings Airbnb bookings and rewards to Amex Travel platform",
+    "link": "https://www.cnbc.com/2026/10/22/american-express-airbnb-travel-platform.html",
+    "summary": "More than 1 million Airbnb listings are now available to book through Amex Travel, allowing customers to earn membership points on prepaid bookings.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-22T12:00:02+00:00"
+  },
+  {
+    "title": "Why governments pulled websites offline over a decades-old programming language",
+    "link": "https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html",
+    "summary": "Servers that use the popular PHP programming language were exposed to a critical security bug. Millions of websites have their data at risk.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-22T12:00:02+00:00"
+  },
+  {
+    "title": "Why this JPMorgan strategist thinks the stock market\u2019s tailspin might have run its course",
+    "link": "https://www.marketwatch.com/story/why-a-jpmorgan-strategist-says-the-stock-markets-tailspin-might-have-run-its-course-71571335?mod=mw_rss_topstories",
+    "summary": "Hedge fund positioning has lightened considerably since its recent September peak, and JPMorgan strategists deduce from this that downside for stocks is now limited.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-22T11:57:00+00:00"
+  },
+  {
+    "title": "American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year",
+    "link": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
+    "summary": "It's the fourth major U.S. carrier to cut its 2026 forecast this month because of a spike in fuel costs.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-22T11:56:43+00:00"
+  },
+  {
+    "title": "Comcast beats earnings expectations as media revenue offsets weakness in connectivity",
+    "link": "https://www.cnbc.com/2026/10/22/comcast-cmcsa-earnings-q3-2026.html",
+    "summary": "Comcast is in the process of spinning off its media business into a separate publicly traded company.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-22T11:42:26+00:00"
+  },
+  {
+    "title": "Mideast oil exports are recovering. Fresh attacks in Saudi Arabia show risks remain.",
+    "link": "https://www.marketwatch.com/story/mideast-oil-exports-are-recovering-fresh-attacks-in-saudi-arabia-show-risks-remain-1473391a?mod=mw_rss_topstories",
+    "summary": "More oil is flowing out of the Persian Gulf again, with exports approaching prewar levels. So why are prices so stubbornly high?",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-22T11:35:00+00:00"
+  },
+  {
+    "title": "David's Bridal plans to spin off AI platform Pearl into publicly traded company",
+    "link": "https://www.cnbc.com/2026/10/22/davids-bridal-pearl-ai-spinoff.html",
+    "summary": "David's Bridal told CNBC exclusively that it's planning to spin off its AI platform, Pearl, into a stand-alone publicly traded company.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-22T11:32:08+00:00"
+  },
+  {
     "title": "Ukraine Starlink slowdown raises business risks for Elon Musk partners",
     "link": "https://www.cnbc.com/2026/10/22/ukraine-starlink-slowdown-musk-business-risk.html",
     "summary": "Suspension of Starlink service in Ukraine reinforces the uniquely elevated business risk of dealing with Musk as competitors circle.",
@@ -36,6 +120,13 @@
   },
   {
     "title": "Meta\u2019s stock falls in early trading amid broader sector selloff, despite well-received results",
+    "link": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
+    "summary": "Meta\u2019s core advertising business delivered a strong quarter, but investors are now eyeing promising new businesses around the Muse personal assistant.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-22T09:55:00+00:00"
+  },
+  {
+    "title": "Meta teases an opportunity even bigger than advertising \u2014 but its stock is falling",
     "link": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
     "summary": "Meta\u2019s core advertising business delivered a strong quarter, but investors are now eyeing promising new businesses around the Muse personal assistant.",
     "source": "MarketWatch",
@@ -313,40 +404,5 @@
     "summary": "Co-CEO Ted Sarandos has said the streamer needs new avenues for growth and to improve execution around its content strategy.",
     "source": "CNBC",
     "pub_iso": "2026-10-21T18:32:12+00:00"
-  },
-  {
-    "title": "Trump-aligned super PACs pour millions into once-safe GOP House seats",
-    "link": "https://www.cnbc.com/2026/10/21/trump-pac-spending-midterm-election-house-republicans.html",
-    "summary": "Trump-aligned PACs are pouring hundreds of millions into House and Senate races as Republicans defend an expanding midterm election battleground map.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-21T17:51:21+00:00"
-  },
-  {
-    "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
-    "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-    "summary": "Meta to pay $25 billion in penalties related to Cambridge Analytica scandal in New Mexico.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-21T17:34:50+00:00"
-  },
-  {
-    "title": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
-    "link": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
-    "summary": "Darren Indyke and Richard Kahn allegedly helped finance and conceal Epstein's sex trafficking, which included abuse at his Zorro Ranch, a lawsuit says.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-21T17:34:00+00:00"
-  },
-  {
-    "title": "How Ukraine\u2019s drone strikes on Russia crippled the world\u2019s second-largest diesel supplier",
-    "link": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
-    "summary": "President Donald Trump has blamed Ukraine for surging diesel prices that are hurting Republicans' election chances with the midterms just two weeks away.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-21T17:27:34+00:00"
-  },
-  {
-    "title": "Expanding AI trade is turning safety stocks into a 'Texas hedge'",
-    "link": "https://www.cnbc.com/2026/10/21/expanding-ai-trade-is-turning-safety-stocks-into-a-texas-hedge.html",
-    "summary": "The growing AI trade is infiltrating traditionally safe sectors like utilities, making hedging more difficult.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-21T17:14:14+00:00"
   }
 ]
