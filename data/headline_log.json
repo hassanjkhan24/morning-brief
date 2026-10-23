@@ -399,6 +399,13 @@
     "pub_iso": "2026-10-22T13:21:00+00:00"
   },
   {
+    "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+    "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+    "summary": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-22T13:18:36+00:00"
+  },
+  {
     "title": "Nvidia's Jensen Huang says he sees no sign of a 2029 memory glut: 'You can always use more'",
     "link": "https://www.cnbc.com/2026/10/22/jensen-huang-nvidia-memory-selloff-shortage.html",
     "summary": "Nvidia's Jensen Huang told CNBC that a surplus of memory supply is unlikely by 2029, as memory stocks have taken a beating in the past week.",
@@ -411,33 +418,5 @@
     "summary": "Argentinia's Javier Milei launched a barrage of insults at Spain\u2019s left-wing Prime Minister Pedro Sanchez on a visit to Madrid, calling on voters to oust him.",
     "source": "CNBC",
     "pub_iso": "2026-10-22T12:52:41+00:00"
-  },
-  {
-    "title": "Markets are pricing in long-term AI winners. This veteran investor says history proves customers win more than innovators.",
-    "link": "https://www.marketwatch.com/story/markets-are-pricing-in-long-term-ai-winners-this-veteran-investor-says-history-proves-customers-win-more-than-innovators-f7043439?mod=mw_rss_topstories",
-    "summary": "Rob Arnott, chairman of Syzygy Asset Management, says the perceived AI winners of today may be far from reality.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-22T12:40:00+00:00"
-  },
-  {
-    "title": "Why governments pulled websites offline over the decades-old PHP programming language",
-    "link": "https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html",
-    "summary": "Servers that use the popular PHP programming language were exposed to a critical security bug. Millions of websites have their data at risk.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-22T12:35:08+00:00"
-  },
-  {
-    "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
-    "link": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
-    "summary": "Oil flows out of the Persian Gulf in October nearly returned to levels seen before the start of the Iran war, but traders remain wary about a fragile recovery.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-22T12:35:00+00:00"
-  },
-  {
-    "title": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
-    "link": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
-    "summary": "Moderna is one of the hottest stocks of the year because of its custom cancer treatment. Full Phase 3 data are set to be revealed this weekend.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-22T12:22:00+00:00"
   }
 ]
