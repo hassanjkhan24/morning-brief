@@ -1,5 +1,19 @@
 [
   {
+    "title": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+    "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+    "summary": "\u201cMy late father bought our house for $250,000 in the 1990s.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-23T10:15:00+00:00"
+  },
+  {
+    "title": "Corruption is voters' top issue ahead of midterm election, CNBC survey shows",
+    "link": "https://www.cnbc.com/2026/10/23/corruption-midterm-election-cnbc-poll-trump.html",
+    "summary": "Democrats have worked to contrast economic hardship with President Trump's surging net worth and his family's lucrative business dealings.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-23T10:00:01+00:00"
+  },
+  {
     "title": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks",
     "link": "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html",
     "summary": "Both Putin and Zelenskyy said Thursday they were open for peace negotiations, even as they continued strikes overnight.",
@@ -280,6 +294,13 @@
     "pub_iso": "2026-10-22T20:03:03+00:00"
   },
   {
+    "title": "Reported fraud losses among older Americans hit $3 billion in 2025 as big losses surge: FTC report",
+    "link": "https://www.cnbc.com/2026/10/22/older-americans-fraud-losses-2025.html",
+    "summary": "Older Americans reported $2.1 billion in fraud losses of at least $100,000, accounting for 70% of the $3 billion lost overall, according to the FTC.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-22T19:39:51+00:00"
+  },
+  {
     "title": "Is getting a wedding band from Quince a bad idea? It\u2019s a third of the price of a local jeweler.",
     "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
     "summary": "\u201cI am slightly anxious about purchasing something so big\u201d from an online retailer known for cut-price duplicates of popular clothes and accessories.",
@@ -348,33 +369,5 @@
     "summary": "Trump's lawyers had requested that his deposition be conducted between Jan. 11 and Jan. 22.",
     "source": "CNBC",
     "pub_iso": "2026-10-22T16:34:53+00:00"
-  },
-  {
-    "title": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
-    "link": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
-    "summary": "OpenAI CEO Sam Altman pledged to grant independent evaluators \"employee-like access\" to the company to help address mounting safety concerns.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-22T16:04:43+00:00"
-  },
-  {
-    "title": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
-    "link": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
-    "summary": "Taco Bell is sticking with longtime beverage supplier PepsiCo, even though sister chain KFC defected to Coca-Cola.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-22T15:52:00+00:00"
-  },
-  {
-    "title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
-    "link": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
-    "summary": "\"We're going to have an amazing 2027,\" he said.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-22T15:48:37+00:00"
-  },
-  {
-    "title": "Meta stock sinks 6% as AI spend pushes free cash flow negative",
-    "link": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
-    "summary": "Prices for the social media giant's 5-year credit default swaps are reaching all-time highs as investors signal growing credit concerns.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-22T15:45:57+00:00"
   }
 ]
