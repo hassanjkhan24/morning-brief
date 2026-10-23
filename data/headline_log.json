@@ -1,5 +1,12 @@
 [
   {
+    "title": "AI's 'Black October':\u00a0Critical PHP flaws set off global security scramble",
+    "link": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
+    "summary": "Governments and businesses around the globe are scrambling to contain the fallout after the PHP vulnerabilities leaked online.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-23T15:27:46+00:00"
+  },
+  {
     "title": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
     "link": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
     "summary": "",
@@ -432,19 +439,5 @@
     "summary": "Moderna released full data on its closely watched cancer vaccine developed with Merck.",
     "source": "CNBC",
     "pub_iso": "2026-10-22T21:52:02+00:00"
-  },
-  {
-    "title": "Americans are having fewer babies \u2014 and pampering them with luxury diapers",
-    "link": "https://www.marketwatch.com/story/americans-are-having-fewer-babies-and-pampering-them-with-luxury-diapers-a84222cd?mod=mw_rss_topstories",
-    "summary": "\u201cFewer babies in each household means parents spend more per baby,\u201d Procter & Gamble\u2019s CFO says.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-22T21:28:00+00:00"
-  },
-  {
-    "title": "3 big reasons Micron and other chip stocks fell hard on Thursday",
-    "link": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
-    "summary": "Investors are spooked by Tesla\u2019s lower spending target, Lam Research\u2019s weaker-than-expected forecast and a fresh reminder that the AI boom relies on outside funding.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-22T21:19:00+00:00"
   }
 ]
