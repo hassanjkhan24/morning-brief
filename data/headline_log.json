@@ -1,5 +1,12 @@
 [
   {
+    "title": "Defense tech investment boom sparks bubble warning as private equity pours in",
+    "link": "https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html",
+    "summary": "Private equity growth investments in defense reached $4 billion in the first nine months of 2026, up from $500 million in 2024.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-26T06:00:01+00:00"
+  },
+  {
     "title": "\u2018Ticking time bomb\u2019: The world's pension funds face an ageing crisis",
     "link": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
     "summary": "The world's pension systems are confronting a demographic crisis as longer lifespans and dwindling birth rates threaten to stretch retirement finances.",
@@ -70,6 +77,20 @@
     "pub_iso": "2026-10-25T20:28:55+00:00"
   },
   {
+    "title": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+    "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+    "summary": "\u201cMy late father bought our house for $250,000 in the 1990s.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-25T20:15:00+00:00"
+  },
+  {
+    "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?",
+    "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+    "summary": "\u201cI married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-25T20:00:00+00:00"
+  },
+  {
     "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who\u2019s to blame?",
     "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
     "summary": "\u201cLast summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.\u201d",
@@ -84,9 +105,23 @@
     "pub_iso": "2026-10-25T18:18:49+00:00"
   },
   {
+    "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. How can I keep him from becoming destitute?",
+    "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+    "summary": "\u201cNothing has been set aside for his needs.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-25T18:00:00+00:00"
+  },
+  {
     "title": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
     "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
     "summary": "\u201cI never paid rent, although I put about $45,000 toward a new kitchen and a roof.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-25T17:00:00+00:00"
+  },
+  {
+    "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I\u2019m crazy. Who\u2019s right?",
+    "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+    "summary": "\u201cI don\u2019t want to enter retirement owing six figures when we have the cash to clear it.\u201d",
     "source": "MarketWatch",
     "pub_iso": "2026-10-25T17:00:00+00:00"
   },
@@ -96,6 +131,13 @@
     "summary": "Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S. tariffs.",
     "source": "CNBC",
     "pub_iso": "2026-10-25T16:42:42+00:00"
+  },
+  {
+    "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+    "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+    "summary": "\u201cI retired in 2020 and subsequently went through a divorce a few years later.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-25T14:30:00+00:00"
   },
   {
     "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
@@ -110,12 +152,5 @@
     "summary": "\u201cHe wants to buy something for $600,000 now that we are empty-nesters.\u201d",
     "source": "MarketWatch",
     "pub_iso": "2026-10-25T13:45:00+00:00"
-  },
-  {
-    "title": "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
-    "link": "https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html",
-    "summary": "The economy is still a key issue in the 2026 election, but voters are concerned about Trump testing the bounds of the office and Democratic Socialist polices.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-25T12:00:01+00:00"
   }
 ]
