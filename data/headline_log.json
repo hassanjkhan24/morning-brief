@@ -1,443 +1,121 @@
 [
   {
-    "title": "Investors are starting to find opportunities in the battered bond market",
-    "link": "https://www.cnbc.com/2026/10/23/investors-are-starting-to-find-opportunities-in-the-battered-bond-market.html",
-    "summary": "Some market participants see reason for hope in a market bludgeoned this year.",
+    "title": "\u2018Ticking time bomb\u2019: The world's pension funds face an ageing crisis",
+    "link": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
+    "summary": "The world's pension systems are confronting a demographic crisis as longer lifespans and dwindling birth rates threaten to stretch retirement finances.",
     "source": "CNBC",
-    "pub_iso": "2026-10-23T17:40:31+00:00"
+    "pub_iso": "2026-10-26T05:22:30+00:00"
   },
   {
-    "title": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
-    "link": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
-    "summary": "The Iran war is transforming global energy markets and benefiting U.S. companies, especially liquified natural gas exporters.",
+    "title": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
+    "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+    "summary": "Oil prices fell as investors weighed the threat of further attacks on Saudi Arabian energy infrastructure against concerns that elevated prices could erode demand.",
     "source": "CNBC",
-    "pub_iso": "2026-10-23T17:25:29+00:00"
+    "pub_iso": "2026-10-26T05:18:01+00:00"
   },
   {
-    "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
-    "link": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
-    "summary": "Since last week, Ukraine has reported restrictions on a version of Starshield, a version of SpaceX's Starlink, hampering its military operations against Russia.",
+    "title": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia",
+    "link": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
+    "summary": "SoftBank Group reportedly plans to invest $50 billion in Malaysia's technology sector, including artificial intelligence and data centers.",
     "source": "CNBC",
-    "pub_iso": "2026-10-23T17:04:14+00:00"
+    "pub_iso": "2026-10-26T04:56:16+00:00"
   },
   {
-    "title": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-    "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-    "summary": "\u201dI earn $110,000 a year.\u201d",
+    "title": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
+    "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+    "summary": "It's the first time since Brazil returned to direct elections in 1989 that a candidate has won the final runoff after losing in the first round.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-26T04:09:41+00:00"
+  },
+  {
+    "title": "Musk says SpaceX landed a $40 billion debt deal \u2014 and forecasts doom for some AI rivals",
+    "link": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
+    "summary": "SpaceX is rapidly growing an AI business that rents out access to advanced chips.",
     "source": "MarketWatch",
-    "pub_iso": "2026-10-23T17:00:00+00:00"
+    "pub_iso": "2026-10-26T01:50:00+00:00"
   },
   {
-    "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
-    "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
-    "summary": "Store aisles are getting a digital makeover.",
+    "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+    "link": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+    "summary": "Elon Musk said in an X post that SpaceX has closed $40 billion in debt financing to purchase GPUs.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-26T00:37:51+00:00"
+  },
+  {
+    "title": "Behind \u2018Mad Money\u2019 was a brilliant writer viewers never saw. We lost him too soon",
+    "link": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-remembers-cliff-mason.html",
+    "summary": "Jim Cramer remembers Cliff Mason, the head writer of \"Mad Money,\" who died last week at age 41.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-26T00:28:36+00:00"
+  },
+  {
+    "title": "In pictures: Protests over inequality, rising living costs turn violent across France",
+    "link": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
+    "summary": "Protests over inequality and living costs drew an estimated 410,000 people across France, with clashes in several cities for a second straight weekend.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-25T23:55:22+00:00"
+  },
+  {
+    "title": "More pain may be coming for the AI trade. Why I\u2019m not giving up on it",
+    "link": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-ai-trade-nvidia-coreweave.html",
+    "summary": "In his Sunday column for Investing Club subscribers, Jim Cramer explains why the AI trade has cracked and what he's doing about it.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-25T21:13:50+00:00"
+  },
+  {
+    "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
+    "link": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
+    "summary": "Democrats have maintained they have no connection to Daniel J. Sullivan.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-25T20:28:55+00:00"
+  },
+  {
+    "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who\u2019s to blame?",
+    "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+    "summary": "\u201cLast summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.\u201d",
     "source": "MarketWatch",
-    "pub_iso": "2026-10-23T16:41:00+00:00"
+    "pub_iso": "2026-10-25T19:30:00+00:00"
   },
   {
-    "title": "Doctors call Moderna, Merck cancer vaccine data a major advancement \u2014 despite Wall Street reaction",
-    "link": "https://www.cnbc.com/2026/10/23/moderna-merck-cancer-vaccine-data.html",
-    "summary": "Six melanoma specialists said the Moderna and Merck vaccine results represent a clinically meaningful result for melanoma patients who underwent surgery.",
+    "title": "Ukraine disputes Elon Musk\u2019s claim that its military violated Starlink terms during drone operations",
+    "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
+    "summary": "Ukraine challenged Musk\u2019s claim that its military violated Starlink terms, arguing that commercial Starlink limits prevented medium- and long-range strike use.",
     "source": "CNBC",
-    "pub_iso": "2026-10-23T16:24:56+00:00"
+    "pub_iso": "2026-10-25T18:18:49+00:00"
   },
   {
-    "title": "Retire on 8% a year with little or no risk? How to use annuities the right way.",
-    "link": "https://www.marketwatch.com/story/retire-on-8-a-year-with-little-or-no-risk-how-to-use-annuities-the-right-way-06ababc5?mod=mw_rss_topstories",
-    "summary": "Market turmoil has created a remarkable opportunity in recent weeks for retirees and those seeking secure, stable income for life.",
+    "title": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
+    "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+    "summary": "\u201cI never paid rent, although I put about $45,000 toward a new kitchen and a roof.\u201d",
     "source": "MarketWatch",
-    "pub_iso": "2026-10-23T15:56:00+00:00"
+    "pub_iso": "2026-10-25T17:00:00+00:00"
   },
   {
-    "title": "TikTok U.S. hunts for multiple gigawatts of computing capacity, sources tell CNBC",
-    "link": "https://www.cnbc.com/2026/10/23/tiktok-us-compute-capacity.html",
-    "summary": "The operator of the social media platform in the U.S. has sounded out opportunities to obtain capacity over the coming years.",
+    "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
+    "link": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
+    "summary": "Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S. tariffs.",
     "source": "CNBC",
-    "pub_iso": "2026-10-23T15:35:36+00:00"
+    "pub_iso": "2026-10-25T16:42:42+00:00"
   },
   {
-    "title": "AI's 'Black October':\u00a0Critical PHP flaws set off global security scramble",
-    "link": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
-    "summary": "Governments and businesses around the globe are scrambling to contain the fallout after the PHP vulnerabilities leaked online.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T15:27:46+00:00"
-  },
-  {
-    "title": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
-    "link": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
-    "summary": "",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T15:16:45+00:00"
-  },
-  {
-    "title": "Two ex-FBI officials charged with allegedly lying about Hunter Biden probe: DOJ",
-    "link": "https://www.cnbc.com/2026/10/23/fbi-hunter-biden-criminal-charges.html",
-    "summary": "Attorneys for one of the ex-FBI officials slammed the Trump administration for filing the \"nonsense charges\" just before the midterm election.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T15:11:17+00:00"
-  },
-  {
-    "title": "Everyone\u2019s talking about Roth conversions, but here\u2019s how few people really do them \u2014 and why you shouldn\u2019t have FOMO about it",
-    "link": "https://www.marketwatch.com/story/everyones-talking-about-roth-conversions-but-heres-how-few-people-really-do-them-and-why-you-shouldnt-have-fomo-about-it-1b50db07?mod=mw_rss_topstories",
-    "summary": "You have to do the math to figure out your best tax strategy in retirement, and converting might not be for you.",
+    "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
+    "link": "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1?mod=mw_rss_topstories",
+    "summary": "\u201cWith cautious to negative market sentiment, it could be a tricky week,\u201d one strategist says.",
     "source": "MarketWatch",
-    "pub_iso": "2026-10-23T15:00:00+00:00"
+    "pub_iso": "2026-10-25T14:00:00+00:00"
   },
   {
-    "title": "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
-    "link": "https://www.cnbc.com/2026/10/23/james-talarico-campaign-ad-elon-musk-texas-senate-election.html",
-    "summary": "James Talarico hit back at Elon Musk's attacks and spending in a new ad by the Democratic nominee for U.S. Senate in Texas.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T14:34:37+00:00"
-  },
-  {
-    "title": "Young Americans are giving up on cars. It\u2019s a path to financial freedom for some.",
-    "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
-    "summary": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things.",
+    "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids \u2014 and I can\u2019t bear to leave.",
+    "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+    "summary": "\u201cHe wants to buy something for $600,000 now that we are empty-nesters.\u201d",
     "source": "MarketWatch",
-    "pub_iso": "2026-10-23T14:29:00+00:00"
+    "pub_iso": "2026-10-25T13:45:00+00:00"
   },
   {
-    "title": "Surging economy gets off to a good start in the fourth quarter \u2014 but there\u2019s one big problem",
-    "link": "https://www.marketwatch.com/story/surging-economy-gets-off-to-a-good-start-in-the-fourth-quarter-but-theres-one-big-problem-5657f399?mod=mw_rss_topstories",
-    "summary": "Warning signs are emerging that consumers will be hit with rising prices.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-23T14:23:00+00:00"
-  },
-  {
-    "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?",
-    "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-    "summary": "\u201cI married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-23T14:15:00+00:00"
-  },
-  {
-    "title": "Texas Senate race: Talarico campaign turns its fire on Elon Musk",
-    "link": "https://www.cnbc.com/2026/10/23/james-talarico-campaign-ad-elon-musk-texas-senate-election.html",
-    "summary": "James Talarico hit back at Elon Musk's attacks and spending in a new ad by the Democratic nominee for U.S. Senate in Texas.",
+    "title": "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
+    "link": "https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html",
+    "summary": "The economy is still a key issue in the 2026 election, but voters are concerned about Trump testing the bounds of the office and Democratic Socialist polices.",
     "source": "CNBC",
-    "pub_iso": "2026-10-23T14:00:27+00:00"
-  },
-  {
-    "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
-    "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
-    "summary": "Amex, which reported third-quarter results earlier Friday, is taking a $336 million restructuring charge in the quarter, CEO Stephen Squeri said Friday.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T13:59:42+00:00"
-  },
-  {
-    "title": "Restaurant earnings will test whether owning more brands pays off",
-    "link": "https://www.cnbc.com/2026/10/23/darden-brinker-qsr-stocks-restaurant-earnings.html",
-    "summary": "Shares of companies with multiple restaurant brands like Brinker and Darden are outperforming single-chain stocks like McDonald's and Chipotle.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T13:55:46+00:00"
-  },
-  {
-    "title": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
-    "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
-    "summary": "U.S. President Donald Trump accused Iran on Thursday of trying to manipulate the oil market.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T13:50:46+00:00"
-  },
-  {
-    "title": "Brent crude oil tops $115, a five month high, as tensions swell in the Middle East",
-    "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
-    "summary": "U.S. President Donald Trump accused Iran on Thursday of trying to manipulate the oil market.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T13:29:52+00:00"
-  },
-  {
-    "title": "American Express is cutting 5% of its workforce",
-    "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
-    "summary": "Amex, which reported third-quarter results earlier Friday, is taking a $336 million restructuring charge in the quarter, CEO Stephen Squeri said Friday.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T13:29:48+00:00"
-  },
-  {
-    "title": "Family offices likely to add risk, debt and alternatives under the next generation",
-    "link": "https://www.cnbc.com/2026/10/23/next-generation-family-offices-likely-to-add-risk-debt-alternatives.html",
-    "summary": "The next generation of family office leaders is likely to use more debt, invest in more alternatives and focus on different philanthropies, say new studies.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T13:16:26+00:00"
-  },
-  {
-    "title": "Our top 10 things to watch in the stock market Friday",
-    "link": "https://www.cnbc.com/investingclub/2026/10/23/our-top-10-things-to-watch-in-the-stock-market-friday.html",
-    "summary": "WTI crude is back at $100 a barrel, and American Express reported a mixed quarter.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T13:06:34+00:00"
-  },
-  {
-    "title": "Over 40% of Americans are heading toward retirement \u2018blind\u2019 \u2014 with no plan",
-    "link": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
-    "summary": "Nearly half of Americans haven\u2019t calculated what they\u2019ll need in retirement.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-23T13:00:00+00:00"
-  },
-  {
-    "title": "Smart financial advisers are dropping ROI, NAV and QCD for plain English when talking to clients",
-    "link": "https://www.marketwatch.com/story/smart-financial-advisers-are-dropping-roi-nav-and-qcd-for-plain-english-when-talking-to-clients-2a16fc6f?mod=mw_rss_topstories",
-    "summary": "Not everyone is familiar with the ABCs of financial planning",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-23T12:30:00+00:00"
-  },
-  {
-    "title": "It\u2019s been a painful month for hedge funds. To turn it around, they are shorting U.S. stocks.",
-    "link": "https://www.marketwatch.com/story/its-been-a-painful-month-for-hedge-funds-to-turn-it-around-they-are-shorting-u-s-stocks-d36ee922?mod=mw_rss_topstories",
-    "summary": "In response to losses on popular trades, hedge funds are now shorting U.S. stocks aggressively to try and win back some performance.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-23T12:23:00+00:00"
-  },
-  {
-    "title": "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine",
-    "link": "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html",
-    "summary": "A letter demanding an investigation indicates Democrats will make investigating Starlink's interruption a top priority if they win control of the U.S. House.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T12:22:10+00:00"
-  },
-  {
-    "title": "Higher interest rates have made family offices pickier about investing in real estate",
-    "link": "https://www.cnbc.com/2026/10/23/high-interest-rates-raise-the-bar-for-real-estate-deals.html",
-    "summary": "Higher interest rates have made family offices more selective about investing in real estate.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T12:15:03+00:00"
-  },
-  {
-    "title": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
-    "link": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
-    "summary": "U.S. Treasury yields edged higher on Friday following a sharp reversal on Thursday.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T12:12:18+00:00"
-  },
-  {
-    "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
-    "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
-    "summary": "Airlines are reporting fewer people flew in the third quarter as airfare surged on fuel costs, but executives say travelers are mostly swallowing higher fares.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T12:11:48+00:00"
-  },
-  {
-    "title": "On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress",
-    "link": "https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html",
-    "summary": "The word on the ground from Nvidia's GTC conference in Berlin.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T12:08:30+00:00"
-  },
-  {
-    "title": "Volvo Cars plunges 26% as CEO says China sales slump came 'faster than we thought'",
-    "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
-    "summary": "The Swedish automaker cited a deteriorating environment led by \"tougher\" market conditions in China and the U.S., which \"negatively affected free cash flow.\"",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T11:58:40+00:00"
-  },
-  {
-    "title": "U.S. oil rises above $100, Brent at five-month high as Iran says it\u2019s prepared for warfare",
-    "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
-    "summary": "U.S. President Donald Trump accused Iran on Thursday of trying to manipulate the oil market.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T11:51:59+00:00"
-  },
-  {
-    "title": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here\u2019s what the latest developments mean.",
-    "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
-    "summary": "Reports of Starlink\u2019s discussions with cell-tower owners were noticed by shareholders of Verizon, AT&T and T-Mobile.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-23T11:32:00+00:00"
-  },
-  {
-    "title": "The stock market is splitting in two. Is that signaling trouble ahead, or just a new set of winners?",
-    "link": "https://www.marketwatch.com/story/the-stock-market-is-splitting-in-two-is-that-signaling-trouble-ahead-or-just-a-new-set-of-winners-f51aaeab?mod=mw_rss_topstories",
-    "summary": "Tech stocks are slumping \u2014 even as more than 300 S&P 500 constituents rose Thursday \u2014 and Treasurys are rallying. Here\u2019s what may be changing.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-23T11:24:00+00:00"
-  },
-  {
-    "title": "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage",
-    "link": "https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html",
-    "summary": "A Tesla-SpaceX merger may be in the works, but the companies face a long road of negotiations and regulatory reviews.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T11:00:01+00:00"
-  },
-  {
-    "title": "France is getting its credit rating reviewed. What to expect as French debt turmoil has helped turn U.S. Treasury yields around.",
-    "link": "https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories",
-    "summary": "Moody\u2019s is set to update its rating on France\u2019s debt after U.S. markets close on Friday.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-23T10:45:00+00:00"
-  },
-  {
-    "title": "France is getting its credit rating reviewed. The French debt turmoil has helped turn U.S. Treasury yields around. What comes next?",
-    "link": "https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories",
-    "summary": "Moody\u2019s is set to update its rating on France\u2019s debt after U.S. markets close on Friday.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-23T10:45:00+00:00"
-  },
-  {
-    "title": "Democratic socialist set to become D.C. mayor \u2014 and face Trump's pushback",
-    "link": "https://www.cnbc.com/2026/10/23/janeese-lewis-george-democratic-socialist-washington-dc-mayor.html",
-    "summary": "Following Zohran Mamdani's election as New York City mayor, another democratic socialist is set to become mayor of Washington, D.C.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T10:30:01+00:00"
-  },
-  {
-    "title": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-    "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-    "summary": "\u201cMy late father bought our house for $250,000 in the 1990s.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-23T10:15:00+00:00"
-  },
-  {
-    "title": "Corruption is voters' top issue ahead of midterm election, CNBC survey shows",
-    "link": "https://www.cnbc.com/2026/10/23/corruption-midterm-election-cnbc-poll-trump.html",
-    "summary": "Democrats have worked to contrast economic hardship with President Trump's surging net worth and his family's lucrative business dealings.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T10:00:01+00:00"
-  },
-  {
-    "title": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks",
-    "link": "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html",
-    "summary": "Both Putin and Zelenskyy said Thursday they were open for peace negotiations, even as they continued strikes overnight.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T09:28:29+00:00"
-  },
-  {
-    "title": "France is getting its credit rating reviewed by Moody\u2019s. What to expect as French debt turmoil spills overseas.",
-    "link": "https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories",
-    "summary": "Moody\u2019s is set to update its rating on France\u2019s debt after U.S. markets close on Friday.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-23T09:28:00+00:00"
-  },
-  {
-    "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
-    "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
-    "summary": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a post-results bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-cent",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-23T09:19:00+00:00"
-  },
-  {
-    "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-    "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-    "summary": "\u201cI retired in 2020 and subsequently went through a divorce a few years later.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-23T09:15:00+00:00"
-  },
-  {
-    "title": "This market signal just occurred for only the second time since 1999. Here\u2019s what happened and what it means.",
-    "link": "https://www.marketwatch.com/story/this-market-signal-just-occurred-for-only-the-second-time-since-1999-heres-what-happened-and-what-it-means-a126cf31?mod=mw_rss_topstories",
-    "summary": "An unusual occurrence with breadth and the stock market just occurred.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-23T09:06:00+00:00"
-  },
-  {
-    "title": "France is flashing euro crisis signals. This time, the fault lines are different",
-    "link": "https://www.cnbc.com/2026/10/23/france-debt-euro-zone-contagion.html",
-    "summary": "French borrowing costs have surged as debt and political risks mount, raising questions over whether the stress could spread across the euro zone.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T09:03:26+00:00"
-  },
-  {
-    "title": "U.S. oil holds above $100, Brent at five-month high as Iran says it\u2019s prepared for warfare",
-    "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
-    "summary": "U.S. President Donald Trump accused Iran on Thursday of trying to manipulate the oil market.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T09:02:44+00:00"
-  },
-  {
-    "title": "The mobile ambitions of SpaceX see telecom stocks get hit again. What the latest developments mean.",
-    "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
-    "summary": "Reports of Starlink\u2019s discussions with cell-tower owners were taken badly by shareholders of Verizon, AT&T and T-Mobile.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-23T09:01:00+00:00"
-  },
-  {
-    "title": "NBA star Precious Achiuwa signs on for $1.8 million condo in luxury Miami tower",
-    "link": "https://www.marketwatch.com/story/nba-star-precious-achiuwa-signs-on-for-1-8-million-condo-in-luxury-miami-tower-95d899c2?mod=mw_rss_topstories",
-    "summary": "Sacramento Kings forward Precious Achiuwa has signed for a $1.84M condo inside a lavish Miami development that has already attracted several high-profile athletes.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-23T08:59:00+00:00"
-  },
-  {
-    "title": "Volvo Cars plunges 27% as CEO says China sales slump came 'faster than we thought'",
-    "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
-    "summary": "The Swedish automaker cited a deteriorating environment led by \"tougher\" market conditions in China and the U.S., which \"negatively affected free cash flow.\"",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T08:33:13+00:00"
-  },
-  {
-    "title": "Nvidia's Huang heads to Kazakhstan for the first time \u2014 and he's not the only one with big plans",
-    "link": "https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html",
-    "summary": "Jensen Huang's first Kazakhstan visit highlights the country's growing AI ambitions and global business appeal.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T08:16:52+00:00"
-  },
-  {
-    "title": "Volvo Cars shares plunge 31% amid China, U.S. slump and fresh job cuts",
-    "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
-    "summary": "The Swedish automaker cited a deteriorating environment led by \"tougher\" market conditions in China and the U.S., which \"negatively affected free cash flow.\"",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T07:54:36+00:00"
-  },
-  {
-    "title": "Volvo Cars shares plunge 28% amid China sales slump and fresh job cuts",
-    "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
-    "summary": "The Swedish automaker cited a deteriorating environment led by \"tougher\" market conditions in China and the U.S., which \"negatively affected free cash flow.\"",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T07:29:28+00:00"
-  },
-  {
-    "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. How can I keep him from becoming destitute?",
-    "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-    "summary": "\u201cNothing has been set aside for his needs.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-23T07:15:00+00:00"
-  },
-  {
-    "title": "SK Hynix shares jump over 4% after early losses as chipmaker scraps Solidigm IPO plans",
-    "link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
-    "summary": "SK Hynix shares closed 4% higher after an initial drop in early trading as the chipmaker halted review of Solidigm IPO plans in the U.S.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T06:45:04+00:00"
-  },
-  {
-    "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I\u2019m crazy. Who\u2019s right?",
-    "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-    "summary": "\u201cI don\u2019t want to enter retirement owing six figures when we have the cash to clear it.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-23T06:15:00+00:00"
-  },
-  {
-    "title": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
-    "link": "https://www.cnbc.com/2026/10/23/saab-q3-earnings-figther-jet-maker-beats-expectations-as-orders-triple.html",
-    "summary": "",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T05:52:54+00:00"
-  },
-  {
-    "title": "SK Hynix shares rebound after initial drop on scrapped Solidigm IPO plans",
-    "link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
-    "summary": "SK Hynix shares rebound after an inital drop in early trading, following halted review of Solidigm IPO plans in the U.S.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T05:01:31+00:00"
-  },
-  {
-    "title": "Wealthy Chinese move offshore money to U.S. banks as Beijing\u2019s tax net widens",
-    "link": "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html",
-    "summary": "Bankers and lawyers say Chinese clients' demand for U.S. bank accounts has gathered pace as Beijing tightens the screws on Chinese offshore wealth.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T04:55:59+00:00"
-  },
-  {
-    "title": "Japan core inflation in September surges to its highest this year at 2.1%",
-    "link": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
-    "summary": "Core inflation, which strips out prices of fresh food, was in line with the 2.1% forecast by economists polled by Reuters.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T00:55:11+00:00"
-  },
-  {
-    "title": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
-    "link": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
-    "summary": "SpaceX's stake in Boring Co. helped boost its net income in the third quarter.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-23T00:46:09+00:00"
+    "pub_iso": "2026-10-25T12:00:01+00:00"
   }
 ]
