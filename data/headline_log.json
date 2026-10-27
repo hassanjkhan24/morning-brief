@@ -1,5 +1,145 @@
 [
   {
+    "title": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
+    "link": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
+    "summary": "HSBC announced its third-quarter earnings on Tuesday.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-27T05:30:10+00:00"
+  },
+  {
+    "title": "Oil falls as renewed diplomatic efforts to end Mideast conflict ease supply concerns",
+    "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
+    "summary": "Renewed diplomatic efforts to end the U.S.-Israeli war with Iran pushed oil prices lower",
+    "source": "CNBC",
+    "pub_iso": "2026-10-27T05:09:59+00:00"
+  },
+  {
+    "title": "Judge fast-tracks DOJ's Alaska Senate lawsuit as Peltola seeks dismissal before Election Day",
+    "link": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
+    "summary": "The winner of the Alaska Senate election could determine whether Republicans or Democrats have a majority in the Senate in the next Congress.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-27T04:40:30+00:00"
+  },
+  {
+    "title": "What gave this city its \u2018best place to retire\u2019 crown? You can actually afford to live there.",
+    "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+    "summary": "Low cost of living, high quality of life and favorable taxes for retirees, for the win.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-27T04:01:00+00:00"
+  },
+  {
+    "title": "China industrial profits post strongest growth in three months as tech boom widens economic divide",
+    "link": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
+    "summary": "The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings at miners, chipmakers and raw-material suppliers.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-27T03:34:08+00:00"
+  },
+  {
+    "title": "DOJ charges ex-FBI Director James Comey in new case",
+    "link": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
+    "summary": "Comey for years has been targeted by President Donald Trump, who fired him as FBI director in 2017.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-27T03:30:04+00:00"
+  },
+  {
+    "title": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
+    "link": "https://www.cnbc.com/2026/10/26/bessent-obama-cheesecake-trump-election.html",
+    "summary": "Cheesecake Factory has emerged as a campaign talking point before next week's election, with Treasury Secretary Scott Bessent dining there Monday.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-27T02:37:31+00:00"
+  },
+  {
+    "title": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
+    "link": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
+    "summary": "China and Russia are tightening their grip on Arctic shipping routes, turning the rapidly warming region into a new geopolitical battleground with Europe.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-27T01:24:28+00:00"
+  },
+  {
+    "title": "Bank of Japan is expected to hold rates this week \u2014 but stay hawkish: CNBC survey",
+    "link": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
+    "summary": "All survey respondents said they expect the BOJ to set the stage for a rate hike in December or January, as inflation and wages continue to rise.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-27T00:17:44+00:00"
+  },
+  {
+    "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+    "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+    "summary": "With the AI trade sputtering of late and interest rates on the rise, Anthropic's IPO is taking on outsized importance.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-26T22:50:07+00:00"
+  },
+  {
+    "title": "Dividend stocks are having an excellent October as tech sector struggles",
+    "link": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories",
+    "summary": "ETFs focused on dividend stocks are seeing a powerful rally in October, adding to huge gains in 2026.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-26T22:10:00+00:00"
+  },
+  {
+    "title": "Jim Cramer warns this overlooked danger could threaten the market rally",
+    "link": "https://www.cnbc.com/2026/10/26/jim-cramer-ipos-capital-raises-bull-market.html",
+    "summary": "CNBC\u2019s Jim Cramer warned that a flood of massive IPOs could threaten the bull market's rally.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-26T22:09:35+00:00"
+  },
+  {
+    "title": "Options traders are seizing control of the S&P 500",
+    "link": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories",
+    "summary": "There\u2019s a reason the index hasn\u2019t moved much since June, according to a team at UBS.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-26T22:03:00+00:00"
+  },
+  {
+    "title": "TikTok parent ByteDance\u2019s chatbot is now giving travel-booking sites a run for their money. And yours.",
+    "link": "https://www.marketwatch.com/story/tiktok-parent-bytedances-chatbot-is-now-giving-travel-booking-sites-a-run-for-their-money-and-yours-028e4aa0?mod=mw_rss_topstories",
+    "summary": "Consumers in China are starting to wonder \u2014 for good reason \u2014 whether the emerging AI travel agents have a hidden agenda.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-26T22:00:00+00:00"
+  },
+  {
+    "title": "Over 40% of Americans are heading toward retirement \u2018blind\u2019 \u2014 with no plan",
+    "link": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
+    "summary": "Nearly half of Americans haven\u2019t calculated what they\u2019ll need in retirement.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-26T21:55:00+00:00"
+  },
+  {
+    "title": "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say",
+    "link": "https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories",
+    "summary": "The Wall Street Journal reports that DoorDash was in \u2018advanced talks\u2019 to buy Instacart in a deal that would value Instacart at roughly $17 billion",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-26T21:46:00+00:00"
+  },
+  {
+    "title": "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
+    "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
+    "summary": "JetBlue Airways is in the middle of a plan that aims to cut costs and increase premium revenue.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-26T21:18:07+00:00"
+  },
+  {
+    "title": "Why Lumentum\u2019s stock led the S&P 500 higher on Monday",
+    "link": "https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories",
+    "summary": "Optical stocks are staging a comeback following Anthropic\u2019s IPO filing and some other good news",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-26T21:04:00+00:00"
+  },
+  {
+    "title": "With the Anthropic IPO, the devil is in the details",
+    "link": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
+    "summary": "The first draft of the AI company\u2019s prospectus is light on details, but some things immediately leap out.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-26T20:50:00+00:00"
+  },
+  {
+    "title": "As AI becomes more fractured, one names stands out: AMD",
+    "link": "https://www.cnbc.com/2026/10/26/-as-ai-becomes-more-fractured-one-names-stands-out-amd.html",
+    "summary": "As Anthropic rushes to takes its shares public, the AI trade is showing cracks, and they are not confined to fringe players.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-26T19:38:17+00:00"
+  },
+  {
     "title": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
     "link": "https://www.cnbc.com/2026/10/26/apple-responds-to-user-reports-of-broken-iphone-duo-screens.html",
     "summary": "Apple on Monday said it was aware of the issue and that it would replace the devices under its AppleCare warranty.",
@@ -299,152 +439,5 @@
     "summary": "Meta said Monday it is planning to raise a total of $95 billion to support itsi nvestments in AI infrastructure and super intelligence.",
     "source": "CNBC",
     "pub_iso": "2026-10-26T11:52:06+00:00"
-  },
-  {
-    "title": "Trump says he'll soon decide whether to \u2018make a deal\u2019 with Iran or \u2018finish it off'",
-    "link": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html",
-    "summary": "Trump said he is weighing a deal with Iran against renewed military action as tensions escalate across the Middle East.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-26T11:49:17+00:00"
-  },
-  {
-    "title": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
-    "link": "https://www.cnbc.com/2026/10/26/apollo-mubadala-capital-stake.html",
-    "summary": "The deal further advances Apollo Global's ambitions in Abu Dhabi, often called the \"capital of capital.\"",
-    "source": "CNBC",
-    "pub_iso": "2026-10-26T11:47:00+00:00"
-  },
-  {
-    "title": "The stock market\u2019s biggest test in weeks is here",
-    "link": "https://www.marketwatch.com/story/the-stock-markets-biggest-test-in-weeks-is-here-256f5a37?mod=mw_rss_topstories",
-    "summary": "Here\u2019s what\u2019s I\u2019m watching this morning: A week chockablock with enough catalysts that we might finally get some answers about the direction of the market by the end of it.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-26T11:37:00+00:00"
-  },
-  {
-    "title": "Verizon\u2019s stock rises as subscriber surge impresses Wall Street",
-    "link": "https://www.marketwatch.com/story/verizons-stock-rises-as-subscriber-surge-impresses-wall-street-2be3ef2c?mod=mw_rss_topstories",
-    "summary": "Verizon\u2019s performance on a key measure of subscriber growth was more than double what analysts had expected",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-26T11:11:00+00:00"
-  },
-  {
-    "title": "These four shocks could hand investors an unexpected buying window, strategists say",
-    "link": "https://www.marketwatch.com/story/these-four-shocks-could-hand-investors-an-unexpected-buying-window-strategists-say-5ae7c4db?mod=mw_rss_topstories",
-    "summary": "Yardeni Research said a surprise interest-rate decision by the Federal Reserve or increasing constraints in the artificial-intelligence trade could provide valuable entry points for investors.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-26T10:58:00+00:00"
-  },
-  {
-    "title": "Private equity pours billions into defense tech as investors debate a bubble",
-    "link": "https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html",
-    "summary": "Private equity growth investments in defense reached $4 billion in the first nine months of 2026, up from $500 million in 2024.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-26T10:46:33+00:00"
-  },
-  {
-    "title": "The Kospi index is the leading indicator for the global AI trade \u2014 and Goldman just slashed its forecast by 25%",
-    "link": "https://www.marketwatch.com/story/the-kospi-index-is-the-leading-indicator-for-the-global-ai-trade-and-goldman-just-slashed-its-forecast-by-25-ccfe2690?mod=mw_rss_topstories",
-    "summary": "A reduction in the growth multiple that investors are prepared to pay for AI stocks and a rise in volatility has forced Goldman strategist Tim Moe to take an axe to his Korean market target.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-26T10:43:00+00:00"
-  },
-  {
-    "title": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
-    "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-    "summary": "\u201cWhen I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-26T10:15:00+00:00"
-  },
-  {
-    "title": "Cheesecake Factory was just the subject of unflattering headlines. It\u2019s actually one of the hottest stocks around.",
-    "link": "https://www.marketwatch.com/story/cheesecake-factory-was-just-the-subject-of-unflattering-headlines-its-actually-one-of-the-hottest-stocks-around-8435cc63?mod=mw_rss_topstories",
-    "summary": "President Barack Obama over the weekend compared President Donald Trump\u2019s White House modifications to \u201cSaddam Hussein opening up a Cheesecake Factory.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-26T10:04:00+00:00"
-  },
-  {
-    "title": "Can GOP Rep. Brian Fitzpatrick, a moderate who's bucked Trump, keep his Pennsylvania swing seat?",
-    "link": "https://www.cnbc.com/2026/10/26/brian-fitzpatrick-bob-harvie-pennsylvania-senate-election.html",
-    "summary": "GOP Rep. Brian Fitzpatrick has consistently won his Pennsylvania swing seat, but Democrats say this election is an opportunity to oust the veteran lawmaker.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-26T10:00:01+00:00"
-  },
-  {
-    "title": "How war, security and coalition math are shaping the Israeli election",
-    "link": "https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html",
-    "summary": "Israeli voters will head to the polls to cast their votes in a general election on Tuesday.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-26T09:46:59+00:00"
-  },
-  {
-    "title": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
-    "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
-    "summary": "Investors are already questioning the debt-fueled expansion of neoclouds and whether the large AI infrastructure build-out will generate long-term returns.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-26T09:07:53+00:00"
-  },
-  {
-    "title": "Tennis star Taylor Fritz is selling his condo for $860,000\u2014with sweeping views of Miami",
-    "link": "https://www.marketwatch.com/story/tennis-star-taylor-fritz-is-selling-his-condo-for-860-000with-sweeping-views-of-miami-2db8d086?mod=mw_rss_topstories",
-    "summary": "Tennis star Taylor Fritz is serving up his Miami condo for $860,000, offering a buyer the chance to score a corner residence with sweeping views and a tennis court.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-26T09:04:00+00:00"
-  },
-  {
-    "title": "Support for semiconductor stocks could be as much as 15% lower than current levels, says Morgan Stanley",
-    "link": "https://www.marketwatch.com/story/support-for-semiconductor-stocks-could-be-as-much-as-15-lower-than-current-levels-says-morgan-stanley-1f387f16?mod=mw_rss_topstories",
-    "summary": "The chief stock-market strategist for Morgan Stanley is sticking with a forecast that the S&P 500 will end the year at 8,000, but growing caution is on display as he identified that support for the ke",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-26T09:02:00+00:00"
-  },
-  {
-    "title": "Tyler Perry cuts price of $36 million Wyoming property on 37 acres, buys $30 million Puerto Rico home",
-    "link": "https://www.marketwatch.com/story/tyler-perry-cuts-price-of-36-million-wyoming-property-on-37-acres-buys-30-million-puerto-rico-home-5eb819be?mod=mw_rss_topstories",
-    "summary": "Tyler Perry has slashed $3.5 million from the asking price of his Wyoming mansion\u2014days after picking up a $30 million home in Puerto Rico.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-26T09:01:00+00:00"
-  },
-  {
-    "title": "Defense tech investment boom sparks bubble warning as private equity pours in",
-    "link": "https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html",
-    "summary": "Private equity growth investments in defense reached $4 billion in the first nine months of 2026, up from $500 million in 2024.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-26T06:00:01+00:00"
-  },
-  {
-    "title": "\u2018Ticking time bomb\u2019: The world's pension funds face an ageing crisis",
-    "link": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
-    "summary": "The world's pension systems are confronting a demographic crisis as longer lifespans and dwindling birth rates threaten to stretch retirement finances.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-26T05:22:30+00:00"
-  },
-  {
-    "title": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
-    "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-    "summary": "Oil prices fell as investors weighed the threat of further attacks on Saudi Arabian energy infrastructure against concerns that elevated prices could erode demand.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-26T05:18:01+00:00"
-  },
-  {
-    "title": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia",
-    "link": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
-    "summary": "SoftBank Group reportedly plans to invest $50 billion in Malaysia's technology sector, including artificial intelligence and data centers.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-26T04:56:16+00:00"
-  },
-  {
-    "title": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
-    "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-    "summary": "It's the first time since Brazil returned to direct elections in 1989 that a candidate has won the final runoff after losing in the first round.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-26T04:09:41+00:00"
-  },
-  {
-    "title": "Musk says SpaceX landed a $40 billion debt deal \u2014 and forecasts doom for some AI rivals",
-    "link": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
-    "summary": "SpaceX is rapidly growing an AI business that rents out access to advanced chips.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-26T01:50:00+00:00"
   }
 ]
