@@ -1,5 +1,40 @@
 [
   {
+    "title": "At least 30 people reported dead in high-speed Spain train crash",
+    "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
+    "summary": "It is the second deadly high-speed train collision in Spain this year.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-28T10:44:01+00:00"
+  },
+  {
+    "title": "The real way to tell if Amazon\u2019s AI spending is paying off",
+    "link": "https://www.marketwatch.com/story/the-real-way-to-tell-if-amazons-ai-spending-is-paying-off-42a8a637?mod=mw_rss_topstories",
+    "summary": "Investors focus on Amazon\u2019s cloud business, but the most important indicator might lie in the company\u2019s warehouses.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-28T10:30:00+00:00"
+  },
+  {
+    "title": "Four reasons to start worrying about inflation \u2014 including the end of tariff refunds",
+    "link": "https://www.marketwatch.com/story/four-reasons-to-start-worrying-about-inflation-including-the-end-of-tariff-refunds-978a5cfd?mod=mw_rss_topstories",
+    "summary": "Dennis DeBusschere, of 22V Research, said companies that previously used tariff refunds to ease cost pressures will increasingly hand down those higher costs to consumers.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-28T10:21:00+00:00"
+  },
+  {
+    "title": "Bill Ackman owns only a handful of stocks. Here is his rule for picking a winner.",
+    "link": "https://www.marketwatch.com/story/bill-ackman-owns-only-a-handful-of-stocks-here-is-his-rule-for-picking-a-winner-82a0ee98?mod=mw_rss_topstories",
+    "summary": "What\u2019s a great company? Billionaire hedge-fund manager Bill Ackman says investors can look for some simple characteristics.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-28T10:11:00+00:00"
+  },
+  {
+    "title": "Musk's PAC lawyer runs in Texas House district that is home to billionaire's business interests",
+    "link": "https://www.cnbc.com/2026/10/28/elon-musk-chris-gober-rourk-texas-10th-congress-election.html",
+    "summary": "A chip factory being built by Elon Musk's Tesla and SpaceX is in Texas's 10th District, where his PAC's former lawyer Chris Gober is the GOP U.S. House nominee.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-28T10:00:01+00:00"
+  },
+  {
     "title": "Stellantis reports $4.5 billion cash drain as massive turnaround plan continues",
     "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
     "summary": "European car giant Stellantis said Wednesday that it recorded a 4 billion euro ($4.5 billion) cash shortfall in the third quarter.",
@@ -320,47 +355,5 @@
     "summary": "JetBlue\u2019s stock rises more than 20% as a new profit target helps calm fears about the airline\u2019s viability.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-27T16:52:00+00:00"
-  },
-  {
-    "title": "When will Anthropic go public? Here\u2019s what to know about the IPO timeline.",
-    "link": "https://www.marketwatch.com/story/when-will-anthropic-go-public-heres-what-to-know-about-the-ipo-timeline-431eca78?mod=mw_rss_topstories",
-    "summary": "By filing IPO paperwork on Monday, Anthropic can conduct its investor roadshow the week of Nov. 9 and would be eligible to go public as soon as the following week.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-27T16:38:00+00:00"
-  },
-  {
-    "title": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
-    "link": "https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html",
-    "summary": "As crypto evolves past its trading roots, and global markets shift to 24/7 liquidity, stablecoins are becoming essential financial infrastructure.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-27T16:35:45+00:00"
-  },
-  {
-    "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
-    "link": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
-    "summary": "Oracle is integrating OpenAI\u2019s ChatGPT and Codex into its applications and plans to add Google TPUs and OpenAI\u2019s Jalape\u00f1o chip to OCI.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-27T16:28:16+00:00"
-  },
-  {
-    "title": "Bond investors are starting to say \u2018anything but tech.\u2019 What that means for the AI boom.",
-    "link": "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525?mod=mw_rss_topstories",
-    "summary": "AI financing has been harder and more expensive to come by as the capital-spending boom comes under more scrutiny.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-27T16:24:00+00:00"
-  },
-  {
-    "title": "One week out, prediction markets see Democrats as favored to sweep Congress",
-    "link": "https://www.cnbc.com/2026/10/27/2026-midterms-prediction-markets-democrats-congress.html",
-    "summary": "Event contract exchanges see a two-in-three chance that Democrats take control of both the House and Senate.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-27T16:15:21+00:00"
-  },
-  {
-    "title": "Lula\u2019s election win leaves Brazil facing a fiscal tightrope",
-    "link": "https://www.cnbc.com/2026/10/27/lula-brazil-election-markets-fiscal-policy.html",
-    "summary": "Lula\u2019s election victory rattled Brazilian markets and set up a fiscal test as he weighs costly campaign promises against pressure to rein in spending.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-27T16:12:05+00:00"
   }
 ]
