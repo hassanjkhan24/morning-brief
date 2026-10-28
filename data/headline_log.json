@@ -1,5 +1,19 @@
 [
   {
+    "title": "Israeli bonds, shekel fall as election leaves Netanyahu and others far short of majorities",
+    "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+    "summary": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-28T09:05:22+00:00"
+  },
+  {
+    "title": "TV\u2019s Nick and Vanessa Lachey cut price of Southern California home to $7.6 million",
+    "link": "https://www.marketwatch.com/story/tvs-nick-and-vanessa-lachey-cut-price-of-southern-california-home-to-7-6-million-24dc3d7a?mod=mw_rss_topstories",
+    "summary": "TV stars Nick and Vanessa Lachey have trimmed $500,000 off the asking price of their longtime \u201cdream home,\u201d as they prepare to bid farewell to California.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-28T09:01:00+00:00"
+  },
+  {
     "title": "Robinhood shares fall as crypto slump weighs on profits, offsetting gains in new businesses",
     "link": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
     "summary": "Robinhood's third-quarter revenue met expectations, fueled by the company's expansion into options, predictions markets and other financial services.",
@@ -168,6 +182,13 @@
     "pub_iso": "2026-10-27T21:07:51+00:00"
   },
   {
+    "title": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids \u2014 and I can\u2019t bear to leave.",
+    "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+    "summary": "\u201cHe wants to buy something for $600,000 now that we are empty-nesters.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-27T21:00:00+00:00"
+  },
+  {
     "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
     "link": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
     "summary": "Amazon has rapidly integrated AI across the e-commerce giant's sprawling business operations under CEO Andy Jassy.",
@@ -243,6 +264,13 @@
     "summary": "By filing IPO paperwork on Monday, Anthropic can conduct its investor roadshow the week of Nov. 9 and would be eligible to go public as soon as the following week.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-27T16:38:00+00:00"
+  },
+  {
+    "title": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
+    "link": "https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html",
+    "summary": "As crypto evolves past its trading roots, and global markets shift to 24/7 liquidity, stablecoins are becoming essential financial infrastructure.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-27T16:35:45+00:00"
   },
   {
     "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
@@ -334,33 +362,5 @@
     "summary": "Two ex-FBI officials were initially accused by the DOJ of lying when they testified to Congress in 2023 about their involvement in Hunter Biden investigations.",
     "source": "CNBC",
     "pub_iso": "2026-10-27T15:19:50+00:00"
-  },
-  {
-    "title": "With the Anthropic IPO, the devil is in the details",
-    "link": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
-    "summary": "The first draft of the AI company\u2019s prospectus is light on details, but some things immediately leap out.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-27T15:03:00+00:00"
-  },
-  {
-    "title": "How Broadcom\u2019s stock can surge and overcome \u2018the biggest dislocation in the market\u2019",
-    "link": "https://www.marketwatch.com/story/how-broadcoms-stock-can-surge-and-overcome-the-biggest-dislocation-in-the-market-9719e2a8?mod=mw_rss_topstories",
-    "summary": "Broadcom\u2019s stock has gone nowhere this year, but an analyst thinks it and other quality chip stocks like Nvidia will soon start trading at higher valuations.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-27T15:02:00+00:00"
-  },
-  {
-    "title": "Boeing doesn't expect to significantly ramp up 737 Max production until late 2027",
-    "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-    "summary": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-27T15:01:59+00:00"
-  },
-  {
-    "title": "Microsoft earnings will look funky \u2014 but an elusive number is finally arriving",
-    "link": "https://www.marketwatch.com/story/microsoft-earnings-will-look-funky-but-an-elusive-number-is-finally-arriving-73236a94?mod=mw_rss_topstories",
-    "summary": "Microsoft is about to pull back the curtain on Azure revenue, giving investors a better understanding of the cloud business.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-27T14:53:00+00:00"
   }
 ]
