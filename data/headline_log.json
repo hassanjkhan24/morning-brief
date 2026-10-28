@@ -1,5 +1,12 @@
 [
   {
+    "title": "Fed holds rates steady despite concerns over inflation",
+    "link": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+    "summary": "Two of the 12 Federal Open Market Committee voters dissented from the decision. Both wanted to raise rates by a quarter percentage point.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-28T18:25:11+00:00"
+  },
+  {
     "title": "Watch Live: Options traders break down a massive Alphabet trade into earnings",
     "link": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
     "summary": "The market's mini rally faces a key test after the bell when tech giants Alphabet and Microsoft report.",
@@ -565,12 +572,5 @@
     "summary": "If you needed any further reasons to be worried about the bubble that has inflated the stock market, look no further.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-28T02:15:00+00:00"
-  },
-  {
-    "title": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
-    "link": "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
-    "summary": "Major Indian brokerages are providing retail investors access to U.S. stocks at a time when the local market has been battered.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-28T00:14:24+00:00"
   }
 ]
