@@ -1,5 +1,40 @@
 [
   {
+    "title": "Anthropic CEO Dario Amodei charts a new direction for tech philanthropy",
+    "link": "https://www.cnbc.com/2026/10/29/anthropic-ceo-dario-amodei-charts-new-direction-for-tech-philanthropy.html",
+    "summary": "Anthropic CEO Dario Amodei has pledged a portion of his company shares to charity with unusual conditions, according to an SEC filing.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-29T11:31:44+00:00"
+  },
+  {
+    "title": "AI build-out hits snag as Google and Microsoft put off raising capex forecasts",
+    "link": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
+    "summary": "Microsoft and Alphabet both reported capital expenditures that fell short of estimates, adding to concern over the cost of the AI build-out.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-29T11:30:01+00:00"
+  },
+  {
+    "title": "You can\u2019t rely on the S&P 500 as much as you may think",
+    "link": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
+    "summary": "The index\u2019s weakness may surprise a generation of investors raised on the cult of \u201cstocks always go up.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-29T11:30:00+00:00"
+  },
+  {
+    "title": "Lilly raises outlook for third time this year as Zepbound sales soar",
+    "link": "https://www.marketwatch.com/story/lilly-raises-outlook-for-third-time-this-year-as-zepbound-sales-soar-6d987407?mod=mw_rss_topstories",
+    "summary": "The GLP-1 drug continues to dominate the market for prescription weight-loss drugs in the U.S.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-29T11:19:00+00:00"
+  },
+  {
+    "title": "U.S. worker job engagement hits lowest level since 2011, new Gallup poll finds",
+    "link": "https://www.cnbc.com/2026/10/29/us-employee-engagement-gallup-poll.html",
+    "summary": "Gallup finds U.S. worker engagement on the job sinking to a level not seen since 2011, with remote and hybrid employees and AI primary factors.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-29T11:16:52+00:00"
+  },
+  {
     "title": "We\u2019re in our 70s. Should we pay off our 2.5% mortgage \u2014 or put the money in a high-yield savings account?",
     "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
     "summary": "\u201cLet\u2019s say 10 years from now, when I\u2019m 84, we need a substantial amount of cash.\u201d",
@@ -411,12 +446,5 @@
     "summary": "The market's mini rally faces a key test after the bell when tech giants Alphabet and Microsoft report.",
     "source": "CNBC",
     "pub_iso": "2026-10-28T17:56:10+00:00"
-  },
-  {
-    "title": "Wendy\u2019s buyout offer suggests the burger chain\u2019s overhaul could be very expensive",
-    "link": "https://www.marketwatch.com/story/wendys-buyout-offer-suggests-the-burger-chains-overhaul-could-be-very-expensive-ff2c92bb?mod=mw_rss_topstories",
-    "summary": "Nelson Peltz\u2019s Trian Fund Management has made a $1.4 billion offer for Wendy\u2019s and says the company \u201crequires significant capital investment\u201d to get back on track.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-28T17:24:00+00:00"
   }
 ]
