@@ -1,5 +1,54 @@
 [
   {
+    "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+    "link": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
+    "summary": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-29T11:00:02+00:00"
+  },
+  {
+    "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
+    "link": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
+    "summary": "Medicare is testing the use of AI to conduct prior authorizations to target wasteful medical spending",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-29T11:00:00+00:00"
+  },
+  {
+    "title": "President of the European Central Bank Christine Lagarde to step down in February",
+    "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
+    "summary": "",
+    "source": "CNBC",
+    "pub_iso": "2026-10-29T10:59:20+00:00"
+  },
+  {
+    "title": "Eli Lilly blows past estimates, hikes sales outlook on resilient Zepbound and Mounjaro demand",
+    "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
+    "summary": "Eli Lilly reported that sales of obesity drug Zepbound and diabetes treatment Mounjaro surged again in the third quarter.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-29T10:56:02+00:00"
+  },
+  {
+    "title": "Putin praises Elon Musk as a \u2018genius\u2019 as Russia develops Starlink alternative",
+    "link": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html",
+    "summary": "Russia is trying to develop is own version of the satellite constellation Starlink: Rassvet.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-29T10:44:00+00:00"
+  },
+  {
+    "title": "Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success",
+    "link": "https://www.cnbc.com/2026/10/29/restaurant-brands-international-qsr-q3-2026-earnings.html",
+    "summary": "Burger King's U.S. restaurants outperformed, while Popeyes disappointed.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-29T10:33:14+00:00"
+  },
+  {
+    "title": "Merck tops quarterly estimates, hikes profit outlook as new form of Keytruda shows strength",
+    "link": "https://www.cnbc.com/2026/10/29/merck-mrk-earnings-q3-2026.html",
+    "summary": "Merck's immunotherapy Keytruda, including a newer injectable form of the drug, showed stronger-than-expected sales.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-29T10:31:13+00:00"
+  },
+  {
     "title": "President of the European Central Bank Christine Lagarde to stand down in February",
     "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
     "summary": "",
@@ -341,33 +390,5 @@
     "summary": "Apple announces a new touchscreen laptop, the company's third major launch under new CEO John Ternus.",
     "source": "CNBC",
     "pub_iso": "2026-10-28T17:09:27+00:00"
-  },
-  {
-    "title": "The U.S. government will no longer penalize American companies for making six popular peptides",
-    "link": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
-    "summary": "It won\u2019t take action against compounding pharmacies that make popular wellness products like BPC-157 and TB-500.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-28T16:57:00+00:00"
-  },
-  {
-    "title": "Healthcare stocks are on their biggest hot streak in a generation. Think twice before chasing the rally.",
-    "link": "https://www.marketwatch.com/story/healthcare-stocks-are-on-their-biggest-hot-streak-in-a-generation-think-twice-before-chasing-the-rally-a043adfe?mod=mw_rss_topstories",
-    "summary": "The typically boring healthcare space has delivered a flash of excitement for investors in October, building on its gains from earlier in the year.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-28T16:49:00+00:00"
-  },
-  {
-    "title": "Trump administration clears the way for production of peptides like BPC-157 and TB-500",
-    "link": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
-    "summary": "The government won\u2019t take action against compounding pharmacies that make six of the popular wellness products.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-28T16:39:00+00:00"
-  },
-  {
-    "title": "Alphabet set to report Q3 earnings after the bell as shaky AI trade looks for signs of strength",
-    "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-    "summary": "Alphabet faces a skeptical Wall Street as it prepares to report quarterly results.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-28T16:33:22+00:00"
   }
 ]
