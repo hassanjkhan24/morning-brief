@@ -1,5 +1,47 @@
 [
   {
+    "title": "Eli Lilly is about to report earnings. Here's what to expect",
+    "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
+    "summary": "Eli Lilly is slated to report third-quarter earnings and revenue, which will likely be fueled by its obesity drug Zepbound and diabetes counterpart Mounjaro.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-29T10:13:33+00:00"
+  },
+  {
+    "title": "European Central Bank President Lagarde to stand down in Februrary",
+    "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
+    "summary": "",
+    "source": "CNBC",
+    "pub_iso": "2026-10-29T10:12:28+00:00"
+  },
+  {
+    "title": "It's a 'socialist' bank \u2014 and North Dakota Republicans love it",
+    "link": "https://www.cnbc.com/2026/10/29/bank-north-dakota-socialism-election.html",
+    "summary": "Democratic socialist candidates have held up North Dakota's state-owned bank as a model to emulate.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-29T10:00:01+00:00"
+  },
+  {
+    "title": "ServiceNow stock is on track for its largest drop on record. But JPMorgan sees a bright spot.",
+    "link": "https://www.marketwatch.com/story/servicenow-stock-is-on-track-for-its-largest-drop-on-record-but-jpmorgan-sees-a-bright-spot-5e5b05c6?mod=mw_rss_topstories",
+    "summary": "Shares in the software company declined  nearly 18% in premarket trading on Thursday as investors digested its third-quarter earnings.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-29T09:52:00+00:00"
+  },
+  {
+    "title": "\u2018Fancy cars hold no appeal\u2019: My wife and I have a 99% chance of outliving our savings. Why don\u2019t we spend it all?",
+    "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+    "summary": "\u201cI\u2019m 68, she\u2019s 74, and we\u2019re both in good health. We married later in life and have no children or close family remaining.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-29T09:15:00+00:00"
+  },
+  {
+    "title": "Putin praises Elon Musk as a \u2018real genius\u2019 as Russia develops Starlink alternative",
+    "link": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html",
+    "summary": "Russia is trying to develop is own version of the satellite constellation Starlink: Rassvet.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-29T09:06:00+00:00"
+  },
+  {
     "title": "NBA star LaMelo Ball is selling his $2.6 million luxury condo in Charlotte after leaving the Hornets",
     "link": "https://www.marketwatch.com/story/nba-star-lamelo-ball-is-selling-his-2-6-million-luxury-condo-in-charlotte-after-leaving-the-hornets-2356414e?mod=mw_rss_topstories",
     "summary": "NBA point guard LaMelo Ball is making another major move: selling his $2.6 million home in one of Uptown Charlotte\u2019s most exclusive residential buildings.",
@@ -12,6 +54,20 @@
     "summary": "Samsung Electronics just posted a quarter that no other tech company has ever seen.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-29T09:01:00+00:00"
+  },
+  {
+    "title": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
+    "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
+    "summary": "The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-29T09:00:01+00:00"
+  },
+  {
+    "title": "Alphabet falls 10% in premarket, putting it on course for its biggest ever post-earnings drop",
+    "link": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
+    "summary": "Alphabet reported a larger negative free cash flow than analysts had expected while maintaining its spending gudiance for the year.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-29T08:54:59+00:00"
   },
   {
     "title": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
@@ -140,6 +196,13 @@
     "pub_iso": "2026-10-28T23:18:00+00:00"
   },
   {
+    "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
+    "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+    "summary": "Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-28T23:17:17+00:00"
+  },
+  {
     "title": "ServiceNow\u2019s stock slides as earnings miss overshadows a raised AI outlook",
     "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
     "summary": "Even with an uptick in multimillion-dollar AI deals, ServiceNow\u2019s earnings results weren\u2019t enough to win over software skeptics.",
@@ -161,11 +224,25 @@
     "pub_iso": "2026-10-28T22:38:41+00:00"
   },
   {
+    "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
+    "link": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
+    "summary": "FedEx on Wednesday beat Wall Street expectations on the top and bottom lines for the third quarter of its newly aligned fiscal year.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-28T22:27:00+00:00"
+  },
+  {
     "title": "Chipotle now has more demand from lower-income diners than higher-income ones",
     "link": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
     "summary": "The fast-casual chain says menu-price increases helped results. It also noted rising beef costs and \u201chigher protein usage\u201d as people try to find ways to pack more protein into their diets.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-28T22:25:00+00:00"
+  },
+  {
+    "title": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
+    "link": "https://www.cnbc.com/2026/10/28/weil-gotshal-law-firm-wall-street-wind-down.html",
+    "summary": "Weil, Gotshal & Manges, a multinational law firm, has represented major corporations over its nearly century-long history.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-28T22:23:10+00:00"
   },
   {
     "title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
@@ -180,6 +257,13 @@
     "summary": "\u201cWhen I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.\u201d",
     "source": "MarketWatch",
     "pub_iso": "2026-10-28T21:45:00+00:00"
+  },
+  {
+    "title": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
+    "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
+    "summary": "Ford Motor reported earnings that beat Wall Street\u2019s estimates but slightly missed on revenue.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-28T21:42:24+00:00"
   },
   {
     "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
@@ -278,103 +362,5 @@
     "summary": "This could be one of the best times to buy corporate bonds in recent history, investing experts say, with treasuries yielding 5% boosting fixed income market.",
     "source": "CNBC",
     "pub_iso": "2026-10-28T16:19:29+00:00"
-  },
-  {
-    "title": "Bullish on Anthropic but don\u2019t want to wait until the IPO? Here\u2019s how you can invest today.",
-    "link": "https://www.marketwatch.com/story/bullish-on-anthropic-but-dont-want-to-wait-until-the-ipo-heres-how-you-can-invest-today-c5cb329e?mod=mw_rss_topstories",
-    "summary": "ETFs and other funds currently available to ordinary investors offer exposure to Anthropic.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-28T16:13:00+00:00"
-  },
-  {
-    "title": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
-    "link": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
-    "summary": "Rep. Jamie Raskin wrote to President Trump in the final days of a midterm election cycle where government corruption has emerged as a top issue for voters.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-28T16:07:17+00:00"
-  },
-  {
-    "title": "Micron\u2019s stock rises after SK Hynix earnings. Here\u2019s its next major test.",
-    "link": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
-    "summary": "Samsung\u2019s results are the next big barometer for a memory-chip trade that\u2019s springing back from recent lows.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-28T16:03:00+00:00"
-  },
-  {
-    "title": "Microsoft earnings will land after the close",
-    "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-    "summary": "Microsoft will report Azure revenue in dollars for the first time as it spends heavily to expand artificial intelligence infrastructure capacity.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-28T16:00:01+00:00"
-  },
-  {
-    "title": "Alphabet set to report third-quarter earnings after the bell",
-    "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-    "summary": "Alphabet faces a skeptical Wall Street as it prepares to report quarterly results.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-28T16:00:01+00:00"
-  },
-  {
-    "title": "Ford Motor is set to report earnings after the bell. Here's what Wall Street expects",
-    "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
-    "summary": "Ford Motor is set to report third-quarter results after markets close Wednesday.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-28T16:00:01+00:00"
-  },
-  {
-    "title": "We\u2019re spending more than $11,000 a year of our own money caring for our aging parents and loved ones",
-    "link": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
-    "summary": "An AARP study shows the financial sacrifices families make and their long-term impacts.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-28T15:36:00+00:00"
-  },
-  {
-    "title": "3 reasons why home prices keep going up, even though fewer people are buying",
-    "link": "https://www.marketwatch.com/story/3-reasons-why-home-prices-keep-going-up-even-though-fewer-people-are-buying-9afa6106?mod=mw_rss_topstories",
-    "summary": "Weaker demand typically drives prices down, but national readings of home prices indicate that they\u2019re still growing. What explains the disconnect?",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-28T15:33:00+00:00"
-  },
-  {
-    "title": "3 reasons home prices keep going up, even though fewer people are buying",
-    "link": "https://www.marketwatch.com/story/3-reasons-why-home-prices-keep-going-up-even-though-fewer-people-are-buying-9afa6106?mod=mw_rss_topstories",
-    "summary": "Weaker demand typically drives prices down, but national readings of home prices indicate that they\u2019re still growing. What explains the disconnect?",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-28T15:33:00+00:00"
-  },
-  {
-    "title": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids \u2014 and I can\u2019t bear to leave.",
-    "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-    "summary": "\u201cHe wants to buy something for $600,000 now that we are empty-nesters.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-28T15:15:00+00:00"
-  },
-  {
-    "title": "McDonald\u2019s new bet on chicken hits a snag as franchisees say the birds are too big",
-    "link": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
-    "summary": "McDonald\u2019s franchisees have complained about \u201ctough meat\u201d and other issues with new hand-breaded chicken, an analyst said.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-28T15:15:00+00:00"
-  },
-  {
-    "title": "At least 68 people dead in high-speed Spain train crash",
-    "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
-    "summary": "It is the second deadly high-speed train collision in Spain this year.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-28T15:12:51+00:00"
-  },
-  {
-    "title": "Here's what options traders see before Alphabet, Microsoft report after the bell",
-    "link": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
-    "summary": "The market's mini rally faces a key test after the bell when tech giants Alphabet and Microsoft report.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-28T15:12:09+00:00"
-  },
-  {
-    "title": "These software stocks could be winners as earnings season kicks into high gear",
-    "link": "https://www.marketwatch.com/story/these-software-stocks-could-be-winners-as-earnings-season-kicks-into-high-gear-8decddf7?mod=mw_rss_topstories",
-    "summary": "The bar is higher for software companies now that their stocks have been outperforming, but analysts identify some top picks whose results could shine through.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-28T15:06:00+00:00"
   }
 ]
