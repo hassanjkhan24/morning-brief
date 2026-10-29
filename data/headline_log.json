@@ -1,10 +1,31 @@
 [
   {
+    "title": "Alphabet falls 12%, putting it on course for its biggest ever post-earnings drop",
+    "link": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
+    "summary": "Alphabet reported a larger negative free cash flow than analysts had expected while maintaining its spending gudiance for the year.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-29T16:35:25+00:00"
+  },
+  {
+    "title": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'",
+    "link": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
+    "summary": "Nvidia disputed a New York Times report that U.S. intelligence agencies surveilled a person close to CEO Jensen Huang over concerns she could be a Chinese spy.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-29T16:22:19+00:00"
+  },
+  {
     "title": "AI buildout hits snag as Google and Microsoft put off raising capex forecasts",
     "link": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
     "summary": "Microsoft and Alphabet both reported capital expenditures that fell short of estimates, adding to concern over the cost of the AI buildout.",
     "source": "CNBC",
     "pub_iso": "2026-10-29T16:06:47+00:00"
+  },
+  {
+    "title": "IRS CEO Bisignano donates to Trump Accounts in his childhood Brooklyn ZIP code",
+    "link": "https://www.cnbc.com/2026/10/29/trump-accounts-frank-bisignano-brooklyn.html",
+    "summary": "IRS CEO Frank Bisignano has donated to Trump Accounts for Brooklyn kids from his hometown ZIP code. Here's what families need to know.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-29T16:06:02+00:00"
   },
   {
     "title": "Amazon to report Q3 earnings after the bell with AI spend under scrutiny",
@@ -57,6 +78,13 @@
   },
   {
     "title": "Consumer spending flattens out after U.S. inflation surge",
+    "link": "https://www.marketwatch.com/story/consumer-spending-flattens-out-after-inflation-surge-e7761d25?mod=mw_rss_topstories",
+    "summary": "Consumer spending rose sharply in September, but it largely reflected households spending more on gas and transportation after an increase in energy costs.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-29T15:04:00+00:00"
+  },
+  {
+    "title": "Consumers are spending more, but they\u2019re not getting their money\u2019s worth due to inflation",
     "link": "https://www.marketwatch.com/story/consumer-spending-flattens-out-after-inflation-surge-e7761d25?mod=mw_rss_topstories",
     "summary": "Consumer spending rose sharply in September, but it largely reflected households spending more on gas and transportation after an increase in energy costs.",
     "source": "MarketWatch",
@@ -628,40 +656,5 @@
     "summary": "Even with an uptick in multimillion-dollar AI deals, ServiceNow\u2019s earnings results weren\u2019t enough to win over software skeptics.",
     "source": "MarketWatch",
     "pub_iso": "2026-10-28T23:02:00+00:00"
-  },
-  {
-    "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-    "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-    "summary": "Several proposals consider changing the way retirees receive inflation protection. Here\u2019s what it could cost you.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-28T22:41:00+00:00"
-  },
-  {
-    "title": "Hands-on with Apple's first touchscreen laptop: Touch is totally optional",
-    "link": "https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html",
-    "summary": "Any button that can be clicked can also be touched.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-28T22:38:41+00:00"
-  },
-  {
-    "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
-    "link": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
-    "summary": "FedEx on Wednesday beat Wall Street expectations on the top and bottom lines for the third quarter of its newly aligned fiscal year.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-28T22:27:00+00:00"
-  },
-  {
-    "title": "Chipotle now has more demand from lower-income diners than higher-income ones",
-    "link": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
-    "summary": "The fast-casual chain says menu-price increases helped results. It also noted rising beef costs and \u201chigher protein usage\u201d as people try to find ways to pack more protein into their diets.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-28T22:25:00+00:00"
-  },
-  {
-    "title": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
-    "link": "https://www.cnbc.com/2026/10/28/weil-gotshal-law-firm-wall-street-wind-down.html",
-    "summary": "Weil, Gotshal & Manges, a multinational law firm, has represented major corporations over its nearly century-long history.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-28T22:23:10+00:00"
   }
 ]
