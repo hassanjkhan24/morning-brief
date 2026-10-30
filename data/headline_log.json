@@ -1,5 +1,61 @@
 [
   {
+    "title": "AMD\u2019s stock slides after Intel earnings reveal two big issues",
+    "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
+    "summary": "Intel is struggling to make enough AI server chips and dealing with a weak PC market. Investors will soon find out the degree to which AMD is suffering from the same problems.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-30T13:17:00+00:00"
+  },
+  {
+    "title": "This credit card is the \u2018best weapon\u2019 to fight debt while interest rates keep climbing",
+    "link": "https://www.marketwatch.com/story/this-credit-card-is-the-best-weapon-to-fight-debt-while-interest-rates-keep-climbing-8378fcf2?mod=mw_rss_topstories",
+    "summary": "After September\u2019s rate hike and another projected increase in December, borrowing costs are expected to keep climbing for Americans carrying a credit-card balance.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-30T13:16:00+00:00"
+  },
+  {
+    "title": "Bitcoin slides after crypto\u2019s nightmare scenario: a historic $6.3 billion heist",
+    "link": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories",
+    "summary": "Binance has vowed to get the exchange back up within a couple of days after a record $6.3 billion heist, which has rattled the industry and investors.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-30T13:13:00+00:00"
+  },
+  {
+    "title": "Hackers steal $6.3 billion from Binance in biggest-ever cryptocurrency theft",
+    "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+    "summary": "The company later added it began recovering assets impacted by the breach after pledging to cover losses using its Secure Asset Fund for Users.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-30T13:11:14+00:00"
+  },
+  {
+    "title": "Swiss central bank posts bumper $23bn profit thanks to gold, foreign assets",
+    "link": "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
+    "summary": "Unlike other major central banks, the Swiss National Bank has a significant equity portfolio.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-30T12:52:36+00:00"
+  },
+  {
+    "title": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
+    "link": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
+    "summary": "Prediction markets' failure to call an LA primary correctly raised the possibility they can be manipulated to exaggerate the amount of support candidates have.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-30T12:45:16+00:00"
+  },
+  {
+    "title": "This one chart tells you everything you need to know about Exxon, Chevron and BP\u2019s forecast-beating earnings",
+    "link": "https://www.marketwatch.com/story/this-one-chart-tells-you-everything-you-need-to-know-about-exxon-chevron-and-bps-forecasting-beating-earnings-24babdfc?mod=mw_rss_topstories",
+    "summary": "One slide in ExxonMobil\u2019s investor presentation after its third-quarter earnings explains the financial situation for the integrated oil giants very neatly.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-10-30T12:35:00+00:00"
+  },
+  {
+    "title": "The big questions remaining after Anthropic\u2019s blockbuster IPO prospectus",
+    "link": "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html",
+    "summary": "Uncertainties remain ahead of one of the most hotly anticipated IPOs in history.",
+    "source": "CNBC",
+    "pub_iso": "2026-10-30T12:27:36+00:00"
+  },
+  {
     "title": "Amazon\u2019s and Intel\u2019s stocks are set to plunge. But Wall Street\u2019s October winners may surprise you.",
     "link": "https://www.marketwatch.com/story/amazons-and-intels-stocks-are-set-to-plunge-but-wall-streets-october-winners-may-surprise-you-4d74e4d4?mod=mw_rss_topstories",
     "summary": "A rough month in the technology sector was less spooky in other sections of the stock market.",
@@ -362,47 +418,5 @@
     "summary": "ServiceNow's stock recorded its worst day ever on underwhelming third-quarter results.",
     "source": "CNBC",
     "pub_iso": "2026-10-29T20:02:32+00:00"
-  },
-  {
-    "title": "Rare Stanley Druckenmiller post sends crypto-linked stock surging",
-    "link": "https://www.cnbc.com/2026/10/29/druckenmiller-hyperliquid-surge.html",
-    "summary": "Options traders pounced on the closest publicly-traded play to the news.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-29T18:53:50+00:00"
-  },
-  {
-    "title": "Why Alphabet\u2019s stock is on track for its worst day ever after the latest results",
-    "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
-    "summary": "A doubling of cloud revenue wasn\u2019t enough to appease Wall Street as investors grew more concerned that AI is hurting the company\u2019s ability to make money off search queries.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-29T18:50:00+00:00"
-  },
-  {
-    "title": "It\u2019s the strangest job market the U.S. has ever seen. The low-hire, low-fire economy turns 3 years old.",
-    "link": "https://www.marketwatch.com/story/its-the-strangest-job-market-the-u-s-has-ever-seen-the-low-hire-low-fire-economy-turns-3-years-old-ce8d0dfe?mod=mw_rss_topstories",
-    "summary": "America has always been a job-creating machine. It has broken down for three straight years, and the implications could be with us for a long time.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-29T18:42:00+00:00"
-  },
-  {
-    "title": "Alaska Gov. orders probe of Peltola Senate campaign's alleged recruitment of 2nd Sullivan",
-    "link": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
-    "summary": "Alaska's election could determine which party has a majority in the Senate. GOP Sen. Dan Sullivan faces a strong challenge from Democrat Mary Peltola.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-29T18:32:08+00:00"
-  },
-  {
-    "title": "Big Oil earnings are set to surge. Why investors may want to be cautious",
-    "link": "https://www.cnbc.com/2026/10/29/big-oil-earnings-are-set-to-surge-why-investors-may-want-to-be-cautious.html",
-    "summary": "Big Oil earnings are coming. Why guidance could matter most and why the the charts suggest investors should be cautious.",
-    "source": "CNBC",
-    "pub_iso": "2026-10-29T18:13:32+00:00"
-  },
-  {
-    "title": "Did the Fed make a mistake with its October rate pause? The Treasury could help save the day.",
-    "link": "https://www.marketwatch.com/story/did-the-fed-make-a-mistake-with-its-october-rate-pause-the-treasury-could-help-save-the-day-77d84993?mod=mw_rss_topstories",
-    "summary": "As focus shifts to the Treasury\u2019s funding plans, there\u2019s some expectation that longer-term supply could be reduced in an attempt to boost demand and lower yields",
-    "source": "MarketWatch",
-    "pub_iso": "2026-10-29T17:59:00+00:00"
   }
 ]
