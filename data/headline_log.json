@@ -1,5 +1,61 @@
 [
   {
+    "title": "Marvell to buy Lumentum in all-stock deal, a massive bet on AI connectivity",
+    "link": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
+    "summary": "The AI infrastructure deal is expected to close during the first half of 2028.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-02T14:20:56+00:00"
+  },
+  {
+    "title": "Crude oil dives to session low on Iran peace talk hopes ahead of midterms",
+    "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+    "summary": "Oil fell Monday, amid news that both the U.S. and Iran are pursuing diplomacy amid ongoing Mideast tensions",
+    "source": "CNBC",
+    "pub_iso": "2026-11-02T14:15:06+00:00"
+  },
+  {
+    "title": "Connecticut Sen. Chris Murphy hospitalized after stroke, office says",
+    "link": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
+    "summary": "Sen. Chris Murphy's office announced Sunday that he suffered a stroke and was hospitalized the day prior, though they say he is 'awake and alert.'",
+    "source": "CNBC",
+    "pub_iso": "2026-11-02T14:14:00+00:00"
+  },
+  {
+    "title": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
+    "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+    "summary": "Oracle filed plans on Monday to issue stock new shares and more debt to finance its artificial intelligence buildout.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-02T14:03:44+00:00"
+  },
+  {
+    "title": "Oracle\u2019s stock falls as the company details plan to raise $20 billion",
+    "link": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories",
+    "summary": "Oracle has been borrowing money and issuing stock to help finance its AI cloud growth.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-02T14:03:00+00:00"
+  },
+  {
+    "title": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing us to do Roth conversions?",
+    "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+    "summary": "\u201cOur basic living expenses are covered by $110,000 in annual pensions and Social Security.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-02T14:00:00+00:00"
+  },
+  {
+    "title": "Oil prices could average $130 a barrel next year, according to Goldman Sachs",
+    "link": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories",
+    "summary": "Analysts at the investment bank said Brent crude could reach $140 a barrel next year if tensions worsen in the Middle East.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-02T13:46:00+00:00"
+  },
+  {
+    "title": "These 10 megadonors have spent a total of $1 billion on the midterm elections",
+    "link": "https://www.marketwatch.com/story/these-10-megadonors-have-spent-a-total-of-1-billion-on-the-midterm-elections-0dc279cf?mod=mw_rss_topstories",
+    "summary": "They\u2019ve helped turn this year\u2019s midterms into \u201cthe most expensive election cycle on record.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-02T13:44:00+00:00"
+  },
+  {
     "title": "My father has Alzheimer\u2019s and his caregiver is using his debit card for DoorDash. Do I intervene?",
     "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
     "summary": "\u201cI suspect the live-in caregiver is benefiting from my parent\u2019s generosity.\u201d",
@@ -229,12 +285,5 @@
     "summary": "Haley Stevens had lost the Democratic nomination for Senate in Michigan to Abdul El-Sayed earlier this year.",
     "source": "CNBC",
     "pub_iso": "2026-11-01T21:06:42+00:00"
-  },
-  {
-    "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-    "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-    "summary": "\u201cWhen I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-01T20:00:00+00:00"
   }
 ]
