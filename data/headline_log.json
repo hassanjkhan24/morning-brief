@@ -1,5 +1,89 @@
 [
   {
+    "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
+    "link": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
+    "summary": "Blackstone President Jon Gray says AI infrastructure needs more equity as debt investors face concentration risks amid massive spending plans.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-03T06:46:36+00:00"
+  },
+  {
+    "title": "North Korea denies links to Binance hack as researchers trace stolen billions",
+    "link": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
+    "summary": "North Korea rejected allegations linking it to the Binance hack as blockchain researchers traced billions in stolen cryptocurrency across networks.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-03T06:32:10+00:00"
+  },
+  {
+    "title": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for \u2018negotiated settlement\u2019 with Tehran",
+    "link": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
+    "summary": "U.S. military carried out attacks on Iran's Qeshm Island on Monday, even as the Trump administration has been underplaying war risks.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-03T04:27:41+00:00"
+  },
+  {
+    "title": "Australia hikes rates to 18-year high to fight inflation",
+    "link": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
+    "summary": "The Reserve Bank of Australia's decision was in line with expectations from economists polled by Reuters, and marked its fifth rate increase this year.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-03T03:46:20+00:00"
+  },
+  {
+    "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
+    "link": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
+    "summary": "OpenAI has hired former U.S. Army Secretary Dan Driscoll for a newly created national security role for national security modernization.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-03T02:47:57+00:00"
+  },
+  {
+    "title": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
+    "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+    "summary": "The Department of Justice's request to the Supreme Court in the California case came as it appeals dismissal of a lawsuit over Alaska's Senate election.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-03T01:32:13+00:00"
+  },
+  {
+    "title": "Here\u2019s why Palantir\u2019s stock is down despite a \u2018bombastic\u2019 quarter",
+    "link": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
+    "summary": "A deceleration in U.S. commercial contract growth gave some Wall Street analysts pause despite Palantir\u2019s earnings beat.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-03T00:59:00+00:00"
+  },
+  {
+    "title": "Apple\u2019s iPhone business is booming. Here\u2019s why the stock is falling anyway.",
+    "link": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories",
+    "summary": "Although iPhone demand remains strong, Apple faces a worsening memory crunch and a slowing services business.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-03T00:52:00+00:00"
+  },
+  {
+    "title": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
+    "link": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
+    "summary": "The \u201ctech wreck\u201d from October continues. Is a bear market next?",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-03T00:03:00+00:00"
+  },
+  {
+    "title": "Jim Cramer says these six fashion stocks are buys beyond the AI trade",
+    "link": "https://www.cnbc.com/2026/11/02/jim-cramer-fashion-stocks.html",
+    "summary": "While technology stocks have come under pressure in recent weeks, consumer stocks have been resilient.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-02T23:54:27+00:00"
+  },
+  {
+    "title": "Marvell and Lumentum shareholders unite in panning merger deal: \u2018It\u2019s a trash offer\u2019",
+    "link": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
+    "summary": "Shares of both companies fell Monday after Marvell said it reached an all-stock agreement to buy Lumentum.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-02T23:39:00+00:00"
+  },
+  {
+    "title": "CNBC's The China Connection newsletter: Nvidia's humanoid push relies on China-made robot hands",
+    "link": "https://www.cnbc.com/2026/11/02/cnbcs-the-china-connection-newsletter-nvidias-humanoid-push-relies-on-china-made-robot-hands.html",
+    "summary": "The U.S. chipmaker's humanoid robot systems feature mechanical hands from China-linked startups.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-02T23:00:01+00:00"
+  },
+  {
     "title": "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned",
     "link": "https://www.marketwatch.com/story/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-on-the-nasdaq-100-just-got-burned-d6775191?mod=mw_rss_topstories",
     "summary": "Some investors appeared a little too eager to buy the dip in technology stocks last month.",
@@ -390,180 +474,5 @@
     "summary": "They\u2019ve helped turn this year\u2019s midterms into \u201cthe most expensive election cycle on record.\u201d",
     "source": "MarketWatch",
     "pub_iso": "2026-11-02T13:44:00+00:00"
-  },
-  {
-    "title": "My father has Alzheimer\u2019s and his caregiver is using his debit card for DoorDash. Do I intervene?",
-    "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-    "summary": "\u201cI suspect the live-in caregiver is benefiting from my parent\u2019s generosity.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-02T13:15:00+00:00"
-  },
-  {
-    "title": "Marvell and Lumentum officially plan to combine. Here\u2019s what to know.",
-    "link": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
-    "summary": "A newly proposed deal would be financed in stock and target the hot optical-networking market.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-02T12:26:00+00:00"
-  },
-  {
-    "title": "America is doing better than you think \u2014 just ask those in the bottom half of household wealth",
-    "link": "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
-    "summary": "The bottom half of Americans has more than doubled its net worth since 2019. You wouldn\u2019t know it from scrolling social media.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-02T12:22:00+00:00"
-  },
-  {
-    "title": "In the hunt for $1 trillion of revenue, SpaceX reportedly targets Boost Mobile for a deal",
-    "link": "https://www.marketwatch.com/story/in-the-hunt-for-1-trillion-of-revenue-spacex-reportedly-targets-boost-mobile-for-a-deal-7eb4ea49?mod=mw_rss_topstories",
-    "summary": "In recent weeks there has been intense speculation surrounding SpaceX  ambitions in the cellular market with multiple acquisition targets suggested; Boost Mobile is the latest",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-02T12:20:00+00:00"
-  },
-  {
-    "title": "\u2018He was heartbroken\u2019: My husband\u2019s kids abandoned him when he was dying. Was he right to leave everything to me?",
-    "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-    "summary": "\u201cIn the end, he left them a few sentimental mementos, some collectibles and old photographs.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-02T12:15:00+00:00"
-  },
-  {
-    "title": "Tech stocks enter November after a brutal October: Is it time to buy the dip?",
-    "link": "https://www.marketwatch.com/story/tech-stocks-enter-november-after-a-brutal-october-is-it-time-to-buy-the-dip-09d8aff8?mod=mw_rss_topstories",
-    "summary": "Both the stock and bond markets are raising doubts about the sustainability of the AI trade.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-02T12:10:00+00:00"
-  },
-  {
-    "title": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
-    "link": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
-    "summary": "Russia and Ukraine both report cyberattacks on their alerting systems, as strikes continue across the countries.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-02T11:18:37+00:00"
-  },
-  {
-    "title": "How oil prices could average $130 per barrel next year, according to Goldman Sachs",
-    "link": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories",
-    "summary": "Analysts at the investment bank said Brent crude could reach $140 a barrel next year if tensions worsen in the Middle East.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-02T11:14:00+00:00"
-  },
-  {
-    "title": "Citi throws in the towel on hyperscalers after a key market bet misfires",
-    "link": "https://www.marketwatch.com/story/the-latest-market-wobble-sees-citi-giving-up-on-this-big-tech-trade-181b0dea?mod=mw_rss_topstories",
-    "summary": "Hyperscalers and growth plays have underperformed amid a sharp rotation",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-02T11:08:00+00:00"
-  },
-  {
-    "title": "Citi throws in the towel on hyperscalers after a key stock-market bet misfires",
-    "link": "https://www.marketwatch.com/story/the-latest-market-wobble-sees-citi-giving-up-on-this-big-tech-trade-181b0dea?mod=mw_rss_topstories",
-    "summary": "Hyperscalers and growth plays have underperformed amid a sharp rotation.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-02T11:08:00+00:00"
-  },
-  {
-    "title": "OpenAI deepens Abu Dhabi foothold as Sam Altman inks deals spanning energy, government and investment",
-    "link": "https://www.cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html",
-    "summary": "OpenAI signed four Abu Dhabi agreements spanning energy, government and investment as Sam Altman met the emirate\u2019s crown prince.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-02T11:02:08+00:00"
-  },
-  {
-    "title": "U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts",
-    "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-    "summary": "Oil fell Monday, amid news that both the U.S. and Iran are pursuing diplomacy amid ongoing Mideast tensions",
-    "source": "CNBC",
-    "pub_iso": "2026-11-02T11:00:55+00:00"
-  },
-  {
-    "title": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
-    "link": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
-    "summary": "Democratic gains in Congress could bring tougher oversight of major companies and shift billions of dollars in federal spending and regulatory policy.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-02T11:00:01+00:00"
-  },
-  {
-    "title": "\u2018She\u2019s a Type A personality\u2019: My stepmother wants me to repay my late father\u2019s $40,000 wedding gift. Should I oblige?",
-    "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-    "summary": "\u201cAbout two months after his funeral, my stepmother called and said she wanted the money back.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-02T10:15:00+00:00"
-  },
-  {
-    "title": "5 celebrities who waited years to buy their dream homes",
-    "link": "https://www.marketwatch.com/story/5-celebrities-who-waited-years-to-buy-their-dream-homes-f1551973?mod=mw_rss_topstories",
-    "summary": "What do Drake, Julianne Moore and Barbra Streisand have in common? These A-listers are not totally immune from having to play the waiting game for their perfect house.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-02T10:03:00+00:00"
-  },
-  {
-    "title": "Retired World Series champ Matt Holliday lists $11.6 million Arizona estate he bought months ago",
-    "link": "https://www.marketwatch.com/story/retired-world-series-champ-matt-holliday-lists-11-6-million-arizona-estate-he-bought-months-ago-a48b6a9b?mod=mw_rss_topstories",
-    "summary": "Retired Major League Baseball star Matt Holliday is ready to part ways with the newly built Paradise Valley, Ariz., estate he purchased earlier this year.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-02T09:58:00+00:00"
-  },
-  {
-    "title": "Tech stocks have made big V-shaped rebounds five times in 30 months \u2014 and now Deutsche Bank forecasts another bounce",
-    "link": "https://www.marketwatch.com/story/tech-stocks-have-made-big-v-shaped-rebounds-five-times-in-30-months-and-now-deutsche-bank-forecasts-another-bounce-0a552a62?mod=mw_rss_topstories",
-    "summary": "Positioning among equity investors in tech stocks is consistent with much slower earnings growth than the sector is achieving. Deutsche Bank thinks it\u2019s time to go overweight once again as the risk-re",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-02T09:47:00+00:00"
-  },
-  {
-    "title": "The election will be good news, regardless of outcome, says Morgan Stanley\u2019s chief stock-market strategist",
-    "link": "https://www.marketwatch.com/story/the-election-will-be-good-news-regardless-of-outcome-says-morgan-stanleys-chief-stock-market-strategist-ffa320ed?mod=mw_rss_topstories",
-    "summary": "Morgan Stanley\u2019s chief stock-market strategist, Mike Wilson, said the midterm elections are a classic \u201cclearing event\u201d whose outcome at this point doesn\u2019t really matter.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-02T09:15:00+00:00"
-  },
-  {
-    "title": "Your stock portfolio increasingly hinges on the bond market \u2014 and the midterm elections",
-    "link": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories",
-    "summary": "Tech stocks in late October caught the cold that for months has been a drag on the corporate bond market.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-02T08:56:00+00:00"
-  },
-  {
-    "title": "Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2.2 billion",
-    "link": "https://www.cnbc.com/2026/11/02/ryanair-h1-earnings-iran-war-fuel-costs.html",
-    "summary": "Ryanair's CEO Michael O'Leary told CNBC that European airlines may have \"significantly higher airfares\" of up to 20% next year as fuel costs rise.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-02T08:39:33+00:00"
-  },
-  {
-    "title": "Apollo launches $11 billion private credit platform, backed by Abu Dhabi",
-    "link": "https://www.cnbc.com/2026/11/02/apollo-private-credit-abu-dhabi.html",
-    "summary": "Apollo has launched a 10 billion euro European private credit platform backed by major global investors.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-02T08:22:27+00:00"
-  },
-  {
-    "title": "Marine sniper turned macro strategist says this bull market has six to 12 months left. Here\u2019s his playbook.",
-    "link": "https://www.marketwatch.com/story/marine-sniper-turned-macro-strategist-says-this-bull-market-has-six-to-12-months-left-heres-his-playbook-8b48ce6e?mod=mw_rss_topstories",
-    "summary": "Alex Barrow, founder of Macro Ops, says the bull market is on borrowed time and will ratchet back painfully for investors who aren\u2019t prepared.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-02T07:25:00+00:00"
-  },
-  {
-    "title": "AI is coming to construction sites. But does it make workers safer?",
-    "link": "https://www.cnbc.com/2026/10/31/ai-construction-worker-safety.html",
-    "summary": "AI is flagging hazards on construction sites, but researchers say evidence that the technology prevents injuries remains limited.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-02T06:55:19+00:00"
-  },
-  {
-    "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
-    "link": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
-    "summary": "The 2027 budget will rise 12.8% to 820.9 trillion won, and will include a 21.3 trillion won investment into semiconductors, physical AI and AI data centers.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-02T06:02:03+00:00"
-  },
-  {
-    "title": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
-    "link": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
-    "summary": "Binance recorded $3.64 billion in net outflows after resuming withdrawals following a $6.3 billion hack, representing 2.1% of its total assets.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-02T05:09:45+00:00"
   }
 ]
