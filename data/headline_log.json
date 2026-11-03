@@ -1,5 +1,12 @@
 [
   {
+    "title": "What the 2026 midterm elections could mean for Trump's final two years",
+    "link": "https://www.cnbc.com/2026/11/03/midterm-elections-congress-trump-democrats-republicans.html",
+    "summary": "Oddsmakers and public polls place Democrats in a favorable position ahead of Election Day.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-03T15:34:28+00:00"
+  },
+  {
     "title": "Bill Ackman warns of 'casino' stock market as speculative trading grows",
     "link": "https://www.cnbc.com/2026/11/03/bill-ackman-casino-stock-market.html",
     "summary": "\"'We're back to the casino type markets when there was 95% leverage,\" said the founder of Pershing Square Capital Management.",
@@ -96,6 +103,13 @@
     "summary": "In John Ternus' first earnings report as CEO, Apple issued a gross margin forecast that disappointed Wall Street.",
     "source": "CNBC",
     "pub_iso": "2026-11-03T13:55:52+00:00"
+  },
+  {
+    "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+    "link": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
+    "summary": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-03T13:33:11+00:00"
   },
   {
     "title": "\u2018It\u2019s good to be old\u2019: I\u2019ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
@@ -467,33 +481,5 @@
     "summary": "The thrashing that Wall Street\u2019s artificial-intelligence darlings have taken over the past few months has led to an unusual situation in the U.S. stock market.",
     "source": "MarketWatch",
     "pub_iso": "2026-11-02T21:45:00+00:00"
-  },
-  {
-    "title": "Kimberly-Clark closes its acquisition of Tylenol maker Kenvue. What to expect next",
-    "link": "https://www.cnbc.com/investingclub/2026/11/02/kimberly-clark-closes-its-acquisition-of-tylenol-maker-kenvue-what-to-expect-next.html",
-    "summary": "Kimberly-Clark has a plan improve growth and earnings following its acquisition of Kenvue",
-    "source": "CNBC",
-    "pub_iso": "2026-11-02T21:35:06+00:00"
-  },
-  {
-    "title": "Want to help your adult kids and grandkids? Give them money while you\u2019re still alive.",
-    "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
-    "summary": "How to manage \u201cgiving while living\u201d without endangering your own retirement.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-02T21:35:00+00:00"
-  },
-  {
-    "title": "\u2018She\u2019s a Type A personality\u2019: My stepmother wants me to repay my late father\u2019s $40,000 wedding gift. Should I oblige?",
-    "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-    "summary": "\u201cAbout two months after his funeral, my stepmother called and said she wanted the money back.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-02T21:30:00+00:00"
-  },
-  {
-    "title": "The stock market has gone nowhere for the past 5 months. It\u2019s now looking like a bargain.",
-    "link": "https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories",
-    "summary": "The S&P 500\u2019s forward price-to-earnings ratio is below its five-year and 10-year averages.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-02T21:29:00+00:00"
   }
 ]
