@@ -1,5 +1,40 @@
 [
   {
+    "title": "Ferrari raises 2026 guidance after Q3 earnings beat",
+    "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
+    "summary": "Ferrari raised its 2026 guidance Tuesday after third-quarter revenue and adjusted earnings per share edged past Wall Street expectations.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-03T13:01:55+00:00"
+  },
+  {
+    "title": "Santoli: AI bull market almost surely needs tech stocks to recover to keep advancing",
+    "link": "https://www.cnbc.com/2026/11/03/santoli-ai-bull-market-needs-tech-stocks.html",
+    "summary": "The road to bull-market glory does not run through Walmart and Berkshire Hathaway and Eli Lilly.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-03T13:01:23+00:00"
+  },
+  {
+    "title": "New national home listing database is taking on Compass in the battle for control of real estate information",
+    "link": "https://www.cnbc.com/2026/11/03/national-home-listing-database-battles-compass-in-real-estate-info-war.html",
+    "summary": "Heavy hitters in residential real estate joined the fight over who can see residential property listings. Their goal, they say, is to counter private listings.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-03T13:00:01+00:00"
+  },
+  {
+    "title": "3 signs cash-strapped consumers are nearing a \u2018spend-pocalypse\u2019 that would hurt the economy",
+    "link": "https://www.marketwatch.com/story/3-signs-cash-strapped-consumers-are-nearing-a-spend-pocalypse-that-would-hurt-the-economy-2ab4c3dd?mod=mw_rss_topstories",
+    "summary": "Nearly 70% of U.S. GDP comes from consumers. What happens when they stop spending?",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-03T13:00:00+00:00"
+  },
+  {
+    "title": "Shopify\u2019s stock slides after earnings. This is what\u2019s worrying Wall Street.",
+    "link": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
+    "summary": "The company missed revenue expectations, a tough outcome in today\u2019s less forgiving tech market.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-03T12:59:00+00:00"
+  },
+  {
     "title": "Apple shares slide after weak margin outlook; Palantir slumps 6% after earnings",
     "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
     "summary": "The iPhone-maker and software giant fell after earnings failed to impress investors.",
@@ -329,6 +364,13 @@
     "pub_iso": "2026-11-02T21:29:00+00:00"
   },
   {
+    "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+    "link": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
+    "summary": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-02T21:13:43+00:00"
+  },
+  {
     "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
     "link": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
     "summary": "Palantir's commercial revenue jumped 148% to $984 million, surpassing government revenue of $953 million.",
@@ -376,12 +418,5 @@
     "summary": "Retail gas prices dropped to $4.12 a gallon on Monday, as U.S. oil prices fell below $100 a barrel.",
     "source": "MarketWatch",
     "pub_iso": "2026-11-02T19:27:00+00:00"
-  },
-  {
-    "title": "Prediction market traders now see nearly 75% chance of Democrats winning the Senate",
-    "link": "https://www.cnbc.com/2026/11/02/prediction-market-traders-now-see-nearly-75percent-chance-of-democrats-winning-the-senate.html",
-    "summary": "Just a day before the midterms, Kalshi traders give Democrats a 74% of controlling the Senate.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-02T19:15:26+00:00"
   }
 ]
