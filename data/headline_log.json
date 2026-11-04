@@ -1,5 +1,33 @@
 [
   {
+    "title": "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service",
+    "link": "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html",
+    "summary": "SpaceX struck a multiyear deal with Qualcomm to build out base stations for its Starlink Mobile cellular network.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-04T13:30:02+00:00"
+  },
+  {
+    "title": "ADP says businesses add 86,000 jobs in October. Labor market shows small signs of improvement.",
+    "link": "https://www.marketwatch.com/story/adp-says-businesses-add-86-000-jobs-in-october-labor-market-shows-small-signs-of-improvement-64c89fd3?mod=mw_rss_topstories",
+    "summary": "More industries are hiring, but they are still cautious",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-04T13:29:00+00:00"
+  },
+  {
+    "title": "Uber beats on revenue even as mobility and delivery units miss estimates",
+    "link": "https://www.cnbc.com/2026/11/04/uber-stock-q3-2026-earnings.html",
+    "summary": "Uber reported better-than-expected revenue but its mobility unit faced higher fuel costs overseas and tighter driver supply.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-04T13:27:06+00:00"
+  },
+  {
+    "title": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
+    "link": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
+    "summary": "Private-sector job growth held steady in October, with gains spread across sectors",
+    "source": "CNBC",
+    "pub_iso": "2026-11-04T13:15:03+00:00"
+  },
+  {
     "title": "AI data center stocks and Musk's SpaceX decline as Texas governor result raises risks of a slowdown",
     "link": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
     "summary": "AI fortunes were mixed as premarket trading opened on Wednesday.",
@@ -12,6 +40,13 @@
     "summary": "Datadog failed to top expectations with its revenue forecast.",
     "source": "MarketWatch",
     "pub_iso": "2026-11-04T13:03:00+00:00"
+  },
+  {
+    "title": "China expands overseas mining stakes, tightening grip on critical minerals",
+    "link": "https://www.cnbc.com/2026/11/04/china-critical-minerals-rare-earths-trump-japan-export-control-.html",
+    "summary": "Beijing is building a system of agencies and state-backed vehicles to own more of the metals it depends on, while keeping its edge in processing skills.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-04T13:00:01+00:00"
   },
   {
     "title": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
@@ -376,19 +411,5 @@
     "summary": "CrowdStrike launched an AI kill switch that the company says can stop internal agents, block relaunches and cut enterprise network access.",
     "source": "CNBC",
     "pub_iso": "2026-11-03T19:35:24+00:00"
-  },
-  {
-    "title": "Medicare prescription drug costs will jump 50% in 2027.\u00a0Doing nothing could cost you.",
-    "link": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
-    "summary": "Don\u2019t sit on the sidelines during open enrollment.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-03T19:23:00+00:00"
-  },
-  {
-    "title": "Options traders are betting heavily on these stocks ahead of election results",
-    "link": "https://www.cnbc.com/2026/11/03/options-traders-are-betting-heavily-on-these-stocks-ahead-of-election-results.html",
-    "summary": "Solar stocks see heavy call activity as voting gets underway",
-    "source": "CNBC",
-    "pub_iso": "2026-11-03T19:22:30+00:00"
   }
 ]
