@@ -1,5 +1,26 @@
 [
   {
+    "title": "Blue Origin pushes launch to January 2027 as it races to rebuild damaged launch pad",
+    "link": "https://www.cnbc.com/2026/11/05/blue-origin-launch-new-glenn.html",
+    "summary": "",
+    "source": "CNBC",
+    "pub_iso": "2026-11-05T17:29:20+00:00"
+  },
+  {
+    "title": "Is this \u2018the big one\u2019 for the stock market? Wall Street sounds off as tech plunges.",
+    "link": "https://www.marketwatch.com/story/is-this-the-big-one-for-the-stock-market-wall-street-sounds-off-as-tech-plunges-185df529?mod=mw_rss_topstories",
+    "summary": "A punishing selloff in the tech space was dragging the stock market sharply lower on Thursday, one day after equities saw a big bounce after the Democrats swept Tuesday\u2019s midterm vote.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-05T17:11:00+00:00"
+  },
+  {
+    "title": "How to buy a new car for under $30,000 in this economy",
+    "link": "https://www.marketwatch.com/story/how-to-buy-a-new-car-for-under-30-000-in-this-economy-24b01f99?mod=mw_rss_topstories",
+    "summary": "Consumers burdened by the high cost of gas, insurance and maintenance are driving up demand for those low-cost cars.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-05T17:04:00+00:00"
+  },
+  {
     "title": "Las Vegas Raiders owner Mark Davis says he's 'not a fan' of sports gambling amid prediction market boom",
     "link": "https://www.cnbc.com/2026/11/05/las-vegas-raiders-owner-mark-davis-on-sports-gambling-not-a-fan.html",
     "summary": "In an interview with CNBC Sport, Las Vegas Raiders owner Mark Davis expressed concerns about the expansion of sports gambling, particularly proposition bets.",
@@ -64,6 +85,13 @@
   },
   {
     "title": "An Anthropic IPO when the AI trade is this turbulent? Goodspeed!",
+    "link": "https://www.marketwatch.com/story/an-anthropic-ipo-when-the-ai-trade-is-this-turbulent-godspeed-08ca0496?mod=mw_rss_topstories",
+    "summary": "Wall Street takes a harder look at AI costs after historic midterm results. Plus, the upside to Apple\u2019s lack of artificial-intelligence spending.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-05T16:00:00+00:00"
+  },
+  {
+    "title": "An Anthropic IPO when the AI trade is this turbulent? Good luck!",
     "link": "https://www.marketwatch.com/story/an-anthropic-ipo-when-the-ai-trade-is-this-turbulent-godspeed-08ca0496?mod=mw_rss_topstories",
     "summary": "Wall Street takes a harder look at AI costs after historic midterm results. Plus, the upside to Apple\u2019s lack of artificial-intelligence spending.",
     "source": "MarketWatch",
@@ -551,26 +579,5 @@
     "summary": "Qualcomm delivered better-than-expected results but issued a weak earnings forecast.",
     "source": "CNBC",
     "pub_iso": "2026-11-04T23:38:11+00:00"
-  },
-  {
-    "title": "A 'demand decade' ahead for energy? BP, Baker Hughes CEOs weigh the investment outlook",
-    "link": "https://www.cnbc.com/2026/11/05/energy-leaders-investment-outlook.html",
-    "summary": "Rising energy demand offers investment opportunities, but geopolitical risks and oil price uncertainty cloud the outlook, executives and an analyst said.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-04T23:23:03+00:00"
-  },
-  {
-    "title": "Jim Cramer warns investors may be reading too much into Wall Street's post-election rally",
-    "link": "https://www.cnbc.com/2026/11/04/cramer-midterms-ai-stocks.html",
-    "summary": "Cramer warned that Wall Street may be getting ahead of itself following the midterm elections.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-04T23:18:56+00:00"
-  },
-  {
-    "title": "What Wall Street billionaires are saying about Democrats' midterm sweep",
-    "link": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
-    "summary": "Billionaire political spending met criticism from ... billionaires in the wake of Tuesday's blue wave election.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-04T23:17:56+00:00"
   }
 ]
