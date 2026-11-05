@@ -1,5 +1,26 @@
 [
   {
+    "title": "World's largest olive oil company plummets 20% after rivals agree to takeover deal",
+    "link": "https://www.cnbc.com/2026/11/05/deoleo-olive-oil-takeover-dcoop-acesur.html",
+    "summary": "The world's largest olive oil company, Deoleo, plummeted in early trading after two of its rivals announced plans to acquire the firm.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-05T13:45:49+00:00"
+  },
+  {
+    "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC",
+    "link": "https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html",
+    "summary": "Moonshot AI has sought leasing agreements with neoclouds for advanced chips in Europe, as U.S. export controls restrict their import to China.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-05T13:34:14+00:00"
+  },
+  {
+    "title": "Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz\u2019s Trian",
+    "link": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html",
+    "summary": "Wendy's said the $1.4 billion takeover proposal does not reflect potential gains from the burger chain's turnaround strategy.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-05T13:26:28+00:00"
+  },
+  {
     "title": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke",
     "link": "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html",
     "summary": "OpenAI pledged to solicit community input around AI data centers, publish construction plans and protect ratepayers.",
@@ -50,6 +71,13 @@
   },
   {
     "title": "The real test for the artificial intelligence build-out is what happens in 2028, analysts say",
+    "link": "https://www.marketwatch.com/story/the-real-test-for-the-artificial-intelligence-build-out-is-what-happens-in-2028-analysts-say-c5978e48?mod=mw_rss_topstories",
+    "summary": "JPMorgan\u2019s Michael Cembalest is worried about data center build-outs following midterm elections, and he\u2019s looking two years ahead.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-05T12:23:00+00:00"
+  },
+  {
+    "title": "The real test for the artificial-intelligence buildout is what happens in 2028, analysts say",
     "link": "https://www.marketwatch.com/story/the-real-test-for-the-artificial-intelligence-build-out-is-what-happens-in-2028-analysts-say-c5978e48?mod=mw_rss_topstories",
     "summary": "JPMorgan\u2019s Michael Cembalest is worried about data center build-outs following midterm elections, and he\u2019s looking two years ahead.",
     "source": "MarketWatch",
@@ -425,12 +453,5 @@
     "summary": "Flutter's new CEO Dan Taylor issued his first earnings report as CEO on Wednesday.",
     "source": "CNBC",
     "pub_iso": "2026-11-04T19:53:32+00:00"
-  },
-  {
-    "title": "Hyperscalers and Apple surge after election results remove investor uncertainty",
-    "link": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html",
-    "summary": "Apple, Amazon, Google, Meta and Microsoft stock was up after the midterms, while stocks tied to Trump advisor Elon Musk and data centers fell on Wednesday.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-04T19:37:43+00:00"
   }
 ]
