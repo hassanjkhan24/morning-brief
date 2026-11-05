@@ -1,5 +1,26 @@
 [
   {
+    "title": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke",
+    "link": "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html",
+    "summary": "OpenAI pledged to solicit community input around AI data centers, publish construction plans and protect ratepayers.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-05T13:22:39+00:00"
+  },
+  {
+    "title": "\u2018He was heartbroken\u2019: My husband\u2019s kids abandoned him when he was dying. Was he right to leave everything to me?",
+    "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
+    "summary": "\u201cIn the end, he left them a few sentimental mementos, some collectibles and old photographs.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-05T13:01:00+00:00"
+  },
+  {
+    "title": "Voters rejected AI data centers over resource concerns. Here's why measuring water usage is hard",
+    "link": "https://www.cnbc.com/2026/11/05/meta-spacex-ai-data-centers-use-millions-of-gallons-of-water-a-day.html",
+    "summary": "AI data centers are facing national outcry for draining local water and power supply. The truth about how they use water to stay cool is far more complicated.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-05T13:00:01+00:00"
+  },
+  {
     "title": "Robot maker Agility starts trading today \u2014 but its steep losses are raising red flags",
     "link": "https://www.marketwatch.com/story/robot-maker-agility-starts-trading-today-but-its-steep-losses-are-raising-red-flags-f97c2cee?mod=mw_rss_topstories",
     "summary": "Agility is going public via a SPAC merger that one executive says will give it a \u201cfirst-mover advantage.\u201d",
@@ -411,33 +432,5 @@
     "summary": "Apple, Amazon, Google, Meta and Microsoft stock was up after the midterms, while stocks tied to Trump advisor Elon Musk and data centers fell on Wednesday.",
     "source": "CNBC",
     "pub_iso": "2026-11-04T19:37:43+00:00"
-  },
-  {
-    "title": "4 market-moving issues investors should watch now that the midterms are over",
-    "link": "https://www.marketwatch.com/story/4-market-moving-issues-investors-should-watch-now-that-the-midterms-are-over-9a77b3de?mod=mw_rss_topstories",
-    "summary": "The Democrats\u2019 election sweep on Tuesday could have far-reaching consequences for markets and the economy.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-04T19:12:00+00:00"
-  },
-  {
-    "title": "A massive trade just happened in a leading mortgage lender: Watch Options Action Live",
-    "link": "https://www.cnbc.com/2026/11/04/a-massive-trade-just-happened-in-a-leading-mortgage-lender-watch-options-action-live.html",
-    "summary": "Options traders make a series of trades post election",
-    "source": "CNBC",
-    "pub_iso": "2026-11-04T19:08:15+00:00"
-  },
-  {
-    "title": "Voters rebuff data centers in every ballot measure except one during the 2026 midterms",
-    "link": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
-    "summary": "Voters in the states at the heart of the AI data center boom pushed back on the buildout on Election Night.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-04T18:58:21+00:00"
-  },
-  {
-    "title": "SpaceX\u2019s Qualcomm deal could be a precursor to a telecom takeover",
-    "link": "https://www.marketwatch.com/story/qualcomm-sat-out-the-semiconductor-rally-can-a-spacex-partnership-change-that-5bb4c0b2?mod=mw_rss_topstories",
-    "summary": "The deal adds to what a BNP Paribas analyst called an \u201cunprecedented\u201d amount of news putting pressure on U.S. telecommunications operators.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-04T18:57:00+00:00"
   }
 ]
