@@ -1,5 +1,61 @@
 [
   {
+    "title": "World's largest olive oil company plummets 19% after rivals agree to takeover deal",
+    "link": "https://www.cnbc.com/2026/11/05/deoleo-olive-oil-takeover-dcoop-acesur.html",
+    "summary": "The world's largest olive oil company, Deoleo, plummeted in early trading after two of its rivals announced plans to acquire the firm.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-05T11:15:05+00:00"
+  },
+  {
+    "title": "How the midterms could fuel the K-shaped AI trade",
+    "link": "https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html",
+    "summary": "U.S. midterm results could slow data center development, raising the value of existing AI capacity while increasing pressure on debt-funded neoclouds.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-05T11:01:39+00:00"
+  },
+  {
+    "title": "Consumers are spending on physical gifts even as travel tops wish lists, Visa survey finds",
+    "link": "https://www.cnbc.com/2026/11/05/visa-holiday-shopping-physical-gifts-travel.html",
+    "summary": "Even as travel and experiences top the wish list, consumers are still prioritizing spending on physical gifts this holiday season.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-05T11:00:01+00:00"
+  },
+  {
+    "title": "A prolonged war in Iran is the market\u2019s real \u2018black swan,\u2019 says this strategist",
+    "link": "https://www.marketwatch.com/story/a-prolonged-war-in-iran-is-the-markets-real-black-swan-says-this-strategist-65d105c7?mod=mw_rss_topstories",
+    "summary": "Alicia Levine, of BNY\u2019s wealth management business, said markets have not priced in the possibility of the war in Iran lasting for a long time.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-05T10:20:00+00:00"
+  },
+  {
+    "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+    "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+    "summary": "\u201cMy brother had no job and needed a place to live.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-05T10:15:00+00:00"
+  },
+  {
+    "title": "Toyota stock rallies after company lowered sales guidance. Here\u2019s how rare that is.",
+    "link": "https://www.marketwatch.com/story/toyota-stock-rallies-after-company-lowered-sales-guidance-heres-how-rare-that-is-c3d6c9bf?mod=mw_rss_topstories",
+    "summary": "Toyota Motor on Thursday saw an odd combination of a powerful stock-market gain after lowering its annual sales forecast.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-05T10:15:00+00:00"
+  },
+  {
+    "title": "Richard Simmons\u2019 L.A. estate sells for $3.8 million",
+    "link": "https://www.marketwatch.com/story/richard-simmons-l-a-estate-sells-for-3-8-million-abf43450?mod=mw_rss_topstories",
+    "summary": "Over a year after Richard Simmons\u2019 death, the fitness guru\u2019s longtime home has sold to a buyer drawn to its rich history.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-05T10:02:00+00:00"
+  },
+  {
+    "title": "OpenAI pledges to pay for data center power after election highlights AI concerns",
+    "link": "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html",
+    "summary": "OpenAI pledged to solicit community input around AI data centers, publish construction plans and protect ratepayers.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-05T10:00:01+00:00"
+  },
+  {
     "title": "Rheinmetall shares plunge 17% after outlook cut as military contracts stall",
     "link": "https://www.cnbc.com/2026/11/05/rheinmetall-stock-outlook-sales-germany.html",
     "summary": "Rheinmetall cut its 2026 outlook for the second time in three months, citing delays to German military projects and artillery ammunition deliveries.",
@@ -126,6 +182,13 @@
     "pub_iso": "2026-11-04T23:44:18+00:00"
   },
   {
+    "title": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
+    "link": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html",
+    "summary": "Qualcomm delivered better-than-expected results but issued a weak earnings forecast.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-04T23:38:11+00:00"
+  },
+  {
     "title": "A 'demand decade' ahead for energy? BP, Baker Hughes CEOs weigh the investment outlook",
     "link": "https://www.cnbc.com/2026/11/05/energy-leaders-investment-outlook.html",
     "summary": "Rising energy demand offers investment opportunities, but geopolitical risks and oil price uncertainty cloud the outlook, executives and an analyst said.",
@@ -145,6 +208,13 @@
     "summary": "Billionaire political spending met criticism from ... billionaires in the wake of Tuesday's blue wave election.",
     "source": "CNBC",
     "pub_iso": "2026-11-04T23:17:56+00:00"
+  },
+  {
+    "title": "Figma sinks after earnings beat as company prioritizes long-term growth with AI changes",
+    "link": "https://www.cnbc.com/2026/11/04/figma-fig-q3-earnings-report-2026.html",
+    "summary": "Figma is letting clients use more artificial intelligence features for the same price. The company would like the move to boost results in the long term.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-04T23:02:39+00:00"
   },
   {
     "title": "What was really behind Wednesday's monster rally? Trump quickly making peace",
@@ -292,47 +362,5 @@
     "summary": "The Democratic victory in the midterm elections could be a huge boon to the nation\u2019s largest hospitals.",
     "source": "MarketWatch",
     "pub_iso": "2026-11-04T17:19:00+00:00"
-  },
-  {
-    "title": "What Trump can achieve without approval from a Democratic-led Congress",
-    "link": "https://www.marketwatch.com/story/what-trump-can-achieve-without-approval-from-a-democratic-led-congress-3401de75?mod=mw_rss_topstories",
-    "summary": "The president will have plenty of power to move markets by himself.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-04T17:13:00+00:00"
-  },
-  {
-    "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
-    "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-    "summary": "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-04T17:11:00+00:00"
-  },
-  {
-    "title": "Uber beats on revenue, CEO tells CNBC the company is 'investing significantly' to add drivers",
-    "link": "https://www.cnbc.com/2026/11/04/uber-stock-q3-2026-earnings.html",
-    "summary": "Uber reported better-than-expected revenue but its mobility unit faced higher fuel costs overseas and tighter driver supply.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-04T17:04:32+00:00"
-  },
-  {
-    "title": "What Republicans' huge loss means for Trump",
-    "link": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
-    "summary": "Trump's handling of tariffs, the Iran war and an array of Washington-area construction projects are sure to face sudden pushback from newly empowered Democrats.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-04T16:44:04+00:00"
-  },
-  {
-    "title": "Medicare prescription drug costs will jump 50% in 2027.\u00a0Doing nothing could cost you.",
-    "link": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
-    "summary": "Don\u2019t sit on the sidelines during open enrollment.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-04T16:38:00+00:00"
-  },
-  {
-    "title": "The U.S. economy is barreling ahead \u2014 but there\u2019s one big problem",
-    "link": "https://www.marketwatch.com/story/the-u-s-economy-is-barreling-ahead-but-theres-one-big-problem-6d62e3b3?mod=mw_rss_topstories",
-    "summary": "The largest part of the U.S. economy grew at a rapid pace just ahead of the holiday shopping season, but business leaders were not in a festive mood due to stubborn inflation.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-04T16:05:00+00:00"
   }
 ]
