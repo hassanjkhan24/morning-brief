@@ -1,5 +1,54 @@
 [
   {
+    "title": "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+    "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+    "summary": "\u201cSometimes I wonder whether wealthier Americans should trade places with people like me.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-06T12:15:00+00:00"
+  },
+  {
+    "title": "Moderna\u2019s stock jumps after biotech raises sales outlook",
+    "link": "https://www.marketwatch.com/story/modernas-stock-jumps-after-biotech-raises-sales-outlook-65363127?mod=mw_rss_topstories",
+    "summary": "The company lifted its revenue outlook for the year, saying it now expects revenue to grow as much as 25% in 2026.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-06T12:15:00+00:00"
+  },
+  {
+    "title": "Moderna raises 2026 outlook as CEO says newer vaccines are gaining traction",
+    "link": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html",
+    "summary": "The biotech company now expects 2026 revenue growth of 15% to 25%, up from its previous guidance of up to 10%.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-06T12:14:24+00:00"
+  },
+  {
+    "title": "After Wall Street\u2019s worst selloff since the 2025 tariff shock, here\u2019s what investors need to watch next",
+    "link": "https://www.marketwatch.com/story/after-wall-streets-worst-selloff-since-the-2025-tariff-shock-heres-what-investors-need-to-watch-next-6e2e629a?mod=mw_rss_topstories",
+    "summary": "Stock-market rout spreads far beyond AI stocks. Plus: First-time homebuyers are paying all-cash. Where\u2019s the money coming from?",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-06T12:14:00+00:00"
+  },
+  {
+    "title": "Chip stocks are the cheapest they\u2019ve been in nearly seven years. How low is too low?",
+    "link": "https://www.marketwatch.com/story/chip-stocks-are-the-cheapest-theyve-been-in-nearly-seven-years-how-low-is-too-low-7edd732d?mod=mw_rss_topstories",
+    "summary": "Contrarian investors might see the sharp decline in semiconductor stocks on Nov. 5 as a buying opportunity, especially since soaring earnings expectations have driven valuations to their lowest levels",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-06T12:03:00+00:00"
+  },
+  {
+    "title": "Small retailers brace for 'huge hit' this holiday season as shipping costs spike",
+    "link": "https://www.cnbc.com/2026/11/06/small-business-holiday-shipping-costs.html",
+    "summary": "As shipping costs surge due to high fuel prices, smaller and medium-sized retailers struggle to keep up, and they face a difficult holiday season.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-06T12:00:01+00:00"
+  },
+  {
+    "title": "Could CRISPR cure rare diseases before birth? Scientists are getting closer",
+    "link": "https://www.cnbc.com/2026/11/06/could-crispr-cure-rare-diseases-before-birth.html",
+    "summary": "Researchers are exploring fetal gene editing to treat rare genetic disorders before they cause lasting damage.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-06T11:50:01+00:00"
+  },
+  {
     "title": "Outside groups urge congressional Dems to target corporate interests over Trump",
     "link": "https://www.cnbc.com/2026/11/06/democrats-corporate-oversight-trump.html",
     "summary": "Groups and strategists advising Democrats are warning them to use their investigative tools on corporate interests, rather than on President Donald Trump.",
@@ -49,6 +98,13 @@
     "pub_iso": "2026-11-06T10:37:00+00:00"
   },
   {
+    "title": "Hoax Bomb threats repeatedly disrupt flights across Europe this week. Here\u2019s what we know",
+    "link": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
+    "summary": "Dozens of flights across Europe reported bomb threats this week, disrupting air travel across London, Dublin, and Helsinki.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-06T10:28:40+00:00"
+  },
+  {
     "title": "Democrat sweep gives markets a reason to rethink path of interest rates",
     "link": "https://www.cnbc.com/2026/11/06/oil-prices-interest-rates-midterms.html",
     "summary": "Rate hikes could be curbed by an Iran war resolution, slower U.S. growth and fresh fiscal policy \u2014 but none are set in stone.",
@@ -59,6 +115,13 @@
     "title": "What the governor-elect of Texas, at the epicenter of the AI trade blowup, is now saying about data centers",
     "link": "https://www.marketwatch.com/story/what-the-governor-elect-of-texas-at-the-epicenter-of-the-ai-trade-blowup-is-now-saying-about-data-centers-55876582?mod=mw_rss_topstories",
     "summary": "In a televised interview, Gina Hinojosa emphasized that she wasn\u2019t ideologically opposed to data centers but that the  express approval of the communities they impact must be prioritized.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-06T10:20:00+00:00"
+  },
+  {
+    "title": "What the governor-elect of Texas, at the epicenter of the AI-trade blowup, is now saying about data centers",
+    "link": "https://www.marketwatch.com/story/what-the-governor-elect-of-texas-at-the-epicenter-of-the-ai-trade-blowup-is-now-saying-about-data-centers-55876582?mod=mw_rss_topstories",
+    "summary": "In an interview, Gina Hinojosa emphasized that she wasn\u2019t ideologically opposed to data centers, but that community approval must come first.",
     "source": "MarketWatch",
     "pub_iso": "2026-11-06T10:20:00+00:00"
   },
@@ -341,33 +404,5 @@
     "summary": "In times of market volatility, we like to fall back on companies that offer consistent capital returns to shareholders.",
     "source": "CNBC",
     "pub_iso": "2026-11-05T18:29:21+00:00"
-  },
-  {
-    "title": "Micron, Sandisk and other AI stocks are falling hard: \u2018Investors don\u2019t like uncertainty\u2019",
-    "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
-    "summary": "Wall Street is digesting the prospect of a slower AI buildout in the wake of the midterm election results.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-05T18:18:00+00:00"
-  },
-  {
-    "title": "Bloom Energy\u2019s stock is one of the S&P 500\u2019s biggest losers amid fears of data-center delays",
-    "link": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories",
-    "summary": "Bloom Energy shares got swept in by tech stocks\u2019 sharp selloff Thursday, as investors fretted that the data-center buildout was at risk of stalling in the aftermath of the U.S. midterm elections.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-05T18:03:00+00:00"
-  },
-  {
-    "title": "Democrats\u2019 big election win revives a difficult Social Security question: Who pays?",
-    "link": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
-    "summary": "There are many ideas for saving Social Security. All of them will hurt.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-05T17:54:00+00:00"
-  },
-  {
-    "title": "HSA-eligible health plans in 2027: What to know about tax savings vs. higher deductibles",
-    "link": "https://www.cnbc.com/2026/11/05/hsa-health-plan-2027.html",
-    "summary": "Many employees are eligible to choose an HSA-eligible high-deductible health plan during open enrollment. Here's what to know before enrolling.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-05T17:41:16+00:00"
   }
 ]
