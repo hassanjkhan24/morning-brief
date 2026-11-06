@@ -1,10 +1,59 @@
 [
   {
+    "title": "Montana votes to ban corporate political money. Next stop? Probably the Supreme Court",
+    "link": "https://www.cnbc.com/2026/11/06/montana-initiative-194-corporate-spending.html",
+    "summary": "Montana voters approved a novel strategy to restrict corporate political spending, setting up a constitutional fight that could reach the Supreme Court.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-06T11:00:01+00:00"
+  },
+  {
+    "title": "Drones are changing warfare. But defense giants are still making billions from old-school weapons",
+    "link": "https://www.cnbc.com/2026/11/06/defense-military-tech-earnings.html",
+    "summary": "The world's biggest defense firms are finding that demand for traditional military equipment remains strong even as drones and AI reshape how wars are fought.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-06T10:39:51+00:00"
+  },
+  {
+    "title": "Is it the end of the Cybertruck? Elon Musk announces factory will shift production",
+    "link": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
+    "summary": "Tesla CEO Elon Musk said in a post on X that the automaker will wind down the production of Cybertrucks in its Texas Gigafactory next year.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-06T10:37:00+00:00"
+  },
+  {
+    "title": "Democrat sweep gives markets a reason to rethink path of interest rates",
+    "link": "https://www.cnbc.com/2026/11/06/oil-prices-interest-rates-midterms.html",
+    "summary": "Rate hikes could be curbed by an Iran war resolution, slower U.S. growth and fresh fiscal policy \u2014 but none are set in stone.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-06T10:22:22+00:00"
+  },
+  {
+    "title": "What the governor-elect of Texas, at the epicenter of the AI trade blowup, is now saying about data centers",
+    "link": "https://www.marketwatch.com/story/what-the-governor-elect-of-texas-at-the-epicenter-of-the-ai-trade-blowup-is-now-saying-about-data-centers-55876582?mod=mw_rss_topstories",
+    "summary": "In a televised interview, Gina Hinojosa emphasized that she wasn\u2019t ideologically opposed to data centers but that the  express approval of the communities they impact must be prioritized.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-06T10:20:00+00:00"
+  },
+  {
+    "title": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
+    "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+    "summary": "\u201cOur kitchen dates from 1999 and the oven only works if you hit the door a certain way.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-06T10:15:00+00:00"
+  },
+  {
     "title": "The $4 million mansion that author Sarah J. Maas bought after finding fame with \u2018A Court of Thorns and Roses\u2019",
     "link": "https://www.marketwatch.com/story/the-4-million-mansion-that-author-sarah-j-maas-bought-after-finding-fame-with-a-court-of-thorns-and-roses-170bbe1b?mod=mw_rss_topstories",
     "summary": "Three years after the release of the first \u201cACOTAR\u201d book, Sarah J. Maas\u2019 family moved into a palatial $3.3 million Tudor-style mansion in Haverford, Pa.",
     "source": "MarketWatch",
     "pub_iso": "2026-11-06T10:02:00+00:00"
+  },
+  {
+    "title": "Oil prices set for sharp weekly fall after midterm elections as investors weigh Iran conflict risk",
+    "link": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
+    "summary": "Oil prices fell Friday as investors weighed the risk of renewed Iran war escalation after the midterms, alongside prospects for a diplomatic breakthrough.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-06T10:00:54+00:00"
   },
   {
     "title": "Tanks or drones? Defense earnings reveal a more complicated rearmament boom",
@@ -117,6 +166,20 @@
     "summary": "Here are the most breathtaking statistics from the major stock sell-off on Thursday.",
     "source": "CNBC",
     "pub_iso": "2026-11-05T23:39:32+00:00"
+  },
+  {
+    "title": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
+    "link": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html",
+    "summary": "Following a dramatic plunge in its stock price, IREN said some revenue is being delayed from 2026 until early next year.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-05T23:25:02+00:00"
+  },
+  {
+    "title": "Jim Cramer says the AI sell-off isn't over, but it isn't another dot-com crash",
+    "link": "https://www.cnbc.com/2026/11/05/jim-cramer-ai-stocks-sell-off.html",
+    "summary": "Cramer warned that the sell-off in AI stocks likely has further to run.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-05T23:17:51+00:00"
   },
   {
     "title": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
@@ -299,96 +362,5 @@
     "summary": "",
     "source": "CNBC",
     "pub_iso": "2026-11-05T17:29:20+00:00"
-  },
-  {
-    "title": "Is this \u2018the big one\u2019 for the stock market? Wall Street sounds off as tech plunges.",
-    "link": "https://www.marketwatch.com/story/is-this-the-big-one-for-the-stock-market-wall-street-sounds-off-as-tech-plunges-185df529?mod=mw_rss_topstories",
-    "summary": "A punishing selloff in the tech space was dragging the stock market sharply lower on Thursday, one day after equities saw a big bounce after the Democrats swept Tuesday\u2019s midterm vote.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-05T17:11:00+00:00"
-  },
-  {
-    "title": "How to buy a new car for under $30,000 in this economy",
-    "link": "https://www.marketwatch.com/story/how-to-buy-a-new-car-for-under-30-000-in-this-economy-24b01f99?mod=mw_rss_topstories",
-    "summary": "Consumers burdened by the high cost of gas, insurance and maintenance are driving up demand for those low-cost cars.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-05T17:04:00+00:00"
-  },
-  {
-    "title": "Las Vegas Raiders owner Mark Davis says he's 'not a fan' of sports gambling amid prediction market boom",
-    "link": "https://www.cnbc.com/2026/11/05/las-vegas-raiders-owner-mark-davis-on-sports-gambling-not-a-fan.html",
-    "summary": "In an interview with CNBC Sport, Las Vegas Raiders owner Mark Davis expressed concerns about the expansion of sports gambling, particularly proposition bets.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-05T16:48:55+00:00"
-  },
-  {
-    "title": "Democratic sweep puts crypto on defensive in Washington",
-    "link": "https://www.cnbc.com/2026/11/05/crypto-midterms-democrats-clarity-act.html",
-    "summary": "Democrats in Congress could impose tougher rules on crypto and investigate President Donald Trump, ushering in a tougher era for the industry.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-05T16:48:34+00:00"
-  },
-  {
-    "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
-    "link": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
-    "summary": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-05T16:34:33+00:00"
-  },
-  {
-    "title": "Democrats to probe JPMorgan's relationship with Jeffrey Epstein when they take Senate control",
-    "link": "https://www.cnbc.com/2026/11/05/jpmorgan-epstein-democrats-erdoes-midterm-election.html",
-    "summary": "JPMorgan kept Jeffrey Epstein as a client for years after top executive Mary Erdoes hearing claims he paid to have underage girls brought to his home.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-05T16:31:33+00:00"
-  },
-  {
-    "title": "Marc Lore's Wonder confidentially files for IPO",
-    "link": "https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html",
-    "summary": "Marc Lore's latest startup Wonder has confidentially filed for an initial public offering.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-05T16:27:10+00:00"
-  },
-  {
-    "title": "Trump's energy deals are about to face a wave of investigations by Democrats",
-    "link": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
-    "summary": "Democrats are certain to scrutinize the U.S. intervention in Venezuela, administration mineral deals and the cancellation of previously funded energy projects.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-05T16:23:48+00:00"
-  },
-  {
-    "title": "The year\u2019s most successful stock-market trades are unraveling \u2014 perhaps for good",
-    "link": "https://www.marketwatch.com/story/the-years-most-successful-stock-market-trades-are-unraveling-perhaps-for-good-45f7a0dd?mod=mw_rss_topstories",
-    "summary": "Wall Street\u2019s top trades of 2026 are coming undone as a violent rotation rattles the U.S. stock market.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-05T16:23:00+00:00"
-  },
-  {
-    "title": "California\u2019s billionaire tax faces defeat, but Democrats plan higher taxes on the wealthy",
-    "link": "https://www.cnbc.com/2026/11/05/as-california-billionaire-tax-fizzles-democrats-plan-taxes-on-wealthy.html",
-    "summary": "The likely defeat of the California billionaire tax may energize Democrats in Congress to propose federal tax hikes on high earners, according to tax experts.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-05T16:19:21+00:00"
-  },
-  {
-    "title": "A record number of first-time home buyers now pay in cash. Here\u2019s where they get the money.",
-    "link": "https://www.marketwatch.com/story/a-record-10-of-first-time-home-buyers-now-pay-in-cash-heres-where-they-get-the-money-70f2e656?mod=mw_rss_topstories",
-    "summary": "All-cash buyers are becoming more common, despite a housing market that\u2019s been struggling with affordability issues.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-05T16:15:00+00:00"
-  },
-  {
-    "title": "This pancreatic cancer treatment is on track for \u2018one of the best drug launches of all time\u2019",
-    "link": "https://www.marketwatch.com/story/this-pancreatic-cancer-treatment-is-on-track-for-one-of-the-best-drug-launches-of-all-time-37bf86ce?mod=mw_rss_topstories",
-    "summary": "Revolution Medicines\u2019 brand-new treatment brought in  far higher sales than expected in its first few weeks on the market.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-05T16:12:00+00:00"
-  },
-  {
-    "title": "Micron, Sandisk and other AI stocks are falling hard: \u2018Investors don\u2019t like uncertainty.\u2019",
-    "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
-    "summary": "Wall Street is digesting the prospect of a slower AI buildout in the wake of the midterm-election results.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-05T16:06:00+00:00"
   }
 ]
