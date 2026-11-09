@@ -1,5 +1,19 @@
 [
   {
+    "title": "These states are offering extra ACA premium subsidies in 2027",
+    "link": "https://www.cnbc.com/2026/11/09/aca-state-subsidies-2027.html",
+    "summary": "Roughly a dozen states are offering some premium assistance for Obamacare enrollees, following the lapse of enhanced federal subsidies at the end of 2025.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-09T13:00:01+00:00"
+  },
+  {
+    "title": "A new setback for the AI trade: Nvidia\u2019s board is probing CEO Huang\u2019s relationship with an alleged spy",
+    "link": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
+    "summary": "Jensen Huang will remain in his role and cooperate with the investigation, though analysts say the matter could cloud over Nvidia\u2019s stock for some time.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-09T12:26:00+00:00"
+  },
+  {
     "title": "Can the AI trade catch a break? Nvidia, Anthropic and CoreWeave may have a say.",
     "link": "https://www.marketwatch.com/story/can-the-ai-trade-catch-a-break-nvidia-anthropic-and-coreweave-may-have-a-say-d00c9ab3?mod=mw_rss_topstories",
     "summary": "After a bruising stretch for tech stocks, investors face fresh questions about leadership, valuations and the cost of the AI boom. Plus, a Taylor Swift encore for one 72-year-old retiree.",
@@ -29,6 +43,13 @@
   },
   {
     "title": "Until AI sentiment improves, Citi tells investors it\u2019s better to sit out the global tech trade",
+    "link": "https://www.marketwatch.com/story/until-sentiment-in-the-ai-trade-improves-citi-tells-investors-its-better-to-sit-out-the-global-tech-trade-ed939f30?mod=mw_rss_topstories",
+    "summary": "Despite recent weakness, Citi\u2019s global strategy team thinks tech positioning needs to get cleaner  before they would revert to their previous overweight stance.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-09T11:25:00+00:00"
+  },
+  {
+    "title": "Until AI sentiment improves, it\u2019s better to sit out the global tech trade, Citi tells investors",
     "link": "https://www.marketwatch.com/story/until-sentiment-in-the-ai-trade-improves-citi-tells-investors-its-better-to-sit-out-the-global-tech-trade-ed939f30?mod=mw_rss_topstories",
     "summary": "Despite recent weakness, Citi\u2019s global strategy team thinks tech positioning needs to get cleaner  before they would revert to their previous overweight stance.",
     "source": "MarketWatch",
@@ -80,6 +101,13 @@
     "title": "\u2018We had the worst fight we\u2019ve ever had\u2019: I want my husband to retire at 65. But I don\u2019t want to lose his $280,000 salary.",
     "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
     "summary": "\u201cWe have about $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account and my own IRA.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-09T10:15:00+00:00"
+  },
+  {
+    "title": "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to lose his $280,000 salary. Is that unreasonable?",
+    "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+    "summary": "\u201cWe have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.\u201d",
     "source": "MarketWatch",
     "pub_iso": "2026-11-09T10:15:00+00:00"
   },
@@ -229,12 +257,5 @@
     "summary": "Trump tied avoiding renewed U.S. strikes to progress in talks over Iran\u2019s nuclear program and the Strait of Hormuz.",
     "source": "CNBC",
     "pub_iso": "2026-11-08T21:53:02+00:00"
-  },
-  {
-    "title": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
-    "link": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
-    "summary": "Democrats have vowed to investigate both President Donald Trump's White House and businesses that have worked with the administration.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-08T18:57:56+00:00"
   }
 ]
