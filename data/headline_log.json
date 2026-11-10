@@ -1,5 +1,26 @@
 [
   {
+    "title": "Polymarket says annualized revenue has topped $1.8 billion",
+    "link": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html",
+    "summary": "Amid growth of its U.S. exchange, the prediction market platform\u2019s current annual run-rate is $1.8 billion.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-10T13:00:01+00:00"
+  },
+  {
+    "title": "How GM is trying to talk used car shoppers into buying new vehicles",
+    "link": "https://www.cnbc.com/2026/11/10/gm-carbravo-used-car-shoppers.html",
+    "summary": "Automakers say that substantial shares of the customers walking into a dealership looking for certified used cars end up buying new. Here's how it works.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-10T13:00:01+00:00"
+  },
+  {
+    "title": "Anthropic sets IPO price range of $70 to $78, looks to start trading  Nov. 19, sources say",
+    "link": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+    "summary": "Anthropic's IPO is expected to come roughly five months after Elon Musk took SpaceX public in a record offering.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-10T12:57:27+00:00"
+  },
+  {
     "title": "Nvidia couldn\u2019t derail the stock market\u2019s rally. Hot inflation might.",
     "link": "https://www.marketwatch.com/story/nvidia-couldnt-derail-the-stock-markets-rally-hot-inflation-might-8a572024?mod=mw_rss_topstories",
     "summary": "A Fed official raises the prospect of a half-a-percentage-point rate hike. Plus, fresh valuation focus on Anthropic\u2019s blockbuster IPO.",
@@ -385,6 +406,13 @@
     "pub_iso": "2026-11-09T19:46:00+00:00"
   },
   {
+    "title": "Millions of dollars poured into prediction markets on election night, trading on Democratic control of Congress and Texas governor's race",
+    "link": "https://www.cnbc.com/2026/11/09/millions-of-dollars-poured-into-prediction-markets-on-election-night.html",
+    "summary": "Election night showed how traders reacted in real time to midterm results, as trading activity surged and market prices shifted to Democrats on Nov. 3.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-09T19:41:13+00:00"
+  },
+  {
     "title": "Elizabeth Warren set to take over the Senate banking committee. Here's what she plans to do",
     "link": "https://www.cnbc.com/2026/11/09/elizabeth-warren-senate-banking-agenda.html",
     "summary": "Sen. Elizabeth Warren telegraphed her agenda for the Senate banking committee as Congress transfers to Democratic control",
@@ -418,12 +446,5 @@
     "summary": "A Labor Department proposal would require unemployment claimants to report at least five qualifying work-search activities each week.",
     "source": "CNBC",
     "pub_iso": "2026-11-09T19:19:28+00:00"
-  },
-  {
-    "title": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds",
-    "link": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
-    "summary": "The launch comes as Anthropic is gearing up for what is widely expected to be a blockbuster IPO",
-    "source": "CNBC",
-    "pub_iso": "2026-11-09T19:00:01+00:00"
   }
 ]
