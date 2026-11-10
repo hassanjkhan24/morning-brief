@@ -1,5 +1,12 @@
 [
   {
+    "title": "Millions of dollars poured into prediction markets on election night, trading on Democratic control of Congress and Texas governor's race",
+    "link": "https://www.cnbc.com/2026/11/09/millions-of-dollars-poured-into-prediction-markets-on-election-night.html",
+    "summary": "Election night showed how traders reacted in real time to midterm results, as trading activity surged and market prices shifted to Democrats on Nov. 3.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-10T15:22:38+00:00"
+  },
+  {
     "title": "CoreWeave earnings put debt-fueled AI build-out under scrutiny",
     "link": "https://www.cnbc.com/2026/11/10/coreweave-earnings-preview-debt-capex.html",
     "summary": "CoreWeave\u2019s earnings after the bell could calm fears about its debt-fueled AI buildout \u2014 or stoke more fear.",
@@ -57,6 +64,13 @@
   },
   {
     "title": "Elon Musk was half-right in his comment last week about SoftBank back-pedaling on a gas-turbine order",
+    "link": "https://www.marketwatch.com/story/elon-musk-was-half-right-in-his-comment-last-week-about-softbank-back-pedaling-on-a-gas-turbine-order-c293d335?mod=mw_rss_topstories",
+    "summary": "Elon Musk in a social-media post last week said that SoftBank \u201cdefaulted\u201d on a gas-turbine order. The truth, revealed Tuesday in the Japanese\u2019s investment company\u2019s second-quarter earnings, wasn\u2019t far",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-10T13:32:00+00:00"
+  },
+  {
+    "title": "Elon Musk was half right in his comment last week about SoftBank backpedaling on a gas-turbine order",
     "link": "https://www.marketwatch.com/story/elon-musk-was-half-right-in-his-comment-last-week-about-softbank-back-pedaling-on-a-gas-turbine-order-c293d335?mod=mw_rss_topstories",
     "summary": "Elon Musk in a social-media post last week said that SoftBank \u201cdefaulted\u201d on a gas-turbine order. The truth, revealed Tuesday in the Japanese\u2019s investment company\u2019s second-quarter earnings, wasn\u2019t far",
     "source": "MarketWatch",
@@ -397,26 +411,5 @@
     "summary": "The updates came alongside a third-quarter earnings report for the legacy Paramount Skydance.",
     "source": "CNBC",
     "pub_iso": "2026-11-09T21:28:40+00:00"
-  },
-  {
-    "title": "Tokenization platform Securitize gains 10% postmarket on Q3 results, move into asset-backed finance",
-    "link": "https://www.cnbc.com/2026/11/09/tokenization-platform-securitize-reports-gains-expands-into-asset-backed-finance.html",
-    "summary": "Securitize saw growth in tokenization last quarter and announced its expansion into asset-backed finance through the acquisition of River One.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-09T21:24:13+00:00"
-  },
-  {
-    "title": "A failed trial for a heart drug casts shadow over rivals developing similar therapies",
-    "link": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
-    "summary": "The full data from the closely watched clinical trial showed that the drug had no cardiovascular benefit even though it reduced Lp(a) levels.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-09T21:21:00+00:00"
-  },
-  {
-    "title": "Why prediction markets and Wall Street pros so often fail to see what\u2019s coming",
-    "link": "https://www.marketwatch.com/story/why-prediction-markets-and-wall-street-pros-so-often-fail-to-see-whats-coming-c516b6e3?mod=mw_rss_topstories",
-    "summary": "The probabilities make it almost certain that macro forecasts will be wrong far more often than right.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-09T21:14:00+00:00"
   }
 ]
