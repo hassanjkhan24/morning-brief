@@ -1,5 +1,75 @@
 [
   {
+    "title": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
+    "link": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html",
+    "summary": "The agency has found evidence of a potential increased risk of a rare eye condition linked to the use of GLP-1 drugs used for weight management and diabetes.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-10T07:52:40+00:00"
+  },
+  {
+    "title": "SoftBank swings to $7 billion net loss in second quarter as tech selloff weighs on results",
+    "link": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
+    "summary": "SoftBank Group announces fiscal second-quarter results for the year ending March 31, 2027.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-10T07:32:45+00:00"
+  },
+  {
+    "title": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
+    "link": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html",
+    "summary": "\u201cIran militarily is effectively over,\u201d Trump said, citing the destruction of its navy and surging inflation that he said has hollowed out Tehran's economy.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-10T07:00:02+00:00"
+  },
+  {
+    "title": "Trump\u2019s C-SPAN call marks latest surprise post-midterm appearance",
+    "link": "https://www.cnbc.com/2026/11/10/trump-cspan-call-elections.html",
+    "summary": "Trump called C-SPAN's new primetime show unannounced after a surprise White House briefing-room and ballroom appearances.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-10T06:19:09+00:00"
+  },
+  {
+    "title": "TSMC's October sales jump as global chip boom rolls on",
+    "link": "https://www.cnbc.com/2026/11/10/tsmcs-october-sales-.html",
+    "summary": "TSMC reports its monthly sales figures for October on Tuesday.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-10T05:42:42+00:00"
+  },
+  {
+    "title": "China\u2019s monthly imports grow at fastest pace in five years as surplus crosses $1 trillion in 2026",
+    "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+    "summary": "Goods exports soared by 35.2% last month from a year earlier, exceeding expectations for a 33.5% jump in a Reuters poll and slowing from a 36.3% jump in September.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-10T05:03:55+00:00"
+  },
+  {
+    "title": "Trump sees 'strong inclination' to end Russia-Ukraine war ahead of U.S.-brokered peace talks",
+    "link": "https://www.cnbc.com/2026/11/10/trump-russia-ukraine-abu-dhabi-war-talks.html",
+    "summary": "President Trump signaled optimism for the end of Russia's war in Ukraine ahead of trilateral negotiation talks set to commence later today in Abu Dhabi.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-10T04:46:37+00:00"
+  },
+  {
+    "title": "SoftBank Group shares surge 13% as Asian tech stocks track Wall Street rebound",
+    "link": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+    "summary": "A sharp decline in oil prices lifted sentiment while renewed buying in semiconductor names overnight spilled over into Asia, following last week's bruising sell-off.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-10T03:58:46+00:00"
+  },
+  {
+    "title": "The short seller who saw signs of Nvidia\u2019s China scandal months ago claims Megaspeed isn\u2019t the only company helping China access chips",
+    "link": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
+    "summary": "\u2018We were confident in the research initially, and we\u2019re still confident in it now,\u2019 says Christian Lamarco, founder of Culper Research",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-10T00:48:00+00:00"
+  },
+  {
+    "title": "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
+    "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+    "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he\u2019s a successful podcaster at 72.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-09T23:52:00+00:00"
+  },
+  {
     "title": "Rocket Lab shares dip after the company\u2019s \u2018defining\u2019 quarter misses the mark",
     "link": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
     "summary": "The rocket-launch company just posted a steeper loss than analysts were expecting.",
@@ -376,208 +446,5 @@
     "summary": "The fallout from the board\u2019s new investigation could become \u201ca longer-lasting problem for the company,\u201d analysts say",
     "source": "MarketWatch",
     "pub_iso": "2026-11-09T14:01:00+00:00"
-  },
-  {
-    "title": "Home listings pile up in October, but sellers won't slash prices",
-    "link": "https://www.cnbc.com/2026/11/09/home-listings-pile-up-in-october-but-sellers-wont-slash-prices.html",
-    "summary": "After a rough month in September, the housing market remained in a deep freeze in October as listings piled up. Sellers are still reluctant to cut prices.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-09T13:54:29+00:00"
-  },
-  {
-    "title": "A failed trial for a heart drug casts shadow over rivals developing similar therapies",
-    "link": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
-    "summary": "The full data from the closely watched clinical trial showed that the drug had no cardiovascular benefit even though it reduced Lp(a) levels.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-09T13:54:00+00:00"
-  },
-  {
-    "title": "Corporate America\u2019s profit numbers are just barely beating Wall Street\u2019s expectations",
-    "link": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
-    "summary": "S&P 500 companies\u2019 earnings are mostly topping analysts\u2019 estimates \u2014\u00a0but by the narrowest margin in roughly four years.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-09T13:36:00+00:00"
-  },
-  {
-    "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-    "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-    "summary": "\u201cMy brother had no job and needed a place to live.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-09T13:30:00+00:00"
-  },
-  {
-    "title": "Retirement is now part of the affordability crisis. Politicians should pay attention.",
-    "link": "https://www.marketwatch.com/story/retirement-is-now-part-of-the-affordability-crisis-politicians-should-pay-attention-2923b2d7?mod=mw_rss_topstories",
-    "summary": "Americans are more concerned about retirement than ever, and some of their biggest fears can\u2019t be fixed by individual behavior alone.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-09T13:30:00+00:00"
-  },
-  {
-    "title": "Could supplements be the next big opportunity in the GLP-1 weight-loss drug boom?",
-    "link": "https://www.cnbc.com/2026/11/09/novonesis-glp1-weight-loss-drugs-supplements-probiotics.html",
-    "summary": "Novonesis is exploring whether gut health supplements could benefit patients taking GLP-1 weight-loss drugs, opening up a potentially lucrative new market.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-09T13:27:57+00:00"
-  },
-  {
-    "title": "These states are offering extra ACA premium subsidies in 2027",
-    "link": "https://www.cnbc.com/2026/11/09/aca-state-subsidies-2027.html",
-    "summary": "Roughly a dozen states are offering some premium assistance for Obamacare enrollees, following the lapse of enhanced federal subsidies at the end of 2025.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-09T13:00:01+00:00"
-  },
-  {
-    "title": "A new setback for the AI trade: Nvidia\u2019s board is probing CEO Huang\u2019s relationship with an alleged spy",
-    "link": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
-    "summary": "Jensen Huang will remain in his role and cooperate with the investigation, though analysts say the matter could cloud over Nvidia\u2019s stock for some time.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-09T12:26:00+00:00"
-  },
-  {
-    "title": "Can the AI trade catch a break? Nvidia, Anthropic and CoreWeave may have a say.",
-    "link": "https://www.marketwatch.com/story/can-the-ai-trade-catch-a-break-nvidia-anthropic-and-coreweave-may-have-a-say-d00c9ab3?mod=mw_rss_topstories",
-    "summary": "After a bruising stretch for tech stocks, investors face fresh questions about leadership, valuations and the cost of the AI boom. Plus, a Taylor Swift encore for one 72-year-old retiree.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-09T12:08:00+00:00"
-  },
-  {
-    "title": "Restaurant chains refocus on food quality to bring back diners",
-    "link": "https://www.cnbc.com/2026/11/09/restaurant-chains-better-food-diners.html",
-    "summary": "Wendy's, Burger King, Chipotle and other chains are upgrading menu staples as restaurants look beyond discounts to win back diners.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-09T12:00:01+00:00"
-  },
-  {
-    "title": "CoreWeave confronts 'doom cycle' narrative as neocloud credit risk overshadows growth",
-    "link": "https://www.cnbc.com/2026/11/09/coreweave-debt-credit-risk-neoclouds.html",
-    "summary": "Leading neoclouds CoreWeave and Nebius have both lost about half their value in the past month as they get set for earnings reports this week.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-09T12:00:01+00:00"
-  },
-  {
-    "title": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
-    "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
-    "summary": "Nvidia CEO Jensen Huang's extramarital affair with an alleged Chinese spy comes as the company is already about to face heightened scrutiny.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-09T12:00:01+00:00"
-  },
-  {
-    "title": "Until AI sentiment improves, Citi tells investors it\u2019s better to sit out the global tech trade",
-    "link": "https://www.marketwatch.com/story/until-sentiment-in-the-ai-trade-improves-citi-tells-investors-its-better-to-sit-out-the-global-tech-trade-ed939f30?mod=mw_rss_topstories",
-    "summary": "Despite recent weakness, Citi\u2019s global strategy team thinks tech positioning needs to get cleaner  before they would revert to their previous overweight stance.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-09T11:25:00+00:00"
-  },
-  {
-    "title": "Until AI sentiment improves, it\u2019s better to sit out the global tech trade, Citi tells investors",
-    "link": "https://www.marketwatch.com/story/until-sentiment-in-the-ai-trade-improves-citi-tells-investors-its-better-to-sit-out-the-global-tech-trade-ed939f30?mod=mw_rss_topstories",
-    "summary": "Despite recent weakness, Citi\u2019s global strategy team thinks tech positioning needs to get cleaner  before they would revert to their previous overweight stance.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-09T11:25:00+00:00"
-  },
-  {
-    "title": "Rubio sees little hope of diplomatic breakthrough to Mideast deadlock amid 'outrageous' Iranian demands",
-    "link": "https://www.cnbc.com/2026/11/09/us-iran-war-trump-hormuz.html",
-    "summary": "U.S. Secretary of State Marco Rubio told reporters that Iran negotiations remain unproductive.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-09T11:09:14+00:00"
-  },
-  {
-    "title": "Congress returns with government funding, Pete Hegseth and the debt limit on the agenda",
-    "link": "https://www.cnbc.com/2026/11/09/congress-government-funding-debt-limit-elections.html",
-    "summary": "Republicans have less than two months left with majorities in both the Senate and the House \u2014 and a long list of legislation to take up in the coming weeks.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-09T11:00:01+00:00"
-  },
-  {
-    "title": "The biggest takeaway from Berkshire Hathaway\u2019s latest quarter isn\u2019t the $357 billion cash or its stock buybacks",
-    "link": "https://www.marketwatch.com/story/the-biggest-takeaway-from-berkshire-hathaways-latest-quarter-isnt-the-357-billion-cash-or-its-stock-buybacks-3069f6a9?mod=mw_rss_topstories",
-    "summary": "The dismal performance of Geico is the biggest takeaway from Berkshire Hathaway\u2019s third-quarter results.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-09T10:48:00+00:00"
-  },
-  {
-    "title": "What is MegaSpeed? The Nvidia chip buyer in the spotlight after Jensen Haung\u2019s affair",
-    "link": "https://www.cnbc.com/2026/11/09/megaspeed-nvidia-jensen-huang-alice-huang.html",
-    "summary": "The Singapore-based company has previously been probed for allegedly supplying China with Nvidia chips.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-09T10:35:23+00:00"
-  },
-  {
-    "title": "The market\u2019s correction is entering its final phase \u2014 but wait before buying the dip, says Morgan Stanley chief strategist",
-    "link": "https://www.marketwatch.com/story/the-markets-correction-is-entering-its-final-phase-but-wait-before-buying-the-dip-says-morgan-stanley-chief-strategist-2c1be13e?mod=mw_rss_topstories",
-    "summary": "The S&P 500 could decline to the investment bank\u2019s lower end of its downside target in the coming weeks, which would provide a good opportunity to add risk.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-09T10:26:00+00:00"
-  },
-  {
-    "title": "Until sentiment in the AI trade improves, Citi tells investors it\u2019s better to sit out the global tech trade",
-    "link": "https://www.marketwatch.com/story/until-sentiment-in-the-ai-trade-improves-citi-tells-investors-its-better-to-sit-out-the-global-tech-trade-ed939f30?mod=mw_rss_topstories",
-    "summary": "Despite recent weakness, Citi\u2019s global strategy team thinks tech positioning needs to get cleaner  before they would revert to their previous overweight stance.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-09T10:20:00+00:00"
-  },
-  {
-    "title": "\u2018We had the worst fight we\u2019ve ever had\u2019: I want my husband to retire at 65. But I don\u2019t want to lose his $280,000 salary.",
-    "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-    "summary": "\u201cWe have about $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account and my own IRA.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-09T10:15:00+00:00"
-  },
-  {
-    "title": "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to lose his $280,000 salary. Is that unreasonable?",
-    "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-    "summary": "\u201cWe have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-09T10:15:00+00:00"
-  },
-  {
-    "title": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang\u2019s relationship with alleged Chinese spy",
-    "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
-    "summary": "Nvidia said its board has launched an independent investigation following the reports that Huang was the target of a \"foreign intelligence effort.\"",
-    "source": "CNBC",
-    "pub_iso": "2026-11-09T10:13:02+00:00"
-  },
-  {
-    "title": "Ryan Serhant of \u2018Owning Manhattan\u2019 on why you shouldn\u2019t wait to buy a house, and the hot spots to watch for",
-    "link": "https://www.marketwatch.com/story/ryan-serhant-of-owning-manhattan-on-why-you-shouldnt-wait-to-buy-a-house-and-the-hot-spots-to-watch-for-9c2731c3?mod=mw_rss_topstories",
-    "summary": "Ryan Serhant is warning would-be homebuyers against assuming that lower mortgage rates will deliver an easier path to homeownership in 2027.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-09T10:04:00+00:00"
-  },
-  {
-    "title": "Brewers star Christian Yelich is selling his hillside Malibu mansion for $30 million",
-    "link": "https://www.marketwatch.com/story/brewers-star-christian-yelich-is-selling-his-hillside-malibu-mansion-for-30-million-92bee567?mod=mw_rss_topstories",
-    "summary": "World Series champion Christian Yelich is looking to shed the contemporary Malibu mansion he bought for $5.5 million six years ago.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-09T10:02:00+00:00"
-  },
-  {
-    "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang\u2019s relationship with alleged Chinese spy",
-    "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
-    "summary": "Nvidia said its board has launched an independent investigation following the reports that Huang was the target of a \"foreign intelligence effort.\"",
-    "source": "CNBC",
-    "pub_iso": "2026-11-09T09:37:44+00:00"
-  },
-  {
-    "title": "How Wall Street is reacting to the news of Nvidia\u2019s investigation into Jensen Huang spy claims",
-    "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
-    "summary": "The Wall Street reaction to the blockbuster Nvidia news is to wonder about who would succeed Jensen Huang if he were to be forced out.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-09T09:12:00+00:00"
-  },
-  {
-    "title": "How Wall Street is reacting to the news of Nvidia\u2019s Jensen Huang investigation into spy claims",
-    "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
-    "summary": "The Wall Street reaction to the blockbuster Nvidia news is to wonder about who would succeed Jensen Huang if he were to be forced out.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-09T08:51:00+00:00"
-  },
-  {
-    "title": "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses",
-    "link": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html",
-    "summary": "Cyberattacks on fridges in supermarkets and a wave of bomb threats are testing Europe\u2019s ability to withstand disruption to crucial infrastructure.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-09T05:00:01+00:00"
   }
 ]
