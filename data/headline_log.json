@@ -1,5 +1,68 @@
 [
   {
+    "title": "CoreWeave CEO says 'new political reality' after midterms won't slow buildout",
+    "link": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
+    "summary": "After CoreWeave beat on revenue and upped its forecast, CEO Mike Intrator indicated the company will be fine despite last week's Democratic midterm sweep.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-11T14:37:45+00:00"
+  },
+  {
+    "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
+    "link": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+    "summary": "Investors are assessing whether CEO Jensen Huang's affair will have spillover effects on Nvidia's business.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-11T14:35:23+00:00"
+  },
+  {
+    "title": "My friend hates her job but shuts down when I give her advice. How can I help her?",
+    "link": "https://www.marketwatch.com/story/my-friend-feels-trapped-at-her-job-but-wont-do-anything-about-it-am-i-supposed-to-step-in-7e55604e?mod=mw_rss_topstories",
+    "summary": "It\u2019s counterintuitive, but the worst thing you could do is give your friend advice, says one career coach.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-11T14:24:00+00:00"
+  },
+  {
+    "title": "Forget happy hour. \u2018Money parties\u2019 are having a moment.",
+    "link": "https://www.marketwatch.com/story/forget-happy-hour-money-parties-are-having-a-moment-6bc6f02a?mod=mw_rss_topstories",
+    "summary": "There\u2019s evidence showing that talking about finances with your friends can help you save money.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-11T14:12:00+00:00"
+  },
+  {
+    "title": "Here\u2019s how Bernie Sanders wants to keep Social Security solvent \u2018for generations\u2019",
+    "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+    "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-11T13:55:00+00:00"
+  },
+  {
+    "title": "How Democrats could snarl Trump administration stakes in private sector companies",
+    "link": "https://www.cnbc.com/2026/11/11/trump-company-equity-takes.html",
+    "summary": "The Trump administration had established some form of equity position in 41 companies as of November, according to the CATO Institute's tally.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-11T13:40:04+00:00"
+  },
+  {
+    "title": "Micron and other AI stocks surge as CoreWeave calms Wall Street\u2019s worst fears",
+    "link": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
+    "summary": "CoreWeave\u2019s improved AI economics and its vow to show some discipline around future debt are sparking a broad rally across the chip sector.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-11T13:37:00+00:00"
+  },
+  {
+    "title": "CoreWeave stock pops 15% after outlook raise eases AI slowdown concerns",
+    "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+    "summary": "Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-11T13:36:50+00:00"
+  },
+  {
+    "title": "Nissan cuts sales forecast again on China woes as CEO outlines plan to fight back",
+    "link": "https://www.cnbc.com/2026/11/11/nissan-sales-forecast-earnings-china.html",
+    "summary": "Intensifying competition in the world's largest auto market forced Nissan to cut its annual sales forecast for a second time in months.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-11T13:18:48+00:00"
+  },
+  {
     "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
     "link": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
     "summary": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
@@ -306,61 +369,5 @@
     "summary": "\u201cI don\u2019t think they should be raising another 25 basis points,\u201d one portfolio manager said about the Federal Reserve\u2019s benchmark interest rate.",
     "source": "MarketWatch",
     "pub_iso": "2026-11-10T21:42:00+00:00"
-  },
-  {
-    "title": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
-    "link": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
-    "summary": "Rep. John Moolenaar, R-Mich., the Republican chairman of the\u00a0Select Committee on China and told CNBC he expects answers about Jensen Huang's relationship.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-10T20:19:35+00:00"
-  },
-  {
-    "title": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
-    "link": "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html",
-    "summary": "On Sunday, Huang admitted to having an affair with a woman who has been connected to Chinese intelligence by reports in The New York Times and Financial Times.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-10T19:55:53+00:00"
-  },
-  {
-    "title": "Jim Jordan elected House GOP leader",
-    "link": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
-    "summary": "House Speaker Mike Johnson, R-La., announced the day after Election Day he would not run for minority leader in the 120th Congress.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-10T19:55:08+00:00"
-  },
-  {
-    "title": "An overzealous Fed is quickly becoming the biggest risk to stocks in 2027",
-    "link": "https://www.marketwatch.com/story/an-overzealous-fed-is-quickly-becoming-the-biggest-risk-to-stocks-in-2027-ba28e51d?mod=mw_rss_topstories",
-    "summary": "The Fed remains too sanguine on inflation, and markets too complacent, economist Neil Dutta warns.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-10T19:52:00+00:00"
-  },
-  {
-    "title": "Traders bet on a pop for Anthropic's historic IPO",
-    "link": "https://www.cnbc.com/2026/11/10/traders-bet-on-a-pop-for-anthropics-historic-ipo.html",
-    "summary": "Perpetual futures traders see Anthropic popping on its IPO",
-    "source": "CNBC",
-    "pub_iso": "2026-11-10T19:51:18+00:00"
-  },
-  {
-    "title": "Op-ed: In Nvidia CEO Jensen Huang's alleged China spy scandal, there's plenty of blame to go around",
-    "link": "https://www.cnbc.com/2026/11/10/nvidia-ceo-jensen-huang-china-spy-scandal.html",
-    "summary": "In the AI era, our economic competitiveness, military capabilities, and intelligence edge can be taken down by one man. We aren't prepared. Congress must act.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-10T19:40:41+00:00"
-  },
-  {
-    "title": "Homeowners tap equity as HELOC balances post biggest jump since 2005: New York Fed report",
-    "link": "https://www.cnbc.com/2026/11/10/heloc-balances-new-york-fed.html",
-    "summary": "The rise in balances on HELOCs marks the 18th consecutive quarterly increase, according to a new report from the Federal Reserve Bank of New York.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-10T19:30:12+00:00"
-  },
-  {
-    "title": "Corporate America is making a trillion-dollar mistake about retirement",
-    "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-    "summary": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-10T19:29:00+00:00"
   }
 ]
