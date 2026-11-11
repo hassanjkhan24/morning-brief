@@ -1,5 +1,12 @@
 [
   {
+    "title": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
+    "link": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html",
+    "summary": "American Airlines' first class food options include sandwiches, fruit and chia bowls",
+    "source": "CNBC",
+    "pub_iso": "2026-11-11T17:34:18+00:00"
+  },
+  {
     "title": "Has Nvidia flown too close to the sun? One analyst warns of major scrutiny ahead.",
     "link": "https://www.marketwatch.com/story/has-nvidia-flown-too-close-to-the-sun-one-analyst-warns-of-major-scrutiny-ahead-a323c4dd?mod=mw_rss_topstories",
     "summary": "A Baird analyst no longer recommends buying the chip maker\u2019s stock as its problems mount.",
@@ -173,6 +180,13 @@
     "summary": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
     "source": "MarketWatch",
     "pub_iso": "2026-11-11T13:52:00+00:00"
+  },
+  {
+    "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
+    "link": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
+    "summary": "Nvidia employees described the mood as \"sad\" as CEO Jensen Huang returned to the office after disclosing an affair.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-11T13:46:59+00:00"
   },
   {
     "title": "How Democrats could snarl Trump administration stakes in private sector companies",
@@ -425,26 +439,5 @@
     "summary": "\u201cIt would be a less drastic step than selling the home now and splitting the proceeds.\u201d",
     "source": "MarketWatch",
     "pub_iso": "2026-11-11T00:00:00+00:00"
-  },
-  {
-    "title": "Hegseth impeachment effort torpedoed in House",
-    "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
-    "summary": "GOP Rep. Thomas Massie, who has clashed with President Donald Trump, kicked off the Hegseth impeachment fight days after a blue wave midterm election.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-10T23:46:41+00:00"
-  },
-  {
-    "title": "Jim Cramer says Anthropic's explosive growth could justify a record-breaking IPO",
-    "link": "https://www.cnbc.com/2026/11/10/anthropic-ipo-revenue-growth-cramer.html",
-    "summary": "\"The fact that this deal is on is bullish for tech and the AI trade,\" CNBC's Jim Cramer said Tuesday.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-10T23:46:35+00:00"
-  },
-  {
-    "title": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-    "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-    "summary": "\u201cMaybe next time I\u2019ll try the other approach: I\u2019ll board whenever I feel like it and drop my suitcase in the first open slot I see.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-10T23:25:00+00:00"
   }
 ]
