@@ -1,5 +1,33 @@
 [
   {
+    "title": "Trump says \u2018we don\u2019t need a deal with Iran\u2019",
+    "link": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
+    "summary": "Trump directed Vice President JD Vance to instead focus his attention on corruption and crime in Democratic cities and states.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-12T13:28:58+00:00"
+  },
+  {
+    "title": "As credit card balances hit a record high, medical bills can become 'shadow debt,' expert says",
+    "link": "https://www.cnbc.com/2026/11/12/medical-bills-credit-card-debt.html",
+    "summary": "Medical bills can move onto credit cards and other borrowing, making the debt harder to track. Here's what consumers can check before financing care.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-12T13:15:02+00:00"
+  },
+  {
+    "title": "Unions helped Democrats win big in 2026. Now they want action",
+    "link": "https://www.cnbc.com/2026/11/12/democrats-unions-midterms-2026.html",
+    "summary": "Unions spent millions of dollars and mobilized thousands of members to get out the vote for Democrats in the midterm election. Now they want to see action.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-12T13:09:33+00:00"
+  },
+  {
+    "title": "\u2018A dark day for Nvidia\u2019: Here\u2019s what analysts are saying as markets brace for news on Huang's fate",
+    "link": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html",
+    "summary": "The company's board convened Wednesday evening after reports emerged of Huang engaging in an affair with an employee.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-12T13:08:28+00:00"
+  },
+  {
     "title": "Nebius falls 10% as company expects increased 2026 capex spend, issues weak outlook",
     "link": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
     "summary": "Nebius' earnings report comes after fellow neoclouds IREN and CoreWeave showed better-than-expected results in the past week.",
@@ -217,6 +245,13 @@
     "pub_iso": "2026-11-12T01:14:21+00:00"
   },
   {
+    "title": "Meta head of infrastructure will leave and be succeeded by former AWS cloud exec",
+    "link": "https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html",
+    "summary": "Meta's head of infrastructure and co-head of engineering Santosh Janardhan will leave in 2027, with former AWS senior vice president David Brown taking over.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-12T00:46:08+00:00"
+  },
+  {
     "title": "Jim Cramer says investors need to pay attention to CoreWeave. Here's why",
     "link": "https://www.cnbc.com/2026/11/11/jim-cramer-coreweave-earnings-ceo-interview.html",
     "summary": "Cramer said he's becoming less skeptical of CoreWeave after strong earnings and reassuring comments from its CEO.",
@@ -236,6 +271,13 @@
     "summary": "The government may have lost a month of inflation data, but don\u2019t expect your credit card\u2019s annual percentage rate to decline because of it.",
     "source": "MarketWatch",
     "pub_iso": "2026-11-11T23:30:00+00:00"
+  },
+  {
+    "title": "Analysis: Is Nvidia too big to fail?\u00a0Its AI financing web raises the stakes",
+    "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+    "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-11T22:59:33+00:00"
   },
   {
     "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
@@ -313,12 +355,5 @@
     "summary": "\u201cI have a net worth of $2.3 million and my only debt is a 15-year mortgage.\u201d",
     "source": "MarketWatch",
     "pub_iso": "2026-11-11T19:41:00+00:00"
-  },
-  {
-    "title": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
-    "link": "https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html",
-    "summary": "Sens. Angela Alsobrooks and Ron Wyden are asking what steps the Department of Health and Human Services has taken to mitigate risks from the markets.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-11T19:16:23+00:00"
   }
 ]
