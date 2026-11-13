@@ -1,5 +1,19 @@
 [
   {
+    "title": "The Fed expected rate cuts this year. Now it\u2019s bracing for another inflation fight",
+    "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+    "summary": "The most recent inflation reading for October had beaten expectations, coming in at 0.4% for the month.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-13T10:00:26+00:00"
+  },
+  {
+    "title": "\u2018We will sue them\u2019: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans",
+    "link": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html",
+    "summary": "The dispute comes after Stellantis scrapped planned Jeep Compass production in Brampton and shifted future output to Illinois amid U.S. auto tariffs.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-13T09:45:04+00:00"
+  },
+  {
     "title": "Nvidia stock inches higher as investors continue to weigh Jensen Huang\u2019s departure",
     "link": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
     "summary": "Jensen Huang resigned as CEO of Nvidia on Thursday after coming under scrutiny for two extramarital affairs.",
@@ -110,6 +124,13 @@
     "summary": "Nvidia's flat management structure could pose challenges for Huang's successor, according to experts.",
     "source": "CNBC",
     "pub_iso": "2026-11-12T22:06:08+00:00"
+  },
+  {
+    "title": "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford our $200,000-a-year dream retirement. I think he\u2019s cheap.",
+    "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+    "summary": "\u201cWe have $2 million saved in our retirement accounts and a house worth $1.3 million.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-12T22:00:00+00:00"
   },
   {
     "title": "Am I overpaying for health insurance? How to answer the key question this open-enrollment season.",
@@ -355,26 +376,5 @@
     "summary": "Chief Financial Officer Colette Kress will serve as interim CEO until a new leader is appointed.",
     "source": "CNBC",
     "pub_iso": "2026-11-12T16:23:35+00:00"
-  },
-  {
-    "title": "Medicare at age 50? What \u2018Medicare for more\u2019 could mean for American workers.",
-    "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
-    "summary": "It\u2019s not \u201cMedicare for All,\u201d but a new bill would lower the Medicare age to 50, expanding coverage for 60 million adults",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T16:00:00+00:00"
-  },
-  {
-    "title": "Nvidia is spending more than ever on Washington lobbying. It may not stop Congress from limiting China chip sales now.",
-    "link": "https://www.marketwatch.com/story/nvidia-is-spending-more-than-ever-on-washington-lobbying-it-still-may-not-be-able-to-stop-congress-from-limiting-its-china-chip-sales-now-d4c34c66?mod=mw_rss_topstories",
-    "summary": "\u2018There\u2019s no question that Congress is going to push for a complete ban on the sale of advanced semiconductors into China,\u2019 says a former U.S. ambassador to Beijing",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T15:55:00+00:00"
-  },
-  {
-    "title": "Home sales plummet to lowest level since \u2018Great Recession\u2019 as prices hit all-time high",
-    "link": "https://www.marketwatch.com/story/home-sales-plummet-to-lowest-level-since-the-great-recession-as-buyers-flee-the-market-624e6270?mod=mw_rss_topstories",
-    "summary": "Home sales fell in October to a 16-year low as buyers bolted from the housing market in the face of 7% mortgage rates.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T15:52:00+00:00"
   }
 ]
