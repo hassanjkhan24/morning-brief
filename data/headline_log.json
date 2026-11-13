@@ -1,5 +1,26 @@
 [
   {
+    "title": "Outlook outage continues as Microsoft flags 'encouraging recovery signals'",
+    "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+    "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-13T13:11:35+00:00"
+  },
+  {
+    "title": "The science of vaccines is rapidly advancing \u2014 despite the anti-vax movement",
+    "link": "https://www.marketwatch.com/story/the-worlds-most-sophisticated-drug-companies-are-putting-billions-into-vaccines-despite-the-political-environment-8dcbf276?mod=mw_rss_topstories",
+    "summary": "Look at the promising data for Moderna and Merck\u2019s experimental cancer vaccine and the research suggesting the shingles vaccine can delay dementia.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-13T13:00:00+00:00"
+  },
+  {
+    "title": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
+    "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html",
+    "summary": "Jensen Huang\u2019s resignation puts Nvidia\u2019s AI financing strategy in focus as investors watch credit markets and neocloud exposure.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-13T12:54:43+00:00"
+  },
+  {
     "title": "I interviewed Huang at peak \u2018Jensenmania.\u2019 Three weeks later, Nvidia is grappling with a world without him",
     "link": "https://www.cnbc.com/2026/11/13/tech-download-jensen-huang-nvidia-departure-jensenmania.html",
     "summary": "CNBC's Arjun Kharpal, who interviewed Huang just a few weeks ago at GTC Berlin, unpacks how everything came crashing down for the popular CEO.",
@@ -369,26 +390,5 @@
     "summary": "The president's son will no longer serve as an advisor at Kalshi.",
     "source": "CNBC",
     "pub_iso": "2026-11-12T19:33:04+00:00"
-  },
-  {
-    "title": "Nvidia\u2019s stock selloff may be just beginning, even after shedding 30% from its peak",
-    "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-sale-after-jensen-huangs-exit-but-is-the-selloff-just-beginning-84121513?mod=mw_rss_topstories",
-    "summary": "While shares of Nvidia look cheap on paper and on the charts, Wall Street analysts see more volatility ahead.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T19:15:00+00:00"
-  },
-  {
-    "title": "The prostate-cancer screening rules just changed. Here\u2019s when men should get tested.",
-    "link": "https://www.marketwatch.com/story/the-prostate-cancer-screening-rules-just-changed-heres-when-men-should-get-tested-894418bb?mod=mw_rss_topstories",
-    "summary": "The American Cancer Society now recommends most men get their first PSA test when they turn 50. Black men and other men considered high risk should start screening at age 45.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T19:12:00+00:00"
-  },
-  {
-    "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-    "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-    "summary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-12T19:05:25+00:00"
   }
 ]
