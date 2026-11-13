@@ -1,5 +1,19 @@
 [
   {
+    "title": "SpaceX is about to attempt the \u2018holy grail\u2019 of rocketry",
+    "link": "https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc?mod=mw_rss_topstories",
+    "summary": "\u201cIt\u2019s hard to overstate the significance\u201d of the Starship launch scheduled to take place on Friday, analyst says",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-13T16:54:00+00:00"
+  },
+  {
+    "title": "Microsoft says email delivery and service availability 'improving' across more infrastructure",
+    "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+    "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-13T16:49:13+00:00"
+  },
+  {
     "title": "Nvidia\u2019s stock is on a losing streak not seen in 14 years. What comes next?",
     "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
     "summary": "Nvidia has wiped out $657 billion in market capitalization this week \u2014\u00a0its sixth consecutive week of stock declines.",
@@ -474,19 +488,5 @@
     "summary": "Nvidia-backed neocloud Nscale on Thursday released updated paperwork for a U.S. initial public offering showing a widening loss.",
     "source": "CNBC",
     "pub_iso": "2026-11-12T23:12:15+00:00"
-  },
-  {
-    "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
-    "link": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
-    "summary": "As Nvidia\u2019s board seeks a new CEO, experts say that person will need a rare balance of tech vision and business savvy",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T22:57:00+00:00"
-  },
-  {
-    "title": "Opening trading-card packs has become a $2 billion market",
-    "link": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
-    "summary": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their \u201cslot-like payoff\u201d raises risks.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T22:38:00+00:00"
   }
 ]
