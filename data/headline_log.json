@@ -1,5 +1,12 @@
 [
   {
+    "title": "Treasury yields rise as traders strengthen Fed rate hike bets",
+    "link": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
+    "summary": "Treasury yields moved higher as investor expectations for a December rate hike by the Federal Reserve gain strength.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-13T08:50:43+00:00"
+  },
+  {
     "title": "Nvidia\u2019s turmoil is prompting a rotation across chip stocks. Here's what we know",
     "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
     "summary": "That shift comes as Nvidia grapples with the fallout from Huang's resignation, following revelations about his multiple affairs.",
@@ -68,6 +75,13 @@
     "summary": "As Nvidia\u2019s board seeks a new CEO, experts say that person will need a rare balance of tech vision and business savvy",
     "source": "MarketWatch",
     "pub_iso": "2026-11-12T22:57:00+00:00"
+  },
+  {
+    "title": "Opening trading-card packs has become a $2 billion market",
+    "link": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
+    "summary": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their \u201cslot-like payoff\u201d raises risks.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-12T22:38:00+00:00"
   },
   {
     "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
@@ -418,26 +432,5 @@
     "summary": "Ryan Cotton, Bain Capital's head of real estate, sits for an interview with the Property Play video podcast.",
     "source": "CNBC",
     "pub_iso": "2026-11-12T15:00:48+00:00"
-  },
-  {
-    "title": "Analysis: Jensen Huang\u2019s exit tests Nvidia\u2019s role as the \u2018central bank of AI\u2019",
-    "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-    "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-12T14:55:16+00:00"
-  },
-  {
-    "title": "I\u2019m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
-    "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-    "summary": "\u201cI have a net worth of $2.3 million and my only debt is a 15-year mortgage.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T14:45:00+00:00"
-  },
-  {
-    "title": "Nvidia stock falls nearly 10% as CEO Jensen Huang announces resignation",
-    "link": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
-    "summary": "Chief Financial Officer Colette Kress will serve as interim CEO until a new leader is appointed.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-12T14:39:34+00:00"
   }
 ]
