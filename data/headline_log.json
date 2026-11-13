@@ -1,5 +1,96 @@
 [
   {
+    "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
+    "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+    "summary": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-13T07:26:19+00:00"
+  },
+  {
+    "title": "Why Singapore keeps turning up in the fight over Nvidia chips and China",
+    "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html",
+    "summary": "Singapore said it had barred Alice Huang from re-entering the country and that U.S. authorities had provided limited help with its yearlong investigations.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-13T07:15:01+00:00"
+  },
+  {
+    "title": "Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion",
+    "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+    "summary": "Jensen Huang's resignation added to Nvidia's market woes, with the stock already in a downward slide since early October.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-13T05:51:34+00:00"
+  },
+  {
+    "title": "As Nvidia reels from Huang's affairs, who stands to gain?",
+    "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
+    "summary": "That shift comes as Nvidia grapples with the fallout from Huang's resignation, following revelations about his multiple affairs.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-13T03:59:40+00:00"
+  },
+  {
+    "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+    "link": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
+    "summary": "The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-13T02:56:35+00:00"
+  },
+  {
+    "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+    "link": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+    "summary": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-13T02:43:26+00:00"
+  },
+  {
+    "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
+    "link": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
+    "summary": "As Nvidia\u2019s board seeks a new CEO, experts say that person will need a rare balance of tech vision and business savvy",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-12T22:57:00+00:00"
+  },
+  {
+    "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
+    "link": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
+    "summary": "Fed Chair Warsh\u2019s quiet style of communicating interest-rate policy has led to more volatile markets.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-12T22:16:00+00:00"
+  },
+  {
+    "title": "Without Jensen Huang, Nvidia's organizational structure isn't 'built to last,' management expert says",
+    "link": "https://www.cnbc.com/make-it/2026/11/12/nvidia-jensen-huang-management-structure.html",
+    "summary": "Nvidia's flat management structure could pose challenges for Huang's successor, according to experts.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-12T22:06:08+00:00"
+  },
+  {
+    "title": "Am I overpaying for health insurance? How to answer the key question this open-enrollment season.",
+    "link": "https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories",
+    "summary": "More people want to understand the fine print on plans this year, financial planners say.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-12T21:55:00+00:00"
+  },
+  {
+    "title": "The 10 best stocks for a year-end momentum trade",
+    "link": "https://www.marketwatch.com/story/the-10-best-stocks-for-a-year-end-momentum-trade-8d4cf8f7?mod=mw_rss_topstories",
+    "summary": "Why December is the best month of the year for momentum strategies",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-12T21:50:00+00:00"
+  },
+  {
+    "title": "Why Nvidia stock drop isn't a big deal for many ETF, mutual fund investors",
+    "link": "https://www.cnbc.com/2026/11/12/nvidia-stock-drop-etf-mutual-fund-investors.html",
+    "summary": "Nvidia stock accounts for a fairly large share of many mutual funds and ETFs. But losses in the stock don't necessarily mean big losses for the overall fund.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-12T21:16:37+00:00"
+  },
+  {
+    "title": "The S&P 500 is shrugging off Nvidia\u2019s selloff this week. Here\u2019s what\u2019s keeping the rest of the market afloat.",
+    "link": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
+    "summary": "Investors have been forced to look up from the poster child of the artificial-intelligence trade and remember the other stocks on the board.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-12T21:08:00+00:00"
+  },
+  {
     "title": "I\u2019m 17 and will be a first-generation college student. Is law school worth being $200,000 in debt?",
     "link": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories",
     "summary": "\u201cI\u2018\u2019m considering a pre-law track \u2026 I\u2019m just a bit hesitant because of how expensive law school is.\u201d",
@@ -362,243 +453,5 @@
     "summary": "A new bill would lower the Medicare age to 50, expanding coverage to an additional 60 million adults",
     "source": "MarketWatch",
     "pub_iso": "2026-11-12T13:38:00+00:00"
-  },
-  {
-    "title": "Trump says \u2018we don\u2019t need a deal with Iran\u2019",
-    "link": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
-    "summary": "Trump directed Vice President JD Vance to instead focus his attention on corruption and crime in Democratic cities and states.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-12T13:28:58+00:00"
-  },
-  {
-    "title": "As credit card balances hit a record high, medical bills can become 'shadow debt,' expert says",
-    "link": "https://www.cnbc.com/2026/11/12/medical-bills-credit-card-debt.html",
-    "summary": "Medical bills can move onto credit cards and other borrowing, making the debt harder to track. Here's what consumers can check before financing care.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-12T13:15:02+00:00"
-  },
-  {
-    "title": "Unions helped Democrats win big in 2026. Now they want action",
-    "link": "https://www.cnbc.com/2026/11/12/democrats-unions-midterms-2026.html",
-    "summary": "Unions spent millions of dollars and mobilized thousands of members to get out the vote for Democrats in the midterm election. Now they want to see action.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-12T13:09:33+00:00"
-  },
-  {
-    "title": "\u2018A dark day for Nvidia\u2019: Here\u2019s what analysts are saying as markets brace for news on Huang's fate",
-    "link": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html",
-    "summary": "The company's board convened Wednesday evening after reports emerged of Huang engaging in an affair with an employee.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-12T13:08:28+00:00"
-  },
-  {
-    "title": "Nebius falls 10% as company expects increased 2026 capex spend, issues weak outlook",
-    "link": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
-    "summary": "Nebius' earnings report comes after fellow neoclouds IREN and CoreWeave showed better-than-expected results in the past week.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-12T13:06:08+00:00"
-  },
-  {
-    "title": "Wendy\u2019s rejects a takeover offer, scales back breakfast and still sees its stock surge",
-    "link": "https://www.marketwatch.com/story/wendys-rejects-a-takeover-offer-scales-back-breakfast-and-still-sees-its-stock-surge-4e398cde?mod=mw_rss_topstories",
-    "summary": "Wendy\u2019s plans to go it alone, and analysts say the company has \u201csignificant work ahead.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T13:05:00+00:00"
-  },
-  {
-    "title": "The world\u2019s most sophisticated drug companies are putting billions into vaccines \u2014 despite the political environment",
-    "link": "https://www.marketwatch.com/story/the-worlds-most-sophisticated-drug-companies-are-putting-billions-into-vaccines-despite-the-political-environment-8dcbf276?mod=mw_rss_topstories",
-    "summary": "Look at the promising data for Moderna and Merck\u2019s experimental cancer vaccine and the research suggesting the shingles vaccine can delay dementia.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T13:00:00+00:00"
-  },
-  {
-    "title": "How the U.S. government\u2019s equity holdings have surged during Trump\u2019s second term \u2014 in one chart",
-    "link": "https://www.marketwatch.com/story/how-the-u-s-governments-equity-holdings-have-surged-during-trumps-second-term-in-one-chart-b598c369?mod=mw_rss_topstories",
-    "summary": "41 companies have made deals that grant stakes to the Trump administration, and some could face probes from the new Congress",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T13:00:00+00:00"
-  },
-  {
-    "title": "How the U.S. government\u2019s ownership of companies has surged during Trump\u2019s second term \u2014 in one chart",
-    "link": "https://www.marketwatch.com/story/how-the-u-s-governments-equity-holdings-have-surged-during-trumps-second-term-in-one-chart-b598c369?mod=mw_rss_topstories",
-    "summary": "41 companies have made deals that grant stakes to the Trump administration, and some could face probes from the new Congress",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T13:00:00+00:00"
-  },
-  {
-    "title": "The \u2018bank of Nvidia\u2019 is in jeopardy, threatening the entire AI boom",
-    "link": "https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories",
-    "summary": "Huang fueled his company and the AI ecosystem with advanced chips and creative financing deals across the supply chain. What happens if he\u2019s gone?",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T12:55:00+00:00"
-  },
-  {
-    "title": "Nvidia\u2019s Jensen Huang crisis tests how much of the AI industry depends on one man",
-    "link": "https://www.marketwatch.com/story/nvidias-jensen-huang-dilemma-is-a-test-of-the-ai-industrys-dependence-on-one-flawed-man-a9a1d99c?mod=mw_rss_topstories",
-    "summary": "Huang\u2019s exit could fray tight bonds among AI businesses. Plus, Oracle\u2019s potential AI catalyst, a $1.5 trillion Social Security stock proposal and what the oil-yield split may mean for inflation.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T12:29:00+00:00"
-  },
-  {
-    "title": "Nvidia stock falls 8% as investors await Jensen Huang\u2019s fate",
-    "link": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
-    "summary": "Nvidia's board met on Wednesday to discuss whether to oust Jensen Huang as CEO.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-12T12:05:42+00:00"
-  },
-  {
-    "title": "Jensen Huang affair in DC: Resignation calls and moves to tighten Nvidia China exports",
-    "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
-    "summary": "Huang was notably opposed to strict export controls on AI chips to China, which ruffled feathers with congressional China hawks.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-12T12:03:39+00:00"
-  },
-  {
-    "title": "Tech stocks may soon enjoy a \u2018violent bounce\u2019 \u2014 but one strategist warns investors not to take the bait",
-    "link": "https://www.marketwatch.com/story/tech-stocks-may-soon-enjoy-a-violent-bounce-but-one-strategist-warns-investors-not-to-take-the-bait-1a41f9c4?mod=mw_rss_topstories",
-    "summary": "Jim Thorne, Wellington-Altus Private Wealth\u2019s chief market strategist, says investors should not get tempted too fast into a tech stock bounce.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T11:34:00+00:00"
-  },
-  {
-    "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
-    "link": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
-    "summary": "Scout Motors has roughly 212,000 reservations for its Terra pickup and Traveler SUV, CEO Scott Keogh told CNBC.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-12T11:30:01+00:00"
-  },
-  {
-    "title": "Nvidia stock falls 7% as investors await Jensen Huang\u2019s fate",
-    "link": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
-    "summary": "Nvidia's board met on Wednesday to discuss whether to oust Jensen Huang as CEO.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-12T11:25:09+00:00"
-  },
-  {
-    "title": "Here\u2019s what Megaspeed, the company at the forefront of the Nvidia scandal, is now saying",
-    "link": "https://www.marketwatch.com/story/heres-what-megaspeed-the-company-at-the-forefront-of-the-nvidia-scandal-is-now-saying-b73f8d0b?mod=mw_rss_topstories",
-    "summary": "The Singaporean company Megaspeed, at the center of the scandal engulfing Nvidia, on Thursday issued its first public statement since the scandal erupted.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T10:57:00+00:00"
-  },
-  {
-    "title": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin",
-    "link": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html",
-    "summary": "Starshield is SpaceX's military-grade satellite network designed for government and national security use, building on the technology developed for Starlink.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-12T10:15:02+00:00"
-  },
-  {
-    "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-    "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-    "summary": "\u201cHe has always said he wants his daughter to inherit a chunk of his estate, and I\u2019ve never objected to that.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T10:15:00+00:00"
-  },
-  {
-    "title": "Prince Harry and Meghan Markle move into new home in Cotswolds",
-    "link": "https://www.marketwatch.com/story/prince-harry-and-meghan-markle-move-into-new-home-in-cotswolds-e9bb0739?mod=mw_rss_topstories",
-    "summary": "Prince Harry and Meghan Markle have reportedly moved into a new Cotswolds home on their friend\u2019s estate after returning to the U.K. with their children in August.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T10:03:00+00:00"
-  },
-  {
-    "title": "Lutnick should ban Chinese memory maker CXMT from U.S., Sen. Cotton says",
-    "link": "https://www.cnbc.com/2026/11/12/lutnick-cxmt-china-cotton.html",
-    "summary": "Sen. Tom Cotton is urging the Commerce secretary to add CXMT to its \"Entity List\" as the fast-growing Chinese memory maker expands in DRAM and pushes into HBM.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-12T10:00:01+00:00"
-  },
-  {
-    "title": "Nvidia stock falls 6% as investors await Jensen Huang\u2019s fate",
-    "link": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
-    "summary": "Nvidia's board met on Wednesday to discuss whether to oust Jensen Huang as CEO.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-12T09:49:21+00:00"
-  },
-  {
-    "title": "Ukrainian defense tech startup hits $6 billion valuation as investors bet on battle-tested drones",
-    "link": "https://www.cnbc.com/2026/11/12/uforce-defense-tech-drones-warfare-ukraine.html",
-    "summary": "UFORCE's NEMESIS drones have completed 300,000 combat flights, and its MAGURA naval vessels have contributed to the destruction of Russian warships.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-12T09:05:22+00:00"
-  },
-  {
-    "title": "Treasury yields edge higher as investors await fresh inflation and housing data",
-    "link": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
-    "summary": "Treasury yields rose as bond markets reopened following Veterans Day.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-12T07:38:45+00:00"
-  },
-  {
-    "title": "Jensen Huang built Nvidia into a behemoth. His scandal puts the entire AI boom in jeopardy.",
-    "link": "https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories",
-    "summary": "Huang fueled his company and the AI ecosystem with advanced chips and creative financing deals across the supply chain. What happens if he\u2019s gone?",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T07:30:00+00:00"
-  },
-  {
-    "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
-    "link": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
-    "summary": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-12T07:28:48+00:00"
-  },
-  {
-    "title": "Nvidia board meeting to decide CEO Jensen Huang\u2019s fate stretches into evening",
-    "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
-    "summary": "Nvidia's board is meeting days after CEO Jensen Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-12T06:11:16+00:00"
-  },
-  {
-    "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
-    "link": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
-    "summary": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T04:41:00+00:00"
-  },
-  {
-    "title": "The world's super-rich are piling into alternative investments. Here's why",
-    "link": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
-    "summary": "Alternative investments now account for 60% of single-family office portfolios, surpassing traditional assets for the first time, according to BNY Wealth.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-12T03:36:44+00:00"
-  },
-  {
-    "title": "Elon Musk says it would be an 'honor' to hire Nvidia's Jensen Huang",
-    "link": "https://www.cnbc.com/2026/11/12/elon-musk-jensen-huang-nvidia-tesla.html",
-    "summary": "The post on X comes amid reports that Nvidia's board is preparing to oust Huang.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-12T03:25:05+00:00"
-  },
-  {
-    "title": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
-    "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-    "summary": "There is already a demographic \u2018run\u2019 on Social Security.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T03:15:00+00:00"
-  },
-  {
-    "title": "Here\u2019s how Bernie Sanders wants to keep Social Security solvent \u2018for generations\u2019",
-    "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-    "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T03:10:00+00:00"
-  },
-  {
-    "title": "What we know so far about Nvidia partner Megaspeed\u2019s Asia footprint",
-    "link": "https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html",
-    "summary": "Megaspeed is at the center of a U.S. probe over its role in sending billions of restricted Nvidia chips to China, and its executive's alleged affair with Jensen Huang.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-12T03:02:03+00:00"
-  },
-  {
-    "title": "Nvidia\u2019s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
-    "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
-    "summary": "Nvidia\u2019s board of directors reportedly met late Wednesday to determine the CEO\u2019s fate.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T02:52:00+00:00"
   }
 ]
