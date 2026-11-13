@@ -1,5 +1,33 @@
 [
   {
+    "title": "Home sales plummet to lowest level since \u2018Great Recession\u2019 as prices hit all-time high",
+    "link": "https://www.marketwatch.com/story/home-sales-plummet-to-lowest-level-since-the-great-recession-as-buyers-flee-the-market-624e6270?mod=mw_rss_topstories",
+    "summary": "Home sales fell in October to a 16-year low as buyers bolted from the housing market in the face of 7% mortgage rates.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-13T15:08:00+00:00"
+  },
+  {
+    "title": "NHL\u2019s next TV deal will test the league\u2019s strength while media companies prepare for NFL rights increase",
+    "link": "https://www.cnbc.com/2026/11/13/nhls-next-media-deal-will-test-the-leagues-strength.html",
+    "summary": "How do the world's biggest media companies judge the value of non-NFL rights? The NHL is giving us our first window into a new era in media values.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-13T15:04:10+00:00"
+  },
+  {
+    "title": "The 2027 401(k) limits are here. See how much more you can save next year.",
+    "link": "https://www.marketwatch.com/story/the-2027-401-k-limits-are-here-see-how-much-more-you-can-save-next-year-d525768c?mod=mw_rss_topstories",
+    "summary": "Defined-contribution plans are getting a bump. IRA savers are not.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-13T15:03:00+00:00"
+  },
+  {
+    "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+    "link": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+    "summary": "OpenAI's ChatGPT Wallet partners with American Express, Mastercard and Visa, and those cardholders keep their existing credit card rewards.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-13T15:00:01+00:00"
+  },
+  {
     "title": "Bessent points to Lutnick\u2019s Commerce as he slams Nvidia chip \u2018leakage\u2019 to China",
     "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
     "summary": "Jensen Huang resigned as Nvidia CEO days after admitting to an affair following scrutiny of his relationship with a woman reportedly deemed a Chinese spy.",
@@ -12,6 +40,13 @@
     "summary": "Jensen Huang resigned as CEO of Nvidia on Thursday after coming under scrutiny for two extramarital affairs.",
     "source": "CNBC",
     "pub_iso": "2026-11-13T14:39:53+00:00"
+  },
+  {
+    "title": "Trump administration is hiring debt collectors to go after defaulted student-loan borrowers for first time in 6 years",
+    "link": "https://www.marketwatch.com/story/trump-administration-is-hiring-debt-collectors-for-first-time-in-6-years-to-go-after-defaulted-student-loan-borrowers-8bae13ad?mod=mw_rss_topstories",
+    "summary": "The Treasury Department proposes to pay debt collectors much less than in the past to help borrowers get out of default.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-13T14:28:00+00:00"
   },
   {
     "title": "Microsoft says email queues 'approaching normal levels' as Outlook issues persist",
@@ -432,12 +467,5 @@
     "summary": "Nvidia stock accounts for a fairly large share of many mutual funds and ETFs. But losses in the stock don't necessarily mean big losses for the overall fund.",
     "source": "CNBC",
     "pub_iso": "2026-11-12T21:16:37+00:00"
-  },
-  {
-    "title": "The S&P 500 is shrugging off Nvidia\u2019s selloff this week. Here\u2019s what\u2019s keeping the rest of the market afloat.",
-    "link": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
-    "summary": "Investors have been forced to look up from the poster child of the artificial-intelligence trade and remember the other stocks on the board.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T21:08:00+00:00"
   }
 ]
