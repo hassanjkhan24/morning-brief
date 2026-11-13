@@ -1,5 +1,19 @@
 [
   {
+    "title": "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford a $200,000-a-year retirement. Is he being cheap?",
+    "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+    "summary": "\u201cWe have $2 million saved in our retirement accounts and a house worth $1.3 million.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-13T15:30:00+00:00"
+  },
+  {
+    "title": "\u2018She has a history of financial mismanagement\u2019: My brother cut our sister out of his will. I\u2019ll get everything. Do I tell her?",
+    "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+    "summary": "\u201cI\u2019m torn between respecting my brother\u2019s wishes and being fair to my sister.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-13T15:15:00+00:00"
+  },
+  {
     "title": "Home sales plummet to lowest level since \u2018Great Recession\u2019 as prices hit all-time high",
     "link": "https://www.marketwatch.com/story/home-sales-plummet-to-lowest-level-since-the-great-recession-as-buyers-flee-the-market-624e6270?mod=mw_rss_topstories",
     "summary": "Home sales fell in October to a 16-year low as buyers bolted from the housing market in the face of 7% mortgage rates.",
@@ -82,6 +96,13 @@
     "summary": "Stock futures picked up some steam this morning.",
     "source": "CNBC",
     "pub_iso": "2026-11-13T14:12:16+00:00"
+  },
+  {
+    "title": "10-year Treasury yield moves to 5.15% as traders weigh producer price report",
+    "link": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
+    "summary": "Treasury yields moved higher as investor expectations for a December rate hike by the Federal Reserve gain strength.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-13T14:12:08+00:00"
   },
   {
     "title": "Midterm elections provided the hyperscalers with the excuse they needed to cut back on spending, says Jefferies strategist",
@@ -446,26 +467,5 @@
     "summary": "Why December is the best month of the year for momentum strategies",
     "source": "MarketWatch",
     "pub_iso": "2026-11-12T21:50:00+00:00"
-  },
-  {
-    "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-    "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-    "summary": "\u201cHe has always said he wants his daughter to inherit a chunk of his estate, and I\u2019ve never objected to that.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-12T21:30:00+00:00"
-  },
-  {
-    "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
-    "link": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
-    "summary": "Cisco is trying to become a bigger player in AI after missing out on the early years of the boom.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-12T21:20:35+00:00"
-  },
-  {
-    "title": "Why Nvidia stock drop isn't a big deal for many ETF, mutual fund investors",
-    "link": "https://www.cnbc.com/2026/11/12/nvidia-stock-drop-etf-mutual-fund-investors.html",
-    "summary": "Nvidia stock accounts for a fairly large share of many mutual funds and ETFs. But losses in the stock don't necessarily mean big losses for the overall fund.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-12T21:16:37+00:00"
   }
 ]
