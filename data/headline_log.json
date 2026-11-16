@@ -1,5 +1,47 @@
 [
   {
+    "title": "United Airlines reports system outage affecting departing flights",
+    "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
+    "summary": "",
+    "source": "CNBC",
+    "pub_iso": "2026-11-16T22:27:09+00:00"
+  },
+  {
+    "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
+    "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+    "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-16T22:22:52+00:00"
+  },
+  {
+    "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+    "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+    "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-16T22:14:47+00:00"
+  },
+  {
+    "title": "Nvidia\u2019s stock extends decline following harsh words from the U.S. government",
+    "link": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
+    "summary": "The Commerce Department announced a new rule aimed at restricting China\u2019s remote access to advanced chips.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-16T21:53:00+00:00"
+  },
+  {
+    "title": "Trump\u2019s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
+    "link": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
+    "summary": "Trump\u2019s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang\u2019s relationship with a suspected Chinese spy.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-16T21:52:33+00:00"
+  },
+  {
+    "title": "Chase says \u2018software bug\u2019 could be causing disruptions at major U.S. banks",
+    "link": "https://www.marketwatch.com/story/customers-of-chase-bank-of-america-and-other-u-s-banks-report-service-outages-18fe23b8?mod=mw_rss_topstories",
+    "summary": "Some customers are saying they can\u2019t access their accounts or their unable to withdraw funds.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-16T21:49:00+00:00"
+  },
+  {
     "title": "Now\u2019s the perfect time for networking. Here\u2019s how to send a cringe-free email.",
     "link": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
     "summary": "Hiring for white-collar jobs usually dips in November and December, so try sending \u201ccold emails\u201d to your network instead.",
@@ -530,19 +572,5 @@
     "summary": "The talks are expected to focus on issues including nuclear non-proliferation, the Middle East war, trade policies and, possibly, the Ukraine war.",
     "source": "CNBC",
     "pub_iso": "2026-11-16T04:34:00+00:00"
-  },
-  {
-    "title": "My older brother, who has no children, cut our only sister out of his will. I\u2019ll get everything. Do I tell her?",
-    "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-    "summary": "\u201cI\u2019m torn between respecting my brother\u2019s wishes and being fair to my sister.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-16T04:15:00+00:00"
-  },
-  {
-    "title": "China\u2019s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
-    "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
-    "summary": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-16T03:53:59+00:00"
   }
 ]
