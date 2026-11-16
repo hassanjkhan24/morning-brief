@@ -1,5 +1,61 @@
 [
   {
+    "title": "The FDA declined to approve one of biotech\u2019s most closely watched cancer drugs",
+    "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
+    "summary": "The regulator told Summit Therapeutics that the lung-cancer drug needs to prove it can help people live longer.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-16T13:01:00+00:00"
+  },
+  {
+    "title": "'We slept here': Flight delays linger as airlines recover from ground stop, but schedule improves Monday",
+    "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+    "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-16T12:57:46+00:00"
+  },
+  {
+    "title": "How to use options to bet against Big Tech, while keeping risk in check",
+    "link": "https://www.marketwatch.com/story/how-to-use-options-to-bet-against-big-tech-while-keeping-risk-in-check-a2609641?mod=mw_rss_topstories",
+    "summary": "One way to bet on the continued move away from Big Tech is by buying options that give you the right to both buy and sell certain market ETFs.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-16T12:53:00+00:00"
+  },
+  {
+    "title": "Anthropic\u2019s IPO is forcing investors to assess uninsurable risks they\u2019ve never encountered before",
+    "link": "https://www.marketwatch.com/story/anthropics-ipo-is-forcing-investors-to-assess-uninsurable-risks-theyve-never-encountered-before-dea85fbf?mod=mw_rss_topstories",
+    "summary": "Who pays when AI goes rogue? Insurance giants are reluctant to touch catastrophic legal liability.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-16T12:33:00+00:00"
+  },
+  {
+    "title": "Three questions for anyone considering the Nvidia CEO job",
+    "link": "https://www.marketwatch.com/story/three-questions-for-anyone-considering-the-nvidia-ceo-job-08ef8120?mod=mw_rss_topstories",
+    "summary": "Colette Kress\u2019s first earnings call as interim CEO offers a glimpse of Nvidia after Jensen Huang. Plus, Anthropic\u2019s coming IPO and why some gamers may call in sick this week.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-16T12:17:00+00:00"
+  },
+  {
+    "title": "Warren Buffett donates $5.5 billion, says kindness 'compounds' in Thanksgiving letter",
+    "link": "https://www.cnbc.com/2026/11/16/warren-buffett-donates-5point5-billion-thanksgiving.html",
+    "summary": "Following the donations, the chairman emeritus of Berkshire still owns 182,140 Class A shares -- roughly $162 billion.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-16T12:16:29+00:00"
+  },
+  {
+    "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+    "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+    "summary": "ETF experts say Nvidia\u2019s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-16T12:13:23+00:00"
+  },
+  {
+    "title": "Nvidia stock falls nearly 4% as investors price in fallout from Jensen Huang's resignation",
+    "link": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html",
+    "summary": "The company was 3.7% down in premarket trading on Monday.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-16T12:12:44+00:00"
+  },
+  {
     "title": "Nvidia's Colette Kress confronts key questions in first earnings report since Jensen Huang\u2019s exit",
     "link": "https://www.cnbc.com/2026/11/16/nvidia-earnings-jensen-huang-resignation.html",
     "summary": "Less than a week after Jensen Huang's abrupt departure, Nvidia interim CEO Colette Kress faces a major test with earnings.",
@@ -21,9 +77,23 @@
     "pub_iso": "2026-11-16T11:07:00+00:00"
   },
   {
+    "title": "Why Nvidia can avoid the fate of most stocks that reached the market-cap apex, according to one strategist",
+    "link": "https://www.marketwatch.com/story/why-nvidia-can-avoid-the-fate-of-most-stocks-that-reached-the-apex-by-market-cap-according-to-one-strategist-461e33be?mod=mw_rss_topstories",
+    "summary": "Despite many analysts slashing their forecasts, the median target price for Nvidia remains way above the current share price at $280. Its cash flow and debt profile are the envy of all AI companies an",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-16T11:07:00+00:00"
+  },
+  {
     "title": "Here\u2019s how much the stock market could crumble if AI is a bubble that bursts, according to former White House economist",
     "link": "https://www.marketwatch.com/story/heres-how-much-the-stock-market-could-crumble-if-ai-is-a-bubble-that-bursts-according-to-former-white-house-economist-3a4c15e1?mod=mw_rss_topstories",
     "summary": "For Jason Furman, if artificial intelligence is a bubble that pops, the most likely scenario is a 25% drop in the broader market.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-16T10:32:00+00:00"
+  },
+  {
+    "title": "Here\u2019s how much the stock market could crumble if AI is in a bubble that bursts, according to former White House economist",
+    "link": "https://www.marketwatch.com/story/heres-how-much-the-stock-market-could-crumble-if-ai-is-a-bubble-that-bursts-according-to-former-white-house-economist-3a4c15e1?mod=mw_rss_topstories",
+    "summary": "Jason Furman says that if artificial intelligence is a bubble that pops, the most likely scenario is a 25% drop in the broader market.",
     "source": "MarketWatch",
     "pub_iso": "2026-11-16T10:32:00+00:00"
   },
@@ -201,12 +271,5 @@
     "summary": "Jensen Huang\u2019s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
     "source": "CNBC",
     "pub_iso": "2026-11-15T19:58:21+00:00"
-  },
-  {
-    "title": "Bessent calls for \u2018dramatic shakeup\u2019 at Nvidia, urges outside CEO",
-    "link": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
-    "summary": "Bessent has criticized Howard Lutnick\u2019s department over suspected chip diversion to China while defending President Donald Trump\u2019s handling of the matter.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-15T18:10:18+00:00"
   }
 ]
