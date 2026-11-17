@@ -1,10 +1,24 @@
 [
   {
+    "title": "Lisa Cook lawyer signals Fed gov won't attend Trump committee's hearing",
+    "link": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html",
+    "summary": "",
+    "source": "CNBC",
+    "pub_iso": "2026-11-17T13:54:56+00:00"
+  },
+  {
     "title": "Investor Steve Eisman says the AI neocloud stocks are in 'big trouble' from Nvidia fallout",
     "link": "https://www.cnbc.com/2026/11/17/big-short-investor-steve-eisman-to-discuss-nvidia-anthropic-and-ai-bull-on-cnbc.html",
     "summary": "Steve Eisman is appearing on \"Squawk Box\" on Tuesday.",
     "source": "CNBC",
     "pub_iso": "2026-11-17T13:41:09+00:00"
+  },
+  {
+    "title": "U.S. retail sales slow just ahead of the holiday shopping season. A hint of trouble?",
+    "link": "https://www.marketwatch.com/story/u-s-retail-sales-slow-just-ahead-of-the-holiday-shopping-season-a-hint-of-trouble-a89c9f98?mod=mw_rss_topstories",
+    "summary": "Sales at U.S. retailers rose just slightly in October after two months of big increases, suggesting households took a breather before the start of the holiday shopping season.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-17T13:41:00+00:00"
   },
   {
     "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
@@ -127,6 +141,13 @@
   },
   {
     "title": "Tepper, Loeb among fund managers piling into Nvidia and other megacap tech on the eve of October drawdown",
+    "link": "https://www.marketwatch.com/story/tepper-loeb-among-fund-managers-piling-into-nvidia-and-other-megacap-tech-on-the-eve-of-october-drawdown-de45f572?mod=mw_rss_topstories",
+    "summary": "13-F filings with the SEC offer a snapshot of how large institutional funds were positioning for the fourth quarter. Given the blowup in the AI trade, some positions reported suggest a painful six wee",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-17T10:28:00+00:00"
+  },
+  {
+    "title": "Tepper and Loeb among fund managers piling into Nvidia and other megacap tech stocks on eve of October drawdown",
     "link": "https://www.marketwatch.com/story/tepper-loeb-among-fund-managers-piling-into-nvidia-and-other-megacap-tech-on-the-eve-of-october-drawdown-de45f572?mod=mw_rss_topstories",
     "summary": "13-F filings with the SEC offer a snapshot of how large institutional funds were positioning for the fourth quarter. Given the blowup in the AI trade, some positions reported suggest a painful six wee",
     "source": "MarketWatch",
@@ -327,6 +348,13 @@
     "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
     "source": "CNBC",
     "pub_iso": "2026-11-16T22:22:52+00:00"
+  },
+  {
+    "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
+    "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
+    "summary": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
+    "source": "CNBC",
+    "pub_iso": "2026-11-16T22:19:02+00:00"
   },
   {
     "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
