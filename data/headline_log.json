@@ -1,5 +1,61 @@
 [
   {
+    "title": "Home Depot names Richard McPhail as new CEO",
+    "link": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
+    "summary": "Home Depot named Richard McPhail as its new CEO effective next week.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-17T10:47:29+00:00"
+  },
+  {
+    "title": "Pick the two sectors where earnings growth will accelerate \u2014 as long as the 10-year stays below this key level, say strategists",
+    "link": "https://www.marketwatch.com/story/pick-the-two-sectors-where-earnings-growth-will-accelerate-as-long-as-the-10-year-stays-below-this-key-level-say-strategists-e7c13914?mod=mw_rss_topstories",
+    "summary": "Strategists at the investment bank recommend hyperscalers and the health care sector in an environment of slowing earnings growth.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-17T10:47:00+00:00"
+  },
+  {
+    "title": "JD Vance says he'll decide 'sometime next year' about 2028 presidential run",
+    "link": "https://www.cnbc.com/2026/11/17/jd-vance-2028-presidential-run-decision.html",
+    "summary": "\"When I make a decision, I will be all in on whatever that decision is,\" he told Fox News.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-17T10:40:56+00:00"
+  },
+  {
+    "title": "Tepper, Loeb among fund managers piling into Nvidia and other megacap tech on the eve of October drawdown",
+    "link": "https://www.marketwatch.com/story/tepper-loeb-among-fund-managers-piling-into-nvidia-and-other-megacap-tech-on-the-eve-of-october-drawdown-de45f572?mod=mw_rss_topstories",
+    "summary": "13-F filings with the SEC offer a snapshot of how large institutional funds were positioning for the fourth quarter. Given the blowup in the AI trade, some positions reported suggest a painful six wee",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-17T10:28:00+00:00"
+  },
+  {
+    "title": "Data center policy dominated the midterms. The 'Virginia of Europe' is the latest battleground",
+    "link": "https://www.cnbc.com/2026/11/17/spain-data-center-decree-election.html",
+    "summary": "Data center policy has become a key election issue in Spain, creating an obstacle to existing deals and potentially costing billions of dollars in investment.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-17T10:25:54+00:00"
+  },
+  {
+    "title": "\u2018Nvidia spooked me\u2019: Should I sell my stocks or ride out the market turmoil?",
+    "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "summary": "\u201cReal estate here in Florida seems to be presenting some interesting opportunities.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-17T10:15:00+00:00"
+  },
+  {
+    "title": "\u2018Breaking Bad\u2019 star Dean Norris is selling 11-acre California estate for $3.2 million amid divorce",
+    "link": "https://www.marketwatch.com/story/breaking-bad-star-dean-norris-is-selling-11-acre-california-estate-for-3-2-million-amid-divorce-03963997?mod=mw_rss_topstories",
+    "summary": "Dean Norris is looking for a buyer for his 11-acre Temecula, Calif., property, listing the hilltop home for $3.2 million\u2014after his wife, Bridget Norris, filed for divorce.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-17T10:01:00+00:00"
+  },
+  {
+    "title": "Supermodel Bella Hadid snaps up a charming Colorado compound for $5.5 million",
+    "link": "https://www.marketwatch.com/story/supermodel-bella-hadid-snaps-up-a-charming-colorado-compound-for-5-5-million-b907958c?mod=mw_rss_topstories",
+    "summary": "Bella Hadid has purchased a creekside compound in Crested Butte, Colorado, for $5.5 million.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-17T09:57:00+00:00"
+  },
+  {
     "title": "Here\u2019s how much of Deutsche Bank\u2019s market cap has been wiped away after reports on 15 million leaked documents",
     "link": "https://www.marketwatch.com/story/heres-how-much-of-deutsche-banks-market-cap-has-been-wiped-away-after-reports-on-15-million-leaked-documents-fe3db078?mod=mw_rss_topstories",
     "summary": "Deutsche Bank saw as much as \u20ac3.8 billion ($4.2 billion) of its market cap wiped away after a team of media organizations wrote about a trove of 15 million leaked documents.",
@@ -54,6 +110,13 @@
     "summary": "Iran has ratcheted up threats against U.S. forces as a third American aircraft carrier arrived in the Gulf, stoking fears of a resumption of military tensions.",
     "source": "CNBC",
     "pub_iso": "2026-11-17T05:51:13+00:00"
+  },
+  {
+    "title": "Here's what to expect when Disney reports earnings before the bell",
+    "link": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
+    "summary": "Investors will be looking for more insight into CEO Josh D'Amaro's strategy following a series of company-wide layoffs.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-17T05:01:01+00:00"
   },
   {
     "title": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
@@ -376,47 +439,5 @@
     "summary": "\u201cWe have $2 million saved in our retirement accounts and a house worth $1.3 million.\u201d",
     "source": "MarketWatch",
     "pub_iso": "2026-11-16T17:00:00+00:00"
-  },
-  {
-    "title": "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk",
-    "link": "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html",
-    "summary": "President Trump told reporters before departing for a trip to Asia that former Nvidia CEO Jensen Huang's affair did not put U.S. national security at risk.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-16T16:52:28+00:00"
-  },
-  {
-    "title": "Nvidia is gearing up for one of Wall Street\u2019s most anticipated earnings calls in years",
-    "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-    "summary": "Jensen Huang\u2019s sudden departure has made Tuesday\u2019s earnings call \u201cthe most important in the company\u2019s history.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-16T16:37:00+00:00"
-  },
-  {
-    "title": "I am turning 18 next month and want to start investing. What do I do first?",
-    "link": "https://www.marketwatch.com/story/i-am-turning-18-next-month-and-want-to-start-investing-what-do-i-do-first-75370ff3?mod=mw_rss_topstories",
-    "summary": "\u201cI have not tried investing before.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-16T16:20:00+00:00"
-  },
-  {
-    "title": "U.S. crude oil declines to $87 a barrel on recovering Middle East exports",
-    "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-    "summary": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
-    "source": "CNBC",
-    "pub_iso": "2026-11-16T16:17:39+00:00"
-  },
-  {
-    "title": "Anthropic\u2019s Wall Street whisperer: Meet CFO Krishna Rao",
-    "link": "https://www.cnbc.com/2026/11/16/anthropic-cfo-krishna-rao-ipo.html",
-    "summary": "Anthropic's upcoming IPO is putting finance chief Krishna Rao into the limelight.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-16T16:08:16+00:00"
-  },
-  {
-    "title": "SpaceX widens its lead in the space race, even as a tech selloff weighs on its stock",
-    "link": "https://www.marketwatch.com/story/spacex-widens-its-lead-in-the-space-race-even-as-a-tech-selloff-weighs-on-its-stock-975f5c1f?mod=mw_rss_topstories",
-    "summary": "SpaceX had a mostly successful Starship launch, while an Amazon partner hit a setback.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-16T15:59:00+00:00"
   }
 ]
