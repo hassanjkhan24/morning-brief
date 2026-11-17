@@ -1,5 +1,12 @@
 [
   {
+    "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
+    "link": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
+    "summary": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-17T08:52:45+00:00"
+  },
+  {
     "title": "Treasury yields are broadly flat as investors await retail sales data",
     "link": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html",
     "summary": "U.S. Treasury yields were little changed on Tuesday morning as investors awaited economic data and comments from Federal Reserve officials later in the session.",
@@ -26,6 +33,13 @@
     "summary": "Iran has ratcheted up threats against U.S. forces as a third American aircraft carrier arrived in the Gulf, stoking fears of a resumption of military tensions.",
     "source": "CNBC",
     "pub_iso": "2026-11-17T05:51:13+00:00"
+  },
+  {
+    "title": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+    "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+    "summary": "\u201cIf I die before my husband, he will receive a lifetime pension equal to 50%\u201366% of my monthly benefit.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-17T02:30:00+00:00"
   },
   {
     "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
@@ -411,40 +425,5 @@
     "summary": "The rule was written by the Treasury Department and the National Security Council after criticism of Commerce Secretary Howard Lutnick.",
     "source": "CNBC",
     "pub_iso": "2026-11-16T15:34:48+00:00"
-  },
-  {
-    "title": "Nvidia\u2019s stock extends declines following harsh words from the U.S. government",
-    "link": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
-    "summary": "The Commerce Department announced a new rule aimed at restricting China\u2019s remote access to advanced chips.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-16T15:22:00+00:00"
-  },
-  {
-    "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-    "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-    "summary": "\u201cI\u2019m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-16T15:15:00+00:00"
-  },
-  {
-    "title": "Novo says Wegovy injection lowers BMI and obesity rates in children in trial",
-    "link": "https://www.cnbc.com/2026/11/16/novo-wegovy-obesity-children-trial.html",
-    "summary": "Wegovy is already approved to treat obesity in children ages 12 and older, but there are currently no approved medications for those under 12.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-16T15:00:01+00:00"
-  },
-  {
-    "title": "My older brother, who has no children, cut our only sister out of his will. I\u2019ll get everything instead. Do I tell her?",
-    "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-    "summary": "\u201cI\u2019m torn between respecting my brother\u2019s wishes and being fair to my sister.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-16T15:00:00+00:00"
-  },
-  {
-    "title": "Parents told us what it\u2019s like to help their kids battle sports-gambling addiction: \u2018There\u2019s no handbook\u2019",
-    "link": "https://www.marketwatch.com/story/parents-told-us-what-its-like-to-help-their-kids-battle-sports-gambling-addiction-theres-no-handbook-6e2d5bb2?mod=mw_rss_topstories",
-    "summary": "\u201cWe essentially married the most addictive device with the most addictive behavior, and we put them together.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-16T15:00:00+00:00"
   }
 ]
