@@ -1,5 +1,89 @@
 [
   {
+    "title": "Treasury yields are broadly flat as investors await retail sales data",
+    "link": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html",
+    "summary": "U.S. Treasury yields were little changed on Tuesday morning as investors awaited economic data and comments from Federal Reserve officials later in the session.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-17T08:23:51+00:00"
+  },
+  {
+    "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+    "link": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
+    "summary": "The U.S. Commerce Department is making moves to tighten export controls.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-17T07:07:35+00:00"
+  },
+  {
+    "title": "U.S. agencies say they initiated investigation into Nvidia partner Megaspeed in 2024",
+    "link": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html",
+    "summary": "The Commerce and Justice departments said in a joint statement that U.S. investigations into Megaspeed began in 2024.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-17T06:59:42+00:00"
+  },
+  {
+    "title": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
+    "link": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+    "summary": "Iran has ratcheted up threats against U.S. forces as a third American aircraft carrier arrived in the Gulf, stoking fears of a resumption of military tensions.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-17T05:51:13+00:00"
+  },
+  {
+    "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+    "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-17T00:42:33+00:00"
+  },
+  {
+    "title": "United Airlines resolves system outage that affected departing flights",
+    "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
+    "summary": "The airline said there was no impact on flights in progress and there was no indication the outage was a cyberattack.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-17T00:00:49+00:00"
+  },
+  {
+    "title": "United Airlines resolves system outage that delayed flights Monday",
+    "link": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
+    "summary": "The outage came just days after an FAA ground stop disrupted air travel nationally.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-16T23:42:00+00:00"
+  },
+  {
+    "title": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
+    "link": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
+    "summary": "Druckenmiller\u2019s family office unloaded AMD and Sandisk shares in the third quarter.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-16T23:28:00+00:00"
+  },
+  {
+    "title": "Jim Cramer says Nvidia\u2019s leadership shake-up won\u2019t derail the AI trade",
+    "link": "https://www.cnbc.com/2026/11/16/nvidia-cramer-ai-trade-leadership-change.html",
+    "summary": "CNBC's Jim Cramer pushed back against fears that Nvidia's leadership shake-up could unravel the AI boom.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-16T23:23:47+00:00"
+  },
+  {
+    "title": "Aschenbrenner\u2019s Situational Awareness made AI bets again before October rout",
+    "link": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
+    "summary": "Leopold Aschenbrenner's hedge fund, which almost collapsed over the summer, bought AI stocks before shares began tumbling.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-16T23:05:12+00:00"
+  },
+  {
+    "title": "Do Amazon\u2019s Black Friday deals really save you money? A new report casts doubt.",
+    "link": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
+    "summary": "Almost a third of Amazon Black Friday deals \u201cprovided no savings at all\u201d in the last two years, a report says. The retailer is pushing back.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-16T23:04:00+00:00"
+  },
+  {
+    "title": "CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off",
+    "link": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
+    "summary": "There's one formula for success behind the rise of trendy new Chinese fashion brands, according to Euromonitor International.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-16T23:00:01+00:00"
+  },
+  {
     "title": "U.S. dollar\u2019s AI-driven breakout could become a stock-market wrecking ball",
     "link": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
     "summary": "The dollar recently climbed to its strongest level in a year and a half.",
@@ -362,222 +446,5 @@
     "summary": "\u201cWe essentially married the most addictive device with the most addictive behavior, and we put them together.\u201d",
     "source": "MarketWatch",
     "pub_iso": "2026-11-16T15:00:00+00:00"
-  },
-  {
-    "title": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly",
-    "link": "https://www.cnbc.com/2026/11/16/bitcoin-slides-to-62000-following-liquidation-cascade-then-rebounds-slightly.html",
-    "summary": "Bitcoin's ongoing weakness has pushed it below key technical support levels, triggering the cascade of long liquidations into the weekend.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-16T14:29:19+00:00"
-  },
-  {
-    "title": "Nvidia fallout: Commerce cracks down on third-country loophole that allowed China to use computing power",
-    "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
-    "summary": "The rule was written by the Treasury Department and the National Security Council after criticism of Commerce Secretary Howard Lutnick.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-16T14:18:42+00:00"
-  },
-  {
-    "title": "A major NFT marketplace is shutting down\u20145 years after the boom, there's a lesson for investors",
-    "link": "https://www.cnbc.com/make-it/2026/11/16/5-years-after-the-nft-boom-theres-a-lesson-for-investors-.html",
-    "summary": "Five years after NFTs took off, a major marketplace is shutting down\u2014here's what the boom and bust can teach investors about risky investments.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-16T14:00:01+00:00"
-  },
-  {
-    "title": "International student enrollment drops sharply, putting more U.S. colleges in financial jeopardy",
-    "link": "https://www.cnbc.com/2026/11/16/international-student-enrollment-decline-us-colleges.html",
-    "summary": "Higher costs and new immigration rules have contributed to a sharp decline in the number of international students studying on U.S. college campuses this year.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-16T13:46:35+00:00"
-  },
-  {
-    "title": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off",
-    "link": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
-    "summary": "\"Grand Theft Auto VI\" launches Nov. 19 with huge expectations. Its impact could reach creators, streaming, music, workplace time off, food delivery and tourism.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-16T13:24:20+00:00"
-  },
-  {
-    "title": "Nvidia stock falls as investors price in fallout from Jensen Huang's resignation",
-    "link": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html",
-    "summary": "The company was 2.7% down in premarket trading on Monday.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-16T13:15:24+00:00"
-  },
-  {
-    "title": "The FDA declined to approve one of biotech\u2019s most closely watched cancer drugs",
-    "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
-    "summary": "The regulator told Summit Therapeutics that the lung-cancer drug needs to prove it can help people live longer.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-16T13:01:00+00:00"
-  },
-  {
-    "title": "'We slept here': Flight delays linger as airlines recover from ground stop, but schedule improves Monday",
-    "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-    "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-16T12:57:46+00:00"
-  },
-  {
-    "title": "How to use options to bet against Big Tech, while keeping risk in check",
-    "link": "https://www.marketwatch.com/story/how-to-use-options-to-bet-against-big-tech-while-keeping-risk-in-check-a2609641?mod=mw_rss_topstories",
-    "summary": "One way to bet on the continued move away from Big Tech is by buying options that give you the right to both buy and sell certain market ETFs.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-16T12:53:00+00:00"
-  },
-  {
-    "title": "Anthropic\u2019s IPO is forcing investors to assess uninsurable risks they\u2019ve never encountered before",
-    "link": "https://www.marketwatch.com/story/anthropics-ipo-is-forcing-investors-to-assess-uninsurable-risks-theyve-never-encountered-before-dea85fbf?mod=mw_rss_topstories",
-    "summary": "Who pays when AI goes rogue? Insurance giants are reluctant to touch catastrophic legal liability.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-16T12:33:00+00:00"
-  },
-  {
-    "title": "Three questions for anyone considering the Nvidia CEO job",
-    "link": "https://www.marketwatch.com/story/three-questions-for-anyone-considering-the-nvidia-ceo-job-08ef8120?mod=mw_rss_topstories",
-    "summary": "Colette Kress\u2019s first earnings call as interim CEO offers a glimpse of Nvidia after Jensen Huang. Plus, Anthropic\u2019s coming IPO and why some gamers may call in sick this week.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-16T12:17:00+00:00"
-  },
-  {
-    "title": "Warren Buffett donates $5.5 billion, says kindness 'compounds' in Thanksgiving letter",
-    "link": "https://www.cnbc.com/2026/11/16/warren-buffett-donates-5point5-billion-thanksgiving.html",
-    "summary": "Following the donations, the chairman emeritus of Berkshire still owns 182,140 Class A shares -- roughly $162 billion.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-16T12:16:29+00:00"
-  },
-  {
-    "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
-    "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-    "summary": "Jensen Huang\u2019s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-16T12:14:46+00:00"
-  },
-  {
-    "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-    "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-    "summary": "ETF experts say Nvidia\u2019s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-16T12:13:23+00:00"
-  },
-  {
-    "title": "Nvidia stock falls nearly 4% as investors price in fallout from Jensen Huang's resignation",
-    "link": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html",
-    "summary": "The company was 3.7% down in premarket trading on Monday.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-16T12:12:44+00:00"
-  },
-  {
-    "title": "Nvidia's Colette Kress confronts key questions in first earnings report since Jensen Huang\u2019s exit",
-    "link": "https://www.cnbc.com/2026/11/16/nvidia-earnings-jensen-huang-resignation.html",
-    "summary": "Less than a week after Jensen Huang's abrupt departure, Nvidia interim CEO Colette Kress faces a major test with earnings.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-16T12:00:01+00:00"
-  },
-  {
-    "title": "Big-ticket holiday items may be harder to find as shipping costs rise",
-    "link": "https://www.cnbc.com/2026/11/16/holiday-big-ticket-inventory-shipping-costs.html",
-    "summary": "Transportation executives said they're seeing retailers be cautious on their holiday inventory strategy.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-16T12:00:01+00:00"
-  },
-  {
-    "title": "Why Nvidia can avoid the fate of most stocks that reached the apex by market cap, according to one strategist",
-    "link": "https://www.marketwatch.com/story/why-nvidia-can-avoid-the-fate-of-most-stocks-that-reached-the-apex-by-market-cap-according-to-one-strategist-461e33be?mod=mw_rss_topstories",
-    "summary": "Despite many analysts slashing their forecasts, the median target price for Nvidia remains way above the current share price at $280. Its cashflow and debt profile are the envy of all AI companies and",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-16T11:07:00+00:00"
-  },
-  {
-    "title": "Why Nvidia can avoid the fate of most stocks that reached the market-cap apex, according to one strategist",
-    "link": "https://www.marketwatch.com/story/why-nvidia-can-avoid-the-fate-of-most-stocks-that-reached-the-apex-by-market-cap-according-to-one-strategist-461e33be?mod=mw_rss_topstories",
-    "summary": "Despite many analysts slashing their forecasts, the median target price for Nvidia remains way above the current share price at $280. Its cash flow and debt profile are the envy of all AI companies an",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-16T11:07:00+00:00"
-  },
-  {
-    "title": "Here\u2019s how much the stock market could crumble if AI is a bubble that bursts, according to former White House economist",
-    "link": "https://www.marketwatch.com/story/heres-how-much-the-stock-market-could-crumble-if-ai-is-a-bubble-that-bursts-according-to-former-white-house-economist-3a4c15e1?mod=mw_rss_topstories",
-    "summary": "For Jason Furman, if artificial intelligence is a bubble that pops, the most likely scenario is a 25% drop in the broader market.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-16T10:32:00+00:00"
-  },
-  {
-    "title": "Here\u2019s how much the stock market could crumble if AI is in a bubble that bursts, according to former White House economist",
-    "link": "https://www.marketwatch.com/story/heres-how-much-the-stock-market-could-crumble-if-ai-is-a-bubble-that-bursts-according-to-former-white-house-economist-3a4c15e1?mod=mw_rss_topstories",
-    "summary": "Jason Furman says that if artificial intelligence is a bubble that pops, the most likely scenario is a 25% drop in the broader market.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-16T10:32:00+00:00"
-  },
-  {
-    "title": "Why Morgan Stanley says it\u2019s time to go \u2018max\u2019 overweight on stocks",
-    "link": "https://www.marketwatch.com/story/why-morgan-stanley-says-its-time-to-go-max-overweight-on-stocks-bd33b103?mod=mw_rss_topstories",
-    "summary": "Take your allocation to stocks to the highest possible amount, say Morgan Stanley strategists in one of the most bullish year-ahead outlooks so far published.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-16T10:20:00+00:00"
-  },
-  {
-    "title": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-    "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-    "summary": "\u201cIf I select a beneficiary, I won\u2019t be able to change it, ever.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-16T10:15:00+00:00"
-  },
-  {
-    "title": "Angelina Jolie reportedly buys a Connecticut mansion after selling L.A. estate",
-    "link": "https://www.marketwatch.com/story/angelina-jolie-reportedly-buys-a-connecticut-mansion-after-selling-l-a-estate-049f914b?mod=mw_rss_topstories",
-    "summary": "Angelina Jolie has picked up a Connecticut mansion\u2014nearly three months after she sold off her Los Angeles home for $24.75 million, according to reports.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-16T10:02:00+00:00"
-  },
-  {
-    "title": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting",
-    "link": "https://www.cnbc.com/2026/11/16/cantwell-lutnick-ai-chip-china.html",
-    "summary": "Commerce Secretary Howard Lutnick has drawn fire for his close relationship with Nvidia CEO Jensen Huang and the department's treatment of the company.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-16T10:00:01+00:00"
-  },
-  {
-    "title": "Former NFL star Chris Simms sells his 300-year-old Greenwich, Conn., home for $5.5 million",
-    "link": "https://www.marketwatch.com/story/former-nfl-star-chris-simms-sells-his-300-year-old-greenwich-conn-home-for-5-5-million-0ae1fdc2?mod=mw_rss_topstories",
-    "summary": "Former Tampa Bay Buccaneers quarterback Chris Simms has sold his historic Connecticut estate for $5.5 million\u2014after reducing the initial $8 million asking price several times.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-16T09:58:00+00:00"
-  },
-  {
-    "title": "The tech world's calls for Jensen Huang to return to Nvidia are growing",
-    "link": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
-    "summary": "Calls for Jensen Huang's return as Nvidia CEO are growing, with tech executives and major shareholders backing a potential comeback following his resignation.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-16T09:56:41+00:00"
-  },
-  {
-    "title": "NATO member Estonia to close Russia border after attempted 'sabotage' of drone maker",
-    "link": "https://www.cnbc.com/2026/11/16/nato-estonia-russia-border-ukraine-war.html",
-    "summary": "Estonia says closing the crossings would help curb hostile activity and sanctions circumvention.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-16T09:30:31+00:00"
-  },
-  {
-    "title": "\u2018Standing on one leg\u2019: IMF chief warns about global economy as AI circular financing hits $1 trillion",
-    "link": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html",
-    "summary": "Kristalina Georgieva says circular financing among AI companies has grown to just over $1 trillion, two-thirds of it debt, as investor enthusiasm cools",
-    "source": "CNBC",
-    "pub_iso": "2026-11-16T09:14:46+00:00"
-  },
-  {
-    "title": "Why this 40-year market veteran is making a lonely bet on a 40% stock-market crash \u2014 and $500 oil",
-    "link": "https://www.marketwatch.com/story/why-this-40-year-market-veteran-is-making-a-lonely-bet-on-a-40-stock-market-crash-and-500-oil-c62aefdb?mod=mw_rss_topstories",
-    "summary": "Ulf Lindahl says a storm is brewing for investors in the U.S. stock market, who will also be facing $500 oil in a few years. Here is where he\u2019d shelter.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-16T08:06:00+00:00"
-  },
-  {
-    "title": "AI is reshaping banking jobs \u2013 but its ability to drive profits remains unclear",
-    "link": "https://www.cnbc.com/2026/11/16/how-ai-is-changing-banking-jobs-hiring-and-revenue.html",
-    "summary": "Europe's banks are using AI to cut routine work, redeploy staff and hire more technical talent.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-16T06:20:55+00:00"
   }
 ]
