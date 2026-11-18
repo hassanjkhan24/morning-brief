@@ -1,10 +1,31 @@
 [
   {
+    "title": "Only two \u2018Magnificent Seven\u2019 stocks have managed to beat the S&P 500 since the start of 2025",
+    "link": "https://www.marketwatch.com/story/only-two-magnificent-seven-stocks-have-managed-to-beat-the-s-p-500-since-the-start-of-2025-a3daa0f8?mod=mw_rss_topstories",
+    "summary": "Alphabet and Apple have approached artificial intelligence in ways that have resonated on Wall Street.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-18T14:33:00+00:00"
+  },
+  {
+    "title": "How high must interest rates go to cool inflation? Possibly 100 basis points or more, Fed\u2019s Waller says.",
+    "link": "https://www.marketwatch.com/story/how-high-must-interest-rates-go-to-cool-inflation-possibly-100-basis-points-or-more-feds-waller-says-e7b41cf6?mod=mw_rss_topstories",
+    "summary": "The central bank might have to be more aggressive in order to \u201cshock\u201d inflation out of the system, Federal Reserve governor Christopher Waller said Wednesday.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-18T14:32:00+00:00"
+  },
+  {
     "title": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
     "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html",
     "summary": "Anthropic is gearing up for a blockbuster initial public offering this week, and excitement among retail investors looks to be off the charts.",
     "source": "CNBC",
     "pub_iso": "2026-11-18T14:20:58+00:00"
+  },
+  {
+    "title": "How to get Anthropic stock \u2014 without buying the IPO",
+    "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-stock-ai.html",
+    "summary": "Investors will get access to the AI startup's stock offering courtesy of its inclusion in many mutual funds and ETFs.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-18T14:16:32+00:00"
   },
   {
     "title": "Trump admin insists recent closely timed tech outages aren't connected",
@@ -488,26 +509,5 @@
     "summary": "Major outages showcase the risks of interconnected tech in the age of AI.",
     "source": "CNBC",
     "pub_iso": "2026-11-17T20:52:58+00:00"
-  },
-  {
-    "title": "The U.S.\u2019s classified national-security communications network experiences tech outage",
-    "link": "https://www.marketwatch.com/story/the-latest-tech-failure-u-s-classified-national-security-communications-network-ad271899?mod=mw_rss_topstories",
-    "summary": "A reported outage of a classified U.S. communications network has become the latest in a string of technology disruptions impacting consumers, businesses and the government.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-17T20:45:00+00:00"
-  },
-  {
-    "title": "Private equity has been buying up hospice centers \u2014 with striking consequences",
-    "link": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
-    "summary": "Medicare costs are higher and patients stay longer at hospice providers owned by private-equity firms, new research has found.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-17T20:40:00+00:00"
-  },
-  {
-    "title": "Wall Street's fear gauge is surging again and this time it's not just about AI jitters",
-    "link": "https://www.cnbc.com/2026/11/17/wall-streets-fear-gauge-is-surging-again-and-this-time-its-not-just-about-ai-jitters.html",
-    "summary": "VIX up four days in a row as options traders show fear unseen since April",
-    "source": "CNBC",
-    "pub_iso": "2026-11-17T20:28:07+00:00"
   }
 ]
