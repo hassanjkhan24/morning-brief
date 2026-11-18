@@ -1,5 +1,19 @@
 [
   {
+    "title": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
+    "link": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html",
+    "summary": "Former Nvidia CEO Jensen Huang will appear before the Senate banking committee, its Chair Tim Scott said. That adds to an already announced appearance before House panels.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-18T13:34:12+00:00"
+  },
+  {
+    "title": "Worried about the AI bubble popping? How investing pros say to adjust your strategy",
+    "link": "https://www.cnbc.com/make-it/2026/11/18/how-to-diversify-your-portfolio-amid-ai-bubble-fears.html",
+    "summary": "Tech concentration and AI-stock volatility are rattling investors. Experts explain how to diversify without abandoning long-term stock exposure.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-18T13:19:31+00:00"
+  },
+  {
     "title": "Fed\u2019s Waller says central bank may need to \u2018shock people\u2019 with half-point rate hike",
     "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
     "summary": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
@@ -17,6 +31,13 @@
     "title": "Measles cases in the U.S. are at a 35-year high. Here\u2019s the staggering cost of these outbreaks for all Americans.",
     "link": "https://www.marketwatch.com/story/measles-cases-in-the-u-s-are-at-a-35-year-high-heres-the-staggering-cost-of-falling-vaccination-rates-for-americans-e80a7ac6?mod=mw_rss_topstories",
     "summary": "The U.S. officially lost its measles elimination status on Tuesday as it grapples with multiple outbreaks.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-18T13:00:00+00:00"
+  },
+  {
+    "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Has the time come to sell my stocks?",
+    "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "summary": "\u201cReal estate here in Florida seems to be presenting some interesting opportunities.\u201d",
     "source": "MarketWatch",
     "pub_iso": "2026-11-18T13:00:00+00:00"
   },
@@ -488,26 +509,5 @@
     "summary": "Apple and Google customers were reporting service outages on Tuesday, the latest disruptions in a string of technology outages reported by consumers over the past week.",
     "source": "MarketWatch",
     "pub_iso": "2026-11-17T19:46:00+00:00"
-  },
-  {
-    "title": "Want to know what bitcoin is really worth? Check this chart.",
-    "link": "https://www.marketwatch.com/story/want-to-know-what-bitcoin-is-really-worth-check-this-chart-daa3fce7?mod=mw_rss_topstories",
-    "summary": "A model for calculating bitcoin\u2019s value has worked well to inform investors when the cryptocurrency is overbought or oversold. Now, the price is just right.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-17T19:34:00+00:00"
-  },
-  {
-    "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-    "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-    "summary": "\u201cI\u2019m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-17T19:30:00+00:00"
-  },
-  {
-    "title": "These charts show investor fears run even deeper than the stock market\u2019s decline suggests",
-    "link": "https://www.marketwatch.com/story/these-charts-show-investor-fears-run-even-deeper-than-the-stock-markets-decline-suggests-924e2647?mod=mw_rss_topstories",
-    "summary": "The yen\u2019s recent strengthening, particularly against the Australian dollar, suggests investors are unwinding risky bets.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-17T19:22:00+00:00"
   }
 ]
