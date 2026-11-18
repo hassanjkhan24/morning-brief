@@ -1,5 +1,12 @@
 [
   {
+    "title": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
+    "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+    "summary": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-18T08:29:35+00:00"
+  },
+  {
     "title": "China\u2019s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
     "link": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
     "summary": "Xi opened the APEC summit in Shenzhen by calling for lower trade and investment barriers, pledging broader access to China\u2019s market and manufacturing sector.",
@@ -19,6 +26,13 @@
     "summary": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
     "source": "CNBC",
     "pub_iso": "2026-11-18T07:17:11+00:00"
+  },
+  {
+    "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+    "link": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
+    "summary": "The U.S. Commerce Department is making moves to tighten export controls.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-18T07:16:14+00:00"
   },
   {
     "title": "Emergency alerts and $75,000 rewards: South Korea fights high-tech exam cheating",
@@ -78,6 +92,13 @@
   },
   {
     "title": "Medicare Part B premiums rise due higher healthcare spending",
+    "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
+    "summary": "The premiums will increase by $6.50, to $209.40 a month.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-18T01:45:00+00:00"
+  },
+  {
+    "title": "Medicare Part B premiums rise due to higher healthcare spending",
     "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
     "summary": "The premiums will increase by $6.50, to $209.40 a month.",
     "source": "MarketWatch",
@@ -467,54 +488,5 @@
     "summary": "Homebuilder sentiment fell to a 14-year low amid high mortgage rates and higher prices for energy, labor and materials. That caused more builder price cuts.",
     "source": "CNBC",
     "pub_iso": "2026-11-17T15:00:01+00:00"
-  },
-  {
-    "title": "SpaceX got a vote of confidence from Nvidia ahead of Jensen Huang\u2019s exit",
-    "link": "https://www.marketwatch.com/story/spacex-got-a-vote-of-confidence-from-nvidia-ahead-of-jensen-huangs-exit-6fe52365?mod=mw_rss_topstories",
-    "summary": "Nvidia purchased millions of additional SpaceX shares during the third quarter.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-17T14:46:00+00:00"
-  },
-  {
-    "title": "I tried TikTok\u2019s viral \u2018corporate slop lunch hacks\u2019 \u2014 and finally escaped the $20 desk salad",
-    "link": "https://www.marketwatch.com/story/i-tried-tiktoks-viral-corporate-slop-lunch-hacks-and-finally-escaped-the-20-desk-salad-60daf133?mod=mw_rss_topstories",
-    "summary": "I\u2019m not telling you to start buying lunch if you don\u2019t already. I\u2019m showing you how to spend less when you do.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-17T14:41:00+00:00"
-  },
-  {
-    "title": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
-    "link": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
-    "summary": "Anthropic is slated to list on the Nasdaq under the ticker symbol \"ANT\" and start trading on Nov. 19.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-17T14:34:48+00:00"
-  },
-  {
-    "title": "U.S. retail sales slow just ahead of the holiday shopping season. A hint of trouble? Nope.",
-    "link": "https://www.marketwatch.com/story/u-s-retail-sales-slow-just-ahead-of-the-holiday-shopping-season-a-hint-of-trouble-a89c9f98?mod=mw_rss_topstories",
-    "summary": "Sales at U.S. retailers rose just slightly in October after two months of big increases, suggesting that households took a small but temporary breather before the start of the holiday shopping season.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-17T14:32:00+00:00"
-  },
-  {
-    "title": "Nike lays out financial goals ahead of first investor day in 9 years",
-    "link": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
-    "summary": "Nike is hosting an investor day at its Oregon headquarters as the company tries to prove to investors that its turnaround is working.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-17T14:26:39+00:00"
-  },
-  {
-    "title": "Nvidia investors will be clamoring for these answers during today\u2019s historic earnings call",
-    "link": "https://www.marketwatch.com/story/nvidia-investors-will-be-clamoring-for-answers-to-these-questions-during-the-companys-hotly-anticipated-earnings-call-a49ec19d?mod=mw_rss_topstories",
-    "summary": "There\u2019s a lot that Nvidia investors want to know about the post-Jensen Huang era \u2014\u00a0although management is likely to be tight-lipped on the topic of succession.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-17T14:24:00+00:00"
-  },
-  {
-    "title": "The biggest financial decision of your life isn\u2019t an investment \u2014 it\u2019s your spouse",
-    "link": "https://www.marketwatch.com/story/the-biggest-financial-decision-of-your-life-isnt-an-investment-its-your-spouse-1cbb8680?mod=mw_rss_topstories",
-    "summary": "These are the money conversation to have before the wedding, and the paperwork to do after.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-17T14:10:00+00:00"
   }
 ]
