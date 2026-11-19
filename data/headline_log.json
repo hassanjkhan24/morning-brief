@@ -1,5 +1,26 @@
 [
   {
+    "title": "Trump praises \u2018great relationship\u2019 with Putin after meeting, as Ukraine war takes center stage",
+    "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
+    "summary": "U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-19T09:02:00+00:00"
+  },
+  {
+    "title": "Trump says U.S., China, Russia \u2018uniquely positioned\u2019 to discuss reducing nuclear weapons at historic meeting",
+    "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
+    "summary": "",
+    "source": "CNBC",
+    "pub_iso": "2026-11-19T08:56:30+00:00"
+  },
+  {
+    "title": "This closely-watched guru just sold everything",
+    "link": "https://www.marketwatch.com/story/this-closely-watched-guru-just-sold-everything-474b4389?mod=mw_rss_topstories",
+    "summary": "Panmure Liberum strategist and widely-followed stock-market commentator Joachim Klement has effectively had his personal retirement portfolio 100% invested in stocks for many years.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-19T08:25:00+00:00"
+  },
+  {
     "title": "Russia says Putin in \u2018excellent mood\u2019 after Trump meeting, ahead of trilateral with Xi in China",
     "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
     "summary": "U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping.",
@@ -33,6 +54,13 @@
     "summary": "Korean media, gaming and travel stocks surged on hopes of greater access to China.",
     "source": "CNBC",
     "pub_iso": "2026-11-19T03:43:38+00:00"
+  },
+  {
+    "title": "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+    "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+    "summary": "\u201cOur financial and healthcare situation has become increasingly concerning.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-19T03:30:00+00:00"
   },
   {
     "title": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
@@ -441,52 +469,17 @@
     "pub_iso": "2026-11-18T15:19:53+00:00"
   },
   {
+    "title": "Fed\u2019s Waller says central bank may need to \u2018shock people\u2019 with half-point rate hike",
+    "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+    "summary": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-18T15:13:39+00:00"
+  },
+  {
     "title": "Two new housing reports point to bleak winter ahead, with record low sales",
     "link": "https://www.cnbc.com/2026/11/18/two-new-housing-reports-point-to-bleak-winter-ahead.html",
     "summary": "Two new reports on the state of the housing market show things are just getting worse, as high mortgage rates and inflation plague builders and buyers.",
     "source": "CNBC",
     "pub_iso": "2026-11-18T15:09:45+00:00"
-  },
-  {
-    "title": "Fed\u2019s Waller says interest-rate hikes may be needed to \u2018shock\u2019 inflation out of the system",
-    "link": "https://www.marketwatch.com/story/how-high-must-interest-rates-go-to-cool-inflation-possibly-100-basis-points-or-more-feds-waller-says-e7b41cf6?mod=mw_rss_topstories",
-    "summary": "The central bank might need to hike interest rates by a full percentage point or more to cool down inflation, Federal Reserve governor Christopher Waller said Wednesday.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-18T15:00:00+00:00"
-  },
-  {
-    "title": "Only two \u2018Magnificent Seven\u2019 stocks have managed to beat the S&P 500 since the start of 2025",
-    "link": "https://www.marketwatch.com/story/only-two-magnificent-seven-stocks-have-managed-to-beat-the-s-p-500-since-the-start-of-2025-a3daa0f8?mod=mw_rss_topstories",
-    "summary": "Alphabet and Apple have approached artificial intelligence in ways that have resonated on Wall Street.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-18T14:33:00+00:00"
-  },
-  {
-    "title": "How high must interest rates go to cool inflation? Possibly 100 basis points or more, Fed\u2019s Waller says.",
-    "link": "https://www.marketwatch.com/story/how-high-must-interest-rates-go-to-cool-inflation-possibly-100-basis-points-or-more-feds-waller-says-e7b41cf6?mod=mw_rss_topstories",
-    "summary": "The central bank might have to be more aggressive in order to \u201cshock\u201d inflation out of the system, Federal Reserve governor Christopher Waller said Wednesday.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-18T14:32:00+00:00"
-  },
-  {
-    "title": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
-    "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html",
-    "summary": "Anthropic is gearing up for a blockbuster initial public offering this week, and excitement among retail investors looks to be off the charts.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-18T14:20:58+00:00"
-  },
-  {
-    "title": "How to get Anthropic stock \u2014 without buying the IPO",
-    "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-stock-ai.html",
-    "summary": "Investors will get access to the AI startup's stock offering courtesy of its inclusion in many mutual funds and ETFs.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-18T14:16:32+00:00"
-  },
-  {
-    "title": "Trump admin insists recent closely timed tech outages aren't connected",
-    "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
-    "summary": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-18T14:16:15+00:00"
   }
 ]
