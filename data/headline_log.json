@@ -1,5 +1,26 @@
 [
   {
+    "title": "Cathie Wood's ARK Invest was a big buyer of Anthropic during debut",
+    "link": "https://www.cnbc.com/2026/11/20/cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut.html",
+    "summary": "Wood's firm bought $90.8 million worth of Anthropic in six funds, according to a trade notification from the firm.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-20T12:15:24+00:00"
+  },
+  {
+    "title": "The Tech Download: Anthropic charmed Wall Street. But one big uncertainty hangs over the business",
+    "link": "https://www.cnbc.com/2026/11/20/tech-download-anthropic-compute-access.html",
+    "summary": "Access to the huge quantities of compute the company needs to continue developing and deploying models is a challenge for Anthropic to navigate.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-20T12:00:02+00:00"
+  },
+  {
+    "title": "Rejecting cheap fabrics, higher prices: Why shoppers are asking for better clothes",
+    "link": "https://www.cnbc.com/2026/11/20/clothing-prices-polyester-cotton-quality.html",
+    "summary": "Retailers are charging higher prices for clothing made with cheaper materials. Shoppers are taking notice and experts say it could shift how they spend.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-20T12:00:02+00:00"
+  },
+  {
     "title": "Citi warns a key stock-market signal is close to flashing red",
     "link": "https://www.marketwatch.com/story/citi-warns-a-key-stock-market-signal-is-close-to-flashing-red-5cbee1c3?mod=mw_rss_topstories",
     "summary": "Having turned risk averse more than a month ago, Citi strategists find no compelling reason to go more positive risk assets yet, despite the steep decline. If sentiment deteriorates further, buying lo",
@@ -336,6 +357,13 @@
     "pub_iso": "2026-11-19T18:53:00+00:00"
   },
   {
+    "title": "Jensen Huang's \u2014 and Nvidia's \u2014 legal exposure balloons",
+    "link": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
+    "summary": "\"It's not going to get any better for Jensen Huang; it's going to get far worse,\" said Salvatore Graziano, a New York securities litigation attorney.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-19T18:44:34+00:00"
+  },
+  {
     "title": "Elon Musk becomes the latest tech billionaire to make a peace offering to Democrats after the midterms",
     "link": "https://www.marketwatch.com/story/elon-musk-becomes-the-latest-tech-billionaire-to-make-a-peace-offering-to-democrats-after-the-midterms-05df0c0e?mod=mw_rss_topstories",
     "summary": "\u2018So probably if I could rewind the clock, I would have spent less money,\u2019 Tesla CEO says of his outlays for Republican candidates",
@@ -355,40 +383,5 @@
     "summary": "AMD was slumping after a short-seller alleged that its firmware showed up at a blacklisted Chinese company. The company said it complies with U.S. law.",
     "source": "CNBC",
     "pub_iso": "2026-11-19T18:24:54+00:00"
-  },
-  {
-    "title": "My wife pays for her family to visit us in New York. How do I tell her we can\u2019t afford it?",
-    "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
-    "summary": "\u201cHotel rooms can cost as much as $400 per night.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-19T18:15:00+00:00"
-  },
-  {
-    "title": "Amid recent banking outages, should you start carrying cash again? Top advisors weigh in",
-    "link": "https://www.cnbc.com/2026/11/19/banking-outages-emergency-cash.html",
-    "summary": "Recent outages are prompting a rethink of cash. At the very least, your money should be diversified, top advisors say.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-19T18:07:30+00:00"
-  },
-  {
-    "title": "\u2018Rockets are hard\u2019 \u2014 yet this analyst thinks AST SpaceMobile\u2019s stock is ready to rebound",
-    "link": "https://www.marketwatch.com/story/rockets-are-hard-yet-this-analyst-thinks-ast-spacemobiles-stock-is-ready-to-rebound-b9ce6f9c?mod=mw_rss_topstories",
-    "summary": "This year\u2019s bruising selloff in AST SpaceMobile shares may have gone too far, according to a new bull.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-19T18:07:00+00:00"
-  },
-  {
-    "title": "Forget data centers. The next great AI stocks are hiding in plain sight in these four sectors.",
-    "link": "https://www.marketwatch.com/story/forget-data-centers-the-next-great-ai-stocks-are-hiding-in-plain-sight-in-these-four-sectors-ee9833b1?mod=mw_rss_topstories",
-    "summary": "Stanley Druckenmiller thinks the next big winners will come from applying AI. Here are some companies worth watching.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-19T18:00:00+00:00"
-  },
-  {
-    "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
-    "link": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
-    "summary": "President Trump disclosed purchases of Nvidia stock, SpaceX debt and Tesla shares in September, alongside millions of dollars in other investments.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-19T17:59:04+00:00"
   }
 ]
