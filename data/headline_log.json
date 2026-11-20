@@ -1,10 +1,31 @@
 [
   {
+    "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+    "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+    "summary": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-20T17:52:46+00:00"
+  },
+  {
+    "title": "Why year-end portfolio rebalancing is a risky bet that bonds will beat stocks in 2027",
+    "link": "https://www.marketwatch.com/story/why-year-end-portfolio-rebalancing-is-a-risky-bet-that-bonds-will-beat-stocks-in-2027-1b438892?mod=mw_rss_topstories",
+    "summary": "Portfolio rebalancing involves many implicit bets that investors may not even be aware of",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-20T17:49:00+00:00"
+  },
+  {
     "title": "Gap stock soars as retailer says Old Navy turnaround shows signs of improvement",
     "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
     "summary": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
     "source": "CNBC",
     "pub_iso": "2026-11-20T17:20:29+00:00"
+  },
+  {
+    "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
+    "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
+    "summary": "The plan would free up hospital and nursing-home beds \u2014 and lower costs.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-20T17:15:00+00:00"
   },
   {
     "title": "Data center construction costs soar 13% in 2026",
@@ -59,6 +80,13 @@
     "title": "This proposed Social Security fix could add trillions to the national debt",
     "link": "https://www.marketwatch.com/story/this-proposed-social-security-fix-could-add-trillions-to-the-national-debt-17197e91?mod=mw_rss_topstories",
     "summary": "A Republican senator has a new proposal called the \u201cStop Scaring Seniors Act.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-20T15:28:00+00:00"
+  },
+  {
+    "title": "Sen. Ron Johnson\u2019s Social Security fix could add trillions to the national debt",
+    "link": "https://www.marketwatch.com/story/this-proposed-social-security-fix-could-add-trillions-to-the-national-debt-17197e91?mod=mw_rss_topstories",
+    "summary": "Experts weigh in on the Republican senator\u2019s proposal called the \u201cStop Scaring Seniors Act\u201d",
     "source": "MarketWatch",
     "pub_iso": "2026-11-20T15:28:00+00:00"
   },
@@ -411,19 +439,5 @@
     "summary": "Retail investors showed up, but Anthropic has so far failed to provide a broad lift to the technology sector.",
     "source": "MarketWatch",
     "pub_iso": "2026-11-19T23:56:00+00:00"
-  },
-  {
-    "title": "Gap names new Athleta CEO, lowers full-year guidance",
-    "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
-    "summary": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-19T23:54:20+00:00"
-  },
-  {
-    "title": "Lumentum CEO defends Marvell deal after stock plunge: 'We've got work to do' with shareholders",
-    "link": "https://www.cnbc.com/2026/11/19/lumentum-marvell-deal-ceo-shareholders-cramer.html",
-    "summary": "Lumentum CEO defended the planned Marvell merger despite stock sell-off.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-19T23:47:42+00:00"
   }
 ]
