@@ -1,5 +1,33 @@
 [
   {
+    "title": "Russia accuses NATO member Estonia of hostile actions \u2018on the verge of unleashing open war\u2019",
+    "link": "https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html",
+    "summary": "Russia accused Estonia of \u201chostile actions\u201d and warned its border measures risk open war, as Tallinn prepares to close road crossings from Dec. 1.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-24T12:32:24+00:00"
+  },
+  {
+    "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
+    "link": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
+    "summary": "Best Buy beat quarterly expectations for its fiscal third-quarter earnings results on Tuesday and raised its full-year guidance.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-24T12:06:04+00:00"
+  },
+  {
+    "title": "Some U.S. food banks see demand top pandemic levels",
+    "link": "https://www.cnbc.com/2026/11/24/us-food-banks-demand-snap.html",
+    "summary": "A combination of high costs and restrictions to federal aid have led to soaring demand at many food banks in the U.S.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-24T12:00:01+00:00"
+  },
+  {
+    "title": "U.S. court clears the way for Army\u2019s planned ammunition detonation in Iowa",
+    "link": "https://www.cnbc.com/2026/11/24/iowa-detonation-bomb-court-.html",
+    "summary": "A U.S. court cleared the Army to detonate degraded explosives at an Iowa ammunition plant amid public concern over contamination and health risks.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-24T11:56:49+00:00"
+  },
+  {
     "title": "The \u2018epic\u2019 buying of retail investors paid off after Nvidia\u2019s 31% stock surge, says strategist",
     "link": "https://www.marketwatch.com/story/the-epic-buying-of-retail-investors-paid-off-after-nvidias-31-stock-surge-says-strategist-c8f9a502?mod=mw_rss_topstories",
     "summary": "Retail investors who bought shares in the chip giant last week saw an average gain of 11% on Monday.",
@@ -362,47 +390,5 @@
     "summary": "Amazon\u2019s deal for Decart\u2019s AI technology, with a reported price of $7.5 billion, may be a relatively inexpensive way to boost the speed and efficiency of its custom chips, says an analyst.",
     "source": "MarketWatch",
     "pub_iso": "2026-11-23T18:47:00+00:00"
-  },
-  {
-    "title": "Trump\u2019s push to reinstate Jensen Huang signals Nvidia\u2019s CEO is too big to fail",
-    "link": "https://www.marketwatch.com/story/trumps-push-to-reinstate-jensen-huang-signals-nvidias-ceo-is-too-big-to-fail-10709210?mod=mw_rss_topstories",
-    "summary": "\u201cThe bigger threat would be losing the brainpower of somebody like Jensen,\u201d the president said amid concerns about corporate governance rules and export controls",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-23T18:43:00+00:00"
-  },
-  {
-    "title": "Amazon to acquire AI startup Decart's chip software, hire founders",
-    "link": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
-    "summary": "Decart, founded in 2023, is best known for its software that lets developers sync their AI models across different chips.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-23T18:23:55+00:00"
-  },
-  {
-    "title": "Trump administration proposes rule that could curb ESG investing in 401(k)s",
-    "link": "https://www.cnbc.com/2026/11/23/labor-department-esg-401k-rule.html",
-    "summary": "The Labor Department proposed a regulation Monday that seeks to curb uptake of ESG funds in workplace retirement plans like 401(k)s.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-23T18:14:18+00:00"
-  },
-  {
-    "title": "See how much more money the richest Americans are spending on the holidays compared to everyone else",
-    "link": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
-    "summary": "Most households are getting \u201csqueezed by rising costs of everyday goods,\u201d according to Teneo, but upper-income households \u201care showing resilience.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-23T18:14:00+00:00"
-  },
-  {
-    "title": "\u2018This establishes a bottom\u2019: Jensen Huang\u2019s return seen as likely to stop market sell-off, for now",
-    "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
-    "summary": "Wall Street strategists say Jensen Huang\u2019s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-23T18:00:47+00:00"
-  },
-  {
-    "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, are among the S&P 500\u2019s biggest losers Monday",
-    "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
-    "summary": "Shares of Kroger and Tyson Foods are down, as Nvidia storms higher",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-23T17:54:00+00:00"
   }
 ]
