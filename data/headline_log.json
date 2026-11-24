@@ -1,5 +1,54 @@
 [
   {
+    "title": "Op-ed: Trump\u2019s Nvidia board intervention put a price on national security. Our adversaries will take note",
+    "link": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
+    "summary": "President Trump's decision to force Nvidia's board to bring back Jensen Huang as CEO is exactly what Beijing, Tehran, and Moscow would want to see.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-24T18:04:20+00:00"
+  },
+  {
+    "title": "AG Blanche, FBI\u2019s Patel dodge questions about Jensen Huang investigation",
+    "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
+    "summary": "",
+    "source": "CNBC",
+    "pub_iso": "2026-11-24T17:59:44+00:00"
+  },
+  {
+    "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+    "link": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
+    "summary": "Trump Account contributions from friends and family have passed $1 billion, according to the Treasury Department. Here's what families need to know.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-24T17:59:12+00:00"
+  },
+  {
+    "title": "The AI debt market isn\u2019t convinced the worst is over for investors",
+    "link": "https://www.marketwatch.com/story/the-ai-debt-market-isnt-convinced-the-worst-is-over-for-investors-c70eaede?mod=mw_rss_topstories",
+    "summary": "Stocks rebounded on Monday, but credit markets remain cautious.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-24T17:48:00+00:00"
+  },
+  {
+    "title": "Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive",
+    "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+    "summary": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-24T17:30:26+00:00"
+  },
+  {
+    "title": "Nvidia shares fall 7% as Huang comeback rally cools",
+    "link": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+    "summary": "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-24T17:22:30+00:00"
+  },
+  {
+    "title": "\u2018Buyers are out for blood\u2019: With home sales at a record low, buyers are calling the shots",
+    "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+    "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-24T17:10:00+00:00"
+  },
+  {
     "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
     "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
     "summary": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington.",
@@ -182,6 +231,13 @@
     "pub_iso": "2026-11-24T12:21:00+00:00"
   },
   {
+    "title": "Does the Nvidia-led rip mark the market bottom? Maybe not",
+    "link": "https://www.cnbc.com/2026/11/24/does-the-nvidia-led-rip-mark-the-market-bottom-maybe-not.html",
+    "summary": "The standard market playbook is to assume that we\u2019ve put in \u201ca low, not the final low.\u201d",
+    "source": "CNBC",
+    "pub_iso": "2026-11-24T12:10:59+00:00"
+  },
+  {
     "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
     "link": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
     "summary": "Best Buy beat quarterly expectations for its fiscal third-quarter earnings results on Tuesday and raised its full-year guidance.",
@@ -348,61 +404,5 @@
     "summary": "Investors piled back into the tech market, following the reinstatement of Nvidia CEO Jensen Huang by its board.",
     "source": "CNBC",
     "pub_iso": "2026-11-24T00:24:51+00:00"
-  },
-  {
-    "title": "CrowdStrike CEO defends Zscaler acquisition, calls it a 'winning combination'",
-    "link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-deal-ceo-george-kurtz.html",
-    "summary": "CrowdStrike CEO George Kurtz defended the company's $44 billion acquisition of Zscaler.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-23T23:53:20+00:00"
-  },
-  {
-    "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
-    "link": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
-    "summary": "Businesses across Asia-Pacific are seeing returns from AI investments, even as confidence in measuring those gains varies, according to an AWS survey.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-23T23:42:27+00:00"
-  },
-  {
-    "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-    "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-    "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-23T23:27:26+00:00"
-  },
-  {
-    "title": "Nvidia sets options-trading record after CEO comeback. Here are the big trades",
-    "link": "https://www.cnbc.com/2026/11/23/nvidia-sets-options-trading-record-after-ceo-comeback-here-are-the-big-trades.html",
-    "summary": "Nvidia break record for single stock options volume",
-    "source": "CNBC",
-    "pub_iso": "2026-11-23T23:24:02+00:00"
-  },
-  {
-    "title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
-    "link": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
-    "summary": "SharkNinja will join the S&P 500, replacing AES.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-23T23:18:00+00:00"
-  },
-  {
-    "title": "Trump sealed deal for Nvidia to rehire Jensen Huang as CEO",
-    "link": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
-    "summary": "President Trump said his administration gave Nvidia's board assurance that Jensen Huang would not be a national security threat if he was reinstated as CEO.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-23T23:15:44+00:00"
-  },
-  {
-    "title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
-    "link": "https://www.cnbc.com/2026/11/23/jim-cramer-nvidia-jensen-huang-ceo-return.html",
-    "summary": "CNBC's Jim Cramer said Jensen Huang's return as Nvidia CEO could help revive the chipmaker's battered stock.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-23T23:14:34+00:00"
-  },
-  {
-    "title": "CNBC's The China Connection newsletter: AI race spreads from robots to smartphones",
-    "link": "https://www.cnbc.com/2026/11/23/cnbcs-the-china-connection-newsletter-ai-race-spreads-to-smartphones.html",
-    "summary": "More powerful artificial intelligence models are raising expectations for more powerful on-device chips that can run on devices from robots to smartphones.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-23T23:00:01+00:00"
   }
 ]
