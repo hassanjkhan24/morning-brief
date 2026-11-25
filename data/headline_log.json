@@ -1,5 +1,75 @@
 [
   {
+    "title": "Treasury yields fall as investors await key inflation signal",
+    "link": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
+    "summary": "Bond yields moved lower Wednesday as investors awaited key inflation and spending data during a holiday-shortened week.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-25T07:44:24+00:00"
+  },
+  {
+    "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
+    "link": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
+    "summary": "Big Tech could find it increasingly tough to secure funding from debt markets critical to the AI build-out, as lenders become pickier over corporate bonds.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-25T06:29:46+00:00"
+  },
+  {
+    "title": "Crypto talent will return \u2018when AI implodes,\u2019 Arthur Hayes says",
+    "link": "https://www.cnbc.com/2026/11/25/talents-crypto-ai-investment.html",
+    "summary": "Maelstrom CIO Arthur Hayes expects the AI trade to face headwinds in the second half of 2027, with startup talent potentially returning to crypto afterward.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-25T06:09:44+00:00"
+  },
+  {
+    "title": "\u2018Ready for any storm\u2019: UAE minister optimistic on economy as IMF lifts forecast",
+    "link": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+    "summary": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-25T04:06:01+00:00"
+  },
+  {
+    "title": "China\u2019s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal",
+    "link": "https://www.cnbc.com/2026/11/25/china-xiamen-boeing-deal.html",
+    "summary": "Xiamen Airlines has agreed to purchase 50 Boeing 737-8 aircraft with a combined catalog price of around $7.4 billion.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-25T03:58:32+00:00"
+  },
+  {
+    "title": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
+    "link": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+    "summary": "Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattled investors.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-25T03:52:03+00:00"
+  },
+  {
+    "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
+    "link": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
+    "summary": "Huawei was found guilty of bank fraud, money laundering and trade secret theft conspiracy in a U.S. trial.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-25T02:43:33+00:00"
+  },
+  {
+    "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
+    "link": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
+    "summary": "This has been the second attack by the Iran-backed group in six days on the tower, although the previous attack did not cause any casualties.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-25T02:36:43+00:00"
+  },
+  {
+    "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
+    "link": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
+    "summary": "Trump said he would be willing to pardon Jensen Huang if needed and argued that the Nvidia CEO should not have to invoke the Fifth Amendment before Congress.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-25T02:09:45+00:00"
+  },
+  {
+    "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+    "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+    "summary": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-25T01:13:56+00:00"
+  },
+  {
     "title": "Micron boosted CEO Sanjay Mehrotra\u2019s security budget by 2,000%, new filing shows",
     "link": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
     "summary": "Steeply higher security expenses of $764,748 for Mehrotra were part of a $39.7 million total compensation package in the latest fiscal year.",
@@ -320,243 +390,5 @@
     "summary": "\u201cRetirement is a financial status, not an age.\u201d",
     "source": "MarketWatch",
     "pub_iso": "2026-11-24T15:30:00+00:00"
-  },
-  {
-    "title": "Nvidia brought Jensen Huang back. But the investigations aren\u2019t over",
-    "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html",
-    "summary": "Jensen Huang is back as Nvidia CEO, but the company still faces an internal investigation and California and federal scrutiny.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-24T15:03:36+00:00"
-  },
-  {
-    "title": "The number of 401(k) millionaires drops as the stock market swings",
-    "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
-    "summary": "\u2018It was a rocky quarter\u2019: 401(k) balances drop and affordability concerns persist, Fidelity says",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-24T14:59:00+00:00"
-  },
-  {
-    "title": "Nvidia\u2019s stock drops as these major questions loom over Jensen Huang\u2019s return",
-    "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories",
-    "summary": "Huang\u2019s reinstatement as CEO doesn\u2019t fix regulatory issues or the investigation into his relationship with a former Megaspeed executive.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-24T14:59:00+00:00"
-  },
-  {
-    "title": "What to do if your Thanksgiving flight gets delayed \u2014 especially with a nor\u2019easter brewing",
-    "link": "https://www.marketwatch.com/story/what-to-do-if-your-thanksgiving-flight-gets-delayed-especially-with-a-noreaster-brewing-566fe933?mod=mw_rss_topstories",
-    "summary": "Plus some advice on cutting your Thanksgiving grocery tab.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-24T14:56:00+00:00"
-  },
-  {
-    "title": "Anthropic\u2019s stock just broke below its IPO price for the first time",
-    "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
-    "summary": "Shares traded below their IPO price of $83 on Tuesday morning, less than a week after they first started trading on the Nasdaq.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-24T14:55:00+00:00"
-  },
-  {
-    "title": "Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
-    "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
-    "summary": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-24T14:52:20+00:00"
-  },
-  {
-    "title": "Nvidia shares fall over 5% after Huang comeback rally",
-    "link": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
-    "summary": "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-24T14:43:53+00:00"
-  },
-  {
-    "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-    "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-    "summary": "\u201cHe explained that he wasn\u2019t trying to hide the payment, but his former wife lost her job in a medical billing company.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-24T14:17:00+00:00"
-  },
-  {
-    "title": "Jensen Huang is back as Nvidia CEO, but investigations and risks remain",
-    "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html",
-    "summary": "Jensen Huang is back as Nvidia CEO, but the company still faces an internal investigation and California and federal scrutiny.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-24T14:09:18+00:00"
-  },
-  {
-    "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
-    "link": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
-    "summary": "Luxury Advent calendars in particular \u2014 which can run hundreds of dollars \u2014 have seen a spike in sales. Here\u2019s why.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-24T13:50:00+00:00"
-  },
-  {
-    "title": "I\u2019ve paid for long-term-care insurance for 20 years. Is it still worth it?",
-    "link": "https://www.marketwatch.com/story/ive-paid-for-long-term-care-insurance-for-20-years-is-it-still-worth-it-1b2cd52d?mod=mw_rss_topstories",
-    "summary": "Doing the math to determine if I have a good deal \u2014 or should trade in for a more modern policy.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-24T13:41:00+00:00"
-  },
-  {
-    "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
-    "link": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
-    "summary": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-24T13:33:26+00:00"
-  },
-  {
-    "title": "Commercial real estate activity falls 14% in October, as interest rates rise",
-    "link": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html",
-    "summary": "Commercial real estate activity dropped 14% in October from September, according to an index from LightBox, a commercial real estate data platform.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-24T13:17:16+00:00"
-  },
-  {
-    "title": "Sunday\u2019s pot roast now costs more than a Thanksgiving feast. Why beef won\u2019t get cheaper for years.",
-    "link": "https://www.marketwatch.com/story/sundays-pot-roast-now-costs-more-than-a-thanksgiving-feast-why-beef-wont-get-cheaper-for-years-7daa1b3f?mod=mw_rss_topstories",
-    "summary": "A four-pound chuck roast runs $36.33. Walmart feeds 10 for $35. The turkey is the bait. The cow is the bill.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-24T12:56:00+00:00"
-  },
-  {
-    "title": "Russia accuses NATO member Estonia of hostile actions \u2018on the verge of unleashing open war\u2019",
-    "link": "https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html",
-    "summary": "Russia accused Estonia of \u201chostile actions\u201d and warned its border measures risk open war, as Tallinn prepares to close road crossings from Dec. 1.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-24T12:32:24+00:00"
-  },
-  {
-    "title": "Jensen Huang\u2019s return was worth nearly $950 billion to Nvidia. How much of the stock market should ride on one man?",
-    "link": "https://www.marketwatch.com/story/jensen-huangs-return-was-worth-nearly-950-billion-to-nvidia-how-much-of-the-stock-market-should-ride-on-one-man-c7129e95?mod=mw_rss_topstories",
-    "summary": "Trump got the CEO he wanted. Nvidia still has an investigation to finish. Plus, the outlook for AI jobs and why Medicare Advantage insurers missed Monday\u2019s rally.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-24T12:21:00+00:00"
-  },
-  {
-    "title": "Does the Nvidia-led rip mark the market bottom? Maybe not",
-    "link": "https://www.cnbc.com/2026/11/24/does-the-nvidia-led-rip-mark-the-market-bottom-maybe-not.html",
-    "summary": "The standard market playbook is to assume that we\u2019ve put in \u201ca low, not the final low.\u201d",
-    "source": "CNBC",
-    "pub_iso": "2026-11-24T12:10:59+00:00"
-  },
-  {
-    "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
-    "link": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
-    "summary": "Best Buy beat quarterly expectations for its fiscal third-quarter earnings results on Tuesday and raised its full-year guidance.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-24T12:06:04+00:00"
-  },
-  {
-    "title": "Roth IRA conversions aren\u2019t free money. Watch out for these 5 costly mistakes.",
-    "link": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
-    "summary": "Do it poorly, and you trigger taxes you didn\u2019t even know existed.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-24T12:01:00+00:00"
-  },
-  {
-    "title": "Some U.S. food banks see demand top pandemic levels",
-    "link": "https://www.cnbc.com/2026/11/24/us-food-banks-demand-snap.html",
-    "summary": "A combination of high costs and restrictions to federal aid have led to soaring demand at many food banks in the U.S.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-24T12:00:01+00:00"
-  },
-  {
-    "title": "This billionaire bought Nvidia in anticipation of Jensen Huang\u2019s return \u2014 and warns the S&P 500 could fall by a third",
-    "link": "https://www.marketwatch.com/story/this-billionaire-bought-nvidia-in-anticipation-of-jensen-huangs-return-and-warns-the-s-p-500-could-fall-by-a-third-dcff9489?mod=mw_rss_topstories",
-    "summary": "Jim Mellon is a billionaire investor with strong views on diverse asset classes. He\u2019s bearish on the AI sector and U.S. stocks generally but he sees real value in Chinese equity markets and long-term ",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-24T11:59:00+00:00"
-  },
-  {
-    "title": "U.S. court clears the way for Army\u2019s planned ammunition detonation in Iowa",
-    "link": "https://www.cnbc.com/2026/11/24/iowa-detonation-bomb-court-.html",
-    "summary": "A U.S. court cleared the Army to detonate degraded explosives at an Iowa ammunition plant amid public concern over contamination and health risks.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-24T11:56:49+00:00"
-  },
-  {
-    "title": "The \u2018epic\u2019 buying of retail investors paid off after Nvidia\u2019s 31% stock surge, says strategist",
-    "link": "https://www.marketwatch.com/story/the-epic-buying-of-retail-investors-paid-off-after-nvidias-31-stock-surge-says-strategist-c8f9a502?mod=mw_rss_topstories",
-    "summary": "Retail investors who bought shares in the chip giant last week saw an average gain of 11% on Monday.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-24T11:39:00+00:00"
-  },
-  {
-    "title": "Why France is at risk of recession \u2014 and what could keep it out of one",
-    "link": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
-    "summary": "Bank of France Governor Emmanuel Moulin told CNBC he still expects growth, pointing to resilience in sectors including defense, aerospace and electricity.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-24T11:15:30+00:00"
-  },
-  {
-    "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma\u2019s biggest deal in three years",
-    "link": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
-    "summary": "Sanofi faces a revenue drop towards the end of the decade as top-selling drugs lose exclusivity and open up for generic drugmakers to compete.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-24T10:17:31+00:00"
-  },
-  {
-    "title": "I\u2019m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-    "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-    "summary": "\u201cGiven my age, I never make a major new purchase without thinking about the future.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-24T10:15:00+00:00"
-  },
-  {
-    "title": "Zendaya and Tom Holland buy a home on 1 acre in London for $10 million",
-    "link": "https://www.marketwatch.com/story/zendaya-and-tom-holland-buy-a-home-on-1-acre-in-london-for-10-million-a433e7cd?mod=mw_rss_topstories",
-    "summary": "Tom Holland and Zendaya may make London their primary residence after splashing out $10 million on a palatial pad across the pond.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-24T10:01:00+00:00"
-  },
-  {
-    "title": "Here\u2019s your chance to bid on Alex Trebek\u2019s former $6.45 million California ranch and winery",
-    "link": "https://www.marketwatch.com/story/heres-your-chance-to-bid-on-alex-trebeks-former-6-45-million-california-ranch-and-winery-0f0cd4f5?mod=mw_rss_topstories",
-    "summary": "A sprawling California ranch where Alex Trebek helped run a winery is heading to auction, giving buyers a chance to purchase nearly 578 acres of the Central Coast once owned by the longtime \u201cJeopardy!",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-24T09:58:00+00:00"
-  },
-  {
-    "title": "The bull and bear surprises that could ambush investors next year, according to Bank of America",
-    "link": "https://www.marketwatch.com/story/the-bull-and-bear-surprises-that-could-ambush-investors-next-year-according-to-bank-of-america-1cf7dc26?mod=mw_rss_topstories",
-    "summary": "Michael Hartnett\u2019s tactical masterplan is to stay risk off until global rate hikes start to dry up next spring.  Thereafter, modest earnings growth and the chance of looser financial conditions in the",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-24T09:58:00+00:00"
-  },
-  {
-    "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
-    "link": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
-    "summary": "French drugmaker Sanofi on Tuesday agreed to pay $41 billion for U.S. biotech Insmed, a hefty price that will help the pharma giant offset the patent expiration on a key drug.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-24T09:14:00+00:00"
-  },
-  {
-    "title": "Jensen Huang is \u2018too big to fire,\u2019 putting Nvidia\u2019s governance in focus: analysts",
-    "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
-    "summary": "Jensen Huang\u2019s return has underscored Nvidia\u2019s deep reliance on its founder, putting the company's board oversight and corporate governance under scrutiny.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-24T08:35:16+00:00"
-  },
-  {
-    "title": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
-    "link": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
-    "summary": "Privacy-focused messaging application Signal has joined United Airlines and JPMorgan Chase in implementing restrictions around artificial intelligence agents.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-24T07:25:41+00:00"
-  },
-  {
-    "title": "Six key questions raised by Jensen Huang's return to Nvidia",
-    "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
-    "summary": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-24T07:12:33+00:00"
-  },
-  {
-    "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
-    "link": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
-    "summary": "Iran said three oil tankers caught fire after hitting naval mines in the Strait of Hormuz, as the U.S. escalates sanctions aimed at cutting off Tehran's financial lifelines.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-24T05:05:08+00:00"
   }
 ]
