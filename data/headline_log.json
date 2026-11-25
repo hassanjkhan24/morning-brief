@@ -1,5 +1,40 @@
 [
   {
+    "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+    "link": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
+    "summary": "Macy's announced on Wednesday that the annual Thanksgiving Day Parade is being postponed to Saturday due to severe weather.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-25T21:55:51+00:00"
+  },
+  {
+    "title": "Nvidia\u2019s stock has given back more than half of Monday\u2019s rally as dip buyers cash in",
+    "link": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
+    "summary": "Based on where retail investors bought Nvidia\u2019s stock on the dip last week, their gains are nearly all gone, according to Vanda Research.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-25T21:50:00+00:00"
+  },
+  {
+    "title": "Elon Musk and SpaceX to donate roughly $17.8 billion to \u2018Trump accounts\u2019",
+    "link": "https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories",
+    "summary": "SpaceX to provide one newly issued Class A share to every active \u2018Trump account,\u2019 and CEO Musk will match that gift.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-25T21:50:00+00:00"
+  },
+  {
+    "title": "HP\u2019s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
+    "link": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
+    "summary": "PC maker\u2019s \u2018low-quality\u2019 beat is enough to propel its shares amid the tech rout.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-25T21:36:00+00:00"
+  },
+  {
+    "title": "How to spot \u2018bogus boutiques\u2019 and other Black Friday shopping scams",
+    "link": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
+    "summary": "AI tools have made it even easier for scammers to create fake storefronts and misleading product listings.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-25T21:29:00+00:00"
+  },
+  {
     "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
     "link": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
     "summary": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
@@ -537,12 +572,5 @@
     "summary": "Xiamen Airlines has agreed to purchase 50 Boeing 737-8 aircraft with a combined catalog price of around $7.4 billion.",
     "source": "CNBC",
     "pub_iso": "2026-11-25T03:58:32+00:00"
-  },
-  {
-    "title": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
-    "link": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
-    "summary": "Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattled investors.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-25T03:52:03+00:00"
   }
 ]
