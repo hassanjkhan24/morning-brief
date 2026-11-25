@@ -1,5 +1,12 @@
 [
   {
+    "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+    "link": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
+    "summary": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-25T21:00:08+00:00"
+  },
+  {
     "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
     "link": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
     "summary": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
@@ -537,19 +544,5 @@
     "summary": "Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattled investors.",
     "source": "CNBC",
     "pub_iso": "2026-11-25T03:52:03+00:00"
-  },
-  {
-    "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
-    "link": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
-    "summary": "Huawei was found guilty of bank fraud, money laundering and trade secret theft conspiracy in a U.S. trial.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-25T02:43:33+00:00"
-  },
-  {
-    "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
-    "link": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
-    "summary": "This has been the second attack by the Iran-backed group in six days on the tower, although the previous attack did not cause any casualties.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-25T02:36:43+00:00"
   }
 ]
