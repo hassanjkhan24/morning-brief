@@ -1,5 +1,68 @@
 [
   {
+    "title": "Third-quarter GDP already looked great. Now it looks even better.",
+    "link": "https://www.marketwatch.com/story/third-quarter-gdp-already-looked-great-now-it-looks-even-better-12057da5?mod=mw_rss_topstories",
+    "summary": "The economy grew in the late spring and summer at the fastest pace in three years  to set the U.S. up for a strong finish in 2026. Gross domestic product expanded at a 4.3% annual pace in the third qu",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-25T14:47:00+00:00"
+  },
+  {
+    "title": "Dell sees sales more than double \u2014 but its stock falls anyway",
+    "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+    "summary": "Dell says its backlog is \u201crigorously vetted for customer quality and access to capital, land and power.\u201d",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-25T14:40:00+00:00"
+  },
+  {
+    "title": "Feeling tired and losing your hair? You might have low iron \u2014 even if you\u2019ve tested \u2018normal\u2019 before.",
+    "link": "https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
+    "summary": "A \u201csilent epidemic\u201d:  Doctors are rethinking how to diagnose iron deficiency. Here\u2019s what you should know about the science of ferritin.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-25T14:30:00+00:00"
+  },
+  {
+    "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+    "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+    "summary": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-25T14:29:50+00:00"
+  },
+  {
+    "title": "Budget carrier Norse Atlantic falls 78% after warning its finances are \u2018critical\u2019 amid soaring fuel costs",
+    "link": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
+    "summary": "The Norwegian low-cost carrier said its situation is dependent on securing financing for its short-term liquidity needs.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-25T14:24:04+00:00"
+  },
+  {
+    "title": "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+    "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+    "summary": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-25T14:18:45+00:00"
+  },
+  {
+    "title": "Our top 10 things to watch in the stock market Wednesday",
+    "link": "https://www.cnbc.com/investingclub/2026/11/25/our-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+    "summary": "We're headed for a sharply lower open on Wall Street.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-25T14:15:30+00:00"
+  },
+  {
+    "title": "U.S. proposes fresh tariffs on China and others as Trump doubles down on his favorite trade weapon",
+    "link": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
+    "summary": "A plan for new levies comes after Supreme Court tossed broader Trump tariffs earlier this year.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-25T14:14:00+00:00"
+  },
+  {
+    "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+    "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+    "summary": "Medicare Advantage is starting to lose its all-in-one benefit.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-25T14:13:00+00:00"
+  },
+  {
     "title": "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
     "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
     "summary": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.",
@@ -357,6 +420,13 @@
     "pub_iso": "2026-11-24T21:14:00+00:00"
   },
   {
+    "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
+    "link": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
+    "summary": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S. national security.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-24T21:13:39+00:00"
+  },
+  {
     "title": "Anthropic closes below $83 IPO price, but analysts are still largely positive",
     "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
     "summary": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
@@ -369,33 +439,5 @@
     "summary": "Walmart, Target and Amazon are some of the retailers offering meal-basket deals this year.",
     "source": "MarketWatch",
     "pub_iso": "2026-11-24T20:58:00+00:00"
-  },
-  {
-    "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
-    "link": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
-    "summary": "Co-founders of the prediction market platform were slated to appear in a state district court in December.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-24T20:45:57+00:00"
-  },
-  {
-    "title": "A bipartisan backlash is hitting Nvidia in Washington in the wake of Trump\u2019s push for Huang\u2019s return",
-    "link": "https://www.marketwatch.com/story/a-bipartisan-backlash-is-hitting-nvidia-in-washington-in-the-wake-of-trumps-push-for-huangs-return-565626f2?mod=mw_rss_topstories",
-    "summary": "Congress appears even more likely to OK new restrictions on the chip giant\u2019s dealings with China \u2014 and it\u2019s calling for more investigations, additional hearings and briefings",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-24T20:42:00+00:00"
-  },
-  {
-    "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
-    "link": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
-    "summary": "Meta doesn't serve ads in its Muse personal agent, but the tool is already boosting the company's ad business, a senior executive told CNBC.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-24T20:37:40+00:00"
-  },
-  {
-    "title": "GameStop has been saved by trading cards and even Rolex watches, say Wall Street\u2019s newest bulls",
-    "link": "https://www.marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories",
-    "summary": "GameStop\u2019s base of fervent retail investors is still intact, but Needham analysts say more institutional investors should take note of the company\u2019s transformation.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-24T19:48:00+00:00"
   }
 ]
