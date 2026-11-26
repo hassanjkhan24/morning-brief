@@ -1,5 +1,12 @@
 [
   {
+    "title": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
+    "link": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
+    "summary": "Norse Atlantic has suspended all flights and said it may it have to file for bankruptcy, a day after it warned its financial position was \"critical.\"",
+    "source": "CNBC",
+    "pub_iso": "2026-11-26T09:02:30+00:00"
+  },
+  {
     "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters",
     "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
     "summary": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
@@ -89,6 +96,13 @@
     "summary": "\u201cGiven my age, I never make a major new purchase without thinking about the future.\u201d",
     "source": "MarketWatch",
     "pub_iso": "2026-11-25T23:30:00+00:00"
+  },
+  {
+    "title": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
+    "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+    "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-25T22:45:00+00:00"
   },
   {
     "title": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
@@ -350,38 +364,17 @@
     "pub_iso": "2026-11-25T16:05:25+00:00"
   },
   {
+    "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+    "link": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
+    "summary": "The new levies seek to counter foreign trade practices deemed unfair, discriminatory or burdensome to U.S. commerce.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-25T16:02:52+00:00"
+  },
+  {
     "title": "Investors led by U.S. billionaire Todd Boehly to buy Lukoil's oil and gas assets outside Russia, sources say",
     "link": "https://www.cnbc.com/2026/11/25/investors-led-by-todd-boehly-to-buy-lukoil-oil-and-gas-assets-outside-russia.html",
     "summary": "The U.S. International Development Finance Corporation and Catena Investments, based in the United Arab Emirates, are also parties to the deal, the sources said.",
     "source": "CNBC",
     "pub_iso": "2026-11-25T16:00:45+00:00"
-  },
-  {
-    "title": "Nvidia\u2019s stock is giving back more than half of Monday\u2019s rally as dip buyers cash in",
-    "link": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
-    "summary": "Based on where retail investors bought Nvidia\u2019s stock on the dip last week, their gains are nearly all gone, according to Vanda Research.",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-25T15:43:00+00:00"
-  },
-  {
-    "title": "Visiting Las Vegas is getting too expensive \u2014 but don\u2019t blame airfares",
-    "link": "https://www.marketwatch.com/story/visiting-las-vegas-is-getting-too-expensive-but-dont-blame-airfares-12e2c588?mod=mw_rss_topstories",
-    "summary": "Analysts say Vegas hotels have gotten pricey, with customers finding better deals in other cities or on cruise ships",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-25T15:41:00+00:00"
-  },
-  {
-    "title": "Kalshi traders say the odds of states imposing data center moratoriums is more likely than not",
-    "link": "https://www.cnbc.com/2026/11/25/kalshi-traders-say-the-odds-of-states-imposing-data-center-moratoriums-is-more-likely-than-not.html",
-    "summary": "After Democrats swept Congress and key governor races, Kalshi traders lowered the odds that at least four states would pause data center build-out this year.",
-    "source": "CNBC",
-    "pub_iso": "2026-11-25T15:40:22+00:00"
-  },
-  {
-    "title": "We are living in perilous times if Nvidia\u2019s Jensen Huang dictates your 401(k) balance",
-    "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-    "summary": "\u201cSince the advent of the atom bomb, all futures have been at risk from the whims of one man.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-25T15:03:00+00:00"
   }
 ]
