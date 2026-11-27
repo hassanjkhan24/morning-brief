@@ -1,5 +1,12 @@
 [
   {
+    "title": "Spain\u2019s election could pull Madrid closer to Trump\u2019s Washington",
+    "link": "https://www.cnbc.com/2026/11/27/spain-election-trump-sanchez.html",
+    "summary": "Spanish voters head to the polls on Sunday for a snap election that could bring socialist Prime Minister Pedro S\u00e1nchez's eight years in power to an end.",
+    "source": "CNBC",
+    "pub_iso": "2026-11-27T13:00:42+00:00"
+  },
+  {
     "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
     "link": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
     "summary": "The November selloff has so far pushed the S&P 500 into a correction. History shows that a correction doesn't always lead to a bear market, or a recession.",
@@ -85,6 +92,13 @@
   },
   {
     "title": "SAP reportedly to cut 10,000 jobs. It marks the latest in a brutal year for tech layoffs.",
+    "link": "https://www.marketwatch.com/story/sap-reportedly-to-cut-10-000-jobs-it-marks-the-latest-in-a-brutal-year-for-tech-layoffs-c7989744?mod=mw_rss_topstories",
+    "summary": "The German software company is reportedly reducing its workforce by between 9% and 10% to transition to the artificial-intelligence era",
+    "source": "MarketWatch",
+    "pub_iso": "2026-11-27T10:49:00+00:00"
+  },
+  {
+    "title": "SAP reportedly set to cut 10,000 jobs \u2014 the latest in a brutal year for tech layoffs",
     "link": "https://www.marketwatch.com/story/sap-reportedly-to-cut-10-000-jobs-it-marks-the-latest-in-a-brutal-year-for-tech-layoffs-c7989744?mod=mw_rss_topstories",
     "summary": "The German software company is reportedly reducing its workforce by between 9% and 10% to transition to the artificial-intelligence era",
     "source": "MarketWatch",
@@ -224,10 +238,10 @@
     "pub_iso": "2026-11-26T21:45:00+00:00"
   },
   {
-    "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who\u2019s to blame?",
-    "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-    "summary": "\u201cRetirement is a financial status, not an age.\u201d",
-    "source": "MarketWatch",
-    "pub_iso": "2026-11-26T19:00:00+00:00"
+    "title": "Trump demands probe into \u2018record setting error\u2019 after third-quarter GDP data gets massive revision higher",
+    "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+    "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
+    "source": "CNBC",
+    "pub_iso": "2026-11-26T21:13:17+00:00"
   }
 ]
